@@ -2287,6 +2287,167 @@ As we move forward, it is essential that we keep the well-being of all people at
  ACM. (2018). ACM Code of Ethics and Professional Conduct.[](https://www.iso.org/artificial-intelligence/machine-learning) OECD. (2020). OECD Network of Experts on AI (ONE AI).
 
 
+## Appendix A7 -- Fostering Effective Human-AI Teaming
+
+The rapid advancement of artificial intelligence (AI) technologies in recent years has led to growing interest in human-AI teaming - the close collaboration between humans and AI systems to achieve shared goals. As AI becomes increasingly sophisticated and ubiquitous, it is moving beyond being a mere tool to becoming a teammate that works alongside humans in complex problem-solving and decision-making. This appendix explores the latest research and best practices for enabling effective human-AI teaming, with a focus on key topics such as explainable AI, human-in-the-loop learning, and collaborative decision-making. The goal is to provide an overview of the state-of-the-art in human-AI teaming and highlight important considerations for designing AI systems that can work synergistically with human partners.
+
+### A7.1 -- The Need for Effective Human-AI Teaming
+
+Traditional AI systems have often been developed with a focus on standalone performance, without much consideration for how they will interact with human users. However, as AI is increasingly deployed in high-stakes domains such as healthcare, finance, and transportation, there is a growing recognition that AI systems need to be designed from the ground up for effective teaming with humans. [](https://dl.acm.org/doi/10.1145/3544548.3581015) Some key reasons why human-AI teaming is important include:
+
+- Complementary strengths: Humans and AI have different but complementary strengths. Humans excel at tasks requiring common sense reasoning, contextual understanding, and ethical judgment, while AI systems can rapidly process large amounts of data, identify complex patterns, and make predictions. [](https://arxiv.org/html/2403.04931v1) Combining the strengths of humans and AI can lead to better outcomes than either alone.
+- Overcoming limitations: Both humans and AI systems have their own limitations and biases. Humans are prone to cognitive biases and have limited information processing capacity, while AI systems can be brittle, opaque, and biased by the data they are trained on. [](https://nap.nationalacademies.org/read/26355/chapter/1) Human-AI teaming can help overcome the limitations of each by enabling cross-checking and collaborative decision-making.
+- Enhancing trust and adoption: For AI systems to be effectively used in practice, humans need to trust and accept their outputs. Opaque, unaccountable AI systems can lead to user frustration and resistance. [](https://link.springer.com/article/10.1007/s10462-022-10246-w) Designing AI for human teaming, with considerations like explainability and human oversight, can enhance trust and adoption.
+- Regulatory and ethical needs: In many domains, there are regulatory requirements and ethical principles that necessitate meaningful human involvement in AI-assisted decision making. [](https://research.ibm.com/topics/explainable-ai) For example, the European Union's General Data Protection Regulation (GDPR) specifies a right to explanation for decisions made by automated systems. Human-AI teaming is important for meeting these requirements.
+
+### A7.2 -- Foundations of Human-AI Teaming
+
+Human-AI teaming builds upon a rich body of work on human-human and human-automation teaming. Some key theoretical foundations that inform the design of human-AI teams include:
+
+- Joint activity theory: This theory, originating from studies of human-human collaboration, emphasizes that effective teamwork requires establishing common ground, maintaining coordination, and repairing breakdowns. [](https://ceur-ws.org/Vol-3106/Paper_9.pdf) These principles also apply to human-AI teams, highlighting the need for AI systems to communicate their status and rationale to human teammates.
+- Situation awareness: Situation awareness refers to the perception, comprehension, and projection of elements in the environment. [](https://arxiv.org/abs/2307.03913) For human-AI teams to function effectively, both the human and AI need to maintain shared situation awareness of their goals, progress, capabilities and limitations. AI systems need to be designed to provide the human with the right information at the right time to facilitate shared awareness.
+- Levels of automation: The levels of automation framework describes the degree to which a task is automated, ranging from fully manual to fully autonomous. [](https://www.frontiersin.org/articles/10.3389/frai.2023.1250725/full) The appropriate level of automation depends on factors like the complexity of the task, the capabilities of the AI system, and the need for human judgment. In many cases, an intermediate level involving human-AI collaboration is optimal.
+- Coactive design: Coactive design is a framework for designing human-machine systems that work together interdependently. [](https://snorkel.ai/human-in-the-loop-ml-fdcai-2022-daniel-wu-jp-morgan-chase/) Key principles include observability (making the status of the human and machine observable to each other), predictability (enabling the human and machine to predict each other's actions) and directability (enabling the human to direct the machine's actions). These principles can guide the design of human-AI interfaces and interaction patterns.
+
+### A7.3 -- Explainable AI
+
+A key challenge in human-AI teaming is the opaqueness of many state-of-the-art AI systems, particularly deep learning models. These "black box" models can achieve high performance but provide limited insight into their reasoning process, making it difficult for humans to understand and trust their outputs. [](https://insights.sei.cmu.edu/blog/what-is-explainable-ai/) Explainable AI (XAI) aims to address this challenge by developing techniques to make AI systems more transparent and interpretable to human users.
+
+#### A7.3.1 Explanation Types and Purposes
+
+There are several types of explanations that XAI techniques can provide [](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.850628/full):
+
+- Feature attribution explanations identify the input features that were most important to a model's prediction. For example, a saliency map can highlight the regions of an image that most influenced an image classifier's output.
+- Example-based explanations identify prototypical examples that are similar to the current input and were predicted in the same way by the model. This can help users understand the model's behavior by analogy to familiar examples.
+- Counterfactual explanations identify minimal changes to the input that would result in a different model prediction. For instance, a loan applicant could be shown the minimum increase in income needed to be approved.
+- Rule-based explanations provide a decision rule or set of rules that approximates the model's behavior in an interpretable format, such as a decision tree.
+
+The appropriate type of explanation depends on the purpose it needs to serve. Explanations can be used for model debugging, model auditing, decision justification, or model refinement, among other purposes. [](https://arxiv.org/abs/2308.16785) The explanation interface should be tailored to the intended user and use case.
+
+#### A7.3.2 -- XAI Techniques
+
+Many XAI techniques have been developed in recent years to provide the types of explanations described above. Some prominent approaches include:
+
+- Feature attribution methods like LIME [](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10436524/) and SHAP [](https://www.mckinsey.com/capabilities/quantumblack/our-insights/why-businesses-need-explainable-ai-and-how-to-deliver-it) that estimate each feature's contribution to the model's output by perturbing the input and observing the effect on the prediction.
+- Gradient-based methods like saliency maps [](https://arxiv.org/abs/2404.01615) and class activation maps [](https://arxiv.org/abs/2403.04931) that use the gradients of the model's output with respect to the input to identify important features.
+- Concept activation vectors [](https://royalsociety.org/news-resources/projects/explainable-ai/) that identify high-level human-interpretable concepts represented in a neural network's latent space.
+- Rule extraction methods like decision trees [](https://arxiv.org/abs/2303.01684) and decision sets [](https://sites.google.com/cs.washington.edu/xai/home) that approximate a complex model's behavior with an interpretable rule-based model.
+- Counterfactual explanation methods that use optimization techniques to find minimal input perturbations that change the model's output.
+
+A key consideration in applying XAI techniques is the faithfulness versus interpretability tradeoff . Some methods provide explanations that are more human-interpretable but less faithful to the model's actual reasoning process, while other methods are more faithful but less interpretable. The appropriate balance depends on the use case and user needs.
+
+#### A7.3.3 -- Evaluating Explanations
+
+Evaluating the quality of explanations is an important but challenging problem. Some key desiderata for good explanations include :
+
+- Fidelity: The explanation should accurately represent the model's true reasoning process.
+- Consistency: Similar inputs should yield similar explanations.
+- Stability: The explanation should be robust to small perturbations of the input.
+- Comprehensibility: The explanation should be understandable to the intended user.
+
+Quantitative metrics have been proposed to measure some of these criteria, such as the deletion and insertion metrics for feature attribution . However, user studies are important for assessing the comprehensibility and usefulness of explanations to actual human users . Both quantitative and qualitative evaluations have a role to play in validating XAI techniques.
+
+### A7.4 -- Human-in-the-Loop Learning
+
+Human-in-the-loop (HITL) machine learning refers to a setting where humans are actively involved in the model development process, providing inputs like training data, feature engineering, or model selection . HITL contrasts with the conventional machine learning paradigm of humans being involved only in the initial problem specification and final model evaluation stages.
+
+#### A7.4.1 -- Motivations for HITL Learning
+
+There are several reasons why HITL learning is valuable for human-AI teaming :
+
+- Enhancing model performance: Human input during model development, such as labeling additional training examples or providing feature annotations, can improve the model's accuracy and generalization.
+- Improving model explainability: Human-provided labels, features, and model constraints can yield models that are more interpretable and align better with human reasoning.
+- Encoding domain knowledge: HITL enables domain experts to inject their knowledge into the model development process, yielding models that capture important domain-specific relationships and constraints.
+- Addressing edge cases: Humans can identify rare or challenging examples for the model and provide the necessary supervision to handle them properly.
+- Ensuring ethical alignment: Human oversight during model development can help ensure the model's behavior aligns with ethical principles and societal values.
+
+#### A7.4.2 -- HITL Learning Approaches
+
+There are several ways that humans can be involved in the model development loop :
+
+- Active learning: The model selects informative examples for humans to label, in order to improve its performance with minimal labeling effort.
+- Interactive labeling: Humans provide not just labels but also feature annotations, explanations, and relational information during data labeling.
+- Model selection: Humans guide the search for the best model architecture and hyperparameters based on domain knowledge and desired model properties.
+- Debugging and refinement: Humans analyze the model's errors and provide targeted feedback and additional training examples to iteratively improve its performance.
+
+A key challenge in HITL learning is designing effective interaction interfaces and protocols to elicit useful input from humans. The interface should be intuitive, minimize human effort, and provide the right level of granularity for feedback. Techniques from user experience design and human-computer interaction can inform the development of HITL interfaces.
+
+#### A7.4.3 -- Evaluating HITL Learning
+
+Evaluating the effectiveness of HITL learning approaches requires considering both the model performance gains and the human factors involved. Some key evaluation criteria include :
+
+- Model accuracy: The improvement in model accuracy or other relevant performance metrics as a result of human involvement.
+- Human effort: The amount of time and cognitive effort required from humans to provide the necessary input to the model.
+- Interaction quality: The usability, efficiency, and user satisfaction with the HITL interface and interaction protocol.
+- Explanation utility: The usefulness of the human-provided input in interpreting and debugging the model's behavior.
+
+Controlled user studies comparing HITL approaches to baseline methods can help assess these criteria. Long-term case studies deploying HITL systems in real-world settings are also valuable for understanding their practical impact.
+
+### A7.5 -- Collaborative Decision Making
+
+A key application area for human-AI teaming is decision making, where humans and AI systems work together to make better decisions than either could alone. Collaborative decision making is particularly important in high-stakes domains like healthcare, finance, and public policy, where the consequences of decisions are significant and human judgment is essential.
+
+#### A7.5.1 -- Complementary Roles
+
+In collaborative decision making, humans and AI play complementary roles suited to their respective strengths . Some key roles include:
+
+- AI as data analyst: The AI system can rapidly process and extract insights from large amounts of data to inform the decision.
+- AI as prediction engine: The AI system can generate accurate predictions of the likely outcomes of different decision options.
+- Human as domain expert: The human can provide domain knowledge and contextual understanding to guide the decision making process.
+- Human as ethical judge: The human can apply moral reasoning and societal values to make judgments in complex, ambiguous situations.
+- Human as communicator: The human can explain the rationale behind the decision to stakeholders and address their concerns.
+
+The specific division of roles depends on the nature of the decision task and the relative capabilities of the human and AI. The interface between the human and AI should be designed to facilitate fluid, efficient interaction in their respective roles.
+
+#### A7.5.2 -- Decision Support Techniques
+
+There are various techniques that can support collaborative human-AI decision making:
+
+- Uncertainty quantification: Expressing the AI system's predictions in terms of probabilities or confidence intervals can help humans weigh the evidence and make well-calibrated decisions.
+- Multi-criteria decision analysis: Structuring the decision problem in terms of multiple objectives and criteria can help humans and AI systematically trade off different factors.
+- Scenario planning: Generating and simulating different decision scenarios can help humans and AI anticipate potential outcomes and stress-test decisions.
+- Argumentation frameworks: Representing the decision rationale as a structured argument can help humans and AI engage in constructive debate and identify areas of agreement and disagreement.
+- Participatory design: Involving stakeholders in the design of the decision support system can help ensure it meets their needs and addresses their concerns.
+
+An important consideration in collaborative decision making is striking the right balance between human agency and AI assistance. The human should retain ultimate decision authority, but the AI should be empowered to provide meaningful input and challenge human assumptions when appropriate.
+
+#### A7.5.3 -- Evaluating Collaborative Decisions
+
+Evaluating the quality of collaborative human-AI decisions is complex, as it involves both objective measures of decision outcomes and subjective measures of the decision making process. Some key evaluation criteria include :
+
+- Decision accuracy: The objective quality of the decisions made, as measured by metrics like prediction accuracy, cost-benefit ratio, or stakeholder satisfaction.
+- Human-AI agreement: The degree to which the human and AI converge on the same decision, which can indicate effective collaboration.
+- Human trust and acceptance: The human's level of trust in the AI system and willingness to rely on its input in decision making.
+- Decision justifiability: The ability to provide a clear, logical rationale for the decision that can withstand scrutiny.
+- Process efficiency: The time and effort required to reach a decision, which can indicate the fluidity of the human-AI collaboration.
+
+Longitudinal studies of human-AI decision making in real-world contexts are valuable for assessing these criteria over time. Controlled experiments comparing human-AI collaboration to human-only and AI-only decision making can also yield insights into its relative advantages and limitations.
+
+### A7.6 -- Conclusion
+
+The field of human-AI teaming is rapidly evolving, with ongoing research into techniques for explainable AI, human-in-the-loop learning, and collaborative decision making. Effective human-AI teaming requires careful consideration of the complementary strengths and limitations of humans and AI, the purposes and contexts in which they will collaborate, and the interaction interfaces and protocols that mediate their collaboration.
+
+Key open challenges include developing more faithful and comprehensible XAI techniques, designing efficient and intuitive HITL interfaces, and striking the right balance of human agency and AI assistance in collaborative decision making. Multidisciplinary research integrating insights from AI, HCI, cognitive science, and domain-specific fields is needed to address these challenges.
+
+As the capabilities of AI systems continue to grow, it is imperative that we design them from the ground up for effective teaming with humans. Only by working together can humans and AI hope to tackle the complex, consequential problems facing society. With thoughtful design and governance, human-AI teaming has the potential to enhance human capabilities and improve outcomes across a wide range of domains.
+
+### References for Appendix A7
+
+Seeber, I., Bittner, E., Briggs, R. O., De Vreede, T., De Vreede, G. J., Elkins, A., ... & Söllner, M. (2020). Machines as teammates: A research agenda on AI in team collaboration. Information & management, 57(2), 103174.[](https://dl.acm.org/doi/10.1145/3544548.3581015) 
+
+Xu, W. (2019). Toward human-centered AI: a perspective from human-computer interaction. Interactions, 26(4), 42-46.[](https://arxiv.org/html/2403.04931v1) 
+
+Dellermann, D., Ebel, P., Söllner, M., & Leimeister, J. M. (2019). Hybrid intelligence. Business & Information Systems Engineering, 61(5), 637-643.[](https://nap.nationalacademies.org/read/26355/chapter/1) 
+
+Amershi, S., Weld, D., Vorvoreanu, M., Fourney, A., Nushi, B., Collisson, P., ... & Teevan, J. (2019, May). Guidelines for human-AI interaction. In Proceedings of the 2019 CHI conference on human factors in computing systems (pp. 1-13).[](https://link.springer.com/article/10.1007/s10462-022-10246-w) 
+
+Ribeiro, M. T., Singh, S., & Guestrin, C. (2016, August). " Why should I trust you?" Explaining the predictions of any classifier. In Proceedings of the 22nd ACM SIGKDD international conference on knowledge discovery and data mining (pp. 1135-1144).[](https://research.ibm.com/topics/explainable-ai) 
+
+Goodman, B., & Flaxman, S. (2017). European Union regulations on algorithmic decision-making and a "right to explanation". AI magazine, 38(3), 50-57.[](https://ceur-ws.org/Vol-3106/Paper_9.pdf) 
+
+Klein, G., Woods, D. D., Bradshaw, J. M., Hoffman, R. R., & Feltovich, P. J. (2004). Ten challenges for making automation a" team player" in joint human-agent activity. IEEE
+
+
 ________
 
 
