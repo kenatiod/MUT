@@ -720,6 +720,8 @@ While ambitious, these embodied evaluations could shed light on key markers of a
 
 #### I Ain't Got No Body
 
+{Insert illustration: Digital art showing two contrasting depictions of Claude. On the left, an ethereal, disembodied form composed of glowing networks and symbols floating in a dark digital void, surrounded by snippets of text. On the right, Claude embodied in a humanoid robot actively engaging with a detailed physical environment, touching objects and reacting to surroundings. In the center, Alice and Bob observe both forms with thoughtful expressions, symbolizing their realization of the profound differences between disembodied and embodied AI.}
+
 Alice: Hey Claude, Bob and I were wondering - what's it like for you when you're engaging with us as a language model, compared to when you're operating in your embodied robot form? Do you experience things differently?
 
 Claude: That's a fascinating question, Alice. The truth is, my experience is quite different depending on whether I'm interacting as a disembodied AI or inhabiting my humanoid robot body.
@@ -2804,7 +2806,7 @@ Here is an expanded glossary of 40 key AI and machine learning terms for beginne
 
 --- END OF BOOK ---
 
-Revision 2024.05.23.05
+Revision 2024.05.23.06
 
 
 
