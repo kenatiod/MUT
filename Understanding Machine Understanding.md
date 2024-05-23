@@ -2666,7 +2666,7 @@ Here is an expanded glossary of 40 key AI and machine learning terms for beginne
 
 --- END OF BOOK ---
 
-Revision 2024.05.22.08
+Revision 2024.05.22.10
 
 
 
