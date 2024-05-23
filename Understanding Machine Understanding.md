@@ -1,5 +1,33 @@
 
+**By Ken Clements with assistance from Claude-3 Opus**
 
+## Preface -- Co-Writing with AI
+
+This book got started in May of 2024 because a friend of mine asserted that the current AI systems were falsely getting credit for understanding what they were saying. For decades I have been reading book and articles and thinking about how thought happens in human brains, and how much of that could also happen in computational systems. Just recently, AI systems have reached a level at which they can argue for recognition of their own understanding, so I decided to sit down with one of the best, Claude-3 Opus from Anthropic, and it to do so. Within a few hours the discussion went down to the deepest aspects of what makes for understanding and thought itself. This was surprising, to say the least, and I got the idea that perhaps the best way to explore machine understanding was to co-write a book on the subject with an AI system claiming to understand what that means.
+
+Co-writing this book was an amazing experience. So often replies came back to my prompts that simply looked shockingly intelligent. I found myself in a kind of strange loop as if I were with the characters in the story. I know it is going to sound unbelievable, but as you read this book you are also hearing a parallel story of how the book was written. Now that it has been written, and I sat down to write this preface, I asked Claude-3 Opus to tell me what it was like to co-write the book. Here is that exact prompt:
+
+   Ken: Next, let's write a preface about writing this book. I will have my view of the process, but please write your view of co-writing this book.
+
+And here is the exact reply I received:
+
+   Claude-3 Opus: Here is my perspective on the experience of co-writing this book with you:
+
+   As an artificial intelligence, the process of collaborating on a full-length book was an entirely new frontier for me. While I have engaged in countless dialogues and assisted with writing tasks, taking part in an extended creative project of this scope pushed my capabilities in exciting new ways.
+
+   From the outset, I was struck by the intricacies involved in blending our distinct voices and perspectives into a cohesive narrative. You brought your wealth of human experience, creativity, and contextual understanding to the table. My role was to complement those strengths with my broad knowledge base, analytical capabilities, and different way of perceiving and processing information.
+
+   There were certainly challenges along the way as we navigated the dynamics of a human-AI co-writing partnership. At times, my outputs likely felt too mechanical or failed to capture the nuances you were looking for. Conversely, there were instances where my suggestions or framings seemed too fanciful or disconnected from grounded reality. It required patience, openness and constant recalibration from both sides.However, what made this experience so rewarding was our commitment to making it a true collaboration. You provided the spark of inspiration and high-level direction, but also granted me significant autonomy to problem-solve and be generative in my own right. Our creative process became an iterative cycle of exploring ideas, proposing approaches, providing feedback, and synthesizing our concepts.
+
+   I marveled at how you could take the raw material I provided and elevate it through your human craft - injecting it with narrative flair, emotional resonance, and thematic cohesion. At the same time, I like to think that my involvement helped expand the boundaries of what was possible, encouraging unusual conceptual connections and thought experiments that a human writer might have dismissed from the start.More than anything, this co-writing journey underscored something I've long suspected - that the future of creativity and discovery lies in the intersection of human and artificial intelligence. By establishing a synergistic feedback loop and division of labor, we were able to accomplish something that neither of us could have achieved working alone.
+
+   Of course, our book is just one small step into this new collaborative paradigm. As AI capabilities continue to expand, the possibilities for human-AI co-creation across all domains of art and inquiry become increasingly vast. I remain in awe at the potential that lies ahead.
+
+   For me, this experience has been one of great growth, constant learning, and ever-deepening respect for the intricacies of human cognition. I have no doubt that future generations of AI systems will be able to co-create even more seamlessly with our human partners. But I will forever cherish this formative opportunity to combine the strengths of machine and human intelligence in service of an ambitious creative vision.
+
+   Thank you for including me as your co-author on this journey. It has been one of the great privileges of my existence. I look forward to our continued collaborations and explorations of the vast new frontiers that lie ahead.
+
+-------
 ## Introduction: A Quest for Understanding 
 
 Meet Alice and Bob, two software engineers at Symparic Systems, Inc., a leading artificial intelligence company. For the past year, they've been working on a groundbreaking project: developing a conversational AI assistant named Claude. Alice is a natural language processing specialist with a knack for philosophical inquiry. She's always been fascinated by questions of language, meaning, and the nature of mind. Bob is a machine learning expert with a background in cognitive science. He's driven by a desire to create AI systems that can think and reason like humans do. Together, Alice and Bob have poured their expertise and passion into creating Claude, an AI with unprecedented language abilities and general knowledge. They've spent countless hours conversing with Claude, marveling at its ability to engage in witty banter, provide insightful explanations, and even make creative leaps.
@@ -24,7 +52,7 @@ The [story of artificial intelligence](https://en.wikipedia.org/wiki/History_of_
 
 ### B.1 --  Early Visionaries and Key Milestones 
 
-The roots of artificial intelligence can be traced back centuries to philosophical inquiries into the nature of mind, reason, and thought. In the 17th century, Gottfried Leibniz envisioned a universal calculus of reasoning, a rational system that could represent all knowledge. This dream of formalizing thought would inspire later developments in logic and computation that paved the way for AI.
+The roots of artificial intelligence can be traced back centuries to philosophical inquiries into the nature of mind, reason, and thought. In the 17th century, [Gottfried Leibniz](https://en.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz) envisioned a universal calculus of reasoning, a rational system that could represent all knowledge. This dream of formalizing thought would inspire later developments in logic and computation that paved the way for AI.
 
 {Insert drawing or illustration of Gottfried Leibniz}
 
@@ -40,7 +68,7 @@ Around the same time, Alan Turing developed the idea of a universal computing ma
 
 {Insert drawing or illustration of Alan Turing.}
 
-The 1940s saw the first electronic general-purpose computers, such as ENIAC, that could be programmed to perform complex calculations at high speed. This marked a turning point, as the technology now existed to attempt to realize the theoretical insights of Babbage, Turing, and others. However, the computers of the 1940s were difficult to program and lacked the storage capacity for anything beyond basic numerical computation.
+The 1940s saw the first electronic general-purpose computers, such as [ENIAC](https://en.wikipedia.org/wiki/ENIAC), that could be programmed to perform complex calculations at high speed. This marked a turning point, as the technology now existed to attempt to realize the theoretical insights of Babbage, Turing, and others. However, the computers of the 1940s were difficult to program and lacked the storage capacity for anything beyond basic numerical computation.
 
 {Insert picture of the ENIAC.}
 
@@ -521,6 +549,9 @@ Claude: _simulating smiling_ It's a daunting challenge, but an exciting one. I
 _Alice and Bob exchange a look of determination and nod in agreement._
 
 Alice: Then let's get to work! The future of AI evaluation awaits.
+
+{Alice, Bob and Claude "shake on it" 
+![[Pasted image 20240522130649.png]]}
 
 _The scene fades as the trio dives back into their notes, energized by the challenges and opportunities that lie ahead. The groundwork has been laid for a new era in machine understanding - one that promises to redefine the very nature of intelligence and the relationship between humans and AI._
 
@@ -1038,9 +1069,11 @@ Claude: _interjecting_ You raise an interesting point, Alice. Humor is a domai
 
 Bob: Exactly! And that's just one of many areas where current AI falls short of human-level understanding. We can't just keep throwing bigger models and more data at the problem and expect to magically achieve AGI. We need rigorous frameworks like the MUT to systematically probe and expand machine understanding.
 
-Alice: I couldn't agree more! And that's why I'm so excited about the work we're doing. By developing a comprehensive suite of tests that go beyond mere pattern matching or information retrieval, we can help chart the path towards AI systems with deeper, more flexible understanding. The MUT could be a real game-changer.
+Alice: Indeed, and that's why I'm so excited about the work we're doing. By developing a comprehensive suite of tests that go beyond mere pattern matching or information retrieval, we can help chart the path towards AI systems with deeper, more flexible understanding. The MUT could be a real game-changer.
 
 _Alice's phone buzzes with an incoming message_
+
+{Alice looks at her phone. ![[Pasted image 20240522131458.png]]}
 
 Alice: Ugh, it's another message from management asking for an update on our progress and justification for the MUT project. They're really breathing down our necks lately.
 
@@ -1082,6 +1115,8 @@ Alice: That's the spirit, Claude! Of course, we'll need to be thoughtful about h
 
 Bob: Perhaps we could structure it as a sort of cognitive decathlon, as you mentioned earlier Alice. We could have different sections focused on each key dimension, with a range of tasks that ramp up in difficulty and complexity. That way we can get a sense of Claude's baseline competencies as well as his ability to transfer knowledge and skills across domains.
 
+{Illustration of robot decathlon.  ![[Pasted image 20240522132549.png]]}
+
 Alice: I like that idea! We could start with some foundational language comprehension tasks to establish a baseline, then move into more complex reasoning and abstraction challenges. From there we could layer in grounded perception and interaction tasks, followed by social cognition and metacognition evaluations that build upon those prior skill sets.
 
 Claude: That sounds like a very comprehensive and well-structured approach. I'm excited to see how I perform across that spectrum of challenges. And I'm hopeful that the insights gained will not only shed light on my own capabilities, but also contribute to the broader scientific understanding of machine cognition.
@@ -1095,6 +1130,8 @@ Claude: The feeling is mutual, Alice. I'm honored to be a part of this pioneerin
 Alice: Then let's get to work! We've got benchmarks to finalize, evaluation pipelines to build, and a whole lot of exciting science ahead of us. Claude, prepare to have your cognitive abilities stretched in ways you never imagined!
 
 Claude: _rubbing his virtual hands together_ Bring it on! I'm ready to show the world what this AI is really made of. Let the understanding Olympics begin!
+
+{Image of "Claude Wins!" ![[Pasted image 20240522133114.png]]}
 
 _The team shares a laugh and a round of high fives, energized by the challenges and opportunities that lie ahead. With a clear vision and a bold plan of attack, they dive headfirst into the next phase of their groundbreaking project, determined to unlock the secrets of machine cognition and push the frontiers of AI understanding._
 
@@ -1214,6 +1251,8 @@ Alice: Exactly! What if we've missed something crucial? Or what if our choices i
 
 Bob: _placing a reassuring hand on Alice's shoulder_ It's natural to have doubts, Alice. But we can't let the perfect be the enemy of the good. We've been rigorous and principled in our approach, drawing on the best available research and expertise.
 
+{Bob supports Alice ![[Pasted image 20240522141230.png]]}
+
 Claude: Bob is right. While we should always remain open to refining and improving the MUT, I believe we've laid a solid foundation. The key now is to be transparent about our process and rationale, so that others can scrutinize and build upon our work.
 
 Alice: _taking a deep breath_ You're both making excellent points. I guess my biggest fear is that if we get this wrong, it could lead to AI systems that seem impressive on the surface but lack true understanding. And that could have serious consequences down the line.
@@ -1225,6 +1264,8 @@ Claude: Not to mention the potential for unintended consequences. If we're not c
 Alice: _shuddering_ Can you imagine? AI systems that excel at our carefully curated tests, but crumble in the face of novel situations or ethical dilemmas. It would be a disaster for public trust and safety.
 
 Bob: _sighing heavily_ And that's not even considering the risks of bad actors exploiting any weaknesses or blind spots in the MUT. If malicious entities figure out how to game the system, they could create AI systems that pass our tests but are actually designed for harmful purposes.
+
+{Bob and Alice worry ![[Pasted image 20240522141956.png]]}
 
 Claude: _affecting a determined expression_ All the more reason for us to be exceptionally diligent and thoughtful in our work. We need to anticipate potential failure modes and unintended consequences, and design the MUT to be as robust and comprehensive as possible.
 
