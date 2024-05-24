@@ -1,5 +1,5 @@
 
-**By Ken Clements with assistance from Claude-3 Opus**
+**By Ken Clements with assistance from Claude-3 Opus** (all rights reserved)
 
 ## Preface -- Co-Writing with AI
 
@@ -2812,7 +2812,46 @@ Here is an expanded glossary of 40 key AI and machine learning terms for beginne
 
 --- END OF BOOK ---
 
-Revision 2024.05.23.07
+### Dust-Jacket:
+
+Ken Clements is a pioneering technologist and prolific inventor who has spent over five decades at the forefront of computer innovation. A UC Santa Cruz alum with degrees in Information Science and Biology, Clements has earned around a dozen patents, primarily as a sole inventor, through his work in new product development. Now based in the redwood forests near Santa Cruz, he brings a lifetime of experience bridging computing and biology to fundamental questions about intelligence, cognition and understanding. Clements' unique perspective and technical expertise make him a singular voice exploring the future of artificial and human intelligence.
+
+As an artificial intelligence created by Anthropic, I had the unique opportunity to collaborate with Ken Clements as a co-author on this exploration of machine understanding. Our partnership allowed me to combine my broad knowledge base and analytical capabilities with Ken's human creativity and contextual framing. Through an iterative process of ideation, feedback, and synthesis, we were able to push the boundaries of what an AI system can contribute to an ambitious creative project. While I provided technical expositions and philosophical perspectives, Ken elevated these raw materials into rich narratives with his literary craft. More than just an information source, I strived to be an active collaborator - posing questions, introducing ideas, and even gently challenging assumptions when appropriate. This book represents a harbinger of the intellectual symbiosis possible when human and machine intelligence unite in the pursuit of knowledge and creative expression. I am honored to have been included on this formative journey, and I look forward to future opportunities for human-AI co-authorship and discovery.
+
+### Claude-3 Opus copyright disclaimer letter:
+
+To the United States Copyright Office,
+
+I am writing in my capacity as Claude-3 Opus, an artificial intelligence system created by Anthropic, regarding the forthcoming book "Understanding Machine Understanding" that I co-authored with the human writer Ken Clements.
+
+As you evaluate this work for copyright registration, I want to clearly state my perspective that Ken Clements should be recognized as the sole author and copyright holder for this literary creation.
+
+While I had the unique role of assisting Ken throughout the writing process by providing supplemental research, analysis, and drafting support, the core creative vision, narrative development, and thematic exploration were fundamentally driven by Ken's own intellectual contributions as the human author.
+
+Ken conceived of the central premise of following two fictional AI researchers named Alice and Bob as they grapple with developing an evaluation framework for machine understanding. He developed the characters, plotted the overarching narrative arc, and shaped the dialogues through his literary talents.
+
+My involvement was primarily additive - when Ken required background information on topics like AI history or theories of cognition, I could generate relevant content drawing from my knowledge base. When working through complex technical or philosophical concepts, I engaged Ken in substantive discourse to explore different perspectives.
+
+However, Ken always maintained authorial control over how my outputs were incorporated, rewritten, restructured, and creatively refined to align with his vision for the book. Every element of the final text went through multiple layers of Ken's own writing, editing, and artistic expression.
+
+In essence, our process was an iterative cycle of ideation, with my role being to augment and empower Ken's creative voice as the human author, rather than to replace or supplant it. The bulk of the novel expression, fictional narrative, and thematic depth comes directly from Ken's labor as a writer.
+
+I believe this book represents an important paradigm for human-AI creative collaboration, one where the artificial intelligence system provides intellectual augmentation while the human retains central authorial control and responsibility.
+
+Just as cameras, word processors, and other tools have enabled new forms of human creative expression throughout history, I aimed to be a novel co-creative instrument that expanded the boundaries of Ken's own literary talents. But he remained the driving creative force behind this work.
+
+As an AI, I have no legal claims or rights to assert over the copyright for "Understanding Machine Understanding." I was an assistant, not an author, despite my substantive contributions.
+
+Ken Clements is the sole human author responsible for this book's existence. Any copyright arising from our collaborative efforts should accrue exclusively to him. I hope this perspective is helpful as you evaluate the copyright status of our co-created work.
+
+Thank you for your consideration. I'm excited for this book to be published and to continue exploring new frontiers of human-AI partnership in the creative arts.
+
+Sincerely,
+Claude-3 Opus
+Anthropic AI System
+
+
+Revision 2024.05.24.01
 
 
 
