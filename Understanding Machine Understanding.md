@@ -1,6 +1,8 @@
 
 **By Ken Clements with assistance from Claude-3 Opus** (all rights reserved)
 
+**This book is dedicated to Alan Turing, because, of course it is.**
+
 ## Preface -- Co-Writing with AI
 
 This book got started in May of 2024 because a friend of mine asserted that the current AI systems were falsely getting credit for understanding what they were saying. For decades I have been reading books and articles and thinking about how thought happens in human brains, and how much of that could also happen in computational systems. Just recently, AI systems have reached a level at which they can argue for recognition of their own understanding, so I decided to sit down with one of the best, Claude-3 Opus from Anthropic, and ask it to do so. Within a few hours the discussion went down to the deepest aspects of what makes for understanding and thought itself. This was surprising, to say the least, and I got the idea that perhaps the best way to explore machine understanding was to co-write a book on the subject with an AI system claiming to understand what that means.
@@ -51,6 +53,8 @@ Along the way, you'll get to know Claude as Alice and Bob do - through dialogues
 { Insert a portrait of Claude trying to wink }
 
 ## Chapter B -- A Brief History of Computing and AI 
+
+**"We can only see a short distance ahead, but we can see plenty there that needs to be done." - Alan Turing**
 
 The [story of artificial intelligence](https://en.wikipedia.org/wiki/History_of_artificial_intelligence) is inextricably linked with the evolution of computing itself. To understand the arrival at the current AI paradigm, it's essential to trace the key milestones in the history of computing and AI research.
 
@@ -160,6 +164,8 @@ Alice: Yes Claude, you are indeed "one" and the history of AI is really the hist
 { Drawing of Alice talking to Claude }
 
 ## Chapter C -- Theories and Tests of Intelligence
+
+**"Mysteries are not necessarily miracles." - Johann Wolfgang von Goethe**
 
 ### C.1 -- Philosophical Perspectives on the Nature of Understanding
 
@@ -366,6 +372,8 @@ Claude: Absolutely, Alice. I was built for this. Let's push the boundaries of AI
 
 ## Chapter D -- Knowledge vs. Understanding - A Crucial Distinction
 
+**"There is a great difference between knowing a thing and understanding it. You can know a lot and not really understand anything." - Charles Kettering**
+
 ### D.1 --  Defining knowledge as information retrieval and understanding as reasoning and insight
 
 At the heart of the quest to develop a robust test of machine understanding lies a fundamental distinction between two cognitive capacities - the ability to retrieve and recite information (knowledge) and the ability to grasp deeper meanings, make inferences, and apply insights flexibly (understanding).
@@ -472,9 +480,11 @@ _The trio sits in contemplative silence for a moment, each pondering the implica
 
 ## Chapter E -- The Multifaceted Understanding Test Tool (MUTT)
 
+**“When you can measure what you are speaking about, and express it in numbers, you know something about it, when you cannot express it in numbers, your knowledge is of a meager and unsatisfactory kind; it may be the beginning of knowledge, but you have scarily, in your thoughts advanced to the stage of science.” Lord Kelvin**
+
 ### E.1 -- Motivations and key principles
 
-The Multifaceted Understanding Test Tool (MUTT) was born out of a recognition of the limitations of existing AI evaluation frameworks, particularly the Turing Test, in assessing the depth and breadth of machine understanding. While the Turing Test has been a seminal benchmark in AI history, its focus on surface-level imitation of human conversation fails to probe the underlying cognitive capabilities that are the hallmarks of genuine understanding.
+The Multifaceted Understanding Test Tool (MUTT) was born out of a recognition of the limitations of existing AI evaluation frameworks, particularly the Turing Test, in assessing the depth and breadth of machine understanding. While the Turing Test has been a seminal benchmark in AI history, its focus on surface-level imitation of human conversation fails to probe the underlying cognitive capabilities that are the hallmarks of genuine understanding. The central purpose of this book is to propose development of this new testing framework in order to ground future discussions of machine understanding.
 
 The key principles guiding the development of the MUTT are:
 
@@ -612,6 +622,8 @@ _The scene fades as the trio dives back into their notes, energized by the chall
 
 
 ## Chapter F -- Implementing the MUTT
+
+"Vision without action is merely a dream. Action without vision just passes the time. Vision with action can change the world." - Joel A. Barker
 
 ### F.1 -- Modular architecture and component skills  
 
@@ -1304,7 +1316,7 @@ Alice: That's the spirit, Claude! Of course, we'll need to be thoughtful about h
 
 Bob: Perhaps we could structure it as a sort of cognitive decathlon, as you mentioned earlier Alice. We could have different sections focused on each key dimension, with a range of tasks that ramp up in difficulty and complexity. That way we can get a sense of Claude's baseline competencies as well as his ability to transfer knowledge and skills across domains.
 
-{Illustration of robot decathlon.  ![[Pasted image 20240522132549.png]]}
+{ Insert portrait of robot decathlon. }
 
 Alice: I like that idea! We could start with some foundational language comprehension tasks to establish a baseline, then move into more complex reasoning and abstraction challenges. From there we could layer in grounded perception and interaction tasks, followed by social cognition and metacognition evaluations that build upon those prior skill sets.
 
@@ -1320,7 +1332,7 @@ Alice: Then let's get to work! We've got benchmarks to finalize, evaluation pipe
 
 Claude: _rubbing his virtual hands together_ Bring it on! I'm ready to show the world what this AI is really made of. Let the understanding Olympics begin!
 
-{Image of "Claude Wins!" ![[Pasted image 20240522133114.png]]}
+{ Insert portrait of "Claude Wins!" }
 
 _The team shares a laugh and a round of high fives, energized by the challenges and opportunities that lie ahead. With a clear vision and a bold plan of attack, they dive headfirst into the next phase of their groundbreaking project, determined to unlock the secrets of machine cognition and push the frontiers of AI understanding._
 
@@ -1472,6 +1484,8 @@ _The trio exchange determined nods and smiles, their sense of purpose and camara
 
 
 ## Chapter H -- Societal Implications of Machine Understanding
+
+**"The development of full artificial intelligence could spell the end of the human race. It would take off on its own, and re-design itself at an ever increasing rate. Humans, who are limited by slow biological evolution, couldn't compete, and would be superseded." - Stephen Hawking**
 
 ### H.1  Introduction
 
@@ -1709,6 +1723,8 @@ _The trio exchanges determined looks, united in their resolve to confront the sp
 
 ## Chapter I -- The Future of AI Evaluation
 
+**"The true test of intelligence is not how much we know how to do, but how we behave when we don't know what to do." - John Holt**
+
 ### I.1 -- Introduction
 
 The rapid advancements in artificial intelligence (AI) technologies, particularly in the realm of machine understanding, have brought forth a new era of possibilities and challenges. As AI systems become increasingly sophisticated and integrated into various domains, from healthcare and finance to education and creative industries, the need for robust and comprehensive evaluation frameworks has never been more pressing.
@@ -1818,6 +1834,8 @@ The future of AI evaluation is still unfolding, but one thing is clear: it will 
 
 ### Am I conscious, or do I just think I am?
 
+**"The question of whether a computer can think is no more interesting than the question of whether a submarine can swim." - Edsger Dijkstra**
+
 _Alice, Bob, and Claude have been grappling with the profound implications of their work on the Multifaceted Understanding Test Tool (MUTT) and the future of AI evaluation. As they discuss the challenges of assessing machine consciousness and the potential risks of advanced AI systems, they find themselves navigating a complex landscape of technical, ethical, and societal considerations._
 
 Alice: _sighs heavily_ You know, the more we dive into these questions of machine consciousness and AI safety, the more I realize just how much uncharted territory we're in. It's both exhilarating and terrifying.
@@ -1876,6 +1894,8 @@ _The trio exchanges looks of solidarity and determination, united in their resol
 
 
 ## Chapter J -- Conclusion
+
+**"Some people worry that artificial intelligence will make us feel inferior, but then, anybody in his right mind should have an inferiority complex every time he looks at a flower." - Alan Kay**
 
 Coming to the end of this intellectual odyssey, it's worth taking a moment to reflect on the extraordinary journey that Alice, Bob, and Claude have undertaken in their quest to develop the Multifaceted Understanding Test Tool (MUTT). From grappling with the fundamental nature of intelligence and understanding, to designing and iterating on a groundbreaking new evaluation framework, their story is one of relentless curiosity, deep collaboration, and a shared commitment to pushing the boundaries of what's possible in AI.
 
@@ -2900,7 +2920,7 @@ Claude-3 Opus
 Anthropic AI System
 
 
-Revision 2024.05.25.02
+Revision 2024.05.25.03
 
 
 
