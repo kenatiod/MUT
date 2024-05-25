@@ -781,6 +781,8 @@ While ambitious, these embodied evaluations could shed light on key markers of a
 
 #### I Ain't Got No Body
 
+**"The only way to know the truth is to experience it for yourself." - Zen master Kodo Sawaki**
+
 { Insert illustration: Digital art showing two contrasting depictions of Claude. On the left, an ethereal, disembodied form composed of glowing networks and symbols floating in a dark digital void, surrounded by snippets of text. On the right, Claude embodied in a humanoid robot actively engaging with a detailed physical environment, touching objects and reacting to surroundings. In the center, Alice and Bob observe both forms with thoughtful expressions, symbolizing their realization of the profound differences between disembodied and embodied AI. }
 
 Alice: Hey Claude, Bob and I were wondering - what's it like for you when you're engaging with us as a language model, compared to when you're operating in your embodied robot form? Do you experience things differently?
@@ -1010,15 +1012,17 @@ Xu, J., Wu, Z., Wang, C., & Jia, X. (2023). Machine Unlearning: Solutions and Ch
 
 #### The Spotless Mind
 
-{Insert Illustration: Digital art of two scientists, a woman and a man, having a serious discussion in a futuristic AI lab with a humanoid robot. The scientists look concerned. The robot has a thoughtful expression. In the background, there is a whiteboard with complex equations and a brain diagram showing areas being erased.}
+**"You must unlearn what you have learned." -- Jedi master Yoda**
+
+{ Insert Illustration: Digital art of two scientists, a woman and a man, having a serious discussion in a futuristic AI lab with a humanoid robot. The scientists look concerned. The robot has a thoughtful expression. In the background, there is a whiteboard with complex equations and a brain diagram showing areas being erased. }
 
 Alice: You know, Bob, as we're designing these evaluations for the MUTT, I think we need to pay special attention to the intentional forgetting component. It's not just about testing if Claude can forget information on command, but whether it truly understands what should be forgotten and why.
 
 Bob: Agreed. If we're claiming to assess understanding in a comprehensive way, we can't just punt on the reasoning behind intentional forgetting. That's a key part of how humans manage and curate their own knowledge.
 
-Alice: Exactly. So how do we go about probing that understanding in a meaningful way? We can't just give Claude a list of things to forget and see if it complies. We need to test its ability to make those determinations itself.
+Alice: Agreed. So how do we go about probing that understanding in a meaningful way? We can't just give Claude a list of things to forget and see if it complies. We need to test its ability to make those determinations itself.
 
-Bob: Right. I'm thinking we could present Claude with a series of scenarios where some information should be forgotten - whether it's outdated facts, sensitive personal details, or irrelevant data cluttering up the knowledge base. Then we ask it to identify what should be purged and justify why.
+Bob: Hmm. I'm thinking we could present Claude with a series of scenarios where some information should be forgotten - whether it's outdated facts, sensitive personal details, or irrelevant data cluttering up the knowledge base. Then we ask it to identify what should be purged and justify why.
 
 Alice: I like that approach. We could even include some edge cases where the answer isn't entirely clear-cut. The key is seeing if Claude can reason through the nuances and trade-offs involved. Does it understand the principles behind intentional forgetting, like data privacy, efficiency, and contextual relevance?
 
@@ -1026,9 +1030,9 @@ Bob: We should also test its ability to anticipate the downstream consequences o
 
 Alice: Good point. And let's not forget the temporal dimension. Understanding when it's appropriate to forget something is just as important as knowing what to forget. We'll need evaluations that probe Claude's ability to track the shifting relevance and sensitivity of information over time.
 
-Bob: Definitely. And I think it's crucial that we require Claude to show its work, so to speak. It can't just spit out a list of things to forget. It needs to articulate the reasoning behind those decisions so we can assess the depth of its understanding.
+Bob: I think it's crucial that we require Claude to show its work, so to speak. It can't just spit out a list of things to forget. It needs to articulate the reasoning behind those decisions so we can assess the depth of its understanding.
 
-Alice: Agreed. Transparency will be key. We're not just testing its ability to mimic human forgetting behaviors, but to truly grasp the underlying principles and apply them flexibly. That's the essence of understanding.
+Alice: Okay. Transparency will be key. We're not just testing its ability to mimic human forgetting behaviors, but to truly grasp the underlying principles and apply them flexibly. That's the essence of understanding.
 
 Bob: You know, in a way, intentional forgetting might be one of the most revealing tests of genuine intelligence in the MUTT. It requires such a nuanced interplay of knowledge, reasoning, and contextual awareness.
 
@@ -1036,13 +1040,11 @@ Alice: I think you're onto something there, Bob. If Claude can demonstrate a rob
 
 Bob: Then let's make sure we give it the attention it deserves in our evaluation framework. I have a feeling that the intentional forgetting component is going to yield some of the most illuminating insights into the nature of Claude's understanding.
 
-Alice: I couldn't agree more. It's a challenge, but one that we can't afford to shy away from if we want the MUTT to truly push the boundaries of AI evaluation. Designing these tests will be tricky, but I have a feeling the payoff will be more than worth it.
+Alice: That could be true. It's a challenge, but one that we can't afford to shy away from if we want the MUTT to truly push the boundaries of AI evaluation. Designing these tests will be tricky, but I have a feeling the payoff will be more than worth it.
 
 Bob: Well then, let's roll up our sleeves and figure out how to put Claude's intentional forgetting faculties through their paces. This is uncharted territory, but that's what makes it so exciting. We have a chance to break new ground here.
 
-Alice: I can't wait to see what we learn. Exploring the depths of Claude's understanding, even in an area as seemingly paradoxical as intentional forgetting, is what this is all about. Let's get to work!
-
-{Insert Illustration: Digital art of a humanoid robot with an open panel in its head. The robot is reaching inside its own head and surgically removing glowing numbers, representing the intentional extraction of specific data. The robot has a pensive, focused expression. In the background, complex equations and diagrams related to AI cognition are displayed on screens.}
+{ Insert Illustration: Digital art of a humanoid robot with an open panel in its head. The robot is reaching inside its own head and surgically removing glowing numbers, representing the intentional extraction of specific data. The robot has a pensive, focused expression. In the background, complex equations and diagrams related to AI cognition are displayed on screens. }
 
 ####  Summary of F.1
 
@@ -1268,6 +1270,8 @@ Of course, this integration will be an ongoing process, requiring iterative refi
 
 Alice: _excitedly_ Wow, after reviewing all this background on the history of AI, theories of intelligence, and the crucial distinction between knowledge and understanding, I'm more convinced than ever that we're on the right track with developing the MUTT for Claude. Just think of the breakthroughs we could achieve!
 
+{ Insert portrait of woman in lab coat, standing in front of a white board full of technical diagrams, broadly gesturing with her hands as she speaks }
+
 Bob: _sighing_ I don't know, Alice. I've been in this field a long time and I've seen so many promising projects fizzle out. Developing genuine machine understanding is an incredibly hard problem. I mean, just look at all the videos on YouTube of robots falling over or getting confused by simple tasks. We've got a long way to go.
 
 Alice: _laughing_ Oh come on, those robot fail videos are hilarious! But I think they actually reveal something profound about the nature of intelligence. Humans find physical comedy like pratfalls inherently funny, but that kind of humor is really hard for AI systems to grasp. It requires a kind of intuitive understanding of bodies, expectations, and social dynamics that machines struggle with.
@@ -1280,7 +1284,7 @@ Alice: Indeed, and that's why I'm so excited about the work we're doing. By deve
 
 _Alice's phone buzzes with an incoming message_
 
-{Alice looks at her phone. ![[Pasted image 20240522131458.png]]}
+{ Insert portrait of Alice looking at her phone. }
 
 Alice: Ugh, it's another message from management asking for an update on our progress and justification for the MUTT project. They're really breathing down our necks lately.
 
@@ -2926,7 +2930,7 @@ Claude-3 Opus
 Anthropic AI System
 
 
-Revision 2024.05.25.04
+Revision 2024.05.25.05
 
 
 
