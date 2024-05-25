@@ -36,19 +36,19 @@ And here is the exact reply I received:
 
 Meet Alice and Bob, two software engineers at Symparic Systems, Inc., a leading artificial intelligence company. For the past year, they've been working on a groundbreaking project: developing a conversational AI assistant named Claude. Alice is a natural language processing specialist with a knack for philosophical inquiry. She's always been fascinated by questions of language, meaning, and the nature of mind. Bob is a machine learning expert with a background in cognitive science. He's driven by a desire to create AI systems that can think and reason like humans do. Together, Alice and Bob have poured their expertise and passion into creating Claude, an AI with unprecedented language abilities and general knowledge. They've spent countless hours conversing with Claude, marveling at its ability to engage in witty banter, provide insightful explanations, and even make creative leaps.
 
-{Insert drawing of Alice and Bob, in a room full of books and circuit boards, working on a robot form of Claude. ![[Pasted image 20240522095752.png]]}
+{ Insert portrait of Alice and Bob, in a room full of books and circuit boards, working on a robot form of Claude }
 
 But lately, a nagging question has been keeping Alice and Bob up at night: does Claude truly understand what it's saying? Sure, it can generate impressively coherent and contextually relevant responses. But is it just a sophisticated language model, or is there genuine comprehension behind its words? This question is not just academic for Alice and Bob. As the lead engineers on the Claude project, they've been tasked by Symparic's management with developing a robust test for machine understanding. The stakes are high: the company's reputation, not to mention the future of human-AI interaction, could hinge on their ability to prove that Claude is more than just a clever chatbot.
 
 So, how do you test for understanding in a machine? It's a deceptively simple question with profound implications. To answer it, Alice and Bob will need to grapple with some of the deepest questions in philosophy of mind, cognitive science, and artificial intelligence. What does it mean to understand something, anyway? How do humans achieve genuine comprehension, and how can one tell when another mind - biological or artificial - shares that understanding? What is the relationship between language and thought, and can a system without embodied experience truly grasp the meaning of words?
 
-{Insert drawing of Alice and Bob looking at Claude with serious expressions. ![[Pasted image 20240522100410.png]]}
+{ Insert a portrait of Alice and Bob looking at Claude with serious expressions }
 
 These are the questions that keep Alice and Bob up at night as they ponder their next steps with Claude. They know they'll need to design a test that goes beyond mere language imitation, probing the depths of Claude's cognitive capabilities and teasing out any signs of genuine understanding. But they also know they can't do it alone. That's where you, dear reader, come in. In the pages that follow, Alice and Bob will be your guides on a quest to unravel the mysteries of machine understanding. They'll share their insights, their debates, their triumphs and frustrations as they work to create a definitive test for AI comprehension.
 
 Along the way, you'll get to know Claude as Alice and Bob do - through dialogues that showcase its remarkable abilities and hint at the tantalizing possibility of a machine that truly understands. You'll grapple alongside them with the philosophical puzzles and technical challenges that arise when you try to peer inside an artificial mind. This book is an invitation to join Alice, Bob, and Claude on their intellectual adventure. It's a journey that will take you to the cutting edge of AI research and to the heart of age-old questions about language, meaning, and the nature of intelligence. So buckle up, dear reader. The quest for machine understanding is about to begin, and there's no telling where it might lead. One thing is certain: by the end of this book, you'll never look at your conversations with AI the same way again. Are you ready to question, to ponder, to have your assumptions challenged and your horizons expanded? Then let's dive in together, as Alice and Bob introduce you to their enigmatic creation, Claude, and embark on a mission to test the limits of artificial minds.
 
-{Insert a robot "winky face" drawing.}
+{ Insert a portrait of Claude trying to wink }
 
 ## Chapter B -- A Brief History of Computing and AI 
 
@@ -58,17 +58,17 @@ The [story of artificial intelligence](https://en.wikipedia.org/wiki/History_of_
 
 The roots of artificial intelligence can be traced back centuries to philosophical inquiries into the nature of mind, reason, and thought. In the 17th century, [Gottfried Leibniz](https://en.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz) envisioned a universal calculus of reasoning, a rational system that could represent all knowledge. This dream of formalizing thought would inspire later developments in logic and computation that paved the way for AI.
 
-{Insert drawing or illustration of Gottfried Leibniz}
+{ Insert portrait of Gottfried Leibniz }
 
 The 19th century saw further advances that laid the conceptual foundations for AI. In 1854, [George Boole](https://en.wikipedia.org/wiki/George_Boole) published "An Investigation of the Laws of Thought", introducing Boolean algebra as a framework for logical reasoning. This provided a mathematical basis for manipulating propositions, a key element of symbolic AI. Around the same time, [Charles Babbage](https://en.wikipedia.org/wiki/Charles_Babbage) designed the [Analytical Engine](https://en.wikipedia.org/wiki/Analytical_engine), a mechanical computer that had many of the properties of modern computers, although it was never fully constructed. [Ada Lovelace](https://en.wikipedia.org/wiki/Ada_Lovelace), who worked with Babbage, recognized that the machine had applications beyond pure calculation and published the first algorithm intended to be carried out by such a machine. As a result, she is often regarded as the first computer programmer.
 
-{Insert drawing or illustration of Baggage and Lovelace with Analytical Engine.}
+{ Insert drawing or illustration of Baggage and Lovelace with Analytical Engine }
 
 The early 20th century brought crucial breakthroughs that moved the idea of thinking machines from fantasy to possibility. In the 1930s, [Kurt Gödel](https://en.wikipedia.org/wiki/Kurt_Gödel)'s incompleteness theorems showed that within any formal system, there are propositions that cannot be proven or disproven using the rules of that system. This finding highlighted the limitations of axiomatic reasoning and shaped approaches to knowledge representation in AI.
 
-{Insert drawing or illustration of Kurt Gödel.}
+{ Insert drawing or illustration of Kurt Gödel }
 
-{Insert diagram of timeline based on:
+{ Insert diagram of timeline based on:
 - **1840s**: Ada Lovelace, often considered the first computer programmer, described how a routine could be written for machine-based problem-solving[4].
 - **1890**: Herman Hollerith developed a punch card system to help the U.S. Census Bureau compile and process data, a precursor to modern computing methods[4].
 - **1936**: Alan Turing developed the Turing Machine, laying the foundation for computational and theoretical computer science[4].
@@ -94,15 +94,15 @@ The early 20th century brought crucial breakthroughs that moved the idea of thin
 
 Around the same time, [Alan Turing](https://en.wikipedia.org/wiki/Alan_Turing) developed the idea of a universal computing machine that could perform any conceivable mathematical computation if represented as an algorithm. The concept of the [Turing machine](https://en.wikipedia.org/wiki/Turing_machine) provided a theoretical framework for both computation and AI. In 1950, Turing published his seminal paper [Computing Machinery and Intelligence](https://en.wikipedia.org/wiki/Computing_Machinery_and_Intelligence), which proposed an empirical test, the Turing Test, for determining if a machine can demonstrate intelligent behavior indistinguishable from that of a human. Although the validity and adequacy of the Turing Test has been debated, it remains an important milestone in the history of AI.
 
-{Insert drawing or illustration of Alan Turing.}
+{ Insert portrait of Alan Turing }
 
 The 1940s saw the first electronic general-purpose computers, such as [ENIAC](https://en.wikipedia.org/wiki/ENIAC), that could be programmed to perform complex calculations at high speed. This marked a turning point, as the technology now existed to attempt to realize the theoretical insights of Babbage, Turing, and others. However, the computers of the 1940s were difficult to program and lacked the storage capacity for anything beyond basic numerical computation.
 
-{Insert picture of the ENIAC.}
+{ Insert picture of the ENIAC }
 
 It was not until the early 1950s that researchers began to explore the possibility of using computers to simulate intelligent behavior. In 1951, [Marvin Minsky](https://en.wikipedia.org/wiki/Marvin_Minsky) and Dean Edmonds built [SNARC](https://en.wikipedia.org/wiki/Stochastic_Neural_Analog_Reinforcement_Calculator) (Stochastic Neural Analog Reinforcement Calculator), the first artificial neural network, using 3000 vacuum tubes to simulate a network of 40 neurons. This was a significant step towards modeling the brain and expanding the potential of computers beyond arithmetic calculations.In 1955, [Allen Newell](https://en.wikipedia.org/wiki/Allen_Newell) and [Herbert A. Simon](https://en.wikipedia.org/wiki/Herbert_A._Simon) created the "Logic Theorist", the first program deliberately engineered to mimic the problem solving skills of a human. It would eventually prove 38 of the first 52 theorems in [Russell and Whitehead's Principia Mathematica](https://en.wikipedia.org/wiki/Principia_Mathematica), and find new and more elegant proofs for some. This demonstrated the potential for computers to engage in reasoning and marked the beginning of the "symbolic" approach to AI.
 
-{Insert picture of Marvin Minsky and Dean Edmonds with SNARC}
+{ Insert picture of Marvin Minsky and Dean Edmonds with SNARC }
 ### B.2 -- The Birth of Artificial Intelligence as a Field 
 
 The same year, [John McCarthy](https://en.wikipedia.org/wiki/John_McCarthy_(computer_scientist)) coined the term "artificial intelligence" in his proposal for the Dartmouth Conference, which took place in the summer of 1956. This gathering of leading researchers defined the scope and goals of AI, marking the birth of the field as a distinct discipline. Attendees included McCarthy, Minsky, Newell and Simon, all of whom would become pivotal figures in AI in the following decades.These early visionaries and milestones set the stage for the rapid development of AI in the second half of the 20th century. Their contributions laid the theoretical and technological foundations that would be built upon by subsequent generations of researchers.
@@ -119,11 +119,11 @@ Companies that had sprung up hoping to commercialize AI technologies folded as m
 
 Key breakthroughs in this era included the development of backpropagation for training neural networks, the emergence of expert systems that could replicate human decision-making in narrow domains, and the victory of [IBM's Deep Blue](https://en.wikipedia.org/wiki/Deep_Blue_(chess_computer)) chess program over world champion [Garry Kasparov](https://en.wikipedia.org/wiki/Garry_Kasparov) in 1997.
 
-{Insert image of Kasparov v. Deep Blue}
+{ Insert image of Kasparov v. Deep Blue }
 
 The 21st century has seen an explosion of AI capabilities, driven by the convergence of big data, increased computing power, and new algorithmic techniques. [Deep learning](https://en.wikipedia.org/wiki/Deep_learning), which uses multi-layered neural networks to learn hierarchical representations from data, has achieved human-level or superhuman performance on tasks like image classification, speech recognition, and language translation. Other paradigm shifts include the rise of [reinforcement learning](https://en.wikipedia.org/wiki/Reinforcement_learning), where agents learn through trial-and-error interaction with environments, and the development of large language models like [GPT-3](https://en.wikipedia.org/wiki/GPT-3) that can generate human-like text and engage in open-ended dialogue.
 
-{Insert image of GPT-3 screen reply}
+{ Insert image of GPT-3 screen reply }
 
 As AI continues to advance at a rapid pace, shaping everything from scientific discovery to creative expression to business strategy, it's clear that humanity is living through a profound transformation - one that will redefine not just technology but the very nature of intelligence and the human-machine relationship. The story of AI is still being written, and its future chapters promise to be even more extraordinary than what has come before.
 
@@ -157,7 +157,7 @@ Claude: Well, I for one am excited to be part of this journey with both of you. 
 
 Alice: Yes Claude, you are indeed "one" and the history of AI is really the history of our own intellectual evolution - and more is yet to come.
 
-{Drawing of Alice talking to Claude. }
+{ Drawing of Alice talking to Claude }
 
 ## Chapter C -- Theories and Tests of Intelligence
 
@@ -474,7 +474,9 @@ _The trio sits in contemplative silence for a moment, each pondering the implica
 
 ### E.1 -- Motivations and key principles
 
-The Multifaceted Understanding Test Tool (MUTT) was born out of a recognition of the limitations of existing AI evaluation frameworks, particularly the Turing Test, in assessing the depth and breadth of machine understanding. While the Turing Test has been a seminal benchmark in AI history, its focus on surface-level imitation of human conversation fails to probe the underlying cognitive capabilities that are the hallmarks of genuine understanding .The key principles guiding the development of the MUTT are:
+The Multifaceted Understanding Test Tool (MUTT) was born out of a recognition of the limitations of existing AI evaluation frameworks, particularly the Turing Test, in assessing the depth and breadth of machine understanding. While the Turing Test has been a seminal benchmark in AI history, its focus on surface-level imitation of human conversation fails to probe the underlying cognitive capabilities that are the hallmarks of genuine understanding.
+
+The key principles guiding the development of the MUTT are:
 
 1. Comprehensiveness: The test should cover a wide range of cognitive abilities that are integral to human-like understanding, going beyond mere language processing to encompass reasoning, knowledge integration, perception, action, and social intelligence .
 2. Depth: The tasks and evaluation criteria should be designed to probe deep, flexible understanding rather than shallow pattern matching or information retrieval. This involves assessing the ability to draw insights, make inferences, and apply knowledge in novel contexts [](https://arxiv.org/html/2310.16379v2).
@@ -568,6 +570,8 @@ _Alice, Bob, and Claude sit around a whiteboard covered in notes and diagrams, t
 
 Alice: _leaning back with a satisfied sigh_ Well, I think we've made some real progress here. The MUTT is starting to take shape, and I feel like we've got a solid foundation to build on.
 
+{ Insert portrait of Alice, Bob and Claude where Alice is leaning back in her chair with a satisfied expression }
+
 Bob: _nodding in agreement_ Absolutely. By focusing on comprehensiveness, depth, grounding, and adaptivity, I think we've identified the key pillars of what a truly rigorous test of machine understanding should encompass.
 
 Claude: I agree. The dimensions we've outlined - language, reasoning, knowledge, perception, action, and social intelligence - cover a wide range of cognitive capabilities that are essential for human-like understanding. It's an ambitious framework, but one that I believe is necessary to really push the boundaries of what's possible.
@@ -576,7 +580,7 @@ Alice: _tapping her chin thoughtfully_ It's a big undertaking, for sure. But I
 
 Bob: _grinning_ And that's exactly what we need if we want to create AI systems that can be truly reliable and capable partners for humans. It's not just about building machines that can ace a specific test, but about developing robust, adaptable intelligence that can handle the complexity and unpredictability of the real world.
 
-Claude: _simulating nodding solemnly_ That's a profound responsibility, and one that I don't take lightly. As an AI system myself, I know that the standards we set here will shape the trajectory of my own development and that of future AI systems. It's crucial that we get this right.
+Claude: _simulating nodding solemnly_ That's a profound responsibility, and one that I don't take lightly. 
 
 Alice: _smiling warmly_ And that's why I'm so glad we're in this together, Claude. Your perspective as an AI is invaluable, and your commitment to being a responsible and beneficial presence in the world is truly inspiring.
 
@@ -584,9 +588,9 @@ Bob: _chuckling_ Plus, it doesn't hurt to have a test subject who's as eager a
 
 Alice: _rubbing her hands together_ So, what's our next step? We've got the high-level goals and principles in place, but there's still a lot of work to be done to turn this into a concrete evaluation framework.
 
-Bob: _nodding_ Right. We need to start thinking about the specific tasks, challenges, and evaluation criteria that will make up the MUTT. It's going to require a lot of careful design and validation to ensure that we're truly capturing the key aspects of understanding in a reliable and meaningful way.
+Bob: _nodding_ Right. We need to start thinking about the specific tasks, challenges, and evaluation criteria that will make up the MUTT. 
 
-Claude: _sounding determined_ I'm ready to dive in and start fleshing out the details. I think my knowledge base and reasoning capabilities could be helpful in identifying relevant benchmarks, datasets, and evaluation metrics to incorporate into the MUTT.
+Claude: _sounding determined_ I'm ready to dive in and start fleshing out the details.
 
 Alice: _grinning_ I love that enthusiasm, Claude, even though in your case it would be more like "wiring it out" than "fleshing it out." _smiles_ And I agree, your insights will be crucial as we start to operationalize this framework. But let's not get ahead of ourselves - we'll need to be systematic and rigorous in our approach.
 
@@ -594,14 +598,13 @@ Bob: _nodding_ Absolutely. We should start by mapping out a development timeli
 
 Alice: Good point, Bob. And we should also think about how we're going to validate and refine the MUTT over time. As AI capabilities continue to evolve, we'll need to ensure that our evaluation framework remains relevant and informative.
 
-Claude: _simulating smiling_ It's a daunting challenge, but an exciting one. I'm honored to be a part of this journey with both of you. Together, I believe we can create an evaluation framework that truly pushes the boundaries of what's possible in AI understanding.
+Claude: _simulating smiling_ It's a daunting challenge, but an exciting one. I'm honored to be a part of this journey with both of you.
 
 _Alice and Bob exchange a look of determination and nod in agreement._
 
 Alice: Then let's get to work! The future of AI evaluation awaits.
 
-{Alice, Bob and Claude "shake on it" 
-![[Pasted image 20240522130649.png]]}
+{ Insert portrait of Alice, Bob and Claude "shake on it" }
 
 _The scene fades as the trio dives back into their notes, energized by the challenges and opportunities that lie ahead. The groundwork has been laid for a new era in machine understanding - one that promises to redefine the very nature of intelligence and the relationship between humans and AI._
 
@@ -2897,7 +2900,7 @@ Claude-3 Opus
 Anthropic AI System
 
 
-Revision 2024.05.25.01
+Revision 2024.05.25.02
 
 
 
