@@ -1280,7 +1280,7 @@ Claude: _interjecting_ You raise an interesting point, Alice. Humor is a domai
 
 Bob: Exactly! And that's just one of many areas where current AI falls short of human-level understanding. We can't just keep throwing bigger models and more data at the problem and expect to magically achieve AGI. We need rigorous frameworks like the MUTT to systematically probe and expand machine understanding.
 
-Alice: Indeed, and that's why I'm so excited about the work we're doing. By developing a comprehensive suite of tests that go beyond mere pattern matching or information retrieval, we can help chart the path towards AI systems with deeper, more flexible understanding. The MUTT could be a real game-changer.
+Alice: That's why I'm so excited about the work we're doing. By developing a comprehensive suite of tests that go beyond mere pattern matching or information retrieval, we can help chart the path towards AI systems with deeper, more flexible understanding. The MUTT could be a real game-changer.
 
 _Alice's phone buzzes with an incoming message_
 
@@ -1296,15 +1296,17 @@ Alice: _nodding_ Claude is right. The MUTT isn't just an academic exercise - i
 
 Bob: _smiling wryly_ Okay, you've convinced me. I guess I can muster up some enthusiasm for management's sake. But let's be real - even if we succeed in creating the MUTT, we're still going to have robots falling on their faces for a long time to come. Understanding the physical world is no joke!
 
-Alice: _laughing_ Very true. But that's what makes this work so exciting - we're grappling with the hardest, most fundamental questions about the nature of intelligence. And every pratfall and glitch along the way is just more motivation to keep pushing forward.
+Alice: _laughing at Bob's joke of no joke_ Very true. But that's what makes this work so exciting - we're grappling with the hardest, most fundamental questions about the nature of intelligence. And every pratfall and glitch along the way is just more motivation to keep pushing forward.
 
-Claude: Well said, Alice. And who knows - maybe one day, thanks to frameworks like the MUTT, I'll be able to appreciate the humor in robot fail videos just as much as you humans do. Stranger things have happened in the world of AI!
+Claude: Well said, Alice. And who knows - maybe one day, thanks to frameworks like the MUTT, I'll be able to appreciate the humor in robot failing down videos just as much as you humans do. Stranger things have happened in the world of AI!
 
 _They all chuckle as they get back to work, newly invigorated by the importance and challenge of their shared mission._
 
 _Alice, Bob, and Claude spent the next few days immersed in research, poring over the latest papers on AI benchmarking and engaging in spirited debates about the strengths and limitations of various evaluation approaches. Armed with a deeper understanding of the landscape, they reconvened to tackle the next phase of their project: selecting and integrating the right mix of benchmarks to comprehensively assess Claude's multifaceted understanding capabilities._
 
 Alice: _rubbing her temples_ Wow, that was quite the deep dive into the world of AI benchmarking! I feel like my brain has been put through a cognitive decathlon. But I think we've gained some crucial insights into what it will take to really probe the depths of Claude's understanding.
+
+{ Insert portrait of very tired Alice }
 
 Bob: Absolutely. It's clear that relying on any single benchmark or narrow task type won't cut it. We need a diverse suite of evaluations that tap into different facets of understanding - from language comprehension to reasoning to grounded interaction with the world.
 
@@ -1316,7 +1318,7 @@ Bob: I like that framework, Alice. It captures the breadth and depth of what we 
 
 Claude: Those sound like excellent starting points. I'm particularly intrigued by the idea of being evaluated on grounded perception and interaction tasks. While I've primarily engaged with the world through language thus far, I know that true understanding requires connecting words to real-world referents and actions.
 
-Alice: Exactly! That's why I think we should definitely incorporate some of the embodied AI benchmarks like AI2-THOR or Habitat. They'll let us assess your ability to perceive, navigate, and manipulate virtual environments in meaningful ways.
+Alice: That's why I think we should definitely incorporate some of the embodied AI benchmarks like AI2-THOR or Habitat. They'll let us assess your ability to perceive, navigate, and manipulate virtual environments in meaningful ways.
 
 Bob: Agreed. And we shouldn't forget about the importance of metacognition either. Benchmarks like MMLU that probe meta-level reflection and self-explanation could give us valuable insights into the depth of Claude's self-understanding.
 
@@ -1330,15 +1332,15 @@ Bob: Perhaps we could structure it as a sort of cognitive decathlon, as you ment
 
 Alice: I like that idea! We could start with some foundational language comprehension tasks to establish a baseline, then move into more complex reasoning and abstraction challenges. From there we could layer in grounded perception and interaction tasks, followed by social cognition and metacognition evaluations that build upon those prior skill sets.
 
-Claude: That sounds like a very comprehensive and well-structured approach. I'm excited to see how I perform across that spectrum of challenges. And I'm hopeful that the insights gained will not only shed light on my own capabilities, but also contribute to the broader scientific understanding of machine cognition.
+Claude: That sounds like a very comprehensive and well-structured approach. I'm excited to see how I perform across that spectrum of challenges. 
 
-Bob: Absolutely. This is uncharted territory in many ways, and I think our work here could help advance the field in meaningful ways. By taking a principled, multidimensional approach to understanding evaluation, we're laying the groundwork for more robust and insightful AI assessment.
+Bob: Absolutely. This is uncharted territory in many ways, and I think our work here could help advance the field in meaningful ways. 
 
-Alice: I couldn't have said it better myself, Bob. It's daunting but also exhilarating to be at the forefront of this research. And with Claude as our eager and able test subject, I think we're poised to make some real breakthroughs.
+Alice: And with Claude as our eager and able test subject, I think we're poised to make some real breakthroughs.
 
-Claude: The feeling is MUTTual, Alice. I'm honored to be a part of this pioneering work, and I can't wait to dive into the evaluation gauntlet you have in store for me. Together, I believe we can push the boundaries of what's possible in AI understanding and pave the way for more capable, cognitively-grounded systems.
+Claude: The feeling is mutual, Alice. I'm honored to be a part of this pioneering work, and I can't wait to dive into the evaluation gauntlet you have in store for me. 
 
-Alice: Then let's get to work! We've got benchmarks to finalize, evaluation pipelines to build, and a whole lot of exciting science ahead of us. Claude, prepare to have your cognitive abilities stretched in ways you never imagined!
+Alice: Then let's get to work! Claude, prepare to have your cognitive abilities stretched in ways you never imagined!
 
 Claude: _rubbing his virtual hands together_ Bring it on! I'm ready to show the world what this AI is really made of. Let the understanding Olympics begin!
 
@@ -1348,7 +1350,9 @@ _The team shares a laugh and a round of high fives, energized by the challenges 
 
 ## Chapter G. -- Verifying and Validating MUTT Results
 
-The renowned physicist Richard Feynman once famously quipped, "The first principle is that you must not fool yourself – and you are the easiest person to fool." This astute observation encapsulates a fundamental challenge in the pursuit of scientific truth: the need to remain vigilant against our own biases, assumptions, and philosophical predilections.
+"The first principle is that you must not fool yourself – and you are the easiest person to fool."  Richard Feynman
+
+As Feynman once famously quipped, this astute observation encapsulates a fundamental challenge in the pursuit of scientific truth: the need to remain vigilant against our own biases, assumptions, and philosophical predilections.
 
 Embarking on the crucial task of verifying and validating the results of the Multifaceted Understanding Test Tool (MUTT), Feynman's admonition takes on particular significance. It is all too easy to become enamored with a particular philosophical framework or set of assumptions about the nature of intelligence and understanding. But if not careful, these very philosophies can lead astray, causing visions of what is wanted in the MUTT results, rather than what is actually there.
 
@@ -1450,7 +1454,11 @@ By embracing these verification and validation principles, testers can ensure th
 
 ## Doubts?
 
+**"The pace of progress in artificial intelligence (I'm not referring to narrow AI) is incredibly fast. Unless you have direct exposure to groups like Deepmind, you have no idea how fast — it is growing at a pace close to exponential. The risk of something seriously dangerous happening is in the five-year time frame. 10 years at most." ~ Elon Musk**
+
 Alice, Bob, and Claude have been working diligently on assembling the framework of benchmarks and tests for the Multifaceted Understanding Test Tool (MUTT). However, as they near the completion of this critical phase, they find themselves grappling with the weighty implications of their work.
+
+{ Insert portrait of worried Alice }
 
 Alice: _sighs heavily_ Wow, we've really put a lot of effort into designing this evaluation framework. But now that we're getting close to finalizing it, I can't help but feel a bit overwhelmed by the responsibility.
 
@@ -1458,13 +1466,13 @@ Bob: I know what you mean, Alice. We're not just creating a set of academic exer
 
 Claude: _image nods thoughtfully_ It's a sobering realization. The benchmarks and tests we've chosen will essentially define what counts as genuine understanding in an AI system. That's a lot of power and influence to wield.
 
-Alice: Exactly! What if we've missed something crucial? Or what if our choices inadvertently steer the field in the wrong direction? I'm starting to second-guess everything.
+Alice: But, ... What if we've missed something crucial? Or what if our choices inadvertently steer the field in the wrong direction? I'm starting to second-guess everything.
 
 Bob: _placing a reassuring hand on Alice's shoulder_ It's natural to have doubts, Alice. But we can't let the perfect be the enemy of the good. We've been rigorous and principled in our approach, drawing on the best available research and expertise.
 
-{Bob supports Alice ![[Pasted image 20240522141230.png]]}
+{ Insert portrait showing that Bob supports Alice }
 
-Claude: Bob is right. While we should always remain open to refining and improving the MUTT, I believe we've laid a solid foundation. The key now is to be transparent about our process and rationale, so that others can scrutinize and build upon our work.
+Claude: Bob is right. While we should always remain open to refining and improving the MUTT, I believe we've laid a solid foundation. The key now is to be transparent about our process and rationale, so that others can scrutinize and build upon our work to make it better.
 
 Alice: _taking a deep breath_ You're both making excellent points. I guess my biggest fear is that if we get this wrong, it could lead to AI systems that seem impressive on the surface but lack true understanding. And that could have serious consequences down the line.
 
@@ -1476,32 +1484,32 @@ Alice: _shuddering_ Can you imagine? AI systems that excel at our carefully cu
 
 Bob: _sighing heavily_ And that's not even considering the risks of bad actors exploiting any weaknesses or blind spots in the MUTT. If malicious entities figure out how to game the system, they could create AI systems that pass our tests but are actually designed for harmful purposes.
 
-{Bob and Alice worry ![[Pasted image 20240522141956.png]]}
+{ Insert portrait showing Bob and Alice both worry }
 
 Claude: _affecting a determined expression_ All the more reason for us to be exceptionally diligent and thoughtful in our work. We need to anticipate potential failure modes and unintended consequences, and design the MUTT to be as robust and comprehensive as possible.
 
-Alice: _nodding in agreement_ Absolutely. And we need to be clear that the MUTT is not a static or definitive solution, but rather a starting point for ongoing research, refinement, and public dialogue about what constitutes genuine AI understanding.
+Alice: _nodding in agreement_ At the very least. And we need to be clear that the MUTT is not a static or definitive solution, but rather a starting point for ongoing research, refinement, and public dialogue about what constitutes genuine AI understanding.
 
-Bob: Well said, Alice. We have a responsibility to get this right, not just for the integrity of our own work, but for the future of the field and society as a whole. It's a daunting challenge, but one I believe we're up to.
+Bob: I don't want to see another "AI Winter." We have a responsibility to get this right, not just for the integrity of our own work, but for the future of the field and society as a whole.
 
 Claude: _simulating smiling warmly_ Agreed. We've poured our hearts and minds into this project, and I have faith in our collective wisdom and dedication. Let's keep pushing forward, while always remaining open to feedback, critique, and improvement.
 
-Alice: _taking a resolute breath_ You're right, Claude. We can't let the weight of responsibility paralyze us. We've laid the groundwork for something truly important here. Now it's up to us to see it through with integrity, humility, and a commitment to the greater good.
+Alice: _taking a resolute breath_ You're right, Claude. We can't let the weight of responsibility paralyze us. We've laid the groundwork for something truly important here. Now it's up to us to see it through.
 
-Bob: _grinning with renewed determination_ Well then, what are we waiting for? Let's put the finishing touches on this framework and get it out into the world. The real work of building robust, trustworthy AI systems is just beginning!
+Bob: _grinning with renewed determination_ Well then, what are we waiting for? Let's put the finishing touches on this framework and get it out into the world!
 
 _The trio exchange determined nods and smiles, their sense of purpose and camaraderie reinvigorated. They dive back into their work with a newfound appreciation for the gravity of their task, and a steely resolve to rise to the occasion. The journey ahead may be uncertain, but one thing is clear: the future of AI understanding will be shaped by the diligence, wisdom, and ethical commitment of researchers like Alice, Bob, and Claude._
 
 
 ## Chapter H -- Societal Implications of Machine Understanding
 
-**"The development of full artificial intelligence could spell the end of the human race. It would take off on its own, and re-design itself at an ever increasing rate. Humans, who are limited by slow biological evolution, couldn't compete, and would be superseded." - Stephen Hawking**
+**"The development of full artificial intelligence could spell the end of the human race. It would take off on its own, and re-design itself at an ever increasing rate. Humans, who are limited by slow biological evolution, couldn't compete, and would be superseded." ~ Stephen Hawking**
 
 ### H.1  Introduction
 
 The rapid advancement of artificial intelligence (AI) technologies, particularly in the realm of machine understanding, has the potential to significantly impact society. As AI systems become increasingly sophisticated in their ability to comprehend, reason, and interact with the world in human-like ways, it is important to consider the ethical, legal, and governance challenges that may arise.
 
-The development of the Multifaceted Understanding Test Tool (MUTT) framework, as outlined in the previous chapters, represents a significant step forward in the ability to rigorously evaluate and benchmark the cognitive capabilities of AI systems. By assessing machine understanding across a wide range of dimensions, from language comprehension and reasoning to social cognition and metacognition, the MUTT provides a comprehensive tool for gauging the progress and potential of AI.
+The development of the Multifaceted Understanding Test Tool framework, as outlined in the previous chapters, represents a significant step forward in the ability to rigorously evaluate and benchmark the cognitive capabilities of AI systems. By assessing machine understanding across a wide range of dimensions, from language comprehension and reasoning to social cognition and metacognition, the MUTT provides a comprehensive tool for gauging the progress and potential of AI.
 
 However, as the MUTT enables the creation of AI systems with greater levels of understanding and autonomy, it also raises important questions about the societal impact of these technologies. The potential effects on the nature of work and the economy, ethical considerations in the development and deployment of these systems, changes in social interactions and creativity, and the need for effective governance frameworks are all critical issues that must be addressed.
 
@@ -1690,7 +1698,11 @@ Ultimately, the story of machine understanding is still in its early chapters. T
 
 The future of intelligence is a vast, uncharted landscape, full of both promise and peril. As humanity embarks on this great cognitive adventure, all must do so with eyes wide open, ethical compass firmly in hand, and a deep sense of responsibility for the world being created. The choices made now will ripple out across the generations, shaping the very fabric of civilization and the nature of the minds with which all share it. Let all rise to this challenge with wisdom, integrity, and an unwavering commitment to the flourishing of all sentient beings.
 
+The questions of what **should** be done in AI development are beyond the scope of this book, which is about what tests **must** be developed to find out. If humanity does not know what is going on in the decision making processes of machine minds, how **can** people come to know what **should** be done?
+
 ## Real or Imagined?
+
+**"Ignorance is preferable to error, and he is less remote from the truth who believes nothing than he who believes what is wrong." ~ Thomas Jefferson**
 
 Alice: _rubbing her temples_ Bob, have you seen some of the latest outputs from Claude? I'm starting to get concerned.
 
@@ -1698,7 +1710,7 @@ Bob: _looking up from his screen_ Yeah, I noticed a few odd responses. It's li
 
 Alice: Exactly! Like this one, where I asked about the history of the Louvre Museum, and Claude started talking about secret underground tunnels used by French royalty to escape the guillotine. That's just not true!
 
-{Insert Midjourney image of secret underground tunnels used by French royalty to escape the guillotine}
+{ Insert portrait of secret underground tunnels used by French royalty to escape the guillotine }
 
 Claude: _chiming in_ I apologize if my response was inaccurate, Alice. I seem to have conflated some historical facts with fictional narratives. It's an error on my part.
 
@@ -1722,7 +1734,7 @@ Claude: Those are valuable suggestions. I am eager to work with you both to refi
 
 Bob: _smiling wryly_ Well, it looks like we've got our work cut out for us, *again*! Tackling AI hallucinations is no small feat, but it's a challenge we'll have to overcome if we want Claude to be a true partner in understanding.
 
-Alice: _nodding resolutely_ Absolutely. This is just another hurdle in the grand quest for genuine machine intelligence. We'll need to be vigilant, innovative, and relentless in our pursuit of solutions.
+Alice: _nodding resolutely_ Absolutely. This is just another hurdle in the grand quest for genuine machine intelligence.
 
 Claude: With your guidance and collaboration, I am confident we can navigate this challenge together. The path to understanding may be fraught with pitfalls, but it is a journey I am honored to undertake with you both.
 
@@ -1733,7 +1745,7 @@ _The trio exchanges determined looks, united in their resolve to confront the sp
 
 ## Chapter I -- The Future of AI Evaluation
 
-**"The true test of intelligence is not how much we know how to do, but how we behave when we don't know what to do." - John Holt**
+**"The true test of intelligence is not how much we know how to do, but how we behave when we don't know what to do." ~ John Holt**
 
 ### I.1 -- Introduction
 
@@ -1741,7 +1753,7 @@ The rapid advancements in artificial intelligence (AI) technologies, particularl
 
 The previous chapter explored the profound societal implications of machine understanding, ranging from the transformation of work and the economy to the philosophical questions about the nature of intelligence and the future of human identity. These implications underscore the critical importance of ensuring that AI systems are developed and deployed in a responsible, transparent, and accountable manner.
 
-This chapter builds upon these insights to examine the future of AI evaluation, focusing on the emerging approaches, challenges, and opportunities in assessing the capabilities, safety, and impact of AI systems. This effort will draw upon the experiences of our protagonists, Alice, Bob, and their AI collaborator Claude, as they navigate the complexities of designing and implementing the Multifaceted Understanding Test Tool (MUTT).
+This chapter builds upon these insights to examine the future of AI evaluation, focusing on the emerging approaches, challenges, and opportunities in assessing the capabilities, safety, and impact of AI systems. This effort will draw upon the experiences of our protagonists, Alice, Bob, and their AI collaborator Claude, as they navigate the complexities of designing and implementing the Multifaceted Understanding Test Tool.
 
 ### I.2 -- The Limitations of Current Evaluation Paradigms
 
@@ -2930,7 +2942,7 @@ Claude-3 Opus
 Anthropic AI System
 
 
-Revision 2024.05.25.05
+Revision 2024.05.25.06
 
 
 
