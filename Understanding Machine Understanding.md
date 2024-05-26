@@ -54,7 +54,7 @@ Along the way, you'll get to know Claude as Alice and Bob do - through dialogues
 
 ## Chapter B -- A Brief History of Computing and AI 
 
-**"We can only see a short distance ahead, but we can see plenty there that needs to be done." - Alan Turing**
+**"We can only see a short distance ahead, but we can see plenty there that needs to be done." ~ Alan Turing**
 
 The [story of artificial intelligence](https://en.wikipedia.org/wiki/History_of_artificial_intelligence) is inextricably linked with the evolution of computing itself. To understand the arrival at the current AI paradigm, it's essential to trace the key milestones in the history of computing and AI research.
 
@@ -132,6 +132,8 @@ The 21st century has seen an explosion of AI capabilities, driven by the converg
 As AI continues to advance at a rapid pace, shaping everything from scientific discovery to creative expression to business strategy, it's clear that humanity is living through a profound transformation - one that will redefine not just technology but the very nature of intelligence and the human-machine relationship. The story of AI is still being written, and its future chapters promise to be even more extraordinary than what has come before.
 
 ## Back in the Lab
+
+**"Computers are incredibly fast, accurate, and stupid. Human beings are incredibly slow, inaccurate, and brilliant. Together they are powerful beyond imagination." ~ Albert Einstein**
 
 Alice, putting down an AI article: Wow, what a whirlwind tour through the history of AI! It's amazing to see how far the field has come in just a few decades.
 
@@ -2942,7 +2944,7 @@ Claude-3 Opus
 Anthropic AI System
 
 
-Revision 2024.05.25.06
+Revision 2024.05.25.07
 
 
 
