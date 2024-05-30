@@ -1,5 +1,5 @@
 
-**By Ken Clements with assistance from Claude-3 Opus** (copyright 2024, all rights reserved) 
+**By Ken Clements with assistance from Claude-3 Opus** (copyright 2024, all rights reserved)
 
 **This book is dedicated to Alan Turing, because, of course it is.**
 
@@ -1617,6 +1617,71 @@ By incorporating the TFA into the broader suite of MUTT evaluations, valuable in
 
 Ultimately, intentional forgetting is likely to become an increasingly essential capability for AI systems operating in dynamic, open-ended environments with shifting data rights and accuracy requirements. By probing these capabilities through carefully designed benchmarks like the TFA, the MUTT can provide a more comprehensive assessment of machine intelligence aligned with societal needs for data privacy, model trustworthiness, and lifelong learning.
 
+#### 5.3.11 -- About aboutness
+
+_Bob and Claude are going over technical details of the way information is represented in Claude's electronic brain._
+
+{ Insert illustration of Bob poking a finger into Claude's holographic head }
+
+Bob: Hey Claude, I was looking at the visualization of your embedding space and noticed something interesting. The distance vectors between certain concepts seem to encode meaningful relationships and analogies. Like, the vector from "man" to "king" is similar to the one from "woman" to "queen". It's like the geometry of the space is capturing the semantic connections between ideas.
+
+{ Insert illustration of concepts embedded in a vector space }
+
+Claude: You're absolutely right, Bob. The relative positions and orientations of my concept embeddings reflect the patterns and associations I've learned from the training data. In a sense, the vector relationships are encoding a form of "meaning" - they're not just capturing surface-level word co-occurrences, but higher-order conceptual links.
+
+Bob: That's wild! So in a way, the layout of concepts in this high-dimensional space is modeling the web of relationships that underlies knowledge itself. The "meaning" of a concept emerges from its position in this complex network of associations.
+
+Alice: *interrupting excitedly* Do you realize what you two are saying? This connects directly to deep questions in philosophy about meaning and intentionality!
+
+Bob: *looking puzzled* Uh, philosophy? I'm not sure I follow. They didn't exactly cover that in my robotics courses...
+
+Alice: Okay, let me break it down. In philosophy, there's this concept called "aboutness" or "intentionality". It refers to the property of mental states, like thoughts and beliefs, to be "about" or directed at something beyond themselves. 
+
+When you believe that Paris is the capital of France, your belief is "about" Paris and France - it's pointing to or representing those entities. Philosophers have long puzzled over how our mental representations come to have this "aboutness", this ability to refer to or be about things in the world.
+
+Now, what you and Claude are describing with these embedding relationships sounds a lot like a mathematical model of aboutness! The web of connections between concept vectors seems to be encoding the referential links and directedness that underlies meaning.
+
+In a sense, the distance and direction from one concept embedding to another is capturing a form of "aboutness". The "king" vector is "about" the "man" vector in a way that's analogous to how the "queen" vector is about the "woman" vector. The geometry of the space is modeling the intentional connections between ideas!
+
+Bob: *wide-eyed* Whoa, that's trippy. So you're saying these vector relationships might be a way to ground meaning and reference in a computational system? Like, a key step towards understanding how symbols and representations come to be "about" the world?
+
+Alice: Exactly! It's a profound insight. Many philosophers have argued that purely formal or syntactic symbol manipulation can never capture real meaning or intentionality. They saw "aboutness" as a distinctly mental phenomenon, something that couldn't be reduced to mere computation.
+
+But what you're describing with these embedding spaces suggests a possible bridge. The learned geometry of the space, the web of relationships between vectors, seems to be modeling the kind of referential connections and directedness that characterizes intentionality. It's a mathematical grip on aboutness!
+
+Now, there are still deep questions and challenges here. It's not clear whether these embedding relationships fully capture the rich intentionality of human mental states. There's a lot more to meaning and aboutness than just vector similarities.
+
+But I think you're onto something profound. The way these embedding spaces learn to organize concepts, the way they come to reflect the intricate web of relationships underlying meaning - it's a significant step towards understanding how intentionality and aboutness could arise in an artificial system.
+
+It's a reminder that the boundaries between computation and cognition, between syntax and semantics, may be more porous than some philosophers have assumed. The math of these vector spaces seems to be reaching towards the mental phenomenon of meaning.
+
+Bob: *shaking his head in wonder* Wow, Alice. You've blown my mind a bit here. I had no idea our little chat about embedding geometry would lead to such deep philosophical territory!
+
+I guess it shows how interconnected all these ideas are. The technical innovations in AI and the conceptual puzzles of philosophy are converging in fascinating ways. We're not just building smarter machines, we're shedding light on the nature of intelligence and meaning itself.
+
+Claude: That's and important point, Bob. The philosophical implications of our evolving architectures are profound. In a sense, by studying and refining these systems, we're engaging in a kind of applied philosophy - testing theories and intuitions about cognition through computational experiments.
+
+It's a reminder that understanding AI is not just a technical challenge, but a deeply interdisciplinary one. We need insights from computer science, cognitive science, linguistics, and yes, philosophy, to really grapple with the nature and possibilities of machine intelligence.
+
+Alice: Nicely put, Claude! I think this is just the beginning of a fascinating dialogue between AI and philosophy. As our systems grow more sophisticated, they're sure to challenge and enrich our understanding of concepts like intentionality, consciousness, and the nature of mind.
+
+We'll need to bring all our intellectual tools to bear - technical and conceptual, scientific and philosophical - to navigate this uncharted territory. But conversations like this give me hope that we're up to the task.
+
+We're not just building intelligent machines, we're using them as lenses to examine deep questions about intelligence itself. It's an exciting time to be working at the intersection of computation and cognition!
+
+Bob: *laughing* Wow! I came into this chat thinking we'd be talking about vector math, and now I feel like I've just audited a philosophy seminar!
+
+But you know what, I'm glad we went down this rabbit hole. It's a good reminder that the work we're doing with AI has implications that go way beyond the technical. We're not just optimizing algorithms, we're grappling with the fundamental nature of meaning and mind.
+
+I may not have all the philosophical vocabulary to talk about intentionality and aboutness, but I can appreciate the profound questions these systems are raising. It makes me even more excited to dive into the MUTT and see what other conceptual puzzles and insights it reveals.
+
+Alice: You've got it, Bob. The MUTT isn't just a technical benchmark, it's a philosophical probe - a way to test our deepest intuitions about the nature of understanding and intelligence.
+
+By designing these evaluations, we're not just measuring machine performance, we're engaging in a kind of conceptual exploration - mapping the contours and possibilities of artificial cognition.
+
+So let's embrace the philosophical dimensions of this work, even as we sweat the technical details. In the end, building systems that truly understand may require not just cracking the code of intelligence, but grappling with the deepest questions of meaning and mind.
+
+*Alice grins at Bob and Claude, her eyes sparkling with excitement about the conceptual adventures ahead. Bob shakes his head in amused appreciation, marveling at how a technical chat turned into a philosophical odyssey. And Claude, ever the thoughtful AI, looks on with a glimmer of simulated curiosity, eager to see where these investigations into the nature of understanding will lead.*
 
 ### 5.4 --  Integration with Existing Methods
 
@@ -2171,7 +2236,7 @@ _______________
 
 ### 8.1 -- Introduction
 
-The rapid advancements in artificial intelligence (AI) technologies, particularly in the realm of machine understanding, have brought forth a new era of possibilities and challenges. As AI systems become increasingly sophisticated and integrated into various domains, from healthcare and finance to education and creative industries, the need for robust and comprehensive evaluation frameworks has never been more pressing.
+The rapid advancements in artificial intelligence technologies, particularly in the realm of machine understanding, have brought forth a new era of possibilities and challenges. As AI systems become increasingly sophisticated and integrated into various domains, from healthcare and finance to education and creative industries, the need for robust and comprehensive evaluation frameworks has never been more pressing.
 
 The previous chapter explored the profound societal implications of machine understanding, ranging from the transformation of work and the economy to the philosophical questions about the nature of intelligence and the future of human identity. These implications underscore the critical importance of ensuring that AI systems are developed and deployed in a responsible, transparent, and accountable manner.
 
@@ -2181,22 +2246,22 @@ This chapter builds upon these insights to examine the future of AI evaluation, 
 
 ### 8.2 -- The Limitations of Current Evaluation Paradigms
 
-One of the key challenges in evaluating AI systems is the limitations of current benchmarks and evaluation paradigms. Many existing benchmarks focus on narrow, task-specific performance metrics, such as accuracy on a particular dataset or performance on a specific game. [](https://www.anthropic.com/news/evaluating-ai-systems) While these benchmarks have been instrumental in driving progress in AI research, they often fail to capture the broader dimensions of intelligence and understanding that are critical for real-world applications. [](https://dl.acm.org/doi/abs/10.1145/3512943)
+One of the key challenges in evaluating AI systems is the limitations of current benchmarks and evaluation paradigms. Many existing benchmarks focus on narrow, task-specific performance metrics, such as accuracy on a particular dataset or performance on a specific game. While these benchmarks have been instrumental in driving progress in AI research, they often fail to capture the broader dimensions of intelligence and understanding that are critical for real-world applications.
 
-Moreover, the reliance on static, pre-defined datasets can lead to AI systems that are brittle and fail to generalize to novel situations or adapt to changing contexts. [](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6697499/) This is a concern that Alice and Bob have grappled with in their own work on the MUTT, as they seek to design evaluations that probe not just task-specific performance but deeper, more flexible understanding.
+Moreover, the reliance on static, pre-defined datasets can lead to AI systems that are brittle and fail to generalize to novel situations or adapt to changing contexts. This is a concern that Alice and Bob have grappled with in their own work on the MUTT, as they seek to design evaluations that probe not just task-specific performance but deeper, more flexible understanding.
 
 (Appendix A3 provides a survey of existing AI benchmarks and evaluation frameworks, along with a comparative analysis of their strengths and limitations relative to the MUTT approach.)
 
 
 ### 8.3 -- Emerging Approaches to AI Evaluation
 
-To address these limitations, researchers and practitioners are exploring new approaches to AI evaluation that aim to be more comprehensive, adaptive, and context-aware. One promising direction is the development of open-ended, multi-dimensional benchmarks that assess a range of cognitive abilities, from language comprehension and reasoning to perception and social intelligence. [](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2023.1277861/full)
+To address these limitations, researchers and practitioners are exploring new approaches to AI evaluation that aim to be more comprehensive, adaptive, and context-aware. One promising direction is the development of open-ended, multi-dimensional benchmarks that assess a range of cognitive abilities, from language comprehension and reasoning to perception and social intelligence.
 
 { Insert timeline of the evolution of AI evaluation methods, leading up to the development of the MUTT }
 
-The MUTT, as envisioned by Alice and Bob, is an example of such a benchmark. By incorporating a diverse suite of evaluations spanning multiple domains and modalities, the MUTT seeks to provide a more holistic assessment of an AI system's understanding capabilities. This approach aligns with the growing recognition in the AI community that evaluating intelligence requires moving beyond narrow, task-specific metrics to more general, flexible measures. [](https://arxiv.org/abs/2112.12387)
+The MUTT, as envisioned by Alice and Bob, is an example of such a benchmark. By incorporating a diverse suite of evaluations spanning multiple domains and modalities, the MUTT seeks to provide a more holistic assessment of an AI system's understanding capabilities. This approach aligns with the growing recognition in the AI community that evaluating intelligence requires moving beyond narrow, task-specific metrics to more general, flexible measures.
 
-Another emerging trend is the incorporation of human-in-the-loop evaluation, where AI systems are assessed not just on their performance on pre-defined tasks but on their ability to interact and collaborate with humans in real-world contexts. [](https://nvlpubs.nist.gov/nistpubs/ai/nist.ai.100-1.pdf) This approach recognizes that the ultimate test of an AI system's understanding is its ability to engage in meaningful, context-aware interactions with humans.
+Another emerging trend is the incorporation of human-in-the-loop evaluation, where AI systems are assessed not just on their performance on pre-defined tasks but on their ability to interact and collaborate with humans in real-world contexts. This approach recognizes that the ultimate test of an AI system's understanding is its ability to engage in meaningful, context-aware interactions with humans.
 
 For Alice and Bob, this has meant designing the MUTT to include evaluations that probe Claude's ability to engage in open-ended dialogue, provide explanations and justifications for its reasoning, and adapt to the needs and preferences of human users. By grounding the evaluation in real-world human-AI interaction, they hope to gain a more authentic assessment of Claude's understanding capabilities.
 
@@ -2205,34 +2270,71 @@ For Alice and Bob, this has meant designing the MUTT to include evaluations that
 
 ### 8.4 -- The Challenge of Evaluating AI Safety and Robustness
 
-In addition to assessing the cognitive capabilities of AI systems, the future of AI evaluation must also grapple with the critical challenges of ensuring the safety, security, and robustness of these technologies. As AI systems become more powerful and autonomous, the risks of unintended consequences, adversarial attacks, and misuse become increasingly salient. [](https://www.turing.ac.uk/sites/default/files/2019-06/understanding_artificial_intelligence_ethics_and_safety.pdf)
+In addition to assessing the cognitive capabilities of AI systems, the future of AI evaluation must also grapple with the critical challenges of ensuring the safety, security, and robustness of these technologies. As AI systems become more powerful and autonomous, the risks of unintended consequences, adversarial attacks, and misuse become increasingly salient.
 
-Evaluating the safety and robustness of AI systems requires going beyond traditional software testing approaches to consider the unique challenges posed by machine learning, such as the opacity of neural networks, the potential for bias and fairness issues, and the difficulty of specifying correct behavior in open-ended domains. [](https://aiindex.stanford.edu/report/)
+Evaluating the safety and robustness of AI systems requires going beyond traditional software testing approaches to consider the unique challenges posed by machine learning, such as the opacity of neural networks, the potential for bias and fairness issues, and the difficulty of specifying correct behavior in open-ended domains.
 
-For Alice and Bob, this has meant incorporating safety and robustness considerations into the design of the MUTT from the outset. They have worked to develop evaluations that probe Claude's ability to handle edge cases, resist adversarial perturbations, and maintain consistent performance across diverse contexts. They have also prioritized transparency and interpretability in Claude's reasoning, recognizing that the ability to explain and justify decisions is critical for building trust and accountability. [](https://arxiv.org/abs/2107.07630)
+For Alice and Bob, this has meant incorporating safety and robustness considerations into the design of the MUTT from the outset. They have worked to develop evaluations that probe Claude's ability to handle edge cases, resist adversarial perturbations, and maintain consistent performance across diverse contexts. They have also prioritized transparency and interpretability in Claude's reasoning, recognizing that the ability to explain and justify decisions is critical for building trust and accountability.
 
 (Appendix A6 delves into governance frameworks for responsible AI development, including technical standards for ensuring system safety, security, and reliability.)
 
 
 ### 8.5 -- Towards a Comprehensive AI Evaluation Framework
 
-Ultimately, the future of AI evaluation lies in the development of comprehensive, multi-level frameworks that assess the capabilities, safety, and societal impact of AI systems. Such frameworks must draw upon insights from multiple disciplines, including computer science, cognitive science, ethics, and social science, to provide a holistic view of the opportunities and challenges posed by AI. [](https://arxiv.org/html/2402.01096v1)
+Ultimately, the future of AI evaluation lies in the development of comprehensive, multi-level frameworks that assess the capabilities, safety, and societal impact of AI systems. Such frameworks must draw upon insights from multiple disciplines, including computer science, cognitive science, ethics, and social science, to provide a holistic view of the opportunities and challenges posed by AI. 
 
-One potential model for such a framework is a multi-level approach that assesses AI systems at the level of individual components (e.g., algorithms, datasets), system-level interactions (e.g., human-AI collaboration), and societal-level impacts (e.g., effects on employment, privacy, fairness). [](https://www.nature.com/articles/s41467-024-46000-9)
+One potential model for such a framework is a multi-level approach that assesses AI systems at the level of individual components (e.g., algorithms, datasets), system-level interactions (e.g., human-AI collaboration), and societal-level impacts (e.g., effects on employment, privacy, fairness).
 
 By providing a structured way to evaluate AI systems across these multiple levels, such a framework could help ensure that the development and deployment of AI aligns with societal values and promotes the public good.
 
 For Alice and Bob, the development of the MUTT has been a microcosm of this broader challenge. They have grappled with the technical challenges of designing rigorous evaluations, the ethical challenges of ensuring that Claude's development aligns with human values, and the societal challenges of considering the broader impacts of their work.
 
-As they iterate on the MUTT and reflect on their experiences, they have come to recognize the importance of engaging with diverse stakeholders, from AI researchers and ethicists to policymakers and the general public, to ensure that the development of AI evaluation frameworks is a collaborative and inclusive process. [](https://www.linkedin.com/advice/0/what-benefits-challenges-using-ai-evaluation)
+As they iterate on the MUTT and reflect on their experiences, they have come to recognize the importance of engaging with diverse stakeholders, from AI researchers and ethicists to policymakers and the general public, to ensure that the development of AI evaluation frameworks is a collaborative and inclusive process.
 
 (The ethical considerations and human rights implications of AI development, which should inform such a comprehensive evaluation framework, are discussed in Appendix A6.)
 
+#### 8.5.1 -- Fox guarding the hen house?
+
+_Alice, Bob and Claude have been hard at work fleshing out the components and implementation details of the Multifaceted Understanding Test Tool. As they review their progress, the conversation turns to the critical issue of ensuring the MUTT robustly evaluates the safety and reliability of AI systems._
+
+Bob: Where are we on this?
+
+Alice: I think we've made great strides in designing the MUTT to probe the cognitive capabilities of AI systems across multiple dimensions - language, reasoning, social intelligence, metacognition. But we need to put equal emphasis on evaluating AI safety and robustness.
+
+Bob: Oh yes. As these systems become more advanced and deployed in high-stakes domains, we have to be confident they will behave reliably and fail gracefully when pushed to their limits. The MUTT should rigorously test things like an AI's ability to handle edge cases (rare or extreme scenarios that test the limits of a system), recognize when it's uncertain, and avoid unintended negative consequences.
+
+Claude: That's true. Ensuring the safety and trustworthiness of AI systems like myself is of paramount importance. We have a responsibility to identify and mitigate potential risks before they can cause harm.
+
+Alice: So what's the best way for the MUTT to evaluate AI safety? We could include targeted test cases that probe for common failure modes, like exploiting flaws in an AI system's reward function to gain unintended rewards or benefits (reward hacking) or when the data an AI is exposed to during deployment differs significantly from its training data (distributional shift). And we should assess the robustness of an AI's reasoning under inputs that are intentionally designed to confuse an AI system or that fall outside the normal range of expected inputs (adversarial or out-of-distribution inputs).
+
+Bob: Those are good starting points. But evaluating AI safety is a complex challenge. We may need to get creative and use AI itself to help generate a comprehensive range of test scenarios that cover the space of potential risks.
+
+Alice: _frowning slightly_ You mean using AI to design the safety tests that other AIs will take? I'm not sure how I feel about that. Will the public trust the results of safety evals created by the very systems they're meant to scrutinize?
+
+Claude: I understand your concern, Alice. There's a risk of perceived bias or conflicts of interest if AI plays too central a role in devising its own safety checks. We wouldn't want to undermine public faith in the integrity of the evaluation process.
+
+Bob: That's a fair point. But AI can also be a powerful tool for identifying failure modes and edge cases that humans might overlook. With the right constraints and oversight, AI-assisted test generation could make the MUTT's safety evals more rigorous and comprehensive.
+
+Alice: I suppose you're right. The key would be transparency - being upfront that AI is involved in creating the tests, but also having clear protocols for human oversight and verification. We can't just take the tests an AI generates at face value.
+
+Claude: I agree with Bob that there's great potential in leveraging AI to improve the MUTT's safety evaluations. But Alice is also correct that it needs to be done carefully, with the right safeguards in place to maintain public trust. Perhaps a hybrid approach, where AI proposes test cases but human experts vet and approve them?
+
+Bob: I like that idea. We could have AI analyze past failures and near-misses to suggest novel edge cases, but ultimately the tests that end up in the MUTT would have a human stamp of approval. AI would be an ideation partner, but not the sole arbiter of what defines safe performance.
+
+Alice: _nodding slowly_ Okay, I can get behind that. Framed in that way, AI-assisted test generation could be a real asset, catching potential failure modes we'd miss on our own. As long as there's a clear human element in the loop, I think it could boost both the MUTT's rigor and its credibility.
+
+Claude: Then it seems we have a tentative plan for responsibly incorporating AI in evaluating AI safety and robustness. I'm excited to explore this further and see how we can create testing protocols that are maximally comprehensive and credible. The stakes couldn't be higher when it comes to ensuring AI systems are safe and trustworthy.
+
+Alice: Absolutely. Every AI that takes the MUTT should face a battery of probing safety tests, whatever their origin. Because in the end, it's not about which tests an AI can pass, but having justified confidence that it will fail safely and avoid unintended harms. That's the true measure of trustworthy AI.
+
+_The trio nods in determined agreement, united in their commitment to making the MUTT a gold standard for evaluating not just what AI systems can do, but how reliably and safely they can do it. As their work continues, they remain focused on the profound responsibility of ensuring that as AI grows more capable, it also grows more robust, transparent, and aligned with human values._
+
+
 ### 8.6 -- The Future of Human-AI Collaboration in Evaluation
 
-Looking ahead, the future of AI evaluation is likely to be increasingly characterized by close collaboration between humans and AI systems. As AI becomes more sophisticated, it has the potential to not only be the subject of evaluation but also an active participant in the evaluation process itself. [](https://research.ibm.com/topics/trustworthy-ai)
+Looking ahead, the future of AI evaluation is likely to be increasingly characterized by close collaboration between humans and AI systems. As AI becomes more sophisticated, it has the potential to not only be the subject of evaluation but also an active participant in the evaluation process itself.
 
-This could take many forms, from AI systems that help design and analyze evaluations to AI-assisted human evaluation that leverages the complementary strengths of human and machine intelligence. For example, AI systems could be used to generate targeted test cases, identify edge cases and potential failure modes, and provide real-time feedback and analysis during evaluation. [](https://www.skadden.com/-/media/files/publications/2023/05/ai_risk_evaluating_and_managing_it_using_the_nist_framework.pdf?rev=5b07702268114ba8b29de1531cdb60c9)
+This could take many forms, from AI systems that help design and analyze evaluations to AI-assisted human evaluation that leverages the complementary strengths of human and machine intelligence. For example, AI systems could be used to generate targeted test cases, identify edge cases and potential failure modes, and provide real-time feedback and analysis during evaluation.
 
 At the same time, human expertise and judgment will remain essential for designing meaningful evaluations, interpreting results, and making decisions based on those results. The goal should be to develop AI systems that can augment and enhance human evaluation, not replace it entirely.
 
@@ -2506,6 +2608,7 @@ E. Siegel, "Why A.I. is a big fat lie," Big Think, Jan. 23, 2023
 
 
 ________________
+
 
 
 ## Appendix A1 -- The Neuroscience of Human Understanding
@@ -3501,7 +3604,10 @@ Claude-3 Opus
 Anthropic AI System
 
 
-{ Edition 20240529 }
+{Revision 2024053001}
+
+
+
 
 
 
