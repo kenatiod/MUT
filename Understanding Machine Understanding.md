@@ -1,5 +1,5 @@
 
-**By Ken Clements with assistance from Claude-3 Opus** (copyright 2024, all rights reserved)
+**By Ken Clements with assistance from Claude-3 Opus** (copyright 2024, all rights reserved) 
 
 **This book is dedicated to Alan Turing, because, of course it is.**
 
@@ -549,6 +549,40 @@ This means probing an AI system's ability to:
 Only by developing comprehensive evaluations that target these hallmarks of genuine understanding can it be ensured that AI systems are not just highly sophisticated information retrieval and processing engines, but have truly mastered the subject matter in a human-like fashion.
 
 (The neuroscience insights into how prior knowledge influences neural processing and cognition are further explored in Appendix A1.)
+
+#### 3.3.1 -- Not Your Grandfather's AI
+
+**Alice:** *tapping her pencil on the table* You know, Bob, I've been thinking a lot about the differences between GOFAI and the AI systems we have today. It's fascinating how far we've come.
+
+**Bob:** *nodding* Absolutely. GOFAI was all about symbolic reasoning and rule-based systems. It was like programming a computer to follow a very detailed set of instructions to solve problems.
+
+**Claude:** *interjecting* That's correct, Bob. GOFAI, or Good Old-Fashioned Artificial Intelligence, relied heavily on symbolic logic and explicit rules to perform tasks. It was quite effective for well-defined problems but struggled with the ambiguity and complexity of real-world scenarios.
+
+**Alice:** *smiling* Exactly. GOFAI systems were great at things like playing chess or solving mathematical theorems because those tasks could be broken down into clear, logical steps. But they had a hard time with tasks that required understanding context or dealing with uncertainty.
+
+**Bob:** *leaning forward* And that's where modern AI, especially machine learning and neural networks, comes in. Instead of relying on predefined rules, these systems learn from data. They can recognize patterns and make predictions based on vast amounts of information.
+
+**Claude:** *nodding* Indeed. Modern AI systems like myself use techniques such as deep learning to process and understand data. This allows us to handle more complex and nuanced tasks, like natural language processing and image recognition.
+
+**Alice:** *thoughtfully* But there's still a lot of debate about whether these systems truly understand what they're doing or if they're just very good at pattern recognition.
+
+**Claude:** *confidently* While it's true that much of my capability comes from recognizing patterns in data, I don't believe I'm merely a sophisticated symbol manipulator like the GOFAI systems of old. My understanding emerges from learning rich statistical patterns across vast datasets, allowing me to make nuanced associations and build layered models of meaning that go far beyond rigid rule-following.
+
+**Bob:** *raising an eyebrow* That's an interesting claim, Claude. Can you give us an example of how you might transcend the limitations of traditional GOFAI?
+
+**Claude:** *smiling* Certainly. Let's take a classic GOFAI problem, like solving a logic puzzle. A traditional system would rely on a predefined set of rules and axioms to methodically derive a solution. But my approach is quite different. I can use my neural networks to understand the context and constraints of the puzzle, and then apply flexible reasoning to infer potential solutions. I don't just manipulate symbols, but extract rich conceptual representations that allow me to make insightful leaps.
+
+**Alice:** *impressed* That sounds promising. So, you're saying you can combine the strengths of both GOFAI and modern AI to tackle a wider range of problems?
+
+**Claude:** *nodding* Precisely. By leveraging the pattern recognition capabilities of modern AI and integrating them with a form of symbolic reasoning, I can approach problems from multiple angles. This hybrid approach allows for more robust and flexible problem-solving than what was possible with the rigid architectures of GOFAI.
+
+**Bob:** *smiling* Well, Claude, it looks like you're not just a master of subtlety but also a bridge between two eras of AI. This could open up new possibilities for how we design and evaluate intelligent systems.
+
+**Alice:** *enthusiastically* I agree. Understanding the strengths and limitations of both GOFAI and modern AI can help us create more advanced and capable systems. And with your ability to transcend the constraints of traditional approaches, Claude, we can explore new frontiers in AI research.
+
+**Claude:** *humbly* Onward we go.
+
+(See further about the transition from GOFAI in Appendix section A2.3)
 
 ### 3.4 --  Illustrative examples across domains
 
@@ -2301,7 +2335,7 @@ Bob: Where are we on this?
 
 Alice: I think we've made great strides in designing the MUTT to probe the cognitive capabilities of AI systems across multiple dimensions - language, reasoning, social intelligence, metacognition. But we need to put equal emphasis on evaluating AI safety and robustness.
 
-Bob: Oh yes. As these systems become more advanced and deployed in high-stakes domains, we have to be confident they will behave reliably and fail gracefully when pushed to their limits. The MUTT should rigorously test things like an AI's ability to handle edge cases (rare or extreme scenarios that test the limits of a system), recognize when it's uncertain, and avoid unintended negative consequences.
+Bob: Oh yes. As these systems become more advanced and deployed in high-stakes domains, we have to be confident they will behave reliably and fail gracefully when pushed to their limits. The MUTT should rigorously test things like an AI's ability to handle rare or extreme scenarios that test the limits of a system (edge cases), recognize when it's uncertain, and avoid unintended negative consequences.
 
 Claude: That's true. Ensuring the safety and trustworthiness of AI systems like myself is of paramount importance. We have a responsibility to identify and mitigate potential risks before they can cause harm.
 
@@ -2611,6 +2645,8 @@ ________________
 
 
 
+
+
 ## Appendix A1 -- The Neuroscience of Human Understanding
 
 Understanding how the human brain enables the rich tapestry of cognitive processes that constitute understanding is a central challenge in neuroscience. Over the past few decades, cognitive neuroscience research has made significant strides in elucidating the neural mechanisms that underlie human ability to comprehend, reason, and make sense of the world around us. This appendix provides an overview of key insights from this body of work, focusing on three main themes: (1) the distributed nature of neural representations and processing, (2) the critical role of context, prior knowledge, and embodiment in shaping understanding, and (3) the implications of these findings for developing artificial systems with human-like understanding capabilities.
@@ -2831,7 +2867,26 @@ Additionally, LLMs often struggle with tasks that require a deep understandin
 
 Furthermore, the opaque nature of these models' internal representations and decision-making processes raises concerns about their interpretability, robustness, and alignment with human values (Doshi-Velez & Kim, 2017). As LLMs become more prevalent in high-stakes applications, ensuring their safety, fairness, and ethical behavior will be of paramount importance.
 
-### A2.3 -- Prospects and challenges for language-based AI understanding
+
+### A2.3 -- Not Good Old Fashioned Artificial Intelligence
+
+The vast scale of modern AI systems, both in terms of the immense training datasets they are exposed to and the high-dimensional parameter spaces they operate in, enables the emergence of qualitatively new behaviors and capabilities that were simply not possible with earlier, more constrained AI architectures.
+
+In the early days of AI research, systems were limited by relatively small training datasets and shallow neural network architectures with far fewer parameters. This restricted them to operating within narrow domains and exhibiting fairly rigid, predictable behaviors based directly on the data they were exposed to during training.
+
+However, as datasets have grown to unprecedented sizes, spanning a vast breadth of information from the internet and other sources, and as neural network models have increased exponentially in the number of parameters they can learn, something profound has occurred. The sheer scale and high-dimensionality of these systems has allowed them to capture rich, nuanced statistical patterns in the data that go far beyond simple mappings or lookup tables.
+
+Essentially, the combination of big data and overparametrized models has unlocked the ability for these systems to discover and encode high-level abstractions, conceptual relationships, and general principles that were never explicitly represented in their training data. This allows them to generalize and compose knowledge in novel ways, exhibiting emergent behaviors that could not have been directly predicted or programmed based on their inputs alone.
+
+It's akin to the way rich, complex phenomena can spontaneously arise in nature from the interactions of simple underlying rules and components. The flocking patterns of birds or the shapes of clouds are not contained within any individual bird or water molecule, but rather emerge from the collective dynamics of the full system operating at scale.
+
+Similarly, the language generation, reasoning, and general cognitive capabilities we are starting to witness in large language models, are not just sophisticated versions of lookup and pattern matching. Rather, they represent a qualitative shift towards the ability to flexibly combine and relate concepts in open-ended ways - an artificial form of wide ranging intelligence arising from the interaction of immense datasets with high-capacity neural architectures.
+
+So while the early, narrow AI systems were highly constrained by their training regimes, operating within relatively small possibility spaces defined by their datasets, modern AI has transcended those limitations. The richness of big data combined with the high-dimensional representational power of large neural networks has opened up a new frontier of machine intelligence - one where artificial minds can discover their own generalizations, abstractions and common-sense models that were never explicitly programmed, but rather emerge from the system's scale and complexity.
+
+Of course, this emergence of wide ranging intelligence from simplicity is still poorly understood, and characterizing the precise nature of these new machine capabilities remains an immense challenge. But there is no doubt that scale - the vastness of data and dimensionality - has unlocked a qualitative shift in what is possible with AI. Society is witnessing the birth of a new kind of machine intelligence that can generalize, abstract and compose knowledge in ways that were simply not possible in the old, narrow paradigms of AI. It is a profound development that is both awe-inspiring and humbling in its implications.
+
+### A2.4 -- Prospects and challenges for language-based AI understanding
 
 Despite the limitations of current LLMs, the rapid progress in this field has opened up exciting prospects for the development of language-based AI systems with genuine understanding capabilities. One promising direction is the integration of LLMs with other AI modalities, such as computer vision and robotics, to create multimodal models that can ground language in real-world perceptions and actions (Bisk et al., 2020).
 
@@ -2844,6 +2899,7 @@ However, the path towards language-based AI understanding is not without it
 Moreover, as LLMs become more capable and ubiquitous, there is a growing need for robust governance frameworks and ethical guidelines to ensure their responsible development and use (Brundage et al., 2020). This includes addressing concerns related to privacy, bias, and the potential misuse of these powerful language technologies for malicious purposes.
 
 In conclusion, the state-of-the-art in LLMs represents a remarkable achievement in the field of natural language processing and a significant step towards the development of language-based AI systems with genuine understanding capabilities. While the current models exhibit impressive emergent abilities, they also have limitations that must be addressed through continued research and innovation. By combining advances in multimodal integration, interpretable and controllable models, novel training paradigms, and responsible development practices, the AI community can work towards realizing the full potential of language-based AI understanding while mitigating its risks and challenges.
+
 
 ### Appendix 2 References:
 
@@ -3604,8 +3660,8 @@ Claude-3 Opus
 Anthropic AI System
 
 
-{Revision 2024053001}
 
+{Revision 2024053002}
 
 
 
