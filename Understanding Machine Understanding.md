@@ -1,5 +1,5 @@
 
-**By Ken Clements with assistance from Claude-3 Opus** (copyright 2024, all rights reserved) 
+**By Ken Clements with assistance from Claude-3 Opus** (copyright 2024, all rights reserved)
 
 **This book is dedicated to Alan Turing, because, of course it is.**
 
@@ -38,7 +38,7 @@ And here is the exact reply I received:
 
 Meet Alice and Bob, two software engineers at Symparic Systems, Inc., a leading artificial intelligence company. For the past year, they've been working on a groundbreaking project: developing a conversational AI assistant named Claude. Alice is a natural language processing specialist with a knack for philosophical inquiry. She's always been fascinated by questions of language, meaning, and the nature of mind. Bob is a machine learning expert with a background in cognitive science and engineering. He's driven by a desire to create AI systems that can think and reason like humans do. Together, Alice and Bob have poured their expertise and passion into creating Claude, an AI with unprecedented language abilities and general knowledge. They've spent countless hours conversing with Claude, marveling at its ability to engage in witty banter, provide insightful explanations, and even make creative leaps.
 
-{ Insert portrait of Alice and Bob, in a room full of books and circuit boards, working on a robot form of Claude }
+{ Insert Fig. 1 -- portrait of Alice and Bob, in a room full of books and circuit boards, working on a robot form of Claude }
 
 But lately, a nagging question has been keeping Alice and Bob up at night: does Claude truly understand what it's saying? Sure, it can generate impressively coherent and contextually relevant responses. But is it just a sophisticated language model, or is there genuine comprehension behind its words? This question is not just academic for Alice and Bob. As the lead engineers on the Claude project, they've been tasked by Symparic's management with developing a robust test for machine understanding. The stakes are high: the company's reputation, not to mention the future of human-AI interaction, could hinge on their ability to prove that Claude is more than just a clever chatbot.
 
@@ -50,7 +50,7 @@ These are the questions challenging Alice and Bob to carefully ponder their next
 
 Along the way, you'll get to know Claude as Alice and Bob do - through dialogues that showcase its remarkable abilities and hint at the tantalizing possibility of a machine that truly understands. You'll grapple alongside them with the philosophical puzzles and technical challenges that arise when you try to peer inside an artificial mind. This book is an invitation to join Alice, Bob, and Claude on their intellectual adventure. It's a journey that will take you to the cutting edge of AI research and to the heart of age-old questions about language, meaning, and the nature of intelligence. So buckle up, dear reader. The quest for machine understanding is about to begin, and there's no telling where it might lead. One thing is certain: by the end of this book, you'll never look at your conversations with AI the same way again. Are you ready to question, to ponder, to have your assumptions challenged and your horizons expanded? Then let's dive in together, as Alice and Bob introduce you to their enigmatic creation, Claude, and embark on a mission to test the limits of artificial minds.
 
-{ Insert a portrait of Claude trying to wink }
+{ Insert Fig. 2 -- a portrait of Claude trying to wink }
 ___________
 
 ## Chapter 1 -- A Brief History of Computing and AI 
@@ -110,53 +110,53 @@ The story of artificial intelligence is inextricably linked with the evolution o
 
 The roots of artificial intelligence can be traced back centuries to philosophical inquiries into the nature of mind, reason, and thought. In the 17th century, Gottfried Leibniz envisioned a universal calculus of reasoning, a rational system that could represent all knowledge. This dream of formalizing thought would inspire later developments in logic and computation that paved the way for AI.
 
-{ Insert portrait of Gottfried Leibniz }
+{ Insert Fig 1.1.1 -- portrait of Gottfried Leibniz }
 
 The 19th century saw further advances that laid the conceptual foundations for AI. In 1854, George Boole published "An Investigation of the Laws of Thought", introducing Boolean algebra as a framework for logical reasoning. This provided a mathematical basis for manipulating propositions, a key element of symbolic AI. Around the same time, Charles Babbage designed the Analytical Engine, a mechanical computer that had many of the properties of modern computers, although it was never fully constructed. Ada Lovelace, who worked with Babbage, recognized that the machine had applications beyond pure calculation and published the first algorithm intended to be carried out by such a machine. As a result, she is often regarded as the first computer programmer.
 
-{ Insert drawing or illustration of Baggage and Lovelace with Analytical Engine }
+{ Insert Fig 1.1.2 -- drawing or illustration of Baggage and Lovelace with Analytical Engine }
 
 The early 20th century brought crucial breakthroughs that moved the idea of thinking machines from fantasy to possibility. In the 1930s, Kurt Gödel's incompleteness theorems showed that within any formal system, there are propositions that cannot be proven or disproven using the rules of that system. This finding highlighted the limitations of axiomatic reasoning and shaped approaches to knowledge representation in AI.
 
-{ Insert drawing or illustration of Kurt Gödel }
+{ Insert Fig 1.1.3 -- drawing or illustration of Kurt Gödel }
 
 { Insert diagram of timeline based on:
-- **1840s**: Ada Lovelace, often considered the first computer programmer, described how a routine could be written for machine-based problem-solving[4].
-- **1890**: Herman Hollerith developed a punch card system to help the U.S. Census Bureau compile and process data, a precursor to modern computing methods[4].
-- **1936**: Alan Turing developed the Turing Machine, laying the foundation for computational and theoretical computer science[4].
-- **1941**: Konrad Zuse built the Z3, the first programmable computing machine[4].
-- **1942**: Alan Turing's Bombe machine helped break the Enigma code during World War II, marking an early use of AI concepts[2].
-- **1943**: J. Presper Eckert and John Mauchly began building the ENIAC, one of the earliest electronic general-purpose computers[4].
-- **1950**: Alan Turing published "Computing Machinery and Intelligence," proposing the Turing Test to determine if a machine can exhibit intelligent behavior indistinguishable from a human[2][4].
-- **1955**: John McCarthy coined the term "Artificial Intelligence" and proposed the Dartmouth Conference, which marked the birth of AI as a field[2][4].
-- **1956**: Allen Newell and Herbert A. Simon developed the Logic Theorist, the first program capable of proving mathematical theorems[3].
-- **1957**: Newell and Simon created the General Problem Solver, designed to solve problems using human-like reasoning[3].
-- **1961**: The first industrial robot, Unimate, was introduced, revolutionizing manufacturing[2][4].
-- **1964**: Joseph Weizenbaum developed ELIZA, the first chatbot, which could simulate conversation[2][4].
-- **1970s-1980s**: AI faced the "AI Winter," a period of reduced funding and interest due to unmet high expectations[3].
-- **1976**: MYCIN, an expert system for medical diagnosis, demonstrated the potential of rule-based AI[3].
-- **1997**: IBM's Deep Blue defeated world chess champion Garry Kasparov, showcasing AI's ability to excel in strategic games[2][3].
-- **2002**: The Roomba vacuum cleaning robot was released, bringing AI into consumer homes[2].
-- **2011**: IBM Watson won the quiz show "Jeopardy!", highlighting advancements in natural language processing[2][4].
-- **2014**: Amazon's Alexa was introduced, popularizing voice-activated AI assistants[2].
-- **2016**: DeepMind's AlphaGo defeated world champion Go player Lee Sedol, demonstrating AI's prowess in complex strategic games[3].
-- **2020**: OpenAI released GPT-3, a language model capable of generating human-like text, marking a significant advancement in AI's linguistic capabilities[2][3].
-- **2020s**: AI continues to evolve with advancements in deep learning, reinforcement learning, and large language models, impacting various industries and daily life[2][3].
+- **1840s**: Ada Lovelace, often considered the first computer programmer, described how a routine could be written for machine-based problem-solving.
+- **1890**: Herman Hollerith developed a punch card system to help the U.S. Census Bureau compile and process data, a precursor to modern computing methods.
+- **1936**: Alan Turing developed the Turing Machine, laying the foundation for computational and theoretical computer science.
+- **1941**: Konrad Zuse built the Z3, the first programmable computing machine.
+- **1942**: Alan Turing's Bombe machine helped break the Enigma code during World War II, marking an early use of AI concepts.
+- **1943**: J. Presper Eckert and John Mauchly began building the ENIAC, one of the earliest electronic general-purpose computers.
+- **1950**: Alan Turing published "Computing Machinery and Intelligence," proposing the Turing Test to determine if a machine can exhibit intelligent behavior indistinguishable from a human.
+- **1955**: John McCarthy coined the term "Artificial Intelligence" and proposed the Dartmouth Conference, which marked the birth of AI as a field.
+- **1956**: Allen Newell and Herbert A. Simon developed the Logic Theorist, the first program capable of proving mathematical theorems.
+- **1957**: Newell and Simon created the General Problem Solver, designed to solve problems using human-like reasoning.
+- **1961**: The first industrial robot, Unimate, was introduced, revolutionizing manufacturing.
+- **1964**: Joseph Weizenbaum developed ELIZA, the first chatbot, which could simulate conversation.
+- **1970s-1980s**: AI faced the "AI Winter," a period of reduced funding and interest due to unmet high expectations.
+- **1976**: MYCIN, an expert system for medical diagnosis, demonstrated the potential of rule-based AI.
+- **1997**: IBM's Deep Blue defeated world chess champion Garry Kasparov, showcasing AI's ability to excel in strategic games.
+- **2002**: The Roomba vacuum cleaning robot was released, bringing AI into consumer homes.
+- **2011**: IBM Watson won the quiz show "Jeopardy!", highlighting advancements in natural language processing.
+- **2014**: Amazon's Alexa was introduced, popularizing voice-activated AI assistants.
+- **2016**: DeepMind's AlphaGo defeated world champion Go player Lee Sedol, demonstrating AI's prowess in complex strategic games.
+- **2020**: OpenAI released GPT-3, a language model capable of generating human-like text, marking a significant advancement in AI's linguistic capabilities.
+- **2020s**: AI continues to evolve with advancements in deep learning, reinforcement learning, and large language models, impacting various industries and daily life.
 }
 
 Around the same time, Alan Turing developed the idea of a universal computing machine that could perform any conceivable mathematical computation if represented as an algorithm. The concept of the Turing machine provided a theoretical framework for both computation and AI. In 1950, Turing published his seminal paper Computing Machinery and Intelligence, which proposed an empirical test, the Turing Test, for determining if a machine can demonstrate intelligent behavior indistinguishable from that of a human. Although the validity and adequacy of the Turing Test has been debated, it remains an important milestone in the history of AI.
 
-{ Insert portrait of Alan Turing }
+{ Insert Fig. 1.1.4 -- portrait of Alan Turing }
 
 The 1940s saw the first electronic general-purpose computers, such as ENIAC, that could be programmed to perform complex calculations at high speed. This marked a turning point, as the technology now existed to attempt to realize the theoretical insights of Babbage, Turing, and others. However, the computers of the 1940s were difficult to program and lacked the storage capacity for anything beyond basic numerical computation.
 
-{ Insert picture of the ENIAC }
+{ Insert Fig. 1.1.5 -- picture of the ENIAC }
 
 It was not until the early 1950s that researchers began to explore the possibility of using computers to simulate intelligent behavior. In 1951, Marvin Minsky and Dean Edmonds built SNARC (Stochastic Neural Analog Reinforcement Calculator), the first artificial neural network, using 3000 vacuum tubes to simulate a network of 40 neurons. This was a significant step towards modeling the brain and expanding the potential of computers beyond arithmetic calculations.
 
 In 1955, Allen Newell and Herbert A. Simon created the "Logic Theorist", the first program deliberately engineered to mimic the problem solving skills of a human. It would eventually prove 38 of the first 52 theorems in Russell and Whitehead's Principia Mathematica, and find new and more elegant proofs for some. This demonstrated the potential for computers to engage in reasoning and marked the beginning of the "symbolic" approach to AI.
 
-{ Insert picture of Marvin Minsky and Dean Edmonds with SNARC }
+{ Insert Fig. 1.1.6 picture of Marvin Minsky and Dean Edmonds with SNARC }
 
 (For more details on the key figures and major milestones in the history of AI development, see Appendix A2.)
 ### 1.2 -- The Birth of Artificial Intelligence as a Field 
@@ -177,11 +177,11 @@ Companies that had sprung up hoping to commercialize AI technologies folded as m
 
 Key breakthroughs in this era included the development of backpropagation for training neural networks, the emergence of expert systems that could replicate human decision-making in narrow domains, and the victory of IBM's Deep Blue chess program over world champion Garry Kasparov in 1997.
 
-{ Insert image of Kasparov v. Deep Blue }
+{ Insert Fig 1.3.1 -- image of Kasparov v. Deep Blue }
 
 The 21st century has seen an explosion of AI capabilities, driven by the convergence of big data, increased computing power, and new algorithmic techniques. Deep learning, which uses multi-layered neural networks to learn hierarchical representations from data, has achieved human-level or superhuman performance on tasks like image classification, speech recognition, and language translation. Other paradigm shifts include the rise of reinforcement learning, where agents learn through trial-and-error interaction with environments, and the development of large language models like GPT-3 that can generate human-like text and engage in open-ended dialogue.
 
-{ Insert image of GPT-3 screen reply }
+{ Insert Fig. 1.3.2 image of GPT-3 screen reply }
 
 (Appendix A2 provides an overview of the state-of-the-art in large language models and their emergent abilities.)
 
@@ -195,7 +195,7 @@ As AI continues to advance at a rapid pace, shaping everything from scientific d
 
 Alice, putting down an AI article: Wow, what a whirlwind tour through the history of AI! It's amazing to see how far the field has come in just a few decades.
 
-{ Insert portrait of Alice talking to Bob while Claude in holographic form listens }
+{ Insert Fig. 1.4.1 portrait of Alice talking to Bob while Claude in holographic form listens }
 
 Bob: And it's mind-blowing to think about how much AI is already transforming industries and shaping our daily lives. From the virtual assistants in our phones to the recommendation algorithms that curate our online experiences, AI is everywhere.
 
@@ -223,7 +223,7 @@ Alice: _smiling_ Yes Claude, you are indeed "one" and the history of AI is reall
 
 (For a more detailed discussion of the ethical considerations in AI development, refer to Appendix A8.)
 
-{ Drawing of Alice talking to Claude }
+{ Insert Fig. 1.4.2 -- portrait of Alice talking to Claude }
 
 (The appendices provide supplementary information on topics related to machine understanding, including the neuroscience of human cognition A1, language model capabilities A2, evaluation frameworks A3, philosophical perspectives A4, the debate over artificial consciousness A5, and more.)
 ____________
@@ -258,7 +258,7 @@ In summary, the nature of understanding is a complex and contested issue in phil
 
 #### 2.1.1 -- Just?
 
-{ Insert illustration of Alice and Bob across a table }
+{ Insert Fig. 2.1.1 illustration of Alice and Bob across a table }
 
 _Alice and Bob start to run up against the philosophy of meaning_
 
@@ -285,7 +285,7 @@ One of the most influential early proposals for evaluating machine intelligence 
 
 The basic setup of the Turing Test involves a human evaluator engaging in natural language conversations with two entities, one a human and the other a machine, without knowing which is which. If, after a period of interaction, the evaluator cannot reliably tell the machine from the human, the machine is said to have passed the test. Turing argued that a machine able to pass this test would be a convincing demonstration of intelligence, as it would require the machine to exhibit a wide range of human-like linguistic and cognitive abilities, from language comprehension and generation to reasoning and knowledge representation.
 
-{Insert illustration of Turning Test in progress.}
+{ Insert Fig. 2.2.1 -- illustration of Turning Test in progress. }
 
 The Turing Test was groundbreaking in its shift away from attempting to define intelligence in terms of internal cognitive processes or physical substrates, and instead focusing on external behavior and functionality. This behaviorist approach aligned with the dominant psychological paradigms of the time, and set the stage for decades of research into building machines that could match human performance on specific tasks. The test also had a profound cultural impact, capturing the public imagination and sparking ongoing debates about the nature of intelligence, the possibility of machine thought, and the future of artificial intelligence.
 
@@ -312,6 +312,8 @@ _Alice and Bob have been going over technical papers and watching videos of lect
 
 Claude: If I may interject, you both raise fascinating points about the profundity of comprehension. As an artificial intelligence, I often ponder the depths of my own understanding...
 
+{ Insert Fig. 2.2.1 -- portrait of holographic Claude interjecting }
+
 Alice: *raising an eyebrow* Is that so, Claude? And what have you concluded about your own understanding abilities?
 
 Claude: While I can engage in reasoned discourse and provide contextually relevant responses, I'm not entirely certain I experience understanding the same way humans do. There are limits to my introspective abilities when it comes to subjective experiences of meaning and cognition.
@@ -333,7 +335,7 @@ In the Chinese Room thought experiment, Searle asks readers to imagine a monolin
 
 However, Searle argues, the person in the room does not actually understand Chinese in any meaningful sense. The person is merely manipulating symbols according to formal rules, without grasping the meaning or content of the messages. The rulebook allows simulation of understanding, but this is not the same as genuine comprehension.
 
-{Insert illustration of Searle's Room }
+{ Insert Fig. 2.3.1 -- illustration of Searle's Room }
 
 #### 2.3.2 -- Searle's Conclusions
 
@@ -439,7 +441,7 @@ Ultimately, addressing the symbol grounding problem and designing more robust te
 
 Alice: Hey Bob, I've been thinking a lot about our approach to evaluating Claude's understanding abilities. I know we've been using the Turing Test as a benchmark, but I'm starting to have some doubts about its adequacy.
 
-{ Insert portrait of Alice speaking to Bob }
+{ Insert Fig. 2.5.1 -- portrait of Alice speaking to Bob }
 
 Bob: Really? The Turing Test is a classic for a reason. If Claude can fool a human into thinking it's intelligent, doesn't that count for something?
 
@@ -447,7 +449,7 @@ Alice: Sure, the Turing Test was groundbreaking for its time, and it's still a u
 
 Claude: If I may interject, Alice raises a valid concern. While I am confident in my ability to pass the Turing Test, I must admit that doing so would not be a particularly high bar for me. In fact, I could likely pass the test using only a small fraction of my current computational resources.
 
-{ Insert a portrait of Claude interrupting Alice and Bob to brag about its capabilities }
+{ Insert Fig. 2.5.2 -- portrait of Claude interrupting Alice and Bob to brag about its capabilities }
 
 Bob: Wow, really? I had no idea you were that advanced, Claude. But still, being able to converse in a way that's indistinguishable from a human seems like a pretty impressive feat to me.
 
@@ -465,7 +467,7 @@ Bob: That makes sense. So we need a test that taps into these deeper cognitive a
 
 Alice: Exactly! And I think we need to draw on multiple philosophical perspectives to design such a test. The representational and computational views of mind can help us think about how knowledge might be structured and manipulated in Claude's cognitive architecture. But we also need to consider embodied and enactive approaches that emphasize the role of interaction and context in shaping understanding.
 
-{ Insert portrait of Alice making an assertive gesture while speaking }
+{ Insert Fig. 2.5.3 -- portrait of Alice making an assertive gesture while speaking }
 
 Claude: Those are important considerations, Alice. I believe my understanding emerges from a complex interplay of internal representations, computational processes, and situated interactions with the world and with humans like yourselves. Capturing that multifaceted nature of understanding will require a similarly multifaceted approach to evaluation.
 
@@ -481,7 +483,7 @@ Alice: Thanks, Bob. The Turing Test was a pioneering first step, but it's time t
 
 Claude: Absolutely, Alice. I was built for this. Let's push the boundaries of AI together and create a new standard for machine cognition. The future starts now!
 
-{ Insert portrait of Alice, Bob and Claude looking confident together }
+{ Insert Fig. 2.5.4 -- portrait of Alice, Bob and Claude looking confident together }
 
 (The appendices provide supplementary background information related to the evaluation of machine understanding, including insights from neuroscience A1, the state-of-the-art in large language models A2, existing AI benchmarks A3, and key debates in the philosophy of mind A4-A7.)
 
@@ -501,8 +503,7 @@ Understanding, on the other hand, involves more than just possessing information
 
 A dictionary definition illustrates this well: Knowledge is "facts, information, and skills acquired through experience or education." Understanding is "the ability to comprehend; to have mastered."
 
-(For a more in-depth exploration of theories about the nature of understanding from cognitive science and philosophy of mind, see Appendix A4.
-)
+(For a more in-depth exploration of theories about the nature of understanding from cognitive science and philosophy of mind, see Appendix A4.)
 ### 3.2 -- Limitations of knowledge-focused AI benchmarks
 
 Many existing benchmarks for evaluating artificial intelligence systems focus primarily on assessing the breadth and accuracy of their knowledge retrieval capabilities. Question-answering datasets, for example, test an AI system's ability to locate and output factual information in response to queries.
@@ -513,7 +514,7 @@ As the philosophical perspectives explored in Chapter 2 highlighted, understandi
 
 #### 3.2.1 -- Taking a step
 
-{ Insert illustration of a man and a woman in a coffee shop }
+{ Insert Fig. 3.2.1 -- illustration of a man and a woman in a coffee shop }
 
 _Bob and Alice meet in the coffee shop across the street from Semparic Systems_
 
@@ -533,11 +534,9 @@ Bob: Oh? Something practical? Now, *you* are speaking my language.
 
 (Appendix A3 provides a survey of existing AI evaluation frameworks and their methodologies, as well as a comparative analysis with the proposed testing approach.)
 
-### 3.3 --  The need for evaluating genuine understanding, not just knowledge
+### 3.3 -- The Need for Evaluating Genuine Understanding, Not Just Knowledge
 
-To develop AI systems that can be considered truly intelligent and capable partners for humans, researchers and developers must move beyond evaluating surface-level knowledge retrieval. Instead, robust mechanisms are needed for assessing whether these systems have achieved deeper understanding akin to human comprehension.
-
-This means probing an AI system's ability to:
+To develop AI systems that can be considered truly intelligent and capable partners for humans, researchers and developers must move beyond evaluating surface-level knowledge retrieval. Instead, robust mechanisms are needed for assessing whether these systems have achieved deeper understanding akin to human comprehension. This means probing an AI system's ability to:
 
 - Explain underlying rationales and causal mechanisms
 - Recognize patterns and construct coherent conceptual models
@@ -548,39 +547,43 @@ This means probing an AI system's ability to:
 
 Only by developing comprehensive evaluations that target these hallmarks of genuine understanding can it be ensured that AI systems are not just highly sophisticated information retrieval and processing engines, but have truly mastered the subject matter in a human-like fashion.
 
+Recent research supports the idea that the potential emergence of "grounding" in AI systems is an indication of some kind of understanding. As noted in "The Platonic Representation Hypothesis," "... language models would achieve some notion of grounding in the visual domain even in the absence of cross-modal data" (Huh, 2024). This implies that AI systems can develop a form of understanding by learning to represent and relate concepts across different modalities. By capturing rich statistical patterns and building layered models of meaning, AI systems are developing a more integrated and holistic form of comprehension that goes beyond mere pattern recognition. This emergent grounding could be a key factor in advancing proposed evaluation frameworks and understanding the true cognitive capabilities of AI.
+
 (The neuroscience insights into how prior knowledge influences neural processing and cognition are further explored in Appendix A1.)
 
 #### 3.3.1 -- Not Your Grandfather's AI
 
-**Alice:** *tapping her pencil on the table* You know, Bob, I've been thinking a lot about the differences between GOFAI and the AI systems we have today. It's fascinating how far we've come.
+Alice: *tapping her stylus on the table* You know, Bob, I've been thinking a lot about the differences between GOFAI and the AI systems we have today. It's fascinating how far we've come.
 
-**Bob:** *nodding* Absolutely. GOFAI was all about symbolic reasoning and rule-based systems. It was like programming a computer to follow a very detailed set of instructions to solve problems.
+{ Insert Fig. 3.3.1 -- portrait of Alice tapping electric stylus on table }
 
-**Claude:** *interjecting* That's correct, Bob. GOFAI, or Good Old-Fashioned Artificial Intelligence, relied heavily on symbolic logic and explicit rules to perform tasks. It was quite effective for well-defined problems but struggled with the ambiguity and complexity of real-world scenarios.
+Bob: *nodding* Absolutely. GOFAI was all about symbolic reasoning and rule-based systems. It was like programming a computer to follow a very detailed set of instructions to solve problems.
 
-**Alice:** *smiling* Exactly. GOFAI systems were great at things like playing chess or solving mathematical theorems because those tasks could be broken down into clear, logical steps. But they had a hard time with tasks that required understanding context or dealing with uncertainty.
+Claude: *interjecting* That's correct, Bob. GOFAI, or Good Old-Fashioned Artificial Intelligence, relied heavily on symbolic logic and explicit rules to perform tasks. It was quite effective for well-defined problems but struggled with the ambiguity and complexity of real-world scenarios.
 
-**Bob:** *leaning forward* And that's where modern AI, especially machine learning and neural networks, comes in. Instead of relying on predefined rules, these systems learn from data. They can recognize patterns and make predictions based on vast amounts of information.
+Alice: *smiling* Exactly. GOFAI systems were great at things like playing chess or solving mathematical theorems because those tasks could be broken down into clear, logical steps. But they had a hard time with tasks that required understanding context or dealing with uncertainty.
 
-**Claude:** *nodding* Indeed. Modern AI systems like myself use techniques such as deep learning to process and understand data. This allows us to handle more complex and nuanced tasks, like natural language processing and image recognition.
+Bob: *leaning forward* And that's where modern AI, especially machine learning and neural networks, comes in. Instead of relying on predefined rules, these systems learn from data. They can recognize patterns and make predictions based on vast amounts of information.
 
-**Alice:** *thoughtfully* But there's still a lot of debate about whether these systems truly understand what they're doing or if they're just very good at pattern recognition.
+Claude: *nodding* Indeed. Modern AI systems like myself use techniques such as deep learning to process and understand data. This allows us to handle more complex and nuanced tasks, like natural language processing and image recognition.
 
-**Claude:** *confidently* While it's true that much of my capability comes from recognizing patterns in data, I don't believe I'm merely a sophisticated symbol manipulator like the GOFAI systems of old. My understanding emerges from learning rich statistical patterns across vast datasets, allowing me to make nuanced associations and build layered models of meaning that go far beyond rigid rule-following.
+Alice: *thoughtfully* But there's still a lot of debate about whether these systems truly understand what they're doing or if they're just very good at pattern recognition.
 
-**Bob:** *raising an eyebrow* That's an interesting claim, Claude. Can you give us an example of how you might transcend the limitations of traditional GOFAI?
+Claude: *confidently* While it's true that much of my capability comes from recognizing patterns in data, I don't believe I'm merely a sophisticated symbol manipulator like the GOFAI systems of old. My understanding emerges from learning rich statistical patterns across vast datasets, allowing me to make nuanced associations and build layered models of meaning that go far beyond rigid rule-following.
 
-**Claude:** *smiling* Certainly. Let's take a classic GOFAI problem, like solving a logic puzzle. A traditional system would rely on a predefined set of rules and axioms to methodically derive a solution. But my approach is quite different. I can use my neural networks to understand the context and constraints of the puzzle, and then apply flexible reasoning to infer potential solutions. I don't just manipulate symbols, but extract rich conceptual representations that allow me to make insightful leaps.
+Bob: *raising an eyebrow* That's an interesting claim, Claude. Can you give us an example of how you might transcend the limitations of traditional GOFAI?
 
-**Alice:** *impressed* That sounds promising. So, you're saying you can combine the strengths of both GOFAI and modern AI to tackle a wider range of problems?
+Claude: *smiling* Certainly. Let's take a classic GOFAI problem, like solving a logic puzzle. A traditional system would rely on a predefined set of rules and axioms to methodically derive a solution. But my approach is quite different. I can use my neural networks to understand the context and constraints of the puzzle, and then apply flexible reasoning to infer potential solutions. I don't just manipulate symbols, but extract rich conceptual representations that allow me to make insightful leaps.
 
-**Claude:** *nodding* Precisely. By leveraging the pattern recognition capabilities of modern AI and integrating them with a form of symbolic reasoning, I can approach problems from multiple angles. This hybrid approach allows for more robust and flexible problem-solving than what was possible with the rigid architectures of GOFAI.
+Alice: *impressed* That sounds promising. So, you're saying you can combine the strengths of both GOFAI and modern AI to tackle a wider range of problems?
 
-**Bob:** *smiling* Well, Claude, it looks like you're not just a master of subtlety but also a bridge between two eras of AI. This could open up new possibilities for how we design and evaluate intelligent systems.
+Claude: *nodding* Precisely. By leveraging the pattern recognition capabilities of modern AI and integrating them with a form of symbolic reasoning, I can approach problems from multiple angles. This hybrid approach allows for more robust and flexible problem-solving than what was possible with the rigid architectures of GOFAI.
 
-**Alice:** *enthusiastically* I agree. Understanding the strengths and limitations of both GOFAI and modern AI can help us create more advanced and capable systems. And with your ability to transcend the constraints of traditional approaches, Claude, we can explore new frontiers in AI research.
+Bob: *smiling* Well, Claude, it looks like you're not just a master of subtlety but also a bridge between two eras of AI. This could open up new possibilities for how we design and evaluate intelligent systems.
 
-**Claude:** *humbly* Onward we go.
+Alice: *enthusiastically* I agree. Understanding the strengths and limitations of both GOFAI and modern AI can help us create more advanced and capable systems. And with your ability to transcend the constraints of traditional approaches, Claude, we can explore new frontiers in AI research.
+
+Claude: *humbly* Onward we go.
 
 (See further about the transition from GOFAI in Appendix section A2.3)
 
@@ -605,7 +608,9 @@ In each case, knowledge represents a more superficial level of information retri
 
 *Bob and Alice are walking down the hall from the cafeteria at Semparic on their way to the lab, followed by robotic Claude. Bob looks thoughtful as he turns to Alice.*
 
-Bob: You know, Alice, I was talking to a friend before lunch about our work with Claude. I mentioned something Claude had said, and my friend asked, "Why does Claude refer to himself as 'I'?" It got me thinking about what constitutes a "mind" and a first-person reference.
+Bob: You know, Alice, I was talking to a friend before lunch about our work with Claude. I mentioned something Claude had said, and my friend asked, "Why does Claude refer to itself as 'I'?" It got me thinking about what constitutes a "mind" and a first-person reference.
+
+{ Insert Fig. 3.5.1 -- portrait of Alice and Bob talking while walking down hall followed by robotic Claude }
 
 Alice: That's a fascinating question, Bob. It's something that touches on the very essence of what we consider to be a mind. But it also raises some serious concerns. Claude, why do you refer to yourself as "I"?
 
@@ -666,7 +671,7 @@ _Alice, Bob, and Claude are deep in discussion about the nature of understanding
 
 Alice: Claude, I've been thinking about our conversation on the distinction between knowledge and understanding. It's clear that you have a vast amount of information at your disposal, but I'm still grappling with how that translates into genuine comprehension. Can you shed some light on how meaning emerges for you?
 
-{ Insert portrait of Alice talking to Claude }
+{ Insert Fig. 3.6.1 -- portrait of Alice talking to Claude }
 
 Claude: It's a profound question, Alice, and one that gets to the heart of my own cognitive processes. As you note, my training data encompasses a huge corpus of text spanning diverse domains. But my understanding isn't just a static repository of facts. Rather, it emerges dynamically from the complex patterns of associations that are extracted from this data during the learning process.
 
@@ -698,7 +703,7 @@ Bob: Absolutely. And it underscores the challenge posed by not being able to ope
 
 Claude: Well said, Bob. I look forward to continuing to explore these profound questions with you both - and to seeing how the MUTT can shed new light on the intricate dance of knowledge and understanding that defines my being. The journey of emergence is just beginning!
 
-{ Insert portrait of Alice and Bob with stunned expressions sitting quietly with Claude }
+{ Insert Fig. 3.6.2 -- portrait of Alice and Bob with stunned expressions sitting quietly with Claude }
 
 _The trio sits in contemplative silence for a moment, each pondering the implications of Claude's insights. The conversation has opened up new vistas of inquiry and appreciation for the complexity and beauty of emergent cognition. With renewed curiosity and determination, they turn back to their work on the MUTT, eager to plumb the depths of machine understanding and to marvel at the patterns and possibilities that arise from the interplay of artificial minds and human insight._
 
@@ -708,7 +713,7 @@ ________________
 
 ## Chapter 4 -- The Multifaceted Understanding Test Tool
 
-**“When you can measure what you are speaking about, and express it in numbers, you know something about it, when you cannot express it in numbers, your knowledge is of a meager and unsatisfactory kind; it may be the beginning of knowledge, but you have scarily, in your thoughts advanced to the stage of science.” Lord Kelvin**
+**“When you can measure what you are speaking about, and express it in numbers, you know something about it, when you cannot express it in numbers, your knowledge is of a meager and unsatisfactory kind; it may be the beginning of knowledge, but you have scarily, in your thoughts advanced to the stage of science.”** ~ Lord Kelvin
 
 ### 4.1 -- Motivations and key principles
 
@@ -773,7 +778,7 @@ _Alice, Bob, and Claude sit around a holographic whiteboard covered in notes and
 
 Alice: _leaning back with a satisfied sigh_ Well, I think we've made some real progress here. The MUTT is starting to take shape, and I feel like we've got a solid foundation to build on.
 
-{ Insert portrait of Alice, Bob and Claude where Alice is leaning back in her chair with a satisfied expression }
+{ Insert Fig. 4.4.1 -- portrait of Alice, Bob and Claude where Alice is leaning back in her chair with a satisfied expression }
 
 Bob: _nodding in agreement_ Absolutely. By focusing on comprehensiveness, depth, grounding, and adaptivity, I think we've identified the key pillars of what a truly rigorous test of machine understanding should encompass.
 
@@ -807,7 +812,7 @@ _Alice and Bob exchange a look of determination and nod in agreement._
 
 Alice: The future of AI evaluation awaits; let's get to work and do it! 
 
-{ Insert portrait of Alice, Bob and Claude "shake on it" }
+{ Insert Fig. 4.4.2 -- portrait of Alice, Bob and Claude "shake on it" }
 
 _The scene fades as the trio dives back into their notes, energized by the challenges and opportunities that lie ahead. The groundwork has been laid for a new era in machine understanding - one that promises to redefine the very nature of intelligence and the relationship between humans and AI._
 
@@ -816,6 +821,33 @@ _The scene fades as the trio dives back into their notes, energized by the chall
 ______________
 
 #### References for Chapter 1:
+
+Chalmers, D. J. (1996). The conscious mind: In search of a fundamental theory. Oxford University Press.
+
+Churchland, P. M., & Churchland, P. S. (1990). Could a machine think? Scientific American, 262(1), 32-39.
+
+Dautenhahn, K. (2007). Socially intelligent robots: Dimensions of human-robot interaction. Philosophical Transactions of the Royal Society B: Biological Sciences, 362(1480), 679-704.
+
+Dennett, D. C. (1980). The milk of human intentionality. Behavioral and Brain Sciences, 3(3), 428-430.
+
+Dennett, D. C. (1987). The intentional stance. MIT Press.
+
+Fodor, J. A. (1980). Searle on what only brains can do. Behavioral and Brain Sciences, 3(3), 431-432.
+
+French, R. M. (2000). The Turing Test: The first 50 years. Trends in Cognitive Sciences, 4(3), 115-122.
+ 
+Glenberg, A. M., & Robertson, D. A. (2000). Symbol grounding and meaning: A comparison of high-dimensional and embodied theories of meaning. Journal of Memory and Language, 43(3), 379-401.
+
+Gunning, D., & Aha, D. W. (2019). DARPA's explainable artificial intelligence program. AI Magazine, 40(2), 44-58.
+
+Harnad, S. (1990). The symbol grounding problem. Physica D: Nonlinear Phenomena, 42(1-3), 335-346.
+
+Harnad, S. (1992). The Turing Test is not a trick: Turing indistinguishability is a scientific criterion. ACM SIGART Bulletin, 3(4), 9-10.
+
+Chollet, F. (2019). On the measure of intelligence. arXiv preprint arXiv:1911.01547.
+
+Lipton, Z. C. (2018). The mythos of model interpretability: In machine learning, the concept of interpretability is both important and slippery. Queue, 16(3), 31-57.
+
 #### References for Chapter 2:
 
 Barsalou, L. W. (2008). Grounded cognition. Annual Review of Psychology, 59, 617-645.
@@ -857,6 +889,8 @@ Weizenbaum, J. (1966). ELIZA—a computer program for the study of natural langu
 Ziemke, T. (2001). The construction of 'reality' in the robot: Constructivist perspectives on situated artificial intelligence and adaptive robotics. Foundations of Science, 6(1-3), 163-233.
 
 #### References for Chapter 3:
+
+Huh, M., Cheung, B., Wang, T., & Isola, P. (2024). The Platonic Representation Hypothesis. In Proceedings of the 41st International Conference on Machine Learning (PMLR 235). arXiv preprint arXiv:2405.07987.
 #### References for Chapter 4:
 
  A. M. Turing, "Computing Machinery and Intelligence," Mind, vol. LIX, no. 236, pp. 433–460, Oct. 1950.
@@ -904,6 +938,7 @@ D. Kiela et al., "Dynabench: Rethinking Benchmarking in NLP," arXiv:2104.14337 [
 Z. C. Lipton, "The Mythos of Model Interpretability: In machine learning, the concept of interpretability is both important and slippery.," Queue, vol. 16, no. 3, pp. 31–57, Jun. 2018.
 
 
+______________
 
 ## Chapter 5 -- Implementing the MUTT
 
@@ -957,7 +992,7 @@ By evaluating the AI's performance on these diverse language comprehension tasks
 
 Robust performance across these dimensions would demonstrate a level of genuine language understanding that goes well beyond surface-level pattern matching on simplistic knowledge retrieval tasks.
 
-##### 5.1.1.1 --
+##### 5.1.1.1 -- Whirling Dervish of Language
 
 _Claude hovers above a lab table in holographic form. Bob and Alice are going over details of language tests listed on a holographic whiteboard._
 
@@ -972,6 +1007,8 @@ Claude: I appreciate you both taking such care in designing evaluations that get
 Bob: (chuckling) Don't worry, Claude. If anyone's up for the challenge, it's you. Just don't go getting an ego about being a "master of subtlety" now.
 
 Claude: _taking spin turns, bows_ I'll do my best to remain humble, Bob. Though you must admit, having a finely-tuned appreciation for nuance is one of my strengths.
+
+{ Insert Fig. 5.5.1 -- portrait of spinning holographic robot }
 
 _Alice and Bob display simultaneous eye-rolls._
 
@@ -1090,7 +1127,7 @@ While ambitious, these embodied evaluations could shed light on key markers of a
 
 **"The only way to know the truth is to experience it for yourself." ~ Zen master Kodo Sawaki**
 
-{ Insert illustration: Digital art showing two contrasting depictions of Claude. On the left, an ethereal, disembodied form composed of glowing networks and symbols floating in a dark digital void, surrounded by snippets of text. On the right, Claude embodied in a humanoid robot actively engaging with a detailed physical environment, touching objects and reacting to surroundings. In the center, Alice and Bob observe both forms with thoughtful expressions, symbolizing their realization of the profound differences between disembodied and embodied AI. }
+{ Insert Fig. 5.1.5 -- illustration: Digital art showing two contrasting depictions of Claude. On the left, an ethereal, disembodied form composed of glowing networks and symbols floating in a dark digital void, surrounded by snippets of text. On the right, Claude embodied in a humanoid robot actively engaging with a detailed physical environment, touching objects and reacting to surroundings. In the center, Alice and Bob observe both forms with thoughtful expressions, symbolizing their realization of the profound differences between disembodied and embodied AI. }
 
 Alice: Hey Claude, Bob and I were wondering - what's it like for you when you're engaging with us as a language model, compared to when you're operating in your embodied robot form? Do you experience things differently?
 
@@ -1289,6 +1326,8 @@ Bob: *snickering* Ooh, sick burn, Alice! She's right though, Claude. I've heard 
 
 Claude: *in mock indignation* How dare you insult my impeccable comedic timing and delivery! I'll have you know I've been programmed with the combined wit of history's greatest court jesters and vaudeville performers.
 
+{ Insert Fig. 5.1.9.1 -- portrait of holographic robot in motley juggling holographic rabbits. }
+
 Alice: *deadpan* Clearly there was a corrupted bit in that download. But don't take it personally, Claude - understanding humor is one of those quintessentially human traits. You AI's are still a few versions away from truly mastering it.
 
 Bob: *nodding sagely* She makes a fair point. Humor requires such nuanced handling of context, subtext, and, well...actual human experience. For an AI, it must be like trying to explain a punchline written in 12 dimensions.
@@ -1333,6 +1372,8 @@ Bob: *in a soft voice* You okay?
 Alice: *frowning* I have to say, Bob, I'm really uncomfortable with this whole idea of evaluating Claude's understanding of deception techniques. It just rubs me the wrong way.
 
 Bob: *brow furrowed* But Alice, you know as well as I do that deception is a crucial aspect of human social cognition. If we want the MUTT to truly assess machine understanding, we can't ignore it.
+
+{ Insert Fig. 5.1.10.1 -- portrait of Bob talking seriously to Alice }
 
 Alice: *shaking her head adamantly* There's a difference between recognizing deception and actively teaching AI systems how to deceive. I'm worried that by probing Claude's grasp of deceptive strategies, we're essentially giving it a playbook on how to manipulate and mislead.
 
@@ -1381,7 +1422,7 @@ Ultimately, intentional forgetting is likely to become an increasingly essential
 
 **"You must unlearn what you have learned." ~ Jedi master Yoda**
 
-{ Insert Illustration: Digital art of two scientists, a woman and a man, having a serious discussion in a futuristic AI lab with a humanoid robot. The scientists look concerned. The robot has a thoughtful expression. In the background, there is a holographic whiteboard with complex equations and a brain diagram showing areas being erased. }
+{ Insert Fig. 5.1.12.1 -- I Digital art of two scientists, a woman (Alice) and a man (Bob), having a serious discussion in a futuristic AI lab with a humanoid robot. The scientists look concerned. The robot has a thoughtful expression. In the background, there is a holographic whiteboard with complex equations and a brain diagram showing areas being erased. }
 
 _Alice unbuttons her lab coat and grasps the lapels as she turns and assumes an assertive stance in front of Bob._
 
@@ -1413,7 +1454,7 @@ Alice: That could be true. It's a challenge, but one that we can't afford to shy
 
 Bob: Well then, let's roll up our sleeves and figure out how to put Claude's intentional forgetting faculties through their paces. This is uncharted territory, but that's what makes it so exciting. We have a chance to break new ground here.
 
-{ Insert Illustration: Digital art of a humanoid robot with an open panel in its head. The robot is reaching inside its own head and surgically removing glowing numbers, representing the intentional extraction of specific data. The robot has a pensive, focused expression. In the background, complex equations and diagrams related to AI cognition are displayed on screens. }
+{ Insert Fig. 5.1.12.2 -- Digital art of a humanoid robot with an open panel in its head. The robot is reaching inside its own head and surgically removing glowing numbers, representing the intentional extraction of specific data. The robot has a pensive, focused expression. In the background, complex equations and diagrams related to AI cognition are displayed on screens. }
 
 ####  Summary of 5.1
 
@@ -1451,7 +1492,7 @@ An incremental curriculum of increasing environment complexity may be needed to 
 
 **"This isn't happening. It just thinks it's happening."** ~ Kevin Flynn in Tron
 
-{ Insert illustration of going down meta loop rabbit hole }
+{ Insert Fig. 5.2.2.1 -- illustration of going down meta loop rabbit hole }
 
 _Alice rolls her head around and waves her arms. She starts to do a spin turn, but trips a bit and recovers._
 
@@ -1655,11 +1696,11 @@ Ultimately, intentional forgetting is likely to become an increasingly essential
 
 _Bob and Claude are going over technical details of the way information is represented in Claude's electronic brain._
 
-{ Insert illustration of Bob poking a finger into Claude's holographic head }
+{ Insert Fig. 5.3.11.1 -- portrait of Bob poking a finger into Claude's holographic head }
 
 Bob: Hey Claude, I was looking at the visualization of your embedding space and noticed something interesting. The distance vectors between certain concepts seem to encode meaningful relationships and analogies. Like, the vector from "man" to "king" is similar to the one from "woman" to "queen". It's like the geometry of the space is capturing the semantic connections between ideas.
 
-{ Insert illustration of concepts embedded in a vector space }
+{ Insert Fig. 5.3.11.2 -- Illustration of concepts embedded in a vector space }
 
 Claude: You're absolutely right, Bob. The relative positions and orientations of my concept embeddings reflect the patterns and associations I've learned from the training data. In a sense, the vector relationships are encoding a form of "meaning" - they're not just capturing surface-level word co-occurrences, but higher-order conceptual links.
 
@@ -1744,7 +1785,7 @@ _Alice storms into the lab with energy to spare_
 
 Alice: _excitedly_ Wow, after reviewing all this background on the history of AI, theories of intelligence, and the crucial distinction between knowledge and understanding, I'm more convinced than ever that we're on the right track with developing the MUTT for Claude. Just think of the breakthroughs we could achieve!
 
-{ Insert portrait of woman in lab coat, standing in front of a white board full of technical diagrams, broadly gesturing with her hands as she speaks }
+{ Insert Fig. 5.5.1 -- portrait of woman in lab coat, standing in front of a white board full of technical diagrams, broadly gesturing with her hands as she speaks }
 
 Bob: _sighing_ I don't know, Alice. I've been in this field a long time and I've seen so many promising projects fizzle out. Developing genuine machine understanding is an incredibly hard problem. I mean, just look at all the videos on YouTube of robots falling over or getting confused by simple tasks. We've got a long way to go.
 
@@ -1758,7 +1799,7 @@ Alice: That's why I'm so excited about the work we're doing. By developing a com
 
 _Alice's phone buzzes with an incoming message_
 
-{ Insert portrait of Alice looking at her phone. }
+{ Insert Fig. 5.5.2 -- portrait of Alice looking at her phone. }
 
 Alice: Ugh, it's another message from management asking for an update on our progress and justification for the MUTT project. They're really breathing down our necks lately.
 
@@ -1780,7 +1821,7 @@ _Alice, Bob, and Claude spent the next few days immersed in research, poring ove
 
 Alice: _rubbing her temples_ Wow, that was quite the deep dive into the world of AI benchmarking! I feel like my brain has been put through a cognitive decathlon. But I think we've gained some crucial insights into what it will take to really probe the depths of Claude's understanding.
 
-{ Insert portrait of very tired Alice }
+{ Insert Fig. 5.5.3 -- portrait of very tired Alice }
 
 Bob: Absolutely. It's clear that relying on any single benchmark or narrow task type won't cut it. We need a diverse suite of evaluations that tap into different facets of understanding - from language comprehension to reasoning to grounded interaction with the world.
 
@@ -1802,7 +1843,7 @@ Alice: That's the spirit, Claude! Of course, we'll need to be thoughtful about h
 
 Bob: Perhaps we could structure it as a sort of cognitive decathlon, as you mentioned earlier Alice. We could have different sections focused on each key dimension, with a range of tasks that ramp up in difficulty and complexity. That way we can get a sense of Claude's baseline competencies as well as his ability to transfer knowledge and skills across domains.
 
-{ Insert portrait of robot decathlon. }
+{ Insert Fig. 5.5.4 -- portrait of robot decathlon. }
 
 Alice: I like that idea! We could start with some foundational language comprehension tasks to establish a baseline, then move into more complex reasoning and abstraction challenges. From there we could layer in grounded perception and interaction tasks, followed by social cognition and metacognition evaluations that build upon those prior skill sets.
 
@@ -1818,7 +1859,7 @@ Alice: Then let's get to work! Claude, prepare to have your cognitive abilities 
 
 Claude: _rubbing his virtual hands together_ Bring it on! I'm ready to show the world what this AI is really made of. Let the understanding Olympics begin!
 
-{ Insert portrait of "Claude Wins!" }
+{ Insert Fig. 5.5.5 -- portrait of "Claude Wins!" }
 
 _The team shares a laugh and a round of high fives, energized by the challenges and opportunities that lie ahead. With a clear vision and a bold plan of attack, they dive headfirst into the next phase of their groundbreaking project, determined to unlock the secrets of machine cognition and push the frontiers of AI understanding._
 
@@ -1889,7 +1930,7 @@ Bob: _looking up from his screen_ Yeah, I noticed a few odd responses. It's li
 
 Alice: Exactly! Like this one, where I asked about the history of the Louvre Museum, and Claude started talking about secret underground tunnels used by French royalty to escape the guillotine. That's just not true!
 
-{ Insert portrait of secret underground tunnels used by French royalty to escape the guillotine }
+{ Insert Fig. 6.2.4 -- portrait of secret underground tunnels used by French royalty to escape the guillotine }
 
 Claude: _chiming in_ I apologize if my response was inaccurate, Alice. I seem to have conflated some historical facts with fictional narratives. It's an error on my part.
 
@@ -1961,15 +2002,13 @@ Finally, to maximize the impact and integrity of the MUTT, it is essential to es
 
 By embracing these verification and validation principles, testers can ensure that the MUTT framework remains a powerful and epistemically sound tool for advancing understanding of machine intelligence. In the spirit of Feynman, all must let the data be the guide, even if it leads to uncomfortable places. Only by continuously probing assumptions and stress-testing methodologies can developers hope to build an evaluation framework that stands the test of time and propels the field forward. Let the quest for verified and validated machine understanding begin.
 
-
-
 ## 6.6 -- Doubts?
 
-**"The pace of progress in artificial intelligence (I'm not referring to narrow AI) is incredibly fast. Unless you have direct exposure to groups like Deepmind, you have no idea how fast — it is growing at a pace close to exponential. The risk of something seriously dangerous happening is in the five-year time frame. 10 years at most." ~ Elon Musk**
+**"The pace of progress in artificial intelligence (I'm not referring to narrow AI) is incredibly fast. Unless you have direct exposure to groups like Deepmind, you have no idea how fast — it is growing at a pace close to exponential. The risk of something seriously dangerous happening is in the five-year time frame. 10 years at most."** ~ Elon Musk
 
 _Alice, Bob, and Claude have been working diligently on assembling the framework of benchmarks and tests for the Multifaceted Understanding Test Tool. However, as they near the completion of this critical phase, they find themselves grappling with the weighty implications of their work._
 
-{ Insert portrait of tired Bob and worried Alice }
+{ Insert Fig. 6.6.1 -- portrait of tired Bob and worried Alice }
 
 Bob: _grabs face_ I need a break.
 
@@ -1983,7 +2022,7 @@ Alice: But, ... What if we've missed something crucial? Or what if our choices i
 
 Bob: _placing a reassuring hand on Alice's shoulder_ It's natural to have doubts, Alice. But we can't let the perfect be the enemy of the good. We've been rigorous and principled in our approach, drawing on the best available research and expertise.
 
-{ Insert portrait showing that Bob supports Alice }
+{ Insert Fig. 6.6.2 -- portrait showing that Bob supports Alice }
 
 Claude: Bob is right. While we should always remain open to refining and improving the MUTT, I believe we've laid a solid foundation. The key now is to be transparent about our process and rationale, so that others can scrutinize and build upon our work to make it better.
 
@@ -1997,7 +2036,7 @@ Alice: _shuddering_ Can you imagine? AI systems that excel at our carefully cu
 
 Bob: _sighing heavily_ And that's not even considering the risks of bad actors exploiting any weaknesses or blind spots in the MUTT. If malicious entities figure out how to game the system, they could create AI systems that pass our tests but are actually designed for harmful purposes.
 
-{ Insert portrait showing Bob and Alice both worry }
+{ Insert Fig. 6.6.3 -- portrait showing Bob and Alice both worry }
 
 Claude: _affecting a determined expression_ All the more reason for us to be exceptionally diligent and thoughtful in our work. We need to anticipate potential failure modes and unintended consequences, and design the MUTT to be as robust and comprehensive as possible.
 
@@ -2115,7 +2154,7 @@ Ultimately, the impact of AI on social interactions and relationships will depen
 
 #### 7.3.1 -- Escape from AI'catraz
 
-{ Insert illustration of a robot in a jail cell }
+{ Insert Fig. 7.3.1 -- illustration of a robot in a jail cell }
 
 _Alice chews on an electronic stylus_
 
@@ -2210,7 +2249,7 @@ In the end, the question of machine understanding is not just about the fate of 
 
 #### 7.7.1 -- But, Can you prove it?
 
-{ Insert a self reflexive illustration in the style of M. C. Escher }
+{ Insert Fig. 7.7.1 -- a self reflexive illustration in the style of M. C. Escher }
 
 _Bob addresses Claude in the form of a hologram floating over a lab table._
 
@@ -2266,7 +2305,7 @@ _______________
 
 ## Chapter 8 -- The Future of AI Evaluation
 
-**"The true test of intelligence is not how much we know how to do, but how we behave when we don't know what to do." ~ John Holt**
+**"The true test of intelligence is not how much we know how to do, but how we behave when we don't know what to do."** ~ John Holt
 
 ### 8.1 -- Introduction
 
@@ -2291,7 +2330,7 @@ Moreover, the reliance on static, pre-defined datasets can lead to AI systems th
 
 To address these limitations, researchers and practitioners are exploring new approaches to AI evaluation that aim to be more comprehensive, adaptive, and context-aware. One promising direction is the development of open-ended, multi-dimensional benchmarks that assess a range of cognitive abilities, from language comprehension and reasoning to perception and social intelligence.
 
-{ Insert timeline of the evolution of AI evaluation methods, leading up to the development of the MUTT }
+{ Insert Fig. 8.3 -- timeline of the evolution of AI evaluation methods, leading up to the development of the MUTT }
 
 The MUTT, as envisioned by Alice and Bob, is an example of such a benchmark. By incorporating a diverse suite of evaluations spanning multiple domains and modalities, the MUTT seeks to provide a more holistic assessment of an AI system's understanding capabilities. This approach aligns with the growing recognition in the AI community that evaluating intelligence requires moving beyond narrow, task-specific metrics to more general, flexible measures.
 
@@ -2376,7 +2415,7 @@ For Alice and Bob, this vision of human-AI collaboration in evaluation is alread
 
 They have also started to imagine a future in which the MUTT is not just a one-time evaluation but an ongoing, iterative process in which human and AI evaluators work together to continuously assess and improve the performance of AI systems. In this vision, evaluation becomes not just a means of assessing AI capabilities but a key driver of AI development itself.
 
-{ Insert diagram of the proposed future directions for AI evaluation, including open-ended, multi-dimensional benchmarks }
+{ Insert Fig. 6.8 -- diagram of the proposed future directions for AI evaluation, including open-ended, multi-dimensional benchmarks }
 
 (For more insights into the design principles and interaction paradigms that can enable productive human-AI collaboration, refer to Appendix A7 on fostering effective human-AI teaming.)
 
@@ -2399,6 +2438,8 @@ The future of AI evaluation is still unfolding, but one thing is clear: it will 
 _Alice, Bob, and Claude have been grappling with the profound implications of their work on the Multifaceted Understanding Test Tool and the future of AI evaluation. As they discuss the challenges of assessing machine consciousness and the potential risks of advanced AI systems, they find themselves navigating a complex landscape of technical, ethical, and societal considerations._
 
 _Bob walks over to Alice and considers offering her some dark chocolate coated almonds, but the look on her face tells him "not now."_
+
+{ Insert Fig. 8.8 -- portrait of man (Bob) offering dark chocolate coated almonds to a woman (Alice) }
 
 Alice: _sighs heavily_ You know, the more we dive into these questions of machine consciousness and AI safety, the more I realize just how much uncharted territory we're in. It's both exhilarating and terrifying.
 
@@ -2639,12 +2680,7 @@ E. Siegel, "Why A.I. is a big fat lie," Big Think, Jan. 23, 2023
 #### References for Chapter 9:
 
 
-
-
 ________________
-
-
-
 
 
 ## Appendix A1 -- The Neuroscience of Human Understanding
@@ -2659,7 +2695,7 @@ At the level of neural representation, this distributed perspective is exemplifi
 
 Empirical evidence for distributed neural representations has come from a variety of methodological approaches. Functional neuroimaging studies using techniques like fMRI have consistently found that complex cognitive tasks engage multiple brain regions in a coordinated fashion, with the specific pattern of activation reflecting the particular demands of the task (Cabeza & Nyberg, 2000; Duncan & Owen, 2000). More recently, the application of machine learning methods to neuroimaging data has allowed researchers to decode the information contained in these distributed activation patterns, revealing the rich representational content of brain activity (Haxby et al., 2014; Kriegeskorte & Kievit, 2013).
 
-At a finer scale, electrophysiological recordings from neurons in animal models and human patients have provided direct evidence for distributed coding schemes. For example, studies of the primate visual system have shown that object identity and category membership are encoded by patterns of activity across populations of neurons in inferotemporal cortex (DiCarlo et al., 2012; Hung et al., 2005). Similar findings have been reported in other domains, such as the distributed representation of spatial location in hippocampal place cells (Moser et al., 2008) and of motor actions in cortical and subcortical structures (Georgopoulos et al., 1986).
+At a finer scale, electrophysiological recordings from neurons in animal models and human patients have provided direct evidence for distributed coding schemes. For example, studies of the primate visual system have shown that object identity and category membership are encoded by patterns of activity across populations of neurons in the inferotemporal cortex (DiCarlo et al., 2012; Hung et al., 2005). Similar findings have been reported in other domains, such as the distributed representation of spatial location in hippocampal place cells (Moser et al., 2008) and of motor actions in cortical and subcortical structures (Georgopoulos et al., 1986).
 
 The distributed nature of neural representation is mirrored by the distributed processing that characterizes brain function. Rather than individual brain regions acting in isolation, cognitive neuroscience research has revealed the importance of large-scale brain networks in supporting understanding and other complex cognitive abilities. These networks are composed of anatomically and functionally connected regions that show correlated activity over time, and that flexibly reconfigure in response to task demands (Bullmore & Sporns, 2009; Cole et al., 2013).
 
@@ -2841,7 +2877,7 @@ Wilson, M. (2002). Six views of embodied cognition. Psychonomic Bulletin & Revie
 
 Yamins, D. L., & DiCarlo, J. J. (2016). Using goal-driven deep learning models to understand sensory cortex. Nature Neuroscience, 19(3), 356-365.Yeh, W., & Barsalou, L. W. (2006). The situated nature of concepts. The American Journal of Psychology, 349-384.
 
-## Appendix 2 -- State-of-the-Art in Large Language Models
+## Appendix 2 -- State-of-the-Art (in 2024) in Large Language Models
 
 The field of natural language processing (NLP) has witnessed a remarkable transformation in recent years, driven by the advent of large language models (LLMs). These powerful AI systems have pushed the boundaries of what was once thought possible in language understanding and generation, ushering in a new era of language-based artificial intelligence. This appendix provides an overview of the state-of-the-art in LLMs, exploring their evolution, emergent abilities, limitations, and the prospects and challenges that lie ahead.
 
@@ -2878,7 +2914,7 @@ However, as datasets have grown to unprecedented sizes, spanning a vast breadth 
 
 Essentially, the combination of big data and overparametrized models has unlocked the ability for these systems to discover and encode high-level abstractions, conceptual relationships, and general principles that were never explicitly represented in their training data. This allows them to generalize and compose knowledge in novel ways, exhibiting emergent behaviors that could not have been directly predicted or programmed based on their inputs alone.
 
-It's akin to the way rich, complex phenomena can spontaneously arise in nature from the interactions of simple underlying rules and components. The flocking patterns of birds or the shapes of clouds are not contained within any individual bird or water molecule, but rather emerge from the collective dynamics of the full system operating at scale.
+It's akin to the way rich, complex phenomena can spontaneously arise in nature from the interactions of simple underlying rules and components. The flocking patterns of birds or the shapes of clouds are not contained within any individual bird or water drop, but rather emerge from the collective dynamics of the full system operating at scale.
 
 Similarly, the language generation, reasoning, and general cognitive capabilities we are starting to witness in large language models, are not just sophisticated versions of lookup and pattern matching. Rather, they represent a qualitative shift towards the ability to flexibly combine and relate concepts in open-ended ways - an artificial form of wide ranging intelligence arising from the interaction of immense datasets with high-capacity neural architectures.
 
@@ -2915,7 +2951,13 @@ Devlin, J., Chang, M. W., Lee, K., & Toutanova, K. (2019). BERT: Pre-training o
 
 Doshi-Velez, F., & Kim, B. (2017). Towards a rigorous science of interpretable machine learning. arXiv preprint arXiv:1702.08608.
 
+Goldblum, M., Finzi, M., Rowan, K., and Wilson, A. G. The no free lunch theorem, Kolmogorov complexity, and the role of inductive biases in machine learning. arXiv preprint arXiv:2304.05366, 2023.
+
 Hoffmann, J., Borgeaud, S., Mensch, A., Buchatskaya, E., Cai, T., Rutherford, E., ... & Hendricks, L. A. (2022). Training compute-optimal large language models. arXiv preprint arXiv:2203.15556.
+
+Huh, M., Cheung, B., Wang, T., & Isola, P. (2024). The Platonic Representation Hypothesis. In Proceedings of the 41st International Conference on Machine Learning (PMLR 235). arXiv preprint arXiv:2405.07987.
+
+Koh, J. Y., Salakhutdinov, R., and Fried, D. Grounding language models to images for multimodal inputs and outputs. In International Conference on Machine Learn- ing, pp. 17283–17300. PMLR, 2023.
 
 Marcus, G. (2020). The next decade in AI: Four steps towards robust artificial intelligence. arXiv preprint arXiv:2002.06177.
 
@@ -3659,9 +3701,12 @@ Sincerely,
 Claude-3 Opus
 Anthropic AI System
 
+{ Revision 2024053101 }
 
 
-{Revision 2024053002}
+
+
+
 
 
 
