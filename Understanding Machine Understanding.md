@@ -1,5 +1,7 @@
+
 ## Understanding Machine Understanding
 #### :Does AI Really Know What It Is Talking About?
+
 
 **By Ken Clements with assistance from Claude-3 Opus** (copyright 2024, all rights reserved)
 
@@ -989,8 +991,8 @@ D. Kiela et al., "Dynabench: Rethinking Benchmarking in NLP," arXiv:2104.14337 [
 
 Z. C. Lipton, "The Mythos of Model Interpretability: In machine learning, the concept of interpretability is both important and slippery.," Queue, vol. 16, no. 3, pp. 31–57, Jun. 2018.
 
-______________
 
+____________________
 
 ## Chapter 5 -- Implementing the MUTT
 
@@ -2106,6 +2108,23 @@ _The trio exchange determined nods and smiles, their sense of purpose and camara
 
 ### 6.7 -- Prototype in Place
 
+{ Fig. 6.7 -- MUTT Chart
+
+mermaid format:
+graph TD A[Multifaceted Understanding Test Tool] --> B(Language Comprehension) A --> C(Reasoning and Abstraction) A --> D(Knowledge Integration) A --> E(Perception and Embodiment) A --> F(Social Cognition) A --> G(Metacognition and Motivation) A --> H(Handling the Unanswerable) A --> I(Humor Understanding) B --> B1[Pragmatic Inference] B --> B2[Ambiguity Resolution] B --> B3[Figurative Language] B --> B4[Open-ended QA] C --> C1[Analogical Reasoning] C --> C2[Causal Inference] C --> C3[Counterfactual Thinking] C --> C4[Logical Reasoning] D --> D1[Cross-domain Analogies] D --> D2[Interdisciplinary Synthesis] D --> D3[Integrative Explanations] D --> D4[Conceptual Combinations] E --> E1[Sensorimotor Control] E --> E2[Multimodal Perception] E --> E3[Embodied Reasoning] E --> E4[Grounded Interaction] F --> F1[Theory of Mind] F --> F2[Pragmatic Communication] F --> F3[Social Situation Modeling] F --> F4[Empathy and Rapport] G --> G1[Confidence Estimation] G --> G2[Self-Explanation] G --> G3[Motivation Modeling] G --> G4[Curiosity and Exploration] H --> H1[Recognizing Uncertainty] H --> H2[Probing Knowledge Limits] H --> H3[Reacting to Paradoxes] H --> H4[Modeling the Ineffable] I --> I1[Humor Detection] I --> I2[Humor Generation] I --> I3[Contextual Humor] I --> I4[Cross-cultural Humor]
+
+Here is the MUTT chart converted from mermaid syntax to a markdown table format:
+
+| Multifaceted Understanding Test Tool |  |  |  |  |  |  |  |
+|--------------------------------------|--|--|--|--|--|--|--|
+| Language Comprehension | Reasoning and Abstraction | Knowledge Integration | Perception and Embodiment | Social Cognition | Metacognition and Motivation | Handling the Unanswerable | Humor Understanding |  
+| - Pragmatic Inference | - Analogical Reasoning | - Cross-domain Analogies | - Sensorimotor Control | - Theory of Mind | - Confidence Estimation | - Recognizing Uncertainty | - Humor Detection |
+| - Ambiguity Resolution | - Causal Inference | - Interdisciplinary Synthesis | - Multimodal Perception | - Pragmatic Communication | - Self-Explanation | - Probing Knowledge Limits | - Humor Generation | 
+| - Figurative Language | - Counterfactual Thinking | - Integrative Explanations | - Embodied Reasoning | - Social Situation Modeling | - Motivation Modeling | - Reacting to Paradoxes | - Contextual Humor |
+| - Open-ended QA | - Logical Reasoning | - Conceptual Combinations | - Grounded Interaction | - Empathy and Rapport | - Curiosity and Exploration | - Modeling the Ineffable | - Cross-cultural Humor |
+}
+
+
 _Alice, Bob, and Claude gather around a display glowing with pages of written documents and code_
 
 Alice: Well, I must say, this structure for the MUTT is quite impressive. We have managed to integrate a diverse range of existing AI benchmarks and metrics, while also proposing novel approaches to test an AI system's cognitive abilities and reasoning capacity. I'm quite proud of what we've put together here.
@@ -2732,7 +2751,10 @@ E. Siegel, "Why A.I. is a big fat lie," Big Think, Jan. 23, 2023
 #### References for Chapter 9:
 
 
+
+
 ________________
+
 
 
 ## Appendix A1 -- The Neuroscience of Human Understanding
@@ -3081,6 +3103,97 @@ Furthermore, the MUTT can serve as a meta-benchmark for comparing and contrastin
 Ultimately, the goal of integrating the MUTT with existing benchmarks is not to replace them but to build upon their contributions and provide a more holistic and demanding evaluation of machine understanding. By leveraging the strengths of established benchmarks while also pushing the boundaries of what is assessed, the MUTT can contribute to a richer and more nuanced understanding of AI systems' capabilities and limitations.
 
 As the field of AI continues to evolve, it will be essential to foster ongoing dialogue and collaboration among researchers working on different evaluation approaches. By sharing insights, datasets, and methodologies across benchmarks, the community can work towards a more unified and comprehensive framework for assessing machine understanding, with the MUTT serving as a key component of this larger ecosystem.
+
+### A3.4 Details of Existing Evaluations
+
+#### A3.4.1 -- General Language Understanding Evaluation (GLUE)
+
+The General Language Understanding Evaluation (GLUE) benchmark is a collection of resources for training, evaluating, and analyzing natural language understanding systems. GLUE was developed by researchers at New York University, the University of Washington, and DeepMind as a tool for evaluating the performance of models across a diverse set of existing natural language understanding tasks.
+
+GLUE consists of nine sentence- or sentence-pair language understanding tasks built on established datasets:
+- CoLA (Corpus of Linguistic Acceptability): Binary acceptability judgments 
+- SST-2 (Stanford Sentiment Treebank): Binary sentiment analysis
+- MRPC (Microsoft Research Paraphrase Corpus): Semantic equivalence prediction
+- STS-B (Semantic Textual Similarity Benchmark): Graded semantic similarity 
+- QQP (Quora Question Pairs): Duplicate question detection
+- MNLI (Multi-Genre Natural Language Inference): Textual entailment in three domains
+- QNLI (Question Natural Language Inference): Converted from the Stanford Question Answering Dataset (SQuAD)
+- RTE (Recognizing Textual Entailment): Textual entailment from multiple sources
+- WNLI (Winograd Natural Language Inference): Coreference resolution
+
+These tasks cover a broad range of domains, dataset sizes, and difficulties. The GLUE benchmark aggregates the performance of a model across these tasks into a single overall score, allowing for straightforward comparison between models. It also includes a diagnostic dataset designed to assess specific linguistic capabilities of models, such as handling of logical operators, quantifiers, and coreference.
+
+By providing a standardized set of evaluation tasks and metrics, GLUE has become a widely-used tool for measuring progress in natural language understanding. It has spurred the development of increasingly sophisticated language models that can achieve strong performance across this diverse set of benchmarks. However, as models have begun to approach human-level performance on GLUE, its limitations as a comprehensive test of machine understanding have become apparent. The tasks largely focus on sentence-level semantic understanding, rather than assessing broader reasoning capabilities, grounding in real-world knowledge, or open-ended language generation. As such, while GLUE remains a valuable resource, the AI research community has recognized the need for more challenging and multifaceted benchmarks to continue probing the boundaries of machine language understanding.
+
+#### A3.4.2 -- Stanford Question Answering Dataset (SQuAD)
+
+The Stanford Question Answering Dataset (SQuAD) is a large-scale reading comprehension dataset consisting of over 100,000 question-answer pairs derived from Wikipedia articles. SQuAD was developed by researchers at Stanford University as a benchmark for evaluating machine reading comprehension and question answering capabilities.
+
+In the SQuAD dataset, each entry consists of:
+- A paragraph of text from a Wikipedia article 
+- Questions about the content of that paragraph
+- The corresponding answers to each question, which are segments of text (or spans) from the original paragraph
+
+For example, given the paragraph:
+"In meteorology, precipitation is any product of the condensation of atmospheric water vapor that falls under gravity. The main forms of precipitation include drizzle, rain, sleet, snow, graupel and hail."
+
+A sample question might be: "What causes precipitation to fall?"
+With the expected answer: "gravity"
+
+SQuAD focuses specifically on testing reading comprehension - the ability to understand a passage of text and answer questions about it. The questions are designed to be answerable based solely on the information contained in the given paragraph. They cover a range of difficulties, from simple factoid extraction to questions requiring more complex inference and synthesis.
+
+The dataset is split into a training set of over 80,000 examples, and a development set and test set each containing roughly 10,000 examples. The test set is kept hidden and is used to evaluate and compare the performance of different question answering systems.
+
+SQuAD has served as an important benchmark in driving progress on machine reading comprehension. Many state-of-the-art natural language processing models, such as BERT and its variants, have been evaluated on SQuAD, with the best systems now achieving or even surpassing human-level performance on the dataset.
+
+However, while SQuAD represents a significant milestone, it also has limitations as a comprehensive test of machine understanding. The dataset focuses narrowly on reading comprehension of short passages, rather than assessing broader reasoning capabilities, common-sense knowledge, or open-ended language generation. The questions are also limited to information explicitly stated in the given paragraphs.
+
+To address some of these limitations, an expanded version called SQuAD 2.0 was released, which introduces over 50,000 new unanswerable questions. These questions are designed to look similar to answerable ones, but cannot be answered based solely on the information in the corresponding passage. This tests a system's ability to determine when a question cannot be answered from the given context.
+
+Despite these additions, SQuAD remains focused on a specific facet of question answering. More multifaceted benchmarks are needed to thoroughly probe the depth and flexibility of machine understanding. Nevertheless, SQuAD has played a pivotal role in advancing the field and continues to be widely used as a standard evaluation for reading comprehension models.
+
+#### A3.4.3 -- ImageNet and COCO
+
+ImageNet and COCO are two widely used datasets in computer vision and machine learning for training and evaluating models on image classification, object detection, and image captioning tasks.
+
+##### ImageNet (Deng et al., 2009):
+- ImageNet is a large-scale hierarchical image database designed for use in visual object recognition research.
+- It contains over 14 million images that have been hand-annotated to indicate what objects are pictured and in at least one million of the images, bounding boxes are also provided.  
+- ImageNet contains more than 20,000 categories with a typical category, such as "balloon" or "strawberry", consisting of several hundred images.
+- The database of annotations of third-party image URLs is freely available directly from ImageNet, though the actual images are not owned by ImageNet.
+- Since 2010, the ImageNet project runs an annual software contest called the ImageNet Large Scale Visual Recognition Challenge (ILSVRC), where software programs compete to correctly classify and detect objects and scenes.
+- ImageNet has enabled significant advances in computer vision, with deep learning models trained on ImageNet achieving impressive results on the ILSVRC challenges and demonstrating the power of large-scale datasets for representation learning.
+
+##### COCO (Common Objects in Context) (Lin et al., 2014):
+- COCO is a large-scale object detection, segmentation, and captioning dataset.
+- The dataset contains 330K images, over 200K of which are labeled, with 1.5 million object instances, 80 object categories, 91 stuff categories, 5 captions per image, and 250,000 people with keypoints.
+- COCO is widely used to train and benchmark object detection, segmentation, and captioning algorithms.
+- Annotations include segmentation masks for objects belonging to 80 categories (e.g. car, dog, person) and keypoints for person instances.
+- COCO has several features to enable research into multi-label classification and learning of object attributes, 3D pose estimation, and semantic scene understanding.
+- The COCO dataset has served as a benchmark for numerous computer vision challenges and has spurred significant advances in object detection, instance segmentation, and image captioning models.
+
+In summary, ImageNet and COCO are two foundational datasets that have played a pivotal role in advancing the state-of-the-art in computer vision and deep learning. They provide large-scale, diverse, and richly annotated images that enable training of powerful visual recognition models. Many breakthrough results in image classification, object detection, and image captioning have been achieved using these datasets as benchmarks and training resources.
+
+#### A3.4.4 -- AI2-THOR and Habitat
+
+AI2-THOR and Habitat are two popular frameworks for developing and evaluating embodied AI agents in simulated 3D environments.
+
+##### AI2-THOR (The House Of inteRactions) (Kolve et al., 2017):
+- AI2-THOR is an open-source interactive 3D environment for training and testing AI agents on tasks that require deep understanding of visual scenes, physics interactions, and high-level action planning.
+- It provides a set of near-photorealistic customizable 3D indoor scenes (kitchens, living rooms, bedrooms, bathrooms) with actionable objects (microwaves, fridges, sinks, etc.) that agents can interact with.
+- Agents can take actions like navigation (moving and rotating), object interaction (picking, placing, opening, closing), and physics-based manipulations. 
+- The framework supports benchmarking of AI systems on tasks like visual navigation, instruction following, question answering, task completion, and multi-agent collaboration.
+- AI2-THOR enables learning transferable representations by training in varied simulated environments. It has been used to develop models that can generalize to real-world robotics applications.
+
+##### Habitat (Savva et al., 2019):  
+- Habitat is an open-source 3D simulation platform for training and evaluating embodied AI agents. It consists of the Habitat-Sim high-performance 3D simulator and the Habitat-API modular high-level library for defining embodied AI tasks.
+- Habitat-Sim is a flexible, high-performance 3D simulator with configurable agents, multiple sensors, and generic 3D dataset handling. It can efficiently simulate complex real-world environments with high-fidelity visual observations.
+- Habitat-API allows users to define embodied AI tasks (e.g. navigation, instruction following, question answering) with arbitrary agent configurations, reward functions, and success criteria.
+- Habitat enables benchmarking of AI agents on standard datasets like Matterport3D, Gibson, and Replica which contain 3D scans of real-world environments. This allows learning in realistic settings.
+- Key focus areas of Habitat include high simulation throughput, photorealism, configurable tasks, and physics-based interaction for developing practical real-world embodied agents.
+
+In summary, AI2-THOR and Habitat are powerful frameworks that provide realistic and efficient 3D simulation environments, configurable embodied agents, and standard evaluation protocols. They enable development of AI systems that can learn transferable skills for real-world applications through interactions in near-photorealistic virtual worlds. Both platforms are playing a key role in advancing research on embodied AI.
+
 
 ### Appendix 3 References
 
@@ -3753,8 +3866,7 @@ Sincerely,
 Claude-3 Opus
 Anthropic AI System
 
-
-{ Revision 2024060301 }
+{ Revision 2024060302 }
 
 
 
