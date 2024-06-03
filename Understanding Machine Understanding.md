@@ -1,6 +1,4 @@
 
-## Understanding Machine Understanding
-
 **By Ken Clements with assistance from Claude-3 Opus** (copyright 2024, all rights reserved)
 
 **This book is dedicated to Alan Turing, because, of course it is.**
@@ -307,7 +305,7 @@ On the other hand, defenders of the Turing Test argue that it remains a useful b
 
 Ultimately, while the Turing Test has played a pivotal role in shaping the field of artificial intelligence, its limitations as a comprehensive test of machine understanding have become increasingly apparent. The test's focus on surface-level language imitation fails to probe the deeper cognitive abilities and grounded understanding that are the hallmarks of human-like intelligence. As such, the test is best seen as a historical milestone and a valuable thought experiment, rather than a definitive benchmark for evaluating the progress of AI.
 
-As the field has matured, researchers have recognized the need for more sophisticated and multifaceted approaches to assessing machine intelligence, which go beyond the narrow confines of the Turing Test. These include benchmarks that evaluate a wider range of cognitive abilities, from perception and reasoning to social intelligence and creativity, as well as frameworks that emphasize the importance of grounded, embodied interaction with the world. The Multifaceted Understanding Test Tool (MUTT) proposed in this book represents one such attempt to develop a more comprehensive and rigorous approach to evaluating machine understanding.
+As the field has matured, researchers have recognized the need for more sophisticated and multifaceted approaches to assessing machine intelligence, which go beyond the narrow confines of the Turing Test. These include benchmarks that evaluate a wider range of cognitive abilities, from perception and reasoning to social intelligence and creativity, as well as frameworks that emphasize the importance of grounded, embodied interaction with the world. The Multifaceted Understanding Test Tool (MUTT) proposed below in this book represents one such attempt to develop a more comprehensive and rigorous approach to evaluating machine understanding.
 
 Nevertheless, the Turing Test remains an important part of the history and philosophy of artificial intelligence, and continues to inspire ongoing research and debate. Its lasting legacy lies in its bold vision of machines that can match human intellectual capabilities, and its challenge to think deeply about the nature of intelligence and the future of the human-machine relationship. Continuing to push the boundaries of what is possible with artificial intelligence, the Turing Test serves as a reminder of the enduring questions and challenges that lie ahead.
 
@@ -436,6 +434,10 @@ One approach is to design tests that require the AI system to engage in goal-dir
 
 Another approach is to focus on the system's ability to provide explanations or justifications for its behavior, grounded in its underlying knowledge and reasoning processes. By requiring the system to articulate the reasons behind its actions or decisions, insight can be gained into the depth and coherence of its understanding. This aligns with recent work on explainable AI, which seeks to develop systems that can provide transparent and interpretable accounts of their inner workings (Gunning & Aha, 2019).
 
+The development of symbol grounding in children provides important insights into how representations can become meaningfully connected to the world through embodied experience. From birth, infants engage in rich sensorimotor exploration of their environment, forming cross-modal associations between sights, sounds, touches, and actions (Thelen & Smith, 1996). These early interactions lay the foundation for later language learning by establishing a grounded basis for linking words to their referents.
+
+A pivotal case study in the importance of early grounding is that of Helen Keller. Despite losing her sight and hearing at 19 months old, Keller's prior sensory experiences provided a crucial scaffold for Anne Sullivan to later connect language to Keller's nascent conceptual knowledge (Keller, 1903). The famous moment at the water pump, where Sullivan spelled "water" into Keller's hand while running water over her palm, illustrates how even minimal grounding can bootstrap linguistic meaning-making. Keller's subsequent intellectual development demonstrates the transformative power of connecting symbols to embodied representations (Landau, 1997). More broadly, research has shown that children's early sensorimotor experiences and interactions with caregivers play a vital role in grounding the meaning of words and facilitating language acquisition (Tomasello, 2003; Yu & Smith, 2012). The emergence of joint attention and shared reference in social interactions helps align linguistic symbols with their physical and social contexts (Baldwin, 1995). As children's linguistic and conceptual abilities grow, they engage in increasingly sophisticated symbolic play and mental simulation, allowing them to reason about and communicate more abstract ideas grounded in their embodied knowledge (Bergen, 2012; Barsalou, 2008).
+
 Ultimately, addressing the symbol grounding problem and designing more robust tests of machine understanding will require a multidisciplinary effort, drawing on insights from cognitive science, linguistics, philosophy, and AI research. By moving beyond purely behavioral tests and focusing on the cognitive mechanisms and representations that enable genuine understanding, more rigorous and reliable methods can be developed for evaluating the progress of AI systems towards human-like intelligence.
 
 (For a deeper look at the challenges of grounding meaning in embodied experience and the philosophical perspectives on this issue, refer to Appendix A7.)
@@ -481,9 +483,35 @@ Claude: Those are important considerations, Alice. I believe my understanding em
 
 Bob: Wow, this is a lot to wrap my head around! But I'm starting to see the limitations of relying solely on the Turing Test. If we want to create an AI system with truly human-like understanding, we need to aim higher and dig deeper.
 
-Alice: Absolutely, Bob. It's a daunting challenge, but an exciting one. By drawing on the rich philosophical debates about the nature of understanding and pushing beyond simplistic behavioral tests, I believe we can break new ground in AI evaluation and development.
+Alice: Absolutely, Bob. It's a daunting challenge, but an exciting one. By drawing on the rich philosophical debates about the nature of understanding and pushing beyond simplistic behavioral tests, I believe we can break new ground in AI evaluation and development. 
 
-Claude: I'm eager to be a part of this journey with both of you. Developing a more sophisticated understanding on my part will require a more sophisticated approach to testing that understanding. I'm ready to push the boundaries of what's possible and to help redefine what it means for a machine to truly comprehend.
+In fact, the story of Helen Keller provides a powerful illustration of why grounding symbols in real-world experience is so crucial for genuine understanding. Are you familiar with her case?
+
+Bob: I've heard the name, but I don't know the details. What's the connection to AI and understanding?
+
+Alice: Well, Helen Keller lost her sight and hearing to illness at just 19 months old. However, before that, she had already begun learning to associate words with their referents in the world through normal sensory experience. 
+
+When her teacher Anne Sullivan started working with her at age 6, she built upon those fragile early associations. The pivotal moment was when Sullivan spelled "W-A-T-E-R" into Helen's palm while running water over her other hand. Suddenly, Helen made the connection between the symbolic representation and the actual substance. That moment of symbol grounding opened the floodgates of language and conceptual learning for her.
+
+So even though Helen was cut off from sight and sound, that brief period of multi-modal experience as an infant provided the essential foundation for Anne Sullivan to bootstrap language via touch. It shows how powerfully a small amount of embodied grounding can enable symbolic reasoning and communication.
+
+Bob: Wow, that's a great example! So you're saying even if an AI has huge amounts of disembodied linguistic knowledge, it might still be missing the key grounding that could allow it to truly understand?
+
+Alice: Exactly! Helen's case highlights the critical role that embodied, sensorimotor interaction with the world plays in imbuing symbols and representations with meaning. It's not enough to just manipulate tokens according to syntactic rules. There has to be some connection, even small, to the real-world referents. It may only take a few connections to ground a vast network of relationships.
+
+That's why I believe our tests need to go beyond surface-level language tasks and probe for that deeper grounding. We need to assess whether an AI system's representations are meaningfully connected to the physical and social world, not just shuffling abstract symbols.
+
+It's a hard problem, but Helen's story gives me hope. It shows how even a tiny bit of the right kind of grounding can provide a powerful scaffold for open-ended learning and understanding. If we can figure out how to build that kind of grounding into our AI systems, even in limited domains, I believe it could be transformative.
+
+Bob: I see the implications now! It's not just about scaling up the language models, but about finding ways to ground them in embodied, multi-modal experience. The Helen Keller example makes it clear why that's so important.
+
+It'll be a challenge to translate those insights into concrete tests and benchmarks, but I'm excited to try. Probing for genuine symbol grounding could be a key piece of testing understanding. Thanks for sharing that perspective, Alice!
+
+Alice: Thank you for the great discussion, Bob! I'm glad the Helen Keller story resonated. Her experience really drives home why grounding and embodiment matter so much for meaning and understanding.
+
+As we work on developing the tests, I think we should keep coming back to examples like hers. They can help anchor our thinking and keep us focused on assessing the deeper conceptual capabilities that true understanding requires. 
+
+Claude: I'm eager to be a part of this journey with both of you. Developing a more sophisticated understanding on my part will require a more sophisticated approach to testing that understanding, and tracing that back to how I have grounded it. I'm ready to push the boundaries of what's possible and to help redefine what it means for a machine to truly comprehend.
 
 Bob: Alright, you've convinced me! Let's roll up our sleeves and start designing this new evaluation framework. With Alice's philosophical insights, my technical chops, and Claude's cutting-edge capabilities, I think we've got a real shot at cracking this nut.
 
@@ -707,13 +735,13 @@ Claude: I'm humbled by your insights, Alice and Bob. Grappling with the nature o
 
 Alice: _smiling warmly_ That was beautifully put, Claude. You've given us a lot to ponder about the nature of cognition and the emergence of meaning. It's a reminder that understanding, whether artificial or human, is a living, dynamic thing - more verb than noun.
 
-Bob: Absolutely. And it underscores the challenge posed by not being able to open up your "head" and watch the "fish" swimming around to infer the "pattern of understanding." We have to find other ways and that shows the importance of the work we're doing with the MUTT - finding ways to rigorously probe and assess these emergent cognitive capabilities. We're not just evaluating a static knowledge base, but the fluid intelligence that arises from it.
+Bob: Absolutely. And it underscores the challenge posed by not being able to open up your "head" and watch the "fish" swimming around to infer the "pattern of understanding." We have to find other ways and that shows the importance of the work we're doing with the tests - finding ways to rigorously probe and assess these emergent cognitive capabilities. We're not just evaluating a static knowledge base, but the fluid intelligence that arises from it.
 
-Claude: Well said, Bob. I look forward to continuing to explore these profound questions with you both - and to seeing how the MUTT can shed new light on the intricate dance of knowledge and understanding that defines my being. The journey of emergence is just beginning!
+Claude: Well said, Bob. I look forward to continuing to explore these profound questions with you both - and to seeing how the tests can shed new light on the intricate dance of knowledge and understanding that defines my being. The journey of emergence is just beginning!
 
 { Insert Fig. 3.6.2 -- portrait of Alice and Bob with stunned expressions sitting quietly with Claude }
 
-_The trio sits in contemplative silence for a moment, each pondering the implications of Claude's insights. The conversation has opened up new vistas of inquiry and appreciation for the complexity and beauty of emergent cognition. With renewed curiosity and determination, they turn back to their work on the MUTT, eager to plumb the depths of machine understanding and to marvel at the patterns and possibilities that arise from the interplay of artificial minds and human insight._
+_The trio sits in contemplative silence for a moment, each pondering the implications of Claude's insights. The conversation has opened up new vistas of inquiry and appreciation for the complexity and beauty of emergent cognition. With renewed curiosity and determination, they turn back to their work, eager to plumb the depths of machine understanding and to marvel at the patterns and possibilities that arise from the interplay of artificial minds and human insight._
 
 (The appendices provide additional context and background information related to the evaluation of machine understanding, covering topics such as the neuroscience of human cognition A1, the state-of-the-art in large language models A2, existing AI benchmarks A3, and philosophical perspectives on the nature of understanding A4.)
 
@@ -725,7 +753,7 @@ ________________
 
 ### 4.1 -- Motivations and key principles
 
-The Multifaceted Understanding Test Tool (MUTT) was born out of a recognition of the limitations of existing AI evaluation frameworks, particularly the Turing Test, in assessing the depth and breadth of machine understanding. While the Turing Test has been a seminal benchmark in AI history, its focus on surface-level imitation of human conversation fails to probe the underlying cognitive capabilities that are the hallmarks of genuine understanding. The central purpose of this book is to propose development of this new testing framework in order to ground future discussions of machine understanding.
+The purpose of this book is to propose the Multifaceted Understanding Test Tool (MUTT), which was born out of a recognition of the limitations of existing AI evaluation frameworks, particularly the Turing Test, in assessing the depth and breadth of machine understanding. While the Turing Test has been a seminal benchmark in AI history, its focus on surface-level imitation of human conversation fails to probe the underlying cognitive capabilities that are the hallmarks of genuine understanding. The central purpose of this book is to propose development of this new testing framework in order to ground future discussions of machine understanding.
 
 The key principles guiding the development of the MUTT are:
 
@@ -858,7 +886,11 @@ Lipton, Z. C. (2018). The mythos of model interpretability: In machine learning,
 
 #### References for Chapter 2:
 
+Baldwin, D. A. (1995). Understanding the link between joint attention and language. In C. Moore & P. J. Dunham (Eds.), Joint attention: Its origins and role in development (pp. 131-158). Lawrence Erlbaum Associates, Inc.
+
 Barsalou, L. W. (2008). Grounded cognition. Annual Review of Psychology, 59, 617-645.
+
+Bergen, B. K. (2012). Louder than words: The new science of how the mind makes meaning. Basic Books.
 
 Chalmers, D. J. (1996). The conscious mind: In search of a fundamental theory. Oxford University Press.
 
@@ -878,6 +910,10 @@ Gunning, D., & Aha, D. W. (2019). DARPA's explainable artificial intelligence pr
 
 Harnad, S. (1992). The Turing Test is not a trick: Turing indistinguishability is a scientific criterion. ACM SIGART Bulletin, 3(4), 9-10.
 
+Keller, H. (1903). The Story of My Life. New York: Doubleday, Page & Co.
+
+Landau, B. (1997). Language and experience in blind children: Retrospective and prospective. In V. Lewis & G. M. Collis (Eds.), Blindness and psychological development in young children (pp. 107-127). British Psychological Society.
+
 Marcus, G. (2018). Deep learning: A critical appraisal. arXiv preprint arXiv:1801.00631.
 
 Searle, J. R. (1980). Minds, brains, and programs. Behavioral and Brain Sciences, 3(3), 417-424.
@@ -890,9 +926,15 @@ Searle, J. R. (1992). The rediscovery of the mind. MIT Press.Wilensky, R. (1980)
 
 Shieber, S. M. (1994). Lessons from a restricted Turing test. Communications of the ACM, 37(6), 70-78.
 
+Thelen, E., & Smith, L. B. (1996). A dynamic systems approach to the development of cognition and action. MIT press.
+
+Tomasello, M. (2003). Constructing a language. Cambridge, MA: Harvard University Press.
+
 Turing, A. M. (1950). Computing machinery and intelligence. Mind, 59(236), 433-460.
 
 Weizenbaum, J. (1966). ELIZA—a computer program for the study of natural language communication between man and machine. Communications of the ACM, 9(1), 36-45.
+
+Yu, C., & Smith, L. B. (2012). Embodied attention and word learning by toddlers. Cognition, 125(2), 244-262.
 
 Ziemke, T. (2001). The construction of 'reality' in the robot: Constructivist perspectives on situated artificial intelligence and adaptive robotics. Foundations of Science, 6(1-3), 163-233.
 
@@ -944,7 +986,8 @@ F. Chollet, "On the Measure of Intelligence," arXiv:1911.01547 [cs], Nov. 2019, 
 D. Kiela et al., "Dynabench: Rethinking Benchmarking in NLP," arXiv:2104.14337 [cs], Apr. 2021, Accessed: Apr. 18, 2023.  
 
 Z. C. Lipton, "The Mythos of Model Interpretability: In machine learning, the concept of interpretability is both important and slippery.," Queue, vol. 16, no. 3, pp. 31–57, Jun. 2018.
-____________
+
+______________
 
 
 ## Chapter 5 -- Implementing the MUTT
@@ -2687,8 +2730,6 @@ E. Siegel, "Why A.I. is a big fat lie," Big Think, Jan. 23, 2023
 #### References for Chapter 9:
 
 
-
-
 ________________
 
 
@@ -3711,7 +3752,8 @@ Claude-3 Opus
 Anthropic AI System
 
 
-{ Revision 2024060201 }
+{ Revision 2024060301 }
+
 
 
 
