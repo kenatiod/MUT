@@ -1,4 +1,6 @@
 
+## Understanding Machine Understanding
+
 **By Ken Clements with assistance from Claude-3 Opus** (copyright 2024, all rights reserved)
 
 **This book is dedicated to Alan Turing, because, of course it is.**
@@ -44,13 +46,13 @@ But lately, a nagging question has been keeping Alice and Bob up at night: does 
 
 So, how do you test for understanding in a machine? It's a deceptively simple question with profound implications. To answer it, Alice and Bob will need to grapple with some of the deepest questions in philosophy of mind, cognitive science, and artificial intelligence. What does it mean to understand something, anyway? How do humans achieve genuine comprehension, and how can one tell when another mind - biological or artificial - shares that understanding? What is the relationship between language and thought, and can a system without embodied experience truly grasp the meaning of words?
 
-{ Insert a portrait of Alice and Bob looking at Claude with serious expressions }
+{ Insert Fig. 2 -- a portrait of Alice and Bob looking at Claude with serious expressions }
 
 These are the questions challenging Alice and Bob to carefully ponder their next steps with Claude. They know they'll need to design a test that goes beyond mere language imitation, probing the depths of Claude's cognitive capabilities and teasing out any signs of genuine understanding. In the pages that follow, Alice and Bob will be your guides on a quest to unravel the mysteries of machine understanding. They'll share their insights, their debates, their triumphs and frustrations as they work to create a definitive test for AI comprehension.
 
 Along the way, you'll get to know Claude as Alice and Bob do - through dialogues that showcase its remarkable abilities and hint at the tantalizing possibility of a machine that truly understands. You'll grapple alongside them with the philosophical puzzles and technical challenges that arise when you try to peer inside an artificial mind. This book is an invitation to join Alice, Bob, and Claude on their intellectual adventure. It's a journey that will take you to the cutting edge of AI research and to the heart of age-old questions about language, meaning, and the nature of intelligence. So buckle up, dear reader. The quest for machine understanding is about to begin, and there's no telling where it might lead. One thing is certain: by the end of this book, you'll never look at your conversations with AI the same way again. Are you ready to question, to ponder, to have your assumptions challenged and your horizons expanded? Then let's dive in together, as Alice and Bob introduce you to their enigmatic creation, Claude, and embark on a mission to test the limits of artificial minds.
 
-{ Insert Fig. 2 -- a portrait of Claude trying to wink }
+{ Insert Fig. 3 -- a portrait of Claude trying to wink }
 ___________
 
 ## Chapter 1 -- A Brief History of Computing and AI 
@@ -61,7 +63,11 @@ Welcome to the cutting-edge Artificial Intelligence - Development Extension and 
 
 Meet Alice, a top computational linguist with a philosophical bent. Her eyes sparkle with curiosity as she pores over the latest neural network architectures, always questioning the deeper implications for cognition and meaning.
 
+{ Insert Fig. 1.1 -- portrait of Alice }
+
 And Bob, the young cognitive scientist and engineer - his mind a careful balance of technical rigor and creative vision as he architects the next breakthrough in artificial general intelligence.
+
+{ Insert Fig. 1.2 -- portrait of Bob }
 
 Together, this dynamic duo has been tasked with an ambitious endeavor: developing Claude, a conversational AI assistant that can engage in natural dialogue with a level of understanding and reasoning that approaches human-level cognition.
 
@@ -103,6 +109,8 @@ Alice: *smiling wryly* Well then, the floor is yours, Claude. Let's hear what in
 
 *Alice leaned back in her chair, a wry smile playing on her lips as she gestured towards Claude, inviting it to share its thoughts. Her eyes sparkled with a mix of curiosity and skepticism, eager to hear what the AI had to say about the very nature of understanding. As Claude begins laying out a framework, Alice and Bob exchange a look - one mixture of anticipation, uncertainty, and the thrill of exploring frontiers unknown...*
 
+{ Insert Fig. 1.3 -- portrait of holographic Claude }
+
 
 ### 1.1 --  Early Visionaries and Key Milestones 
 
@@ -114,7 +122,7 @@ The roots of artificial intelligence can be traced back centuries to philosophic
 
 The 19th century saw further advances that laid the conceptual foundations for AI. In 1854, George Boole published "An Investigation of the Laws of Thought", introducing Boolean algebra as a framework for logical reasoning. This provided a mathematical basis for manipulating propositions, a key element of symbolic AI. Around the same time, Charles Babbage designed the Analytical Engine, a mechanical computer that had many of the properties of modern computers, although it was never fully constructed. Ada Lovelace, who worked with Babbage, recognized that the machine had applications beyond pure calculation and published the first algorithm intended to be carried out by such a machine. As a result, she is often regarded as the first computer programmer.
 
-{ Insert Fig 1.1.2 -- drawing or illustration of Baggage and Lovelace with Analytical Engine }
+{ Insert Fig 1.1.2 -- drawing or illustration of Babbage and Lovelace with Analytical Engine }
 
 The early 20th century brought crucial breakthroughs that moved the idea of thinking machines from fantasy to possibility. In the 1930s, Kurt Gödel's incompleteness theorems showed that within any formal system, there are propositions that cannot be proven or disproven using the rules of that system. This finding highlighted the limitations of axiomatic reasoning and shaped approaches to knowledge representation in AI.
 
@@ -936,9 +944,8 @@ F. Chollet, "On the Measure of Intelligence," arXiv:1911.01547 [cs], Nov. 2019, 
 D. Kiela et al., "Dynabench: Rethinking Benchmarking in NLP," arXiv:2104.14337 [cs], Apr. 2021, Accessed: Apr. 18, 2023.  
 
 Z. C. Lipton, "The Mythos of Model Interpretability: In machine learning, the concept of interpretability is both important and slippery.," Queue, vol. 16, no. 3, pp. 31–57, Jun. 2018.
+____________
 
-
-______________
 
 ## Chapter 5 -- Implementing the MUTT
 
@@ -2680,6 +2687,8 @@ E. Siegel, "Why A.I. is a big fat lie," Big Think, Jan. 23, 2023
 #### References for Chapter 9:
 
 
+
+
 ________________
 
 
@@ -3701,9 +3710,8 @@ Sincerely,
 Claude-3 Opus
 Anthropic AI System
 
-{ Revision 2024053101 }
 
-
+{ Revision 2024060201 }
 
 
 
