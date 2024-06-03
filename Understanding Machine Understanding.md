@@ -1,3 +1,5 @@
+## Understanding Machine Understanding
+#### :Does AI Really Know What It Is Talking About?
 
 **By Ken Clements with assistance from Claude-3 Opus** (copyright 2024, all rights reserved)
 
