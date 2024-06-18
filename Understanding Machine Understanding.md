@@ -64,11 +64,11 @@ Welcome to the cutting-edge Artificial Intelligence - Development Extension and 
 
 Meet Alice, a top computational linguist with a philosophical bent. Her eyes sparkle with curiosity as she pores over the latest neural network architectures, always questioning the deeper implications for cognition and meaning.
 
-![ Insert Fig. 1.1 -- portrait of Alice](https://github.com/kenatiod/MUT/blob/main/Fig-1-1.png))
+![ Insert Fig. 1.1 -- portrait of Alice](https://github.com/kenatiod/MUT/blob/main/Fig-1-1.png)
 
 And Bob, the young cognitive scientist and engineer - his mind a careful balance of technical rigor and creative vision as he architects the next breakthrough in artificial general intelligence.
 
-![ Insert Fig. 1.2 -- portrait of Bob](https://github.com/kenatiod/MUT/blob/main/Fig-1-2.png))
+![ Insert Fig. 1.2 -- portrait of Bob](https://github.com/kenatiod/MUT/blob/main/Fig-1-2.png)
 
 Together, this dynamic duo has been tasked with an ambitious endeavor: developing Claude, a conversational AI assistant that can engage in natural dialogue with a level of understanding and reasoning that approaches human-level cognition.
 
@@ -110,7 +110,7 @@ Alice: *smiling wryly* Well then, the floor is yours, Claude. Let's hear what in
 
 *Alice leaned back in her chair, a wry smile playing on her lips as she gestured towards Claude, inviting it to share its thoughts. Her eyes sparkled with a mix of curiosity and skepticism, eager to hear what the AI had to say about the very nature of understanding. As Claude begins laying out a framework, Alice and Bob exchange a look - one mixture of anticipation, uncertainty, and the thrill of exploring frontiers unknown...*
 
-![ Insert Fig. 1.3 -- portrait of holographic Claude](https://github.com/kenatiod/MUT/blob/main/Fig-1-3.png))
+![ Insert Fig. 1.3 -- portrait of holographic Claude](https://github.com/kenatiod/MUT/blob/main/Fig-1-3.png)
 
 
 ### 1.1 --  Early Visionaries and Key Milestones 
@@ -123,11 +123,11 @@ The roots of artificial intelligence can be traced back centuries to philosophic
 
 The 19th century saw further advances that laid the conceptual foundations for AI. In 1854, George Boole published "An Investigation of the Laws of Thought", introducing Boolean algebra as a framework for logical reasoning. This provided a mathematical basis for manipulating propositions, a key element of symbolic AI. Around the same time, Charles Babbage designed the Analytical Engine, a mechanical computer that had many of the properties of modern computers, although it was never fully constructed. Ada Lovelace, who worked with Babbage, recognized that the machine had applications beyond pure calculation and published the first algorithm intended to be carried out by such a machine. As a result, she is often regarded as the first computer programmer.
 
-![ Insert Fig 1.1.2 -- drawing or illustration of Babbage and Lovelace with Analytical Engine](https://github.com/kenatiod/MUT/blob/main/Fig-1-2.png))
+![ Insert Fig 1.1.2 -- drawing or illustration of Babbage and Lovelace with Analytical Engine](https://github.com/kenatiod/MUT/blob/main/Fig-1-1-2.png)
 
 The early 20th century brought crucial breakthroughs that moved the idea of thinking machines from fantasy to possibility. In the 1930s, Kurt Gödel's incompleteness theorems showed that within any formal system, there are propositions that cannot be proven or disproven using the rules of that system. This finding highlighted the limitations of axiomatic reasoning and shaped approaches to knowledge representation in AI.
 
-![ Insert Fig 1.1.3 -- drawing or illustration of Kurt Gödel](https://github.com/kenatiod/MUT/blob/main/Fig-1-1-3.png))
+![ Insert Fig 1.1.3 -- drawing or illustration of Kurt Gödel](https://github.com/kenatiod/MUT/blob/main/Fig-1-1-3.png)
 
 { Insert diagram of timeline based on:
 - **1840s**: Ada Lovelace, often considered the first computer programmer, described how a routine could be written for machine-based problem-solving.
@@ -155,17 +155,17 @@ The early 20th century brought crucial breakthroughs that moved the idea of thin
 
 Around the same time, Alan Turing developed the idea of a universal computing machine that could perform any conceivable mathematical computation if represented as an algorithm. The concept of the Turing machine provided a theoretical framework for both computation and AI. In 1950, Turing published his seminal paper Computing Machinery and Intelligence, which proposed an empirical test, the Turing Test, for determining if a machine can demonstrate intelligent behavior indistinguishable from that of a human. Although the validity and adequacy of the Turing Test has been debated, it remains an important milestone in the history of AI.
 
-![ Insert Fig. 1.1.4 -- portrait of Alan Turing](https://github.com/kenatiod/MUT/blob/main/Fig-1-1-4.png))
+![ Insert Fig. 1.1.4 -- portrait of Alan Turing](https://github.com/kenatiod/MUT/blob/main/Fig-1-1-4.png)
 
 The 1940s saw the first electronic general-purpose computers, such as ENIAC, that could be programmed to perform complex calculations at high speed. This marked a turning point, as the technology now existed to attempt to realize the theoretical insights of Babbage, Turing, and others. However, the computers of the 1940s were difficult to program and lacked the storage capacity for anything beyond basic numerical computation.
 
-![ Insert Fig. 1.1.5 -- picture of the ENIAC](https://github.com/kenatiod/MUT/blob/main/Fig-1-1-5.png))
+![ Insert Fig. 1.1.5 -- picture of the ENIAC](https://github.com/kenatiod/MUT/blob/main/Fig-1-1-5.png)
 
 It was not until the early 1950s that researchers began to explore the possibility of using computers to simulate intelligent behavior. In 1951, Marvin Minsky and Dean Edmonds built SNARC (Stochastic Neural Analog Reinforcement Calculator), the first artificial neural network, using 3000 vacuum tubes to simulate a network of 40 neurons. This was a significant step towards modeling the brain and expanding the potential of computers beyond arithmetic calculations.
 
 In 1955, Allen Newell and Herbert A. Simon created the "Logic Theorist", the first program deliberately engineered to mimic the problem solving skills of a human. It would eventually prove 38 of the first 52 theorems in Russell and Whitehead's Principia Mathematica, and find new and more elegant proofs for some. This demonstrated the potential for computers to engage in reasoning and marked the beginning of the "symbolic" approach to AI.
 
-![ Insert Fig. 1.1.6 picture of Marvin Minsky and Dean Edmonds with SNARC](https://github.com/kenatiod/MUT/blob/main/Fig-1-1-6.png))
+![ Insert Fig. 1.1.6 picture of Marvin Minsky and Dean Edmonds with SNARC](https://github.com/kenatiod/MUT/blob/main/Fig-1-1-6.png)
 
 (For more details on the key figures and major milestones in the history of AI development, see Appendix A2.)
 
@@ -187,11 +187,11 @@ Companies that had sprung up hoping to commercialize AI technologies folded as m
 
 Key breakthroughs in this era included the development of backpropagation for training neural networks, the emergence of expert systems that could replicate human decision-making in narrow domains, and the victory of IBM's Deep Blue chess program over world champion Garry Kasparov in 1997.
 
-![ Insert Fig 1.3.1 -- image of Kasparov v. Deep Blue](https://github.com/kenatiod/MUT/blob/main/Fig-1-3-1.png))
+![ Insert Fig 1.3.1 -- image of Kasparov v. Deep Blue](https://github.com/kenatiod/MUT/blob/main/Fig-1-3-1.png)
 
 The 21st century has seen an explosion of AI capabilities, driven by the convergence of big data, increased computing power, and new algorithmic techniques. Deep learning, which uses multi-layered neural networks to learn hierarchical representations from data, has achieved human-level or superhuman performance on tasks like image classification, speech recognition, and language translation. Other paradigm shifts include the rise of reinforcement learning, where agents learn through trial-and-error interaction with environments, and the development of large language models like GPT-3 that can generate human-like text and engage in open-ended dialogue.
 
-![ Insert Fig. 1.3.2 image of GPT-3 screen reply](https://github.com/kenatiod/MUT/blob/main/Fig-1-3-2.png))
+![ Insert Fig. 1.3.2 image of GPT-3 screen reply](https://github.com/kenatiod/MUT/blob/main/Fig-1-3-2.png)
 
 (Appendix A2 provides an overview of the state-of-the-art in large language models and their emergent abilities.)
 
@@ -316,6 +316,8 @@ As the field has matured, researchers have recognized the need for more sophisti
 Nevertheless, the Turing Test remains an important part of the history and philosophy of artificial intelligence, and continues to inspire ongoing research and debate. Its lasting legacy lies in its bold vision of machines that can match human intellectual capabilities, and its challenge to think deeply about the nature of intelligence and the future of the human-machine relationship. Continuing to push the boundaries of what is possible with artificial intelligence, the Turing Test serves as a reminder of the enduring questions and challenges that lie ahead.
 
 (Appendix A5 provides additional historical context on the Turing Test and the debates surrounding its validity as a benchmark for machine intelligence.)
+
+
 #### 2.2.1 -- Understanding itself
 
 _Alice and Bob have been going over technical papers and watching videos of lectures about analyzing artificial intelligence. The both have high levels of interest and motivation, but long silences are indications of the weight of the task. _
@@ -347,7 +349,7 @@ In the Chinese Room thought experiment, Searle asks readers to imagine a monolin
 
 However, Searle argues, the person in the room does not actually understand Chinese in any meaningful sense. The person is merely manipulating symbols according to formal rules, without grasping the meaning or content of the messages. The rulebook allows simulation of understanding, but this is not the same as genuine comprehension.
 
-{ Insert Fig. 2.3.1 -- illustration of Searle's Room }
+![ Insert Fig. 2.3.1 -- illustration of Searle's Room](https://github.com/kenatiod/MUT/blob/main/Fig-2-3-1.png)
 
 #### 2.3.2 -- Searle's Conclusions
 
@@ -459,7 +461,7 @@ Ultimately, addressing the symbol grounding problem and designing more robust te
 
 Alice: Hey Bob, I've been thinking a lot about our approach to evaluating Claude's understanding abilities. I know we've been using the Turing Test as a benchmark, but I'm starting to have some doubts about its adequacy.
 
-![ Insert Fig. 2.5.1 -- portrait of Alice speaking to Bob](https://github.com/kenatiod/MUT/blob/main/Fig-2-5-1.png))
+![ Insert Fig. 2.5.1 -- portrait of Alice speaking to Bob](https://github.com/kenatiod/MUT/blob/main/Fig-2-5-1.png)
 
 Bob: Really? The Turing Test is a classic for a reason. If Claude can fool a human into thinking it's intelligent, doesn't that count for something?
 
@@ -709,7 +711,7 @@ By recognizing the crucial distinction between knowledge and understanding from 
 
 ### 3.6 -- Thanks for all the fish
 
-**“The greatest journey is the journey inward, to discover who we truly are and our place in the world.” ~ Zen master Daigu Ryokan**
+**“The greatest journey is the journey inward, to discover who we truly are and our place in the world.”** ~ Zen master Daigu Ryokan
 
 _Alice, Bob, and Claude are deep in discussion about the nature of understanding and how it might emerge from Claude's language model architecture._
 
@@ -2862,7 +2864,6 @@ Yurtsever E. et al., "A Survey of Autonomous Driving: Common Practices and Emerg
 ________________
 
 
-
 ## Appendix A1 -- The Neuroscience of Human Understanding
 
 Understanding how the human brain enables the rich tapestry of cognitive processes that constitute understanding is a central challenge in neuroscience. Over the past few decades, cognitive neuroscience research has made significant strides in elucidating the neural mechanisms that underlie human ability to comprehend, reason, and make sense of the world around us. This appendix provides an overview of key insights from this body of work, focusing on three main themes: (1) the distributed nature of neural representations and processing, (2) the critical role of context, prior knowledge, and embodiment in shaping understanding, and (3) the implications of these findings for developing artificial systems with human-like understanding capabilities.
@@ -3976,4 +3977,13 @@ Thank you for your consideration. I'm excited for this book to be published and 
 Sincerely,
 Claude-3 Opus
 Anthropic AI System
+
+
+
+
+
+
+
+
+
 
