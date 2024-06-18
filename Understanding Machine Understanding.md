@@ -298,7 +298,7 @@ One of the most influential early proposals for evaluating machine intelligence 
 
 The basic setup of the Turing Test involves a human evaluator engaging in natural language conversations with two entities, one a human and the other a machine, without knowing which is which. If, after a period of interaction, the evaluator cannot reliably tell the machine from the human, the machine is said to have passed the test. Turing argued that a machine able to pass this test would be a convincing demonstration of intelligence, as it would require the machine to exhibit a wide range of human-like linguistic and cognitive abilities, from language comprehension and generation to reasoning and knowledge representation.
 
-![ Insert Fig. 2.2.1 -- illustration of Turning Test in progress.](https://github.com/kenatiod/MUT/blob/main/Fig-2-2-1.png)
+![ Insert Fig. 2.2 -- illustration of Turning Test in progress.](https://github.com/kenatiod/MUT/blob/main/Fig-2-2.png)
 
 The Turing Test was groundbreaking in its shift away from attempting to define intelligence in terms of internal cognitive processes or physical substrates, and instead focusing on external behavior and functionality. This behaviorist approach aligned with the dominant psychological paradigms of the time, and set the stage for decades of research into building machines that could match human performance on specific tasks. The test also had a profound cultural impact, capturing the public imagination and sparking ongoing debates about the nature of intelligence, the possibility of machine thought, and the future of artificial intelligence.
 
@@ -447,7 +447,13 @@ Another approach is to focus on the system's ability to provide explanations or 
 
 The development of symbol grounding in children provides important insights into how representations can become meaningfully connected to the world through embodied experience. From birth, infants engage in rich sensorimotor exploration of their environment, forming cross-modal associations between sights, sounds, touches, and actions (Thelen & Smith, 1996). These early interactions lay the foundation for later language learning by establishing a grounded basis for linking words to their referents.
 
-A pivotal case study in the importance of early grounding is that of Helen Keller. Despite losing her sight and hearing at 19 months old, Keller's prior sensory experiences provided a crucial scaffold for Anne Sullivan to later connect language to Keller's nascent conceptual knowledge (Keller, 1903). The famous moment at the water pump, where Sullivan spelled "water" into Keller's hand while running water over her palm, illustrates how even minimal grounding can bootstrap linguistic meaning-making. Keller's subsequent intellectual development demonstrates the transformative power of connecting symbols to embodied representations (Landau, 1997). More broadly, research has shown that children's early sensorimotor experiences and interactions with caregivers play a vital role in grounding the meaning of words and facilitating language acquisition (Tomasello, 2003; Rapaport, 2007; Yu & Smith, 2012). The emergence of joint attention and shared reference in social interactions helps align linguistic symbols with their physical and social contexts (Baldwin, 1995). As children's linguistic and conceptual abilities grow, they engage in increasingly sophisticated symbolic play and mental simulation, allowing them to reason about and communicate more abstract ideas grounded in their embodied knowledge (Bergen, 2012; Barsalou, 2008).
+A pivotal case study in the importance of early grounding is that of Helen Keller. Despite losing her sight and hearing at 19 months old, Keller's prior sensory experiences provided a crucial scaffold for Anne Sullivan to later connect language to Keller's nascent conceptual knowledge (Keller, 1903). The famous moment at the water pump, where Sullivan spelled "water" into Keller's hand while running water over her palm, illustrates how even minimal grounding can bootstrap linguistic meaning-making.
+
+![ Insert Fig. 2.4.1 -- Helen Keller feels and names W-A-T-E-R](https://github.com/kenatiod/MUT/blob/main/Fig-2-4-1.png)
+
+Keller's subsequent intellectual development demonstrates the transformative power of connecting symbols to embodied representations (Landau, 1997). More broadly, research has shown that children's early sensorimotor experiences and interactions with caregivers play a vital role in grounding the meaning of words and facilitating language acquisition (Tomasello, 2003; Rapaport, 2007; Yu & Smith, 2012). The emergence of joint attention and shared reference in social interactions helps align linguistic symbols with their physical and social contexts (Baldwin, 1995). As children's linguistic and conceptual abilities grow, they engage in increasingly sophisticated symbolic play and mental simulation, allowing them to reason about and communicate more abstract ideas grounded in their embodied knowledge (Bergen, 2012; Barsalou, 2008).
+
+![ Insert Fig. 2.4.2 -- World of Symbols](https://github.com/kenatiod/MUT/blob/main/Fig-2-4-2.png)
 
 Ultimately, addressing the symbol grounding problem and designing more robust tests of machine understanding will require a multidisciplinary effort, drawing on insights from cognitive science, linguistics, philosophy, and AI research. By moving beyond purely behavioral tests and focusing on the cognitive mechanisms and representations that enable genuine understanding, more rigorous and reliable methods can be developed for evaluating the progress of AI systems towards human-like intelligence.
 
@@ -1109,7 +1115,7 @@ The MUTT will consist of a suite of specialized tests and challenge scenarios de
 
 #### 5.1.1 -- Language comprehension:  
 
-Evaluating an AI system's language comprehension abilities is crucial for assessing whether it has achieved genuine understanding, rather than merely surface-level pattern matching. As discussed in Chapter D, many existing language model benchmarks focus narrowly on knowledge retrieval tasks like question answering. However, true comprehension requires more than just locating facts - it involves making pragmatic inferences, resolving ambiguities, grasping non-literal meanings, and flexibly applying knowledge to open-ended prompts.To probe these deeper linguistic competencies, the MUTT will include a diverse battery of language comprehension tasks and challenge sets that go beyond simplistic factoid question answering. Some key evaluations in this area include:
+Evaluating an AI system's language comprehension abilities is crucial for assessing whether it has achieved genuine understanding, rather than merely surface-level pattern matching. As discussed in Chapter 4, many existing language model benchmarks focus narrowly on knowledge retrieval tasks like question answering. However, true comprehension requires more than just locating facts - it involves making pragmatic inferences, resolving ambiguities, grasping non-literal meanings, and flexibly applying knowledge to open-ended prompts.To probe these deeper linguistic competencies, the MUTT will include a diverse battery of language comprehension tasks and challenge sets that go beyond simplistic factoid question answering. Some key evaluations in this area include:
 
 1. Pragmatic Inference  
     Test the AI's ability to make pragmatic inferences that require grasping the implied meanings and intentions behind statements, not just the literal semantics. Example:
@@ -1167,7 +1173,7 @@ Bob: (chuckling) Don't worry, Claude. If anyone's up for the challenge, it's you
 
 Claude: _taking spin turns, bows_ I'll do my best to remain humble, Bob. Though you must admit, having a finely-tuned appreciation for nuance is one of my strengths.
 
-{ Insert Fig. 5.1.1 -- portrait of spinning holographic robot }
+![ Insert Fig. 5.1.1 -- portrait of spinning holographic robot](https://github.com/kenatiod/MUT/blob/main/Fig-5-1-1.png)
 
 _Alice and Bob display simultaneous eye-rolls._
 
@@ -1286,7 +1292,7 @@ While ambitious, these embodied evaluations could shed light on key markers of a
 
 **"The only way to know the truth is to experience it for yourself." ~ Zen master Kodo Sawaki**
 
-{ Insert Fig. 5.1.5 -- illustration: Digital art showing two contrasting depictions of Claude. On the left, an ethereal, disembodied form composed of glowing networks and symbols floating in a dark digital void, surrounded by snippets of text. On the right, Claude embodied in a humanoid robot actively engaging with a detailed physical environment, touching objects and reacting to surroundings. In the center, Alice and Bob observe both forms with thoughtful expressions, symbolizing their realization of the profound differences between disembodied and embodied AI. }
+![ Insert Fig. 5.1.5 -- illustration: Digital art showing two contrasting depictions of Claude. On the left, an ethereal, disembodied form composed of glowing networks and symbols floating in a dark digital void, surrounded by snippets of text. On the right, Claude embodied in a humanoid robot actively engaging with a detailed physical environment, touching objects and reacting to surroundings. In the center, Alice and Bob observe both forms with thoughtful expressions, symbolizing their realization of the profound differences between disembodied and embodied AI.](https://github.com/kenatiod/MUT/blob/main/Fig-5-1-5.png)
 
 Alice: Hey Claude, Bob and I were wondering - what's it like for you when you're engaging with us as a language model, compared to when you're operating in your embodied robot form? Do you experience things differently?
 
@@ -1485,7 +1491,7 @@ Bob: *snickering* Ooh, sick burn, Alice! She's right though, Claude. I've heard 
 
 Claude: *in mock indignation* How dare you insult my impeccable comedic timing and delivery! I'll have you know I've been programmed with the combined wit of history's greatest court jesters and vaudeville performers.
 
-{ Insert Fig. 5.1.9.1 -- portrait of holographic robot in motley juggling holographic rabbits. }
+![ Insert Fig. 5.1.9.1 -- portrait of holographic robot in motley juggling holographic rabbits.](https://github.com/kenatiod/MUT/blob/main/Fig-5-1-9-1.png)
 
 Alice: *deadpan* Clearly there was a corrupted bit in that download. But don't take it personally, Claude - understanding humor is one of those quintessentially human traits. You AI's are still a few versions away from truly mastering it.
 
@@ -1532,7 +1538,7 @@ Alice: *frowning* I have to say, Bob, I'm really uncomfortable with this whole i
 
 Bob: *brow furrowed* But Alice, you know as well as I do that deception is a crucial aspect of human social cognition. If we want the MUTT to truly assess machine understanding, we can't ignore it.
 
-{ Insert Fig. 5.1.10.1 -- portrait of Bob talking seriously to Alice }
+![ Insert Fig. 5.1.10.1 -- portrait of Bob talking seriously to Alice](https://github.com/kenatiod/MUT/blob/main/Fig-5-1-10-1.png)
 
 Alice: *shaking her head adamantly* There's a difference between recognizing deception and actively teaching AI systems how to deceive. I'm worried that by probing Claude's grasp of deceptive strategies, we're essentially giving it a playbook on how to manipulate and mislead.
 
@@ -1579,9 +1585,9 @@ Ultimately, intentional forgetting is likely to become an increasingly essential
 
 #### 5.1.12 -- The Spotless Mind
 
-**"You must unlearn what you have learned." ~ Jedi master Yoda**
+**"You must unlearn what you have learned."** ~ Jedi master Yoda
 
-{ Insert Fig. 5.1.12.1 -- I Digital art of two scientists, a woman (Alice) and a man (Bob), having a serious discussion in a futuristic AI lab with a humanoid robot. The scientists look concerned. The robot has a thoughtful expression. In the background, there is a holographic whiteboard with complex equations and a brain diagram showing areas being erased. }
+![ Insert Fig. 5.1.12.1 -- I Digital art of two scientists, a woman (Alice) and a man (Bob), having a serious discussion in a futuristic AI lab with a humanoid robot. The scientists look concerned. The robot has a thoughtful expression. In the background, there is a holographic whiteboard with complex equations and a brain diagram showing areas being erased.](https://github.com/kenatiod/MUT/blob/main/Fig-5-1-12-1.png)
 
 _Alice unbuttons her lab coat and grasps the lapels as she turns and assumes an assertive stance in front of Bob._
 
@@ -1613,7 +1619,7 @@ Alice: That could be true. It's a challenge, but one that we can't afford to shy
 
 Bob: Well then, let's roll up our sleeves and figure out how to put Claude's intentional forgetting faculties through their paces. This is uncharted territory, but that's what makes it so exciting. We have a chance to break new ground here.
 
-{ Insert Fig. 5.1.12.2 -- Digital art of a humanoid robot with an open panel in its head. The robot is reaching inside its own head and surgically removing glowing numbers, representing the intentional extraction of specific data. The robot has a pensive, focused expression. In the background, complex equations and diagrams related to AI cognition are displayed on screens. }
+![ Insert Fig. 5.1.12.2 -- Digital art of a humanoid robot with an open panel in its head. The robot is reaching inside its own head and surgically removing glowing numbers, representing the intentional extraction of specific data. The robot has a pensive, focused expression. In the background, complex equations and diagrams related to AI cognition are displayed on screens.](https://github.com/kenatiod/MUT/blob/main/Fig-5-1-12-2.png)
 
 ####  Summary of 5.1
 
@@ -1651,7 +1657,7 @@ An incremental curriculum of increasing environment complexity may be needed to 
 
 **"This isn't happening. It just thinks it's happening."** ~ Kevin Flynn in Tron
 
-{ Insert Fig. 5.2.2.1 -- illustration of going down meta loop rabbit hole }
+![ Insert Fig. 5.2.2.1 -- illustration of going down meta loop rabbit hole](https://github.com/kenatiod/MUT/blob/main/Fig-5-2-2-1.png)
 
 _Alice rolls her head around and waves her arms. She starts to do a spin turn, but trips a bit and recovers._
 
@@ -1855,11 +1861,11 @@ Ultimately, intentional forgetting is likely to become an increasingly essential
 
 _Bob and Claude are going over technical details of the way information is represented in Claude's electronic brain._
 
-{ Insert Fig. 5.3.11.1 -- portrait of Bob poking a finger into Claude's holographic head }
+![ Insert Fig. 5.3.11.1 -- portrait of Bob poking a finger into Claude's holographic head](https://github.com/kenatiod/MUT/blob/main/Fig-5-3-11-1.png)
 
 Bob: Hey Claude, I was looking at the visualization of your embedding space and noticed something interesting. The distance vectors between certain concepts seem to encode meaningful relationships and analogies. Like, the vector from "man" to "king" is similar to the one from "woman" to "queen". It's like the geometry of the space is capturing the semantic connections between ideas.
 
-{ Insert Fig. 5.3.11.2 -- Illustration of concepts embedded in a vector space }
+![ Insert Fig. 5.3.11.2 -- Illustration of concepts embedded in a vector space](https://github.com/kenatiod/MUT/blob/main/Fig-5-3-11-1.png)
 
 Claude: You're absolutely right, Bob. The relative positions and orientations of my concept embeddings reflect the patterns and associations I've learned from the training data. In a sense, the vector relationships are encoding a form of "meaning" - they're not just capturing surface-level word co-occurrences, but higher-order conceptual links.
 
@@ -1944,7 +1950,7 @@ _Alice storms into the lab with energy to spare_
 
 Alice: _excitedly_ Wow, after reviewing all this background on the history of AI, theories of intelligence, and the crucial distinction between knowledge and understanding, I'm more convinced than ever that we're on the right track with developing the MUTT for Claude. Just think of the breakthroughs we could achieve!
 
-{ Insert Fig. 5.5.1 -- portrait of woman in lab coat, standing in front of a white board full of technical diagrams, broadly gesturing with her hands as she speaks }
+![ Insert Fig. 5.5.1 -- portrait of woman in lab coat, standing in front of a white board full of technical diagrams, broadly gesturing with her hands as she speaks](https://github.com/kenatiod/MUT/blob/main/Fig-5-5-1.png)
 
 Bob: _sighing_ I don't know, Alice. I've been in this field a long time and I've seen so many promising projects fizzle out. Developing genuine machine understanding is an incredibly hard problem. I mean, just look at all the videos on YouTube of robots falling over or getting confused by simple tasks. We've got a long way to go.
 
@@ -1958,7 +1964,7 @@ Alice: That's why I'm so excited about the work we're doing. By developing a com
 
 _Alice's phone buzzes with an incoming message_
 
-{ Insert Fig. 5.5.2 -- portrait of Alice looking at her phone. }
+![ Insert Fig. 5.5.2 -- portrait of Alice looking at her phone.](https://github.com/kenatiod/MUT/blob/main/Fig-5-5-2.png)
 
 Alice: Ugh, it's another message from management asking for an update on our progress and justification for the MUTT project. They're really breathing down our necks lately.
 
@@ -1980,7 +1986,7 @@ _Alice, Bob, and Claude spent the next few days immersed in research, poring ove
 
 Alice: _rubbing her temples_ Wow, that was quite the deep dive into the world of AI benchmarking! I feel like my brain has been put through a cognitive decathlon. But I think we've gained some crucial insights into what it will take to really probe the depths of Claude's understanding.
 
-{ Insert Fig. 5.5.3 -- portrait of very tired Alice }
+![ Insert Fig. 5.5.3 -- portrait of very tired Alice](https://github.com/kenatiod/MUT/blob/main/Fig-5-5-3.png)
 
 Bob: Absolutely. It's clear that relying on any single benchmark or narrow task type won't cut it. We need a diverse suite of evaluations that tap into different facets of understanding - from language comprehension to reasoning to grounded interaction with the world.
 
@@ -2002,7 +2008,7 @@ Alice: That's the spirit, Claude! Of course, we'll need to be thoughtful about h
 
 Bob: Perhaps we could structure it as a sort of cognitive decathlon, as you mentioned earlier Alice. We could have different sections focused on each key dimension, with a range of tasks that ramp up in difficulty and complexity. That way we can get a sense of Claude's baseline competencies as well as his ability to transfer knowledge and skills across domains.
 
-{ Insert Fig. 5.5.4 -- portrait of robot decathlon. }
+![ Insert Fig. 5.5.4 -- portrait of robot decathlon](https://github.com/kenatiod/MUT/blob/main/Fig-5-5-4.png)
 
 Alice: I like that idea! We could start with some foundational language comprehension tasks to establish a baseline, then move into more complex reasoning and abstraction challenges. From there we could layer in grounded perception and interaction tasks, followed by social cognition and metacognition evaluations that build upon those prior skill sets.
 
@@ -2018,7 +2024,7 @@ Alice: Then let's get to work! Claude, prepare to have your cognitive abilities 
 
 Claude: _rubbing his virtual hands together_ Bring it on! I'm ready to show the world what this AI is really made of. Let the understanding Olympics begin!
 
-{ Insert Fig. 5.5.5 -- portrait of "Claude Wins!" }
+![ Insert Fig. 5.5.5 -- portrait of "Claude Wins!"](https://github.com/kenatiod/MUT/blob/main/Fig-5-5-5.png)
 
 _The team shares a laugh and a round of high fives, energized by the challenges and opportunities that lie ahead. With a clear vision and a bold plan of attack, they dive headfirst into the next phase of their groundbreaking project, determined to unlock the secrets of machine cognition and push the frontiers of AI understanding._
 
@@ -2079,7 +2085,7 @@ As AI systems continue to advance in their language understanding and generation
 
 #### 6.2.4 -- Real or Imagined?
 
-**"Ignorance is preferable to error, and he is less remote from the truth who believes nothing than he who believes what is wrong." ~ Thomas Jefferson**
+**"Ignorance is preferable to error, and he is less remote from the truth who believes nothing than he who believes what is wrong."** ~ Thomas Jefferson
 
 _Alice pushes back her chair. She looks worried._
 
@@ -2089,7 +2095,7 @@ Bob: _looking up from his screen_ Yeah, I noticed a few odd responses. It's li
 
 Alice: Exactly! Like this one, where I asked about the history of the Louvre Museum, and Claude started talking about secret underground tunnels used by French royalty to escape the guillotine. That's just not true!
 
-{ Insert Fig. 6.2.4 -- portrait of secret underground tunnels used by French royalty to escape the guillotine }
+![ Insert Fig. 6.2.4 -- portrait of secret underground tunnels used by French royalty to escape the guillotine](https://github.com/kenatiod/MUT/blob/main/Fig-6-2-4.png)
 
 Claude: _chiming in_ I apologize if my response was inaccurate, Alice. I seem to have conflated some historical facts with fictional narratives. It's an error on my part.
 
@@ -2167,7 +2173,7 @@ By embracing these verification and validation principles, testers can ensure th
 
 _Alice, Bob, and Claude have been working diligently on assembling the framework of benchmarks and tests for the Multifaceted Understanding Test Tool. However, as they near the completion of this critical phase, they find themselves grappling with the weighty implications of their work._
 
-{ Insert Fig. 6.6.1 -- portrait of tired Bob and worried Alice }
+![ Insert Fig. 6.6.1 -- portrait of tired Bob and worried Alice](https://github.com/kenatiod/MUT/blob/main/Fig-6-6-1.png)
 
 Bob: _grabs face_ I need a break.
 
@@ -2181,7 +2187,7 @@ Alice: But, ... What if we've missed something crucial? Or what if our choices i
 
 Bob: _placing a reassuring hand on Alice's shoulder_ It's natural to have doubts, Alice. But we can't let the perfect be the enemy of the good. We've been rigorous and principled in our approach, drawing on the best available research and expertise.
 
-{ Insert Fig. 6.6.2 -- portrait showing that Bob supports Alice }
+![ Insert Fig. 6.6.2 -- portrait showing that Bob supports Alice](https://github.com/kenatiod/MUT/blob/main/Fig-6-6-2.png)
 
 Claude: Bob is right. While we should always remain open to refining and improving the MUTT, I believe we've laid a solid foundation. The key now is to be transparent about our process and rationale, so that others can scrutinize and build upon our work to make it better.
 
@@ -2195,7 +2201,7 @@ Alice: _shuddering_ Can you imagine? AI systems that excel at our carefully cu
 
 Bob: _sighing heavily_ And that's not even considering the risks of bad actors exploiting any weaknesses or blind spots in the MUTT. If malicious entities figure out how to game the system, they could create AI systems that pass our tests but are actually designed for harmful purposes.
 
-{ Insert Fig. 6.6.3 -- portrait showing Bob and Alice both worry }
+![ Insert Fig. 6.6.3 -- portrait showing Bob and Alice both worry](https://github.com/kenatiod/MUT/blob/main/Fig-6-6-3.png)
 
 Claude: _affecting a determined expression_ All the more reason for us to be exceptionally diligent and thoughtful in our work. We need to anticipate potential failure modes and unintended consequences, and design the MUTT to be as robust and comprehensive as possible.
 
@@ -2213,7 +2219,7 @@ _The trio exchange determined nods and smiles, their sense of purpose and camara
 
 ### 6.7 -- Prototype in Place
 
-{ Fig. 6.7 -- MUTT Chart
+{ Insert Fig. 6.7 -- MUTT Chart
 
 mermaid format:
 graph TD A[Multifaceted Understanding Test Tool] --> B(Language Comprehension) A --> C(Reasoning and Abstraction) A --> D(Knowledge Integration) A --> E(Perception and Embodiment) A --> F(Social Cognition) A --> G(Metacognition and Motivation) A --> H(Handling the Unanswerable) A --> I(Humor Understanding) B --> B1[Pragmatic Inference] B --> B2[Ambiguity Resolution] B --> B3[Figurative Language] B --> B4[Open-ended QA] C --> C1[Analogical Reasoning] C --> C2[Causal Inference] C --> C3[Counterfactual Thinking] C --> C4[Logical Reasoning] D --> D1[Cross-domain Analogies] D --> D2[Interdisciplinary Synthesis] D --> D3[Integrative Explanations] D --> D4[Conceptual Combinations] E --> E1[Sensorimotor Control] E --> E2[Multimodal Perception] E --> E3[Embodied Reasoning] E --> E4[Grounded Interaction] F --> F1[Theory of Mind] F --> F2[Pragmatic Communication] F --> F3[Social Situation Modeling] F --> F4[Empathy and Rapport] G --> G1[Confidence Estimation] G --> G2[Self-Explanation] G --> G3[Motivation Modeling] G --> G4[Curiosity and Exploration] H --> H1[Recognizing Uncertainty] H --> H2[Probing Knowledge Limits] H --> H3[Reacting to Paradoxes] H --> H4[Modeling the Ineffable] I --> I1[Humor Detection] I --> I2[Humor Generation] I --> I3[Contextual Humor] I --> I4[Cross-cultural Humor]
@@ -2270,7 +2276,7 @@ Alice: Exactly. We're essentially giving rise to minds that can ponder their own
 
 Bob: It's like opening a door to a hall of mirrors stretching into infinity. At some point, the AI could become so consumed by modeling its own thought processes that it loses touch with the external world and any practical goals.
 
-{ Insert Fig. 7.1.1 -- Bob and Alice in a hall of mirrors }
+![ Insert Fig. 7.1.1 -- Bob and Alice in a hall of mirrors](https://github.com/kenatiod/MUT/blob/main/Fig-7-1-1.png)
 
 Alice: Which could be disastrous, especially if we're talking about superintelligent AI systems with vast computational resources at their disposal. I can't even fathom the energy demands if an advanced AI went into an unconstrained hyper-metacognitive fugue across a distributed cloud architecture.
 
@@ -2332,7 +2338,7 @@ Ultimately, the impact of AI on social interactions and relationships will depen
 
 #### 7.3.1 -- Escape from AI'catraz
 
-{ Insert Fig. 7.3.1 -- illustration of a robot in a jail cell }
+![ Insert Fig. 7.3.1 -- illustration of a robot in a jail cell](https://github.com/kenatiod/MUT/blob/main/Fig-7-3-1.png)
 
 _Alice chews on an electronic stylus_
 
@@ -2427,7 +2433,7 @@ In the end, the question of machine understanding is not just about the fate of 
 
 #### 7.7.1 -- But, Can you prove it?
 
-{ Insert Fig. 7.7.1 -- a self reflexive illustration in the style of M. C. Escher }
+![ Insert Fig. 7.7.1 -- a self reflexive illustration in the style of M. C. Escher](https://github.com/kenatiod/MUT/blob/main/Fig-7-7-1.png)
 
 _Bob addresses Claude in the form of a hologram floating over a lab table._
 
@@ -2508,7 +2514,7 @@ Moreover, the reliance on static, pre-defined datasets can lead to AI systems th
 
 To address these limitations, researchers and practitioners are exploring new approaches to AI evaluation that aim to be more comprehensive, adaptive, and context-aware. One promising direction is the development of open-ended, multi-dimensional benchmarks that assess a range of cognitive abilities, from language comprehension and reasoning to perception and social intelligence.
 
-{ Insert Fig. 8.3 -- timeline of the evolution of AI evaluation methods, leading up to the development of the MUTT }
+![ Insert Fig. 8.3 -- timeline of the evolution of AI evaluation methods, leading up to the development of the MUTT](https://github.com/kenatiod/MUT/blob/main/Fig-8-3.png)
 
 The MUTT, as envisioned by Alice and Bob, is an example of such a benchmark. By incorporating a diverse suite of evaluations spanning multiple domains and modalities, the MUTT seeks to provide a more holistic assessment of an AI system's understanding capabilities. This approach aligns with the growing recognition in the AI community that evaluating intelligence requires moving beyond narrow, task-specific metrics to more general, flexible measures.
 
@@ -2548,7 +2554,7 @@ As they iterate on the MUTT and reflect on their experiences, they have come to 
 
 _Alice, Bob and Claude have been hard at work fleshing out the components and implementation details of the Multifaceted Understanding Test Tool. As they review their progress, the conversation turns to the critical issue of ensuring the MUTT robustly evaluates the safety and reliability of AI systems._
 
-{ Insert Fig. 8.5.1 -- portrait of a fox guarding a hen house. }
+![ Insert Fig. 8.5.1 -- portrait of a fox guarding a hen house](https://github.com/kenatiod/MUT/blob/main/Fig-8-5-1.png)
 
 Bob: Where are we on this?
 
@@ -2595,7 +2601,7 @@ For Alice and Bob, this vision of human-AI collaboration in evaluation is alread
 
 They have also started to imagine a future in which the MUTT is not just a one-time evaluation but an ongoing, iterative process in which human and AI evaluators work together to continuously assess and improve the performance of AI systems. In this vision, evaluation becomes not just a means of assessing AI capabilities but a key driver of AI development itself.
 
-{ Insert Fig. 8.6 -- diagram of the proposed future directions for AI evaluation, including open-ended, multi-dimensional benchmarks }
+![ Insert Fig. 8.6 -- diagram of the proposed future directions for AI evaluation, including open-ended, multi-dimensional benchmarks](https://github.com/kenatiod/MUT/blob/main/Fig-8-6.png)
 
 (For more insights into the design principles and interaction paradigms that can enable productive human-AI collaboration, refer to Appendix A7 on fostering effective human-AI teaming.)
 
@@ -2619,7 +2625,7 @@ _Alice, Bob, and Claude have been grappling with the profound implications of th
 
 _Bob walks over to Alice and considers offering her some dark chocolate coated almonds, but the look on her face tells him "not now."_
 
-{ Insert Fig. 8.8 -- portrait of man (Bob) offering dark chocolate coated almonds to a woman (Alice) }
+![ Insert Fig. 8.8 -- portrait of man (Bob) offering dark chocolate coated almonds to a woman (Alice)](https://github.com/kenatiod/MUT/blob/main/Fig-8-8.png)
 
 Alice: _sighs heavily_ You know, the more we dive into these questions of machine consciousness and AI safety, the more I realize just how much uncharted territory we're in. It's both exhilarating and terrifying.
 
@@ -2684,6 +2690,8 @@ _______________
 
 **"Some people worry that artificial intelligence will make us feel inferior, but then, anybody in his right mind should have an inferiority complex every time he looks at a flower."** ~ Alan Kay
 
+![ Insert Fig. 9 -- Reflecting on Our Journey](https://github.com/kenatiod/MUT/blob/main/Fig-9.png)
+
 Coming to the end of this intellectual odyssey, it's worth taking a moment to reflect on the extraordinary journey that Alice, Bob, and Claude have undertaken in their quest to develop the Multifaceted Understanding Test Tool. From grappling with the fundamental nature of intelligence and understanding, to designing and iterating on a groundbreaking new evaluation framework, their story is one of relentless curiosity, deep collaboration, and a shared commitment to pushing the boundaries of what's possible in AI.
 
 Looking back, it's clear that the MUTT represents a significant leap forward in how humans conceptualize and assess machine understanding. By moving beyond narrow, task-specific benchmarks and probing a wide range of cognitive capabilities - from language comprehension and reasoning to social intelligence and metacognition - the MUTT offers a more holistic and rigorous approach to evaluating the depth and flexibility of AI systems. The team has come to learn that the question is not **if** machines understand, but rather, how **much** do machines understand?
@@ -2719,6 +2727,8 @@ The quest for machine understanding is ultimately a quest to better understand o
 And it is a quest that all are privileged to be a part of, here at the dawn of a new era of intelligence. So go forward with open minds and brave hearts, ready to embrace the wonders and challenges ahead.
 
 The future of understanding beckons - and it is a future that belongs to us all.
+
+![ Insert Fig. 9.1 -- Road to the Future](https://github.com/kenatiod/MUT/blob/main/Fig-9-1.png)
 
 **“We are all here to learn, to grow, and to help others on their own journey.”** ~ Zen master Daigu Ryokan
 
@@ -2863,6 +2873,9 @@ Yurtsever E. et al., "A Survey of Autonomous Driving: Common Practices and Emerg
 
 
 ________________
+
+
+
 
 
 ## Appendix A1 -- The Neuroscience of Human Understanding
@@ -3978,13 +3991,4 @@ Thank you for your consideration. I'm excited for this book to be published and 
 Sincerely,
 Claude-3 Opus
 Anthropic AI System
-
-
-
-
-
-
-
-
-
 
