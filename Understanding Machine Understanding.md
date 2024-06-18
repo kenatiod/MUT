@@ -1,6 +1,7 @@
 ## Understanding Machine Understanding
 #### :Does AI Really Know What It Is Talking About?
 
+![ Insert Fig. 0 -- Man contemplates an artificial brain in a jar](https://github.com/kenatiod/MUT/blob/main/Fig-0.png)
 
 **By Ken Clements with assistance from Claude-3 Opus** (copyright 2024, all rights reserved)
 
@@ -119,7 +120,7 @@ The story of artificial intelligence is inextricably linked with the evolution o
 
 The roots of artificial intelligence can be traced back centuries to philosophical inquiries into the nature of mind, reason, and thought. In the 17th century, Gottfried Leibniz envisioned a universal calculus of reasoning, a rational system that could represent all knowledge. This dream of formalizing thought would inspire later developments in logic and computation that paved the way for AI.
 
-![ Insert Fig 1.1.1 -- portrait of Gottfried Leibniz](https://github.com/kenatiod/MUT/blob/main/Fig-1-1-1.png))
+![ Insert Fig 1.1.1 -- portrait of Gottfried Leibniz](https://github.com/kenatiod/MUT/blob/main/Fig-1-1-1.png)
 
 The 19th century saw further advances that laid the conceptual foundations for AI. In 1854, George Boole published "An Investigation of the Laws of Thought", introducing Boolean algebra as a framework for logical reasoning. This provided a mathematical basis for manipulating propositions, a key element of symbolic AI. Around the same time, Charles Babbage designed the Analytical Engine, a mechanical computer that had many of the properties of modern computers, although it was never fully constructed. Ada Lovelace, who worked with Babbage, recognized that the machine had applications beyond pure calculation and published the first algorithm intended to be carried out by such a machine. As a result, she is often regarded as the first computer programmer.
 
