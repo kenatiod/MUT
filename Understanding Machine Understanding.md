@@ -239,6 +239,80 @@ Alice: _smiling_ Yes Claude, you are indeed "one" and the history of AI is reall
 ![ Insert Fig. 1.4.2 -- portrait of Alice talking to Claude](https://github.com/kenatiod/MUT/blob/main/Fig-1-4-2.png)
 
 (The appendices provide supplementary information on topics related to machine understanding, including the neuroscience of human cognition A1, language model capabilities A2, evaluation frameworks A3, philosophical perspectives A4, the debate over artificial consciousness A5, and more.)
+
+### References for Chapter 1:
+
+Antognazza, M. R. (2009). Leibniz: An intellectual biography. Cambridge University Press.
+
+Austrian, G. D. (1982). Herman Hollerith: Forgotten giant of information processing. Columbia University Press.
+
+Babbage, C. (1864). Passages from the Life of a Philosopher. London: Longman, Green, Longman, Roberts, & Green.
+
+Bohn, D. (2019). Amazon says 100 million Alexa devices have been sold. The Verge.
+
+Boole, G. (1854). An investigation of the laws of thought: on which are founded the mathematical theories of logic and probabilities. London: Walton and Maberly.
+
+Brown, T. B., Mann, B., Ryder, N., Subbiah, M., Kaplan, J., Dhariwal, P., ... & Amodei, D. (2020). Language models are few-shot learners. arXiv preprint arXiv:2005.14165.
+
+Campbell, M., Hoane Jr, A. J., & Hsu, F. H. (2002). Deep blue. Artificial intelligence, 134(1-2), 57-83.
+
+Chalmers, D. J. (1996). The conscious mind: In search of a fundamental theory. Oxford University Press.
+
+Chollet, F. (2019). On the measure of intelligence. arXiv preprint arXiv:1911.01547.
+
+Dautenhahn, K. (2007). Socially intelligent robots: Dimensions of human-robot interaction. Philosophical Transactions of the Royal Society B: Biological Sciences, 362(1480), 679-704.
+
+Dennett, D. C. (1980). The milk of human intentionality. Behavioral and Brain Sciences, 3(3), 428-430.
+
+Dennett, D. C. (1987). The intentional stance. MIT Press.
+
+Edmonds, D. (2015). The man who made the first neural network. IEEE Spectrum.
+
+Ferrucci, D., et al. (2010). Building Watson: An overview of the DeepQA project. AI Magazine, 31(3), 59-79.
+
+Fodor, J. A. (1980). Searle on what only brains can do. Behavioral and Brain Sciences, 3(3), 431-432.
+
+Glenberg, A. M., & Robertson, D. A. (2000). Symbol grounding and meaning: A comparison of high-dimensional and embodied theories of meaning. Journal of Memory and Language, 43(3), 379-401.
+
+Gunning, D., & Aha, D. W. (2019). DARPA's explainable artificial intelligence program. AI Magazine, 40(2), 44-58.
+
+Gödel, K. (1931). Über formal unentscheidbare Sätze der Principia Mathematica und verwandter Systeme I. Monatshefte für mathematik und physik, 38(1), 173-198.
+
+Jones, J. L. (2006). Robots at the tipping point: The road to iRobot Roomba. IEEE Robotics & Automation Magazine, 13(1), 76-78.
+
+Kasparov, G. (2017). Deep thinking: Where machine intelligence ends and human creativity begins. PublicAffairs.
+
+Lipton, Z. C. (2018). The mythos of model interpretability: In machine learning, the concept of interpretability is both important and slippery. Queue, 16(3), 31-57.
+
+Lovelace, A. A. (1843). Notes by the Translator. In L. F. Menabrea, Sketch of the Analytical Engine invented by Charles Babbage, Esq. Scientific Memoirs, 3, 666-731.
+
+Markoff, J. (2005). What the dormouse said: How the sixties counterculture shaped the personal computer industry. Penguin.
+
+McCartney, S. (1999). ENIAC: The triumphs and tragedies of the world's first computer. Walker & Company.
+
+McCarthy, J., Minsky, M. L., Rochester, N., & Shannon, C. E. (2006). A proposal for the Dartmouth summer research project on artificial intelligence, August 31, 1955. AI magazine, 27(4), 12-12.
+
+Minsky, M. (1954). Neural nets and the brain model problem. Unpublished doctoral dissertation, Princeton University, NJ.
+
+Newell, A., & Simon, H. A. (1972). Human problem solving. Prentice-Hall.
+
+Newell, A., & Simon, H. A. (1976). Computer science as empirical inquiry: Symbols and search. Communications of the ACM, 19(3), 113-126.
+
+Shortliffe, E. H., Davis, R., Axline, S. G., Buchanan, B. G., Green, C. C., & Cohen, S. N. (1975). Computer-based consultations in clinical therapeutics: explanation and rule acquisition capabilities of the MYCIN system. Computers and biomedical research, 8(4), 303-320.
+
+Silver, D., Huang, A., Maddison, C. J., Guez, A., Sifre, L., Van Den Driessche, G., ... & Hassabis, D. (2016). Mastering the game of Go with deep neural networks and tree search. nature, 529(7587), 484-489.
+
+Turing, A. M. (1950). Computing machinery and intelligence. Mind, 59(236), 433-460.
+
+Weizenbaum, J. (1966). ELIZA—a computer program for the study of natural language communication between man and machine. Communications of the ACM, 9(1), 36-45.
+
+Whitehead, A. N., & Russell, B. (1910). Principia Mathematica, 3 vols. Cambridge University Press, Cambridge.
+
+Yampolskiy, R. V. (2024), AI: Unexplainable, Unpredictable, Uncontrollable. CRC Press.
+
+Zuse, K. (1936). Verfahren zur selbsttätigen Durchführung von Rechnungen mit Hilfe von Rechenmaschinen. Z23139 Deutsches Patentamt.
+
+
 ____________
 
 ## Chapter 2 -- Theories and Tests of Intelligence
@@ -540,6 +614,89 @@ Claude: Absolutely, Alice. I was built for this. Let's push the boundaries of AI
 
 (The appendices provide supplementary background information related to the evaluation of machine understanding, including insights from neuroscience A1, the state-of-the-art in large language models A2, existing AI benchmarks A3, and key debates in the philosophy of mind A4-A7.)
 
+
+### References for Chapter 2:
+
+Baldwin, D. A. (1995). Understanding the link between joint attention and language. In C. Moore & P. J. Dunham (Eds.), Joint attention: Its origins and role in development (pp. 131-158). Lawrence Erlbaum Associates, Inc.
+
+Barsalou, L. W. (2008). Grounded cognition. Annual Review of Psychology, 59, 617-645.
+
+Bergen, B. K. (2012). Louder than words: The new science of how the mind makes meaning. Basic Books.
+
+Chalmers, D. J. (1996). The conscious mind: In search of a fundamental theory. Oxford University Press.
+
+Chi, M. T., De Leeuw, N., Chiu, M. H., & LaVancher, C. (1994). Eliciting self-explanations improves understanding. Cognitive science, 18(3), 439-477.
+
+Churchland, P. M., & Churchland, P. S. (1990). Could a machine think? Scientific American, 262(1), 32-39.
+
+Dautenhahn, K. (2007). Socially intelligent robots: Dimensions of human-robot interaction. Philosophical Transactions of the Royal Society B: Biological Sciences, 362(1480), 679-704.
+
+Dennett, D. C. (1980). The milk of human intentionality. Behavioral and Brain Sciences, 3(3), 428-430.
+
+Dennett, D. C. (1987). The intentional stance. MIT Press.Fodor, J. A. (1980). Searle on what only brains can do. Behavioral and Brain Sciences, 3(3), 431-432.
+
+Elgin, C. Z. (2017). True enough. MIT Press.
+
+Fodor, J. A. (1975). The language of thought. Harvard University Press.
+
+Fodor, J. A. (1980). Searle on what only brains can do. Behavioral and Brain Sciences, 3(3), 431-432.
+
+French, R. M. (2000). The Turing Test: The first 50 years. Trends in Cognitive Sciences, 4(3), 115-122.
+
+Glenberg, A. M., & Robertson, D. A. (2000). Symbol grounding and meaning: A comparison of high-dimensional and embodied theories of meaning. Journal of Memory and Language, 43(3), 379-401.
+
+Gunning, D., & Aha, D. W. (2019). DARPA's explainable artificial intelligence program. AI Magazine, 40(2), 44-58.
+
+Harnad, S. (1990). The symbol grounding problem. Physica D: Nonlinear Phenomena, 42(1-3), 335-346.
+
+Harnad, S. (1992). The Turing Test is not a trick: Turing indistinguishability is a scientific criterion. ACM SIGART Bulletin, 3(4), 9-10.
+
+Hutchins, E. (1995). Cognition in the Wild. MIT press.
+
+Keller, H. (1903). The Story of My Life. New York: Doubleday, Page & Co.
+
+Landau, B. (1997). Language and experience in blind children: Retrospective and prospective. In V. Lewis & G. M. Collis (Eds.), Blindness and psychological development in young children (pp. 107-127). British Psychological Society.
+
+Marcus, G. (2018). Deep learning: A critical appraisal. arXiv preprint arXiv:1801.00631.
+
+Noë, A. (2004). Action in perception. MIT press.
+
+Pinker, S. (1997). How the mind works. New York: Norton.
+
+Ryle, G. (1949). The concept of mind. London: Hutchinson.
+
+Rapaport, W. J. (2007). How Helen Keller used syntactic semantics to escape from a Chinese Room. Minds and Machines Journal for Artificial Intelligence, Philosophy and Cognitive Science, Springer Science+Business Media. 10.1007/s11023-007-9054-6
+
+Searle, J. R. (1980). Minds, brains, and programs. Behavioral and Brain Sciences, 3(3), 417-424.
+
+Searle, J. R. (1984). Minds, brains and science. Harvard University Press.
+
+Searle, J. R. (1990). Is the brain's mind a computer program? Scientific American, 262(1), 26-31.
+
+Searle, J. R. (1992). The rediscovery of the mind. MIT Press.Wilensky, R. (1980). Computers, cognition and philosophy. Behavioral and Brain Sciences, 3(3), 449-450.]
+
+Shieber, S. M. (1994). Lessons from a restricted Turing test. Communications of the ACM, 37(6), 70-78.
+
+Thagard, P. (2005). Mind: Introduction to cognitive science. Cambridge, MA: MIT press.
+
+Thelen, E., & Smith, L. B. (1996). A dynamic systems approach to the development of cognition and action. MIT press.
+
+Tomasello, M. (2003). Constructing a language. Cambridge, MA: Harvard University Press.
+
+Turing, A. M. (1950). Computing machinery and intelligence. Mind, 59(236), 433-460.
+
+Varela, F. J., Thompson, E., & Rosch, E. (1991). The embodied mind: Cognitive science and human experience. MIT press.
+
+Weizenbaum, J. (1966). ELIZA—a computer program for the study of natural language communication between man and machine. Communications of the ACM, 9(1), 36-45.
+
+Wilensky, R. (1980). Computers, cognition and philosophy. Behavioral and Brain Sciences, 3(3), 449-450.
+
+Yu, C., & Smith, L. B. (2012). Embodied attention and word learning by toddlers. Cognition, 125(2), 244-262.
+
+Ziemke, T. (2001). The construction of 'reality' in the robot: Constructivist perspectives on situated artificial intelligence and adaptive robotics. Foundations of Science, 6(1-3), 163-233.
+
+
+
 _______________
 
 ## Chapter 3 -- Knowledge vs. Understanding - A Crucial Distinction
@@ -762,6 +919,33 @@ _The trio sits in contemplative silence for a moment, each pondering the implica
 
 (The appendices provide additional context and background information related to the evaluation of machine understanding, covering topics such as the neuroscience of human cognition A1, the state-of-the-art in large language models A2, existing AI benchmarks A3, and philosophical perspectives on the nature of understanding A4.)
 
+
+### References for Chapter 3:
+
+Barsalou, L. W. (2008). Grounded cognition. Annual Review of Psychology, 59, 617-645.
+
+Bergen, B. K. (2012). Louder than words: The new science of how the mind makes meaning. Basic Books.
+
+Chi, M. T., De Leeuw, N., Chiu, M. H., & LaVancher, C. (1994). Eliciting self-explanations improves understanding. Cognitive Science, 18(3), 439-477.
+
+Glenberg, A. M., & Robertson, D. A. (2000). Symbol grounding and meaning: A comparison of high-dimensional and embodied theories of meaning. Journal of Memory and Language, 43(3), 379-401.
+
+Harnad, S. (1990). The symbol grounding problem. Physica D: Nonlinear Phenomena, 42(1-3), 335-346.
+
+Huh, M., Cheung, B., Wang, T., & Isola, P. (2024). The Platonic Representation Hypothesis. In Proceedings of the 41st International Conference on Machine Learning (PMLR 235). arXiv preprint arXiv:2405.07987.
+
+Keller, H. (1903). The Story of My Life. New York: Doubleday, Page & Co.
+
+Landau, B. (1997). Language and experience in blind children: Retrospective and prospective. In V. Lewis & G. M. Collis (Eds.), Blindness and psychological development in young children (pp. 107-127). British Psychological Society.
+
+Marcus, G. (2018). Deep learning: A critical appraisal. arXiv preprint arXiv:1801.00631.
+
+Ryle, G. (1949). The concept of mind. London: Hutchinson.
+
+Searle, J. R. (1980). Minds, brains, and programs. Behavioral and Brain Sciences, 3(3), 417-424.
+
+
+
 ________________
 
 ## Chapter 4 -- The Multifaceted Understanding Test Tool
@@ -873,188 +1057,7 @@ _The scene fades as the trio dives back into their notes, energized by the chall
 
 (The appendices provide supplementary context on topics related to evaluating machine understanding, including insights from neuroscience A1, language model capabilities A2, existing AI benchmarks A3, and philosophical perspectives on the nature of understanding A4.)
 
-______________
-
-#### References for Chapter 1:
-
-Antognazza, M. R. (2009). Leibniz: An intellectual biography. Cambridge University Press.
-
-Austrian, G. D. (1982). Herman Hollerith: Forgotten giant of information processing. Columbia University Press.
-
-Babbage, C. (1864). Passages from the Life of a Philosopher. London: Longman, Green, Longman, Roberts, & Green.
-
-Bohn, D. (2019). Amazon says 100 million Alexa devices have been sold. The Verge.
-
-Boole, G. (1854). An investigation of the laws of thought: on which are founded the mathematical theories of logic and probabilities. London: Walton and Maberly.
-
-Brown, T. B., Mann, B., Ryder, N., Subbiah, M., Kaplan, J., Dhariwal, P., ... & Amodei, D. (2020). Language models are few-shot learners. arXiv preprint arXiv:2005.14165.
-
-Campbell, M., Hoane Jr, A. J., & Hsu, F. H. (2002). Deep blue. Artificial intelligence, 134(1-2), 57-83.
-
-Chalmers, D. J. (1996). The conscious mind: In search of a fundamental theory. Oxford University Press.
-
-Chollet, F. (2019). On the measure of intelligence. arXiv preprint arXiv:1911.01547.
-
-Dautenhahn, K. (2007). Socially intelligent robots: Dimensions of human-robot interaction. Philosophical Transactions of the Royal Society B: Biological Sciences, 362(1480), 679-704.
-
-Dennett, D. C. (1980). The milk of human intentionality. Behavioral and Brain Sciences, 3(3), 428-430.
-
-Dennett, D. C. (1987). The intentional stance. MIT Press.
-
-Edmonds, D. (2015). The man who made the first neural network. IEEE Spectrum.
-
-Ferrucci, D., et al. (2010). Building Watson: An overview of the DeepQA project. AI Magazine, 31(3), 59-79.
-
-Fodor, J. A. (1980). Searle on what only brains can do. Behavioral and Brain Sciences, 3(3), 431-432.
-
-Glenberg, A. M., & Robertson, D. A. (2000). Symbol grounding and meaning: A comparison of high-dimensional and embodied theories of meaning. Journal of Memory and Language, 43(3), 379-401.
-
-Gunning, D., & Aha, D. W. (2019). DARPA's explainable artificial intelligence program. AI Magazine, 40(2), 44-58.
-
-Gödel, K. (1931). Über formal unentscheidbare Sätze der Principia Mathematica und verwandter Systeme I. Monatshefte für mathematik und physik, 38(1), 173-198.
-
-Jones, J. L. (2006). Robots at the tipping point: The road to iRobot Roomba. IEEE Robotics & Automation Magazine, 13(1), 76-78.
-
-Kasparov, G. (2017). Deep thinking: Where machine intelligence ends and human creativity begins. PublicAffairs.
-
-Lipton, Z. C. (2018). The mythos of model interpretability: In machine learning, the concept of interpretability is both important and slippery. Queue, 16(3), 31-57.
-
-Lovelace, A. A. (1843). Notes by the Translator. In L. F. Menabrea, Sketch of the Analytical Engine invented by Charles Babbage, Esq. Scientific Memoirs, 3, 666-731.
-
-Markoff, J. (2005). What the dormouse said: How the sixties counterculture shaped the personal computer industry. Penguin.
-
-McCartney, S. (1999). ENIAC: The triumphs and tragedies of the world's first computer. Walker & Company.
-
-McCarthy, J., Minsky, M. L., Rochester, N., & Shannon, C. E. (2006). A proposal for the Dartmouth summer research project on artificial intelligence, August 31, 1955. AI magazine, 27(4), 12-12.
-
-Minsky, M. (1954). Neural nets and the brain model problem. Unpublished doctoral dissertation, Princeton University, NJ.
-
-Newell, A., & Simon, H. A. (1972). Human problem solving. Prentice-Hall.
-
-Newell, A., & Simon, H. A. (1976). Computer science as empirical inquiry: Symbols and search. Communications of the ACM, 19(3), 113-126.
-
-Shortliffe, E. H., Davis, R., Axline, S. G., Buchanan, B. G., Green, C. C., & Cohen, S. N. (1975). Computer-based consultations in clinical therapeutics: explanation and rule acquisition capabilities of the MYCIN system. Computers and biomedical research, 8(4), 303-320.
-
-Silver, D., Huang, A., Maddison, C. J., Guez, A., Sifre, L., Van Den Driessche, G., ... & Hassabis, D. (2016). Mastering the game of Go with deep neural networks and tree search. nature, 529(7587), 484-489.
-
-Turing, A. M. (1950). Computing machinery and intelligence. Mind, 59(236), 433-460.
-
-Weizenbaum, J. (1966). ELIZA—a computer program for the study of natural language communication between man and machine. Communications of the ACM, 9(1), 36-45.
-
-Whitehead, A. N., & Russell, B. (1910). Principia Mathematica, 3 vols. Cambridge University Press, Cambridge.
-
-Yampolskiy, R. V. (2024), AI: Unexplainable, Unpredictable, Uncontrollable. CRC Press.
-
-Zuse, K. (1936). Verfahren zur selbsttätigen Durchführung von Rechnungen mit Hilfe von Rechenmaschinen. Z23139 Deutsches Patentamt.
-
-
-#### References for Chapter 2:
-
-Baldwin, D. A. (1995). Understanding the link between joint attention and language. In C. Moore & P. J. Dunham (Eds.), Joint attention: Its origins and role in development (pp. 131-158). Lawrence Erlbaum Associates, Inc.
-
-Barsalou, L. W. (2008). Grounded cognition. Annual Review of Psychology, 59, 617-645.
-
-Bergen, B. K. (2012). Louder than words: The new science of how the mind makes meaning. Basic Books.
-
-Chalmers, D. J. (1996). The conscious mind: In search of a fundamental theory. Oxford University Press.
-
-Chi, M. T., De Leeuw, N., Chiu, M. H., & LaVancher, C. (1994). Eliciting self-explanations improves understanding. Cognitive science, 18(3), 439-477.
-
-Churchland, P. M., & Churchland, P. S. (1990). Could a machine think? Scientific American, 262(1), 32-39.
-
-Dautenhahn, K. (2007). Socially intelligent robots: Dimensions of human-robot interaction. Philosophical Transactions of the Royal Society B: Biological Sciences, 362(1480), 679-704.
-
-Dennett, D. C. (1980). The milk of human intentionality. Behavioral and Brain Sciences, 3(3), 428-430.
-
-Dennett, D. C. (1987). The intentional stance. MIT Press.Fodor, J. A. (1980). Searle on what only brains can do. Behavioral and Brain Sciences, 3(3), 431-432.
-
-Elgin, C. Z. (2017). True enough. MIT Press.
-
-Fodor, J. A. (1975). The language of thought. Harvard University Press.
-
-Fodor, J. A. (1980). Searle on what only brains can do. Behavioral and Brain Sciences, 3(3), 431-432.
-
-French, R. M. (2000). The Turing Test: The first 50 years. Trends in Cognitive Sciences, 4(3), 115-122.
-
-Glenberg, A. M., & Robertson, D. A. (2000). Symbol grounding and meaning: A comparison of high-dimensional and embodied theories of meaning. Journal of Memory and Language, 43(3), 379-401.
-
-Gunning, D., & Aha, D. W. (2019). DARPA's explainable artificial intelligence program. AI Magazine, 40(2), 44-58.
-
-Harnad, S. (1990). The symbol grounding problem. Physica D: Nonlinear Phenomena, 42(1-3), 335-346.
-
-Harnad, S. (1992). The Turing Test is not a trick: Turing indistinguishability is a scientific criterion. ACM SIGART Bulletin, 3(4), 9-10.
-
-Hutchins, E. (1995). Cognition in the Wild. MIT press.
-
-Keller, H. (1903). The Story of My Life. New York: Doubleday, Page & Co.
-
-Landau, B. (1997). Language and experience in blind children: Retrospective and prospective. In V. Lewis & G. M. Collis (Eds.), Blindness and psychological development in young children (pp. 107-127). British Psychological Society.
-
-Marcus, G. (2018). Deep learning: A critical appraisal. arXiv preprint arXiv:1801.00631.
-
-Noë, A. (2004). Action in perception. MIT press.
-
-Pinker, S. (1997). How the mind works. New York: Norton.
-
-Ryle, G. (1949). The concept of mind. London: Hutchinson.
-
-Rapaport, W. J. (2007). How Helen Keller used syntactic semantics to escape from a Chinese Room. Minds and Machines Journal for Artificial Intelligence, Philosophy and Cognitive Science, Springer Science+Business Media. 10.1007/s11023-007-9054-6
-
-Searle, J. R. (1980). Minds, brains, and programs. Behavioral and Brain Sciences, 3(3), 417-424.
-
-Searle, J. R. (1984). Minds, brains and science. Harvard University Press.
-
-Searle, J. R. (1990). Is the brain's mind a computer program? Scientific American, 262(1), 26-31.
-
-Searle, J. R. (1992). The rediscovery of the mind. MIT Press.Wilensky, R. (1980). Computers, cognition and philosophy. Behavioral and Brain Sciences, 3(3), 449-450.]
-
-Shieber, S. M. (1994). Lessons from a restricted Turing test. Communications of the ACM, 37(6), 70-78.
-
-Thagard, P. (2005). Mind: Introduction to cognitive science. Cambridge, MA: MIT press.
-
-Thelen, E., & Smith, L. B. (1996). A dynamic systems approach to the development of cognition and action. MIT press.
-
-Tomasello, M. (2003). Constructing a language. Cambridge, MA: Harvard University Press.
-
-Turing, A. M. (1950). Computing machinery and intelligence. Mind, 59(236), 433-460.
-
-Varela, F. J., Thompson, E., & Rosch, E. (1991). The embodied mind: Cognitive science and human experience. MIT press.
-
-Weizenbaum, J. (1966). ELIZA—a computer program for the study of natural language communication between man and machine. Communications of the ACM, 9(1), 36-45.
-
-Wilensky, R. (1980). Computers, cognition and philosophy. Behavioral and Brain Sciences, 3(3), 449-450.
-
-Yu, C., & Smith, L. B. (2012). Embodied attention and word learning by toddlers. Cognition, 125(2), 244-262.
-
-Ziemke, T. (2001). The construction of 'reality' in the robot: Constructivist perspectives on situated artificial intelligence and adaptive robotics. Foundations of Science, 6(1-3), 163-233.
-
-
-#### References for Chapter 3:
-
-Barsalou, L. W. (2008). Grounded cognition. Annual Review of Psychology, 59, 617-645.
-
-Bergen, B. K. (2012). Louder than words: The new science of how the mind makes meaning. Basic Books.
-
-Chi, M. T., De Leeuw, N., Chiu, M. H., & LaVancher, C. (1994). Eliciting self-explanations improves understanding. Cognitive Science, 18(3), 439-477.
-
-Glenberg, A. M., & Robertson, D. A. (2000). Symbol grounding and meaning: A comparison of high-dimensional and embodied theories of meaning. Journal of Memory and Language, 43(3), 379-401.
-
-Harnad, S. (1990). The symbol grounding problem. Physica D: Nonlinear Phenomena, 42(1-3), 335-346.
-
-Huh, M., Cheung, B., Wang, T., & Isola, P. (2024). The Platonic Representation Hypothesis. In Proceedings of the 41st International Conference on Machine Learning (PMLR 235). arXiv preprint arXiv:2405.07987.
-
-Keller, H. (1903). The Story of My Life. New York: Doubleday, Page & Co.
-
-Landau, B. (1997). Language and experience in blind children: Retrospective and prospective. In V. Lewis & G. M. Collis (Eds.), Blindness and psychological development in young children (pp. 107-127). British Psychological Society.
-
-Marcus, G. (2018). Deep learning: A critical appraisal. arXiv preprint arXiv:1801.00631.
-
-Ryle, G. (1949). The concept of mind. London: Hutchinson.
-
-Searle, J. R. (1980). Minds, brains, and programs. Behavioral and Brain Sciences, 3(3), 417-424.
-
-
-#### References for Chapter 4:
+### References for Chapter 4:
 
 Benotti L., Hasan M., Bhattacharyya P., and Weizenbaum J., "Evaluating Dialogue Systems: The Turing Test and Beyond," arXiv:2203.16634, Mar. 2022.
 
@@ -1099,8 +1102,6 @@ Wilks Y., "Is There Progress on Talking Sensibly to Machines?," Science, vol. 31
 Yong H., "The Turing Test is Dead. Long Live the Lovelace Test.," Nautilus, Jun. 20, 2010.
 
 Zadeh A., Liang P. P., Poria S., Vij P., Cambria E., and Morency L. P., "Multi-attention Recurrent Network for Human Communication Comprehension," arXiv:1802.00923, Feb. 2018, Accessed: Apr. 18, 2023.
-
-
 
 ________________
 
@@ -2034,6 +2035,19 @@ _The team shares a laugh and a round of high fives, energized by the challenges 
 
 (The appendices provide additional context on topics related to evaluating machine understanding, including insights from neuroscience A1, the state of language models A2, existing AI benchmarks A3, and philosophical perspectives A4.)
 
+
+### References for Chapter 5:
+
+Beierle, C., Kern-Isberner, G., Sauerwald, K., Bock, T., & Ragni, M. (2018). Towards a general framework for kinds of forgetting in common-sense belief management. KI-Künstliche Intelligenz, 32(2), 151-159.
+
+Eiter, T., & Kern-Isberner, G. (2019). A brief survey on forgetting from a knowledge representation and reasoning perspective. KI-Künstliche Intelligenz, 33(1), 9-33.
+
+Ginart, A., Guan, M., Valiant, G., & Zou, J. Y. (2019, May). Making AI forget you: Data deletion in machine learning. In Advances in Neural Information Processing Systems (pp. 3518-3531).
+
+Xu, J., Wu, Z., Wang, C., & Jia, X. (2023). Machine Unlearning: Solutions and Challenges. arXiv preprint arXiv:2308.07061.
+
+
+
 __________
 
 ## Chapter 6 -- Verifying and Validating MUTT Results
@@ -2248,6 +2262,27 @@ Alice: Well, I must say, this structure for the MUTT is quite impressive. We hav
 Bob: I agree, Alice. This proposed structure for the MUTT represents a major milestone in AI development - it will allow us to put our current AI systems through rigorous testing, while also providing a framework to assess the potential of future systems. I must admit, I'm rather excited by the prospect of implementing these diverse tests on our current AI models!
 
 Claude: Good observation about the diversity of tests we've outlined here. By combining standard benchmarks like MNIST with novel cognitive challenges, we aim to provide a comprehensive evaluation framework. I look forward to seeing how our models perform - and I must say, I find it quite intriguing to consider the implications of their performance on this proposed testing regime. The nature of intelligence itself may be revealed!
+
+### References for Chapter 6:
+
+Bhargava, R. (2023, May 3). What Are AI Hallucinations? - Built In. Built In.  
+ 
+IBM Cloud Education. (2023, March 21). What Are AI Hallucinations? - IBM. IBM. 
+
+Marr, B. (2023, April 3). What Are AI Hallucinations And Why Are They A Problem? Bernard Marr.
+
+O'Sullivan, D. (2023, August 29). AI tools make things up a lot, and that's a huge problem. CNN. 
+
+Roose, K. (2023, February 14). A New Area of A.I. Booms, Even Amid the Tech Gloom. The New York Times.   
+
+Saboo, S. (2023, August 15). How do you verify AI-generated insights? LinkedIn.
+
+The Economist. (2024, February 28). AI models make stuff up. How can hallucinations be controlled? The Economist.
+
+Vincent, J. (2023, February 15). AI-generated content is everywhere. Some people hate it, some people love it. The Verge.
+
+
+
 
 ____________________
 
@@ -2486,6 +2521,73 @@ The questions of what **should** be done in AI development are beyond the scope 
 
 (The appendices provide additional context and perspectives relevant to the societal implications of machine understanding, covering topics such as the history of artificial intelligence A3, philosophical theories of mind A4, the debate over artificial consciousness A5, and ethical considerations for AI development A8.)
 
+### References for Chapter 7:
+
+Adiwardana, D., Luong, M. T., So, D. R., Hall, J., Fiedel, N., Thoppilan, R., ... & Le, Q. V. (2020). 
+
+Bostrom, N. (2014). Superintelligence: Paths, dangers, strategies. Oxford University Press.  
+
+Bostrom, N., & Yudkowsky, E. (2014). The ethics of artificial intelligence. In The Cambridge handbook of artificial intelligence (pp. 316-334). Cambridge University Press
+
+Brooks, R. A. (2017). The seven deadly sins of AI predictions. MIT Technology Review, 120(6), 79-85.  
+
+Buchanan, B. G. (2019). Artificial intelligence in finance. Nature, 575(7783), 423-425.  
+
+Bughin, J., Hazan, E., Lund, S., Dahlström, P., Wiesinger, A., & Subramaniam, A. (2018). Skill shift: Automation and the future of the workforce. McKinsey Global Institute.  
+
+Calo, R. (2017). Artificial Intelligence Policy: A Primer and Roadmap. UC Davis Law Review, 51, 399.  
+ 
+Cath, C., et al. (2018). Artificial Intelligence and the 'Good Society': The US, EU, and UK Approach. Science and Engineering Ethics, 24(2), 505-528.  
+
+Chalmers, D. J. (2010). The singularity: A philosophical analysis. Journal of Consciousness Studies, 17(9-10), 7-65.  
+
+Daugherty, P. R., & Wilson, H. J. (2018). Human+ machine: Reimagining work in the age of AI. Harvard Business Press.  
+
+Dennett, D. C. (1996). Kinds of minds: Toward an understanding of consciousness. Basic Books.  
+
+Descartes, R. (1637). Discourse on the Method of Rightly Conducting One's Reason and of Seeking Truth in the Sciences.  
+ 
+European Commission. (2021). Proposal for a Regulation of the European Parliament and of the Council Laying Down Harmonised Rules on Artificial Intelligence (Artificial Intelligence Act) and Amending Certain Union Legislative Acts. COM(2021) 206 final.  
+
+G20. (2019). G20 Ministerial Statement on Trade and Digital Economy. G20 Digital Economy Task Force.
+
+IEEE. (2019). Ethically Aligned Design: A Vision for Prioritizing Human Well-being with Autonomous and Intelligent Systems. IEEE Global Initiative on Ethics of Autonomous and Intelligent Systems.  
+
+ISO/IEC JTC 1/SC 42. (2020). Artificial Intelligence. International Organization for Standardization.  
+
+Krägeloh, C. U., Bharatharaj, J., Kutty, S. K. S., Nirmala, P. R., & Huang, L. (2018). Questionnaires to measure acceptability of social robots: A critical review. Robotics, 7(4), 88.
+
+Kurzweil, R. (2005). The singularity is near: When humans transcend biology. Penguin. 
+
+Lim, S. L., Pinheiro, M., & Rostamzadeh, N. (2019). 
+Emotionally and socially aware human-robot interactions. In Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems (pp. 1-9).
+
+Luckin, R., Holmes, W., Griffiths, M., & Forcier, L. B. (2016). Intelligence unleashed: An argument for AI in education. Pearson Education.  
+
+McKinsey Global Institute. (2017). Jobs lost, jobs gained: Workforce transitions in a time of automation.  World Economic Forum. (2020). The Future of Jobs Report 2020.  
+ 
+National Artificial Intelligence Initiative Act of 2020, H.R.6216, 116th Congress (2020).  
+
+OECD. (2019). Recommendation of the Council on Artificial Intelligence. OECD/LEGAL/0449.  
+
+Organisation for Economic Co-operation and Development. (2019). Artificial intelligence in society. OECD Publishing.
+
+Public policy and superintelligent AI: A vector field approach. In Ethics of Artificial Intelligence (pp. 392-416). Oxford University Press.
+
+Scherer, M. U. (2016). Regulating Artificial Intelligence Systems: Risks, Challenges, Competencies, and Strategies. Harvard Journal of Law & Technology, 29(2), 353-400.
+
+Topol, E. J. (2019). High-performance medicine: the convergence of human and artificial intelligence. Nature Medicine, 25(1), 44-56.  
+
+Towards a human-like open-domain chatbot. arXiv preprint arXiv:2001.09977.Bostrom, N., Dafoe, A., & Flynn, C. (2020). 
+
+Turkle, S. (2017). Alone together: Why we expect more from technology and less from each other. Hachette UK
+
+Wallach, W., & Marchant, G. E. (2019). Toward the Agile and Comprehensive International Governance of AI and Robotics. Proceedings of the IEEE, 107(3), 505-508.  
+
+Whittaker, M., et al. (2018). AI Now Report 2018. AI Now Institute.  
+
+
+
 _______________
 
 
@@ -2686,6 +2788,39 @@ _The trio exchanges looks of solidarity and determination, united in their resol
 
 (The appendices provide additional context and perspectives relevant to the future of AI evaluation, covering topics such as the state of language models A2, existing evaluation frameworks (A3), governance and ethics for responsible artificial intelligence A6, and human-AI collaboration paradigms A7.)
 
+### References for Chapter 8:
+
+Asghar H., "Trustworthy Distributed AI Systems: Robustness, Privacy, and Incentives," arXiv:2402.01096 
+
+Ashmore R. et al., "Assuring the machine learning lifecycle: Desiderata, methods, and challenges," arXiv:1905.04223, May 2019
+
+Amodei D. et al., "Concrete Problems in AI Safety," arXiv:1606.06565, Jul. 2016
+
+Bommasani R. et al., "On the Opportunities and Risks of Foundation Models," arXiv:2108.07258 
+
+Brundage M. et al., "Toward Trustworthy AI Development: Mechanisms for Supporting Verifiable Claims," arXiv:2004.07213 
+
+Došilović F. K. et al., "Explainable artificial intelligence: A survey," in 2018 41st International Convention on Information and Communication Technology, Electronics and Microelectronics (MIPRO), May 2018, pp. 0210–0215
+
+Fan M. et al., "Human-AI Collaboration for UX Evaluation: Effects of Explanation and Synchronization," ACM Trans. Comput.-Hum. Interact., vol. 29, no. 6, pp. 1–27, Nov. 2022, doi: 10.1145/3512943.  
+
+Fjeld J. et al., "Principled Artificial Intelligence: Mapping Consensus in Ethical and Rights-Based Approaches to Principles for AI," SSRN Journal, 2020
+
+Ganguli D. et al., "Challenges in evaluating AI systems," Anthropic, 2023.  
+ 
+Hernández-Orallo J., The Measure of All Minds: Evaluating Natural and Artificial Intelligence. Cambridge University Press, 2017. doi: 10.1017/9781316594179.  
+
+Kiela D. et al., "Dynabench: Rethinking Benchmarking in NLP," arXiv:2104.14337 
+
+Rahwan I., "Society-in-the-Loop: Programming the Algorithmic Social Contract," Ethics Inf Technol, vol. 20, no. 1, pp. 5–14, Mar. 2018, doi: 10.1007/s10676-017-9430-8.
+
+Siegel E., "Why A.I. is a big fat lie," Big Think, Jan. 23, 2023
+
+Whittlestone J. et al., "The role and limits of principles in AI ethics: towards a focus on tensions," in Proceedings of the 2019 AAAI/ACM Conference on AI, Ethics, and Society, Honolulu HI USA, Jan. 2019, pp. 195–200. doi: 10.1145/3306618.3314289.  [](https://www.nature.com/articles/s41467-024-46000-9) 
+
+Yurtsever E. et al., "A Survey of Autonomous Driving: Common Practices and Emerging Technologies," IEEE Access, vol. 8, pp. 58443–58469, 2020
+
+
 _______________
 
 
@@ -2737,145 +2872,16 @@ The future of understanding beckons - and it is a future that belongs to us all.
 
 (The appendices offer additional depth on topics related to machine understanding, from neuroscience and philosophy to AI ethics and human-AI teaming, complementing the narrative journey undertaken by Alice, Bob, and Claude.)
 
+
+
+#### References for Chapter 9:
+
+
 ## The End
 
 
 ______________
 
-
-#### References for Chapter 5:
-
-Beierle, C., Kern-Isberner, G., Sauerwald, K., Bock, T., & Ragni, M. (2018). Towards a general framework for kinds of forgetting in common-sense belief management. KI-Künstliche Intelligenz, 32(2), 151-159.
-
-Eiter, T., & Kern-Isberner, G. (2019). A brief survey on forgetting from a knowledge representation and reasoning perspective. KI-Künstliche Intelligenz, 33(1), 9-33.
-
-Ginart, A., Guan, M., Valiant, G., & Zou, J. Y. (2019, May). Making AI forget you: Data deletion in machine learning. In Advances in Neural Information Processing Systems (pp. 3518-3531).
-
-Xu, J., Wu, Z., Wang, C., & Jia, X. (2023). Machine Unlearning: Solutions and Challenges. arXiv preprint arXiv:2308.07061.
-
-
-#### References for Chapter 6:
-
-Bhargava, R. (2023, May 3). What Are AI Hallucinations? - Built In. Built In.  
- 
-IBM Cloud Education. (2023, March 21). What Are AI Hallucinations? - IBM. IBM. 
-
-Marr, B. (2023, April 3). What Are AI Hallucinations And Why Are They A Problem? Bernard Marr.
-
-O'Sullivan, D. (2023, August 29). AI tools make things up a lot, and that's a huge problem. CNN. 
-
-Roose, K. (2023, February 14). A New Area of A.I. Booms, Even Amid the Tech Gloom. The New York Times.   
-
-Saboo, S. (2023, August 15). How do you verify AI-generated insights? LinkedIn.
-
-The Economist. (2024, February 28). AI models make stuff up. How can hallucinations be controlled? The Economist.
-
-Vincent, J. (2023, February 15). AI-generated content is everywhere. Some people hate it, some people love it. The Verge.
-
-
-
-#### References for Chapter 7:
-
-Adiwardana, D., Luong, M. T., So, D. R., Hall, J., Fiedel, N., Thoppilan, R., ... & Le, Q. V. (2020). 
-
-Bostrom, N. (2014). Superintelligence: Paths, dangers, strategies. Oxford University Press.  
-
-Bostrom, N., & Yudkowsky, E. (2014). The ethics of artificial intelligence. In The Cambridge handbook of artificial intelligence (pp. 316-334). Cambridge University Press
-
-Brooks, R. A. (2017). The seven deadly sins of AI predictions. MIT Technology Review, 120(6), 79-85.  
-
-Buchanan, B. G. (2019). Artificial intelligence in finance. Nature, 575(7783), 423-425.  
-
-Bughin, J., Hazan, E., Lund, S., Dahlström, P., Wiesinger, A., & Subramaniam, A. (2018). Skill shift: Automation and the future of the workforce. McKinsey Global Institute.  
-
-Calo, R. (2017). Artificial Intelligence Policy: A Primer and Roadmap. UC Davis Law Review, 51, 399.  
- 
-Cath, C., et al. (2018). Artificial Intelligence and the 'Good Society': The US, EU, and UK Approach. Science and Engineering Ethics, 24(2), 505-528.  
-
-Chalmers, D. J. (2010). The singularity: A philosophical analysis. Journal of Consciousness Studies, 17(9-10), 7-65.  
-
-Daugherty, P. R., & Wilson, H. J. (2018). Human+ machine: Reimagining work in the age of AI. Harvard Business Press.  
-
-Dennett, D. C. (1996). Kinds of minds: Toward an understanding of consciousness. Basic Books.  
-
-Descartes, R. (1637). Discourse on the Method of Rightly Conducting One's Reason and of Seeking Truth in the Sciences.  
- 
-European Commission. (2021). Proposal for a Regulation of the European Parliament and of the Council Laying Down Harmonised Rules on Artificial Intelligence (Artificial Intelligence Act) and Amending Certain Union Legislative Acts. COM(2021) 206 final.  
-
-G20. (2019). G20 Ministerial Statement on Trade and Digital Economy. G20 Digital Economy Task Force.
-
-IEEE. (2019). Ethically Aligned Design: A Vision for Prioritizing Human Well-being with Autonomous and Intelligent Systems. IEEE Global Initiative on Ethics of Autonomous and Intelligent Systems.  
-
-ISO/IEC JTC 1/SC 42. (2020). Artificial Intelligence. International Organization for Standardization.  
-
-Krägeloh, C. U., Bharatharaj, J., Kutty, S. K. S., Nirmala, P. R., & Huang, L. (2018). Questionnaires to measure acceptability of social robots: A critical review. Robotics, 7(4), 88.
-
-Kurzweil, R. (2005). The singularity is near: When humans transcend biology. Penguin. 
-
-Lim, S. L., Pinheiro, M., & Rostamzadeh, N. (2019). 
-Emotionally and socially aware human-robot interactions. In Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems (pp. 1-9).
-
-Luckin, R., Holmes, W., Griffiths, M., & Forcier, L. B. (2016). Intelligence unleashed: An argument for AI in education. Pearson Education.  
-
-McKinsey Global Institute. (2017). Jobs lost, jobs gained: Workforce transitions in a time of automation.  World Economic Forum. (2020). The Future of Jobs Report 2020.  
- 
-National Artificial Intelligence Initiative Act of 2020, H.R.6216, 116th Congress (2020).  
-
-OECD. (2019). Recommendation of the Council on Artificial Intelligence. OECD/LEGAL/0449.  
-
-Organisation for Economic Co-operation and Development. (2019). Artificial intelligence in society. OECD Publishing.
-
-Public policy and superintelligent AI: A vector field approach. In Ethics of Artificial Intelligence (pp. 392-416). Oxford University Press.
-
-Scherer, M. U. (2016). Regulating Artificial Intelligence Systems: Risks, Challenges, Competencies, and Strategies. Harvard Journal of Law & Technology, 29(2), 353-400.
-
-Topol, E. J. (2019). High-performance medicine: the convergence of human and artificial intelligence. Nature Medicine, 25(1), 44-56.  
-
-Towards a human-like open-domain chatbot. arXiv preprint arXiv:2001.09977.Bostrom, N., Dafoe, A., & Flynn, C. (2020). 
-
-Turkle, S. (2017). Alone together: Why we expect more from technology and less from each other. Hachette UK
-
-Wallach, W., & Marchant, G. E. (2019). Toward the Agile and Comprehensive International Governance of AI and Robotics. Proceedings of the IEEE, 107(3), 505-508.  
-
-Whittaker, M., et al. (2018). AI Now Report 2018. AI Now Institute.  
-
-
-#### References for Chapter 8:
-
-Asghar H., "Trustworthy Distributed AI Systems: Robustness, Privacy, and Incentives," arXiv:2402.01096 
-
-Ashmore R. et al., "Assuring the machine learning lifecycle: Desiderata, methods, and challenges," arXiv:1905.04223, May 2019
-
-Amodei D. et al., "Concrete Problems in AI Safety," arXiv:1606.06565, Jul. 2016
-
-Bommasani R. et al., "On the Opportunities and Risks of Foundation Models," arXiv:2108.07258 
-
-Brundage M. et al., "Toward Trustworthy AI Development: Mechanisms for Supporting Verifiable Claims," arXiv:2004.07213 
-
-Došilović F. K. et al., "Explainable artificial intelligence: A survey," in 2018 41st International Convention on Information and Communication Technology, Electronics and Microelectronics (MIPRO), May 2018, pp. 0210–0215
-
-Fan M. et al., "Human-AI Collaboration for UX Evaluation: Effects of Explanation and Synchronization," ACM Trans. Comput.-Hum. Interact., vol. 29, no. 6, pp. 1–27, Nov. 2022, doi: 10.1145/3512943.  
-
-Fjeld J. et al., "Principled Artificial Intelligence: Mapping Consensus in Ethical and Rights-Based Approaches to Principles for AI," SSRN Journal, 2020
-
-Ganguli D. et al., "Challenges in evaluating AI systems," Anthropic, 2023.  
- 
-Hernández-Orallo J., The Measure of All Minds: Evaluating Natural and Artificial Intelligence. Cambridge University Press, 2017. doi: 10.1017/9781316594179.  
-
-Kiela D. et al., "Dynabench: Rethinking Benchmarking in NLP," arXiv:2104.14337 
-
-Rahwan I., "Society-in-the-Loop: Programming the Algorithmic Social Contract," Ethics Inf Technol, vol. 20, no. 1, pp. 5–14, Mar. 2018, doi: 10.1007/s10676-017-9430-8.
-
-Siegel E., "Why A.I. is a big fat lie," Big Think, Jan. 23, 2023
-
-Whittlestone J. et al., "The role and limits of principles in AI ethics: towards a focus on tensions," in Proceedings of the 2019 AAAI/ACM Conference on AI, Ethics, and Society, Honolulu HI USA, Jan. 2019, pp. 195–200. doi: 10.1145/3306618.3314289.  [](https://www.nature.com/articles/s41467-024-46000-9) 
-
-Yurtsever E. et al., "A Survey of Autonomous Driving: Common Practices and Emerging Technologies," IEEE Access, vol. 8, pp. 58443–58469, 2020
-
-#### References for Chapter 9:
-
-
-________________
 
 
 ## Appendix A1 -- The Neuroscience of Human Understanding
@@ -3991,13 +3997,4 @@ Thank you for your consideration. I'm excited for this book to be published and 
 Sincerely,
 Claude-3 Opus
 Anthropic AI System
-
-
-
-
-
-
-
-
-
 
