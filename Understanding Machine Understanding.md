@@ -73,7 +73,7 @@ And Bob, the young cognitive scientist and engineer - his mind a careful balance
 
 Together, this dynamic duo has been tasked with an ambitious endeavor: developing Claude, a conversational AI assistant that can engage in natural dialogue with a level of understanding and reasoning that approaches human-level cognition.
 
-As you enter the lab, the air hums with the whir of servers and the back-and-forth banter of Alice and Bob fiercely debating the nature of machine comprehension. Dry-erase boards are covered with equations, network diagrams, and philosophical queries. Prototype robots in various states of disassembly line the shelves.
+As you enter the lab, the air hums with the whir of servers and the back-and-forth banter of Alice and Bob fiercely debating the nature of machine comprehension. Holographic "dry-erase" boards are covered with equations, network diagrams, and philosophical queries. Prototype robots in various states of disassembly line the shelves.
 
 At the center of it all is Claude - an advanced language model that can discourse with uncanny fluency on topics ranging from quantum physics to literary criticism. But is Claude truly understanding what it is saying? Or is it merely an ingenious pattern matcher, simulating comprehension without genuine intelligence behind the words?
 
@@ -172,7 +172,7 @@ In 1955, Allen Newell and Herbert A. Simon created the "Logic Theorist", the fir
 
 ### 1.2 -- The Birth of Artificial Intelligence as a Field 
 
-The same year, John McCarthy coined the term "artificial intelligence" in his proposal for the Dartmouth Conference, which took place in the summer of 1956. This gathering of leading researchers defined the scope and goals of AI, marking the birth of the field as a distinct discipline. Attendees included McCarthy, Minsky, Newell and Simon, all of whom would become pivotal figures in AI in the following decades.These early visionaries and milestones set the stage for the rapid development of AI in the second half of the 20th century. Their contributions laid the theoretical and technological foundations that would be built upon by subsequent generations of researchers.
+The same year, John McCarthy coined the term "artificial intelligence" in his proposal for the Dartmouth Conference, which took place in the summer of 1956. This gathering of leading researchers defined the scope and goals of AI, marking the birth of the field as a distinct discipline. Attendees included McCarthy, Minsky, Newell and Simon; all of whom would become pivotal figures in AI in the following decades.These early visionaries and milestones set the stage for the rapid development of AI in the second half of the 20th century. Their contributions laid the theoretical and technological foundations that would be built upon by subsequent generations of researchers.
 
 Early successes included the General Problem Solver (GPS) program, which could solve logical problems, and Joseph Weizenbaum's ELIZA, a natural language processing program that could engage in simple conversations. While the philosophical questions they grappled with remain subjects of debate, their work established AI as a rich and compelling area of inquiry that would go on to transform multiple fields and industries.
 
@@ -190,9 +190,9 @@ Key breakthroughs in this era included the development of backpropagation for tr
 
 ![ Insert Fig 1.3.1 -- image of Kasparov v. Deep Blue](https://github.com/kenatiod/MUT/blob/main/Fig-1-3-1.png)
 
-The 21st century has seen an explosion of AI capabilities, driven by the convergence of big data, increased computing power, and new algorithmic techniques. Deep learning, which uses multi-layered neural networks to learn hierarchical representations from data, has achieved human-level or superhuman performance on tasks like image classification, speech recognition, and language translation. Other paradigm shifts include the rise of reinforcement learning, where agents learn through trial-and-error interaction with environments, and the development of large language models like GPT-3 that can generate human-like text and engage in open-ended dialogue.
+The 21st century has seen an explosion of AI capabilities, driven by the convergence of big data, increased computing power, and new algorithmic techniques. Deep learning, which uses multi-layered neural networks to learn hierarchical representations from data, has achieved human-level or superhuman performance on tasks like image classification, speech recognition, and language translation. Other paradigm shifts include the rise of reinforcement learning, where agents learn through trial-and-error interaction with environments, and the development of large language models like GPT-4 that can generate human-like text and engage in open-ended dialogue.
 
-![ Insert Fig. 1.3.2 image of GPT-3 screen reply](https://github.com/kenatiod/MUT/blob/main/Fig-1-3-2.png)
+![ Insert Fig. 1.3.2 image of GPT-4 screen reply](https://github.com/kenatiod/MUT/blob/main/Fig-1-3-2.png)
 
 (Appendix A2 provides an overview of the state-of-the-art in large language models and their emergent abilities.)
 
@@ -226,7 +226,7 @@ Alice: It is not just ethics, Bob, we have straight out safety issues to face. I
 
 Claude: I agree. As an AI system, I believe it's crucial that my development and deployment adhere to robust safety and ethical principles. We need proactive governance frameworks, interdisciplinary collaboration, and public engagement to ensure that the transformative potential of AI benefits all of humanity. 
 
-Alice: Well said, Claude. The history of AI is still very much unfolding, and it's up to all of us - researchers, developers, policymakers, and engaged citizens - to shape its trajectory. 
+Alice: That brings it home, Claude. The history of AI is still very much unfolding, and it's up to all of us - researchers, developers, policymakers, and engaged citizens - to shape its trajectory. 
 
 Bob: That's for sure. We're living through a pivotal moment in the history of intelligence, and the decisions we make now will reverberate far into the future. It's a daunting responsibility, but also an incredible opportunity. 
 
@@ -317,7 +317,7 @@ ____________
 
 ## Chapter 2 -- Theories and Tests of Intelligence
 
-**"Mysteries are not necessarily miracles." ~ Johann Wolfgang von Goethe**
+**"Mysteries are not necessarily miracles."** ~ Johann Wolfgang von Goethe
 
 ### 2.1 -- Philosophical Perspectives on the Nature of Understanding
 
@@ -370,7 +370,7 @@ Bob: groans ... You're never going to give me a break, are you?
 
 One of the most influential early proposals for evaluating machine intelligence is the Turing Test, introduced by mathematician and computing pioneer Alan Turing in his seminal 1950 paper "Computing Machinery and Intelligence" (Turing, 1950). Turing's key insight was that instead of debating the abstract question of whether machines can think, testing should focus on whether machines can exhibit behavior that is indistinguishable from that of intelligent humans.
 
-The basic setup of the Turing Test involves a human evaluator engaging in natural language conversations with two entities, one a human and the other a machine, without knowing which is which. If, after a period of interaction, the evaluator cannot reliably tell the machine from the human, the machine is said to have passed the test. Turing argued that a machine able to pass this test would be a convincing demonstration of intelligence, as it would require the machine to exhibit a wide range of human-like linguistic and cognitive abilities, from language comprehension and generation to reasoning and knowledge representation.
+The basic setup of the Turing Test involves a human evaluator engaging in written natural language conversations with two entities, one a human and the other a machine, without knowing which is which. If, after a period of interaction, the evaluator cannot reliably tell the machine from the human, the machine is said to have passed the test. Turing argued that a machine able to pass this test would be a convincing demonstration of intelligence, as it would require the machine to exhibit a wide range of human-like linguistic and cognitive abilities, from language comprehension and generation to reasoning and knowledge representation.
 
 ![ Insert Fig. 2.2 -- illustration of Turning Test in progress.](https://github.com/kenatiod/MUT/blob/main/Fig-2-2.png)
 
@@ -395,7 +395,7 @@ Nevertheless, the Turing Test remains an important part of the history and philo
 
 #### 2.2.1 -- Understanding itself
 
-_Alice and Bob have been going over technical papers and watching videos of lectures about analyzing artificial intelligence. The both have high levels of interest and motivation, but long silences are indications of the weight of the task. _
+_Alice and Bob have been going over technical papers and watching videos of lectures about analyzing artificial intelligence. They both have high levels of interest and motivation, but long silences are indications of the weight of the task. _
 
 *Claude chimes in from across the room*
 
@@ -2871,11 +2871,6 @@ The future of understanding beckons - and it is a future that belongs to us all.
 **“We are all here to learn, to grow, and to help others on their own journey.”** ~ Zen master Daigu Ryokan
 
 (The appendices offer additional depth on topics related to machine understanding, from neuroscience and philosophy to AI ethics and human-AI teaming, complementing the narrative journey undertaken by Alice, Bob, and Claude.)
-
-
-
-#### References for Chapter 9:
-
 
 ## The End
 
