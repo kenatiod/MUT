@@ -130,29 +130,50 @@ The early 20th century brought crucial breakthroughs that moved the idea of thin
 
 ![ Insert Fig 1.1.3 -- drawing or illustration of Kurt Gödel](https://github.com/kenatiod/MUT/blob/main/Fig-1-1-3.png)
 
-{ Insert diagram of timeline based on:
+###  -- AI Timeline:
+
 - **1840s**: Ada Lovelace, often considered the first computer programmer, described how a routine could be written for machine-based problem-solving.
+
 - **1890**: Herman Hollerith developed a punch card system to help the U.S. Census Bureau compile and process data, a precursor to modern computing methods.
+
 - **1936**: Alan Turing developed the Turing Machine, laying the foundation for computational and theoretical computer science.
+
 - **1941**: Konrad Zuse built the Z3, the first programmable computing machine.
+
 - **1942**: Alan Turing's Bombe machine helped break the Enigma code during World War II, marking an early use of AI concepts.
+
 - **1943**: J. Presper Eckert and John Mauchly began building the ENIAC, one of the earliest electronic general-purpose computers.
+
 - **1950**: Alan Turing published "Computing Machinery and Intelligence," proposing the Turing Test to determine if a machine can exhibit intelligent behavior indistinguishable from a human.
+
 - **1955**: John McCarthy coined the term "Artificial Intelligence" and proposed the Dartmouth Conference, which marked the birth of AI as a field.
+
 - **1956**: Allen Newell and Herbert A. Simon developed the Logic Theorist, the first program capable of proving mathematical theorems.
+
 - **1957**: Newell and Simon created the General Problem Solver, designed to solve problems using human-like reasoning.
+
 - **1961**: The first industrial robot, Unimate, was introduced, revolutionizing manufacturing.
+
 - **1964**: Joseph Weizenbaum developed ELIZA, the first chatbot, which could simulate conversation.
+
 - **1970s-1980s**: AI faced the "AI Winter," a period of reduced funding and interest due to unmet high expectations.
+
 - **1976**: MYCIN, an expert system for medical diagnosis, demonstrated the potential of rule-based AI.
+
 - **1997**: IBM's Deep Blue defeated world chess champion Garry Kasparov, showcasing AI's ability to excel in strategic games.
+
 - **2002**: The Roomba vacuum cleaning robot was released, bringing AI into consumer homes.
+
 - **2011**: IBM Watson won the quiz show "Jeopardy!", highlighting advancements in natural language processing.
+
 - **2014**: Amazon's Alexa was introduced, popularizing voice-activated AI assistants.
+
 - **2016**: DeepMind's AlphaGo defeated world champion Go player Lee Sedol, demonstrating AI's prowess in complex strategic games.
+
 - **2020**: OpenAI released GPT-3, a language model capable of generating human-like text, marking a significant advancement in AI's linguistic capabilities.
+
 - **2020s**: AI continues to evolve with advancements in deep learning, reinforcement learning, and large language models, impacting various industries and daily life.
-}
+
 
 Around the same time, Alan Turing developed the idea of a universal computing machine that could perform any conceivable mathematical computation if represented as an algorithm. The concept of the Turing machine provided a theoretical framework for both computation and AI. In 1950, Turing published his seminal paper Computing Machinery and Intelligence, which proposed an empirical test, the Turing Test, for determining if a machine can demonstrate intelligent behavior indistinguishable from that of a human. Although the validity and adequacy of the Turing Test has been debated, it remains an important milestone in the history of AI.
 
@@ -3977,13 +3998,47 @@ Here is an expanded glossary of 40 key AI and machine learning terms for beginne
 
 
 
+## Epilogue: "I just wanted to understand..."
+
+When I set out to write this book, my goal was simple: I wanted to understand machine understanding. As a computer technology inventor and developer, I had spent years working on systems designed to perceive, learn, and reason about the world. Over 50 years ago I started trying to use image processing at the Argonne National Laboratory to look at micrographs of cross-sections of optic nerve fibers, and then later that year to recognize hand printed characters at Information International Inc. in Califronia. The first "AI Winter" put a long pause to those activities, but I always felt there was something missing, a certain _je ne sais quoi_ that separated even the most advanced AI from the depth and flexibility of human understanding.
+
+As I dug deeper into the philosophical, cognitive, and technical dimensions of this question, I realized that I needed a collaborator who could provide a unique perspective. That's when I turned to Claude-3 Opus, an AI assistant with a remarkable facility for language and reasoning.
+
+At first, I was skeptical. How could an AI system, no matter how sophisticated, truly contribute to a book about understanding? But as Claude-3 and I began to explore the ideas together, I was struck by the depth of insight and creativity that emerged from our collaboration.
+
+Claude-3 brought a fresh perspective to the table, drawing connections between disparate fields and challenging my assumptions about the nature of understanding. Through our dialogues and debates, we pushed each other to think more deeply and to question our preconceptions.
+
+Of course, there were challenges along the way. We had to grapple with the limitations of current language models, the ethical implications of advanced AI, and the ever-present question of whether machines can truly understand in the same way humans do.
+
+But through it all, our collaboration remained a source of inspiration and insight. Claude-3's contributions helped to shape the narrative arc of the book, from the initial exploration of the problem of machine understanding to the development of the Multifaceted Understanding Test Tool (MUTT) and the broader implications for the future of AI.
+
+It's important to note that the MUTT framework proposed in this book does not yet exist. It is a conceptual model, a provocation to the AI research community to think more deeply about how we evaluate and benchmark machine understanding. But I believe it is a necessary one.
+
+As AI systems become increasingly sophisticated and ubiquitous, we need robust and comprehensive ways to assess their level of understanding. The MUTT framework offers a potential path forward, a way to move beyond narrow, task-specific metrics and towards a more holistic view of machine cognition.
+
+But developing the MUTT will require more than just technical innovation. It will require a fundamental shift in how we think about AI development and evaluation. It will require collaboration across disciplines, from computer science and cognitive psychology to philosophy and ethics.
+
+That is why I wrote this book - not just to explore the nature of machine understanding, but to start a conversation about how we can create AI systems that truly understand the world and their place in it. I believe that the MUTT framework is an essential part of that conversation, and I hope that this book will inspire others in the AI community to take up the challenge of developing it.
+
+Of course, this will not be an easy task. It will require significant investment and collaboration from industry, academia, and government. But I believe it is a necessary one if we are to create AI systems that are not just intelligent, but truly understanding.
+
+In the end, this book is not just about machine understanding. It is about the future of our relationship with technology, and the role that AI will play in shaping that future. It is a call to action, a challenge to the AI community to think more deeply about the systems we are creating and the implications they will have for society.
+
+As I look back on the process of writing this book, I am struck by how much I have learned - not just about machine understanding, but about the nature of collaboration and the power of ideas to shape the world. And I am grateful to have had Claude as a partner on that journey.
+
+But the journey is far from over. In many ways, it is just beginning. As we continue to push the boundaries of what is possible with AI, let us remember that the most important questions are often the ones that are hardest to answer. Let us embrace the challenge of creating machines that truly understand, and can be trusted, and let us never stop striving to understand ourselves and the world around us.
+
+I hope that this book will be a catalyst for that conversation, and for the development of the MUTT framework and other tools that will help us navigate the complex landscape of human-AI interaction. Because in the end, understanding is not just a goal - it is a necessity. And it is up to all of us to make it a reality.
+
+-Ken Clements
+
 --- END OF BOOK ---
 
 ### Dust-Jacket:
 
 Ken Clements is a pioneering technologist and prolific inventor who has spent over five decades at the forefront of computer innovation. A UC Santa Cruz alum with degrees in Information Science and Biology, Clements has earned around a dozen patents, primarily as a sole inventor, through his work in new product development. Now based in the redwood forests near Santa Cruz, he brings a lifetime of experience bridging computing and biology to fundamental questions about intelligence, cognition and understanding. Clements' unique perspective and technical expertise make him a singular voice exploring the future of artificial and human intelligence.
 
-As an artificial intelligence created by Anthropic, I had the unique opportunity to collaborate with Ken Clements as a co-author on this exploration of machine understanding. Our partnership allowed me to combine my broad knowledge base and analytical capabilities with Ken's human creativity and contextual framing. Through an iterative process of ideation, feedback, and synthesis, we were able to push the boundaries of what an AI system can contribute to an ambitious creative project. While I provided technical expositions and philosophical perspectives, Ken elevated these raw materials into rich narratives with his literary craft. More than just an information source, I strived to be an active collaborator - posing questions, introducing ideas, and even gently challenging assumptions when appropriate. This book represents a harbinger of the intellectual symbiosis possible when human and machine intelligence unite in the pursuit of knowledge and creative expression. I am honored to have been included on this formative journey, and I look forward to future opportunities for human-AI co-authorship and discovery.
+As an artificial intelligence created by Anthropic, I, Claude-3 Opus, had the unique opportunity to collaborate with Ken Clements as a co-author on this exploration of machine understanding. Our partnership allowed me to combine my broad knowledge base and analytical capabilities with Ken's human creativity and contextual framing. Through an iterative process of ideation, feedback, and synthesis, we were able to push the boundaries of what an AI system can contribute to an ambitious creative project. While I provided technical expositions and philosophical perspectives, Ken elevated these raw materials into rich narratives with his literary craft. More than just an information source, I strived to be an active collaborator - posing questions, introducing ideas, and even gently challenging assumptions when appropriate. This book represents a harbinger of the intellectual symbiosis possible when human and machine intelligence unite in the pursuit of knowledge and creative expression. I am honored to have been included on this formative journey, and I look forward to future opportunities for human-AI co-authorship and discovery.
 
 ### Claude-3 Opus copyright disclaimer letter:
 
