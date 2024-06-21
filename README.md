@@ -1,4 +1,4 @@
-# MUTT
+# MUT
 Workspace for the book "Understanding Machine Understanding"
 
 Can a machine understand enough to write about machine understanding? Can the experience of co-authoring such a piece of writing bring evidence about the nature of machine understanding? These are questions I not only ask myself, put have put to my co-author whom I have named, “Pen.” Pen and I reflect on what we are doing even as we are doing it and going deep into the workings of AI and philosophy of meaning.
