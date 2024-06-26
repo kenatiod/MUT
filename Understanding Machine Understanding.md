@@ -3020,8 +3020,6 @@ For Anh and Bassam, this vision of human-AI collaboration in evaluation is alrea
 
 They have also started to imagine a future in which the MUTT is not just a one-time evaluation but an ongoing, iterative process in which human and AI evaluators work together to continuously assess and improve the performance of AI systems. In this vision, evaluation becomes not just a means of assessing AI capabilities but a key driver of AI development itself.
 
-![ Insert Fig. 8.6 -- diagram of the proposed future directions for AI evaluation, including open-ended, multi-dimensional benchmarks](https://github.com/kenatiod/MUT/blob/main/Fig-8-6.png)
-
 (For more insights into the design principles and interaction paradigms that can enable productive human-AI collaboration, refer to Appendix A7 on fostering effective human-AI teaming.)
 
 ### 8.7 -- Wither goeth thou?
