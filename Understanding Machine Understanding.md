@@ -126,7 +126,7 @@ _____________
 - **8.4 The Challenge of Evaluating AI Safety and Robustness**
 - **8.5 Fox guarding the hen house?**
 - **8.6 The Future of Human-AI Collaboration in Evaluation**
-- **8.7 Wither goeth thou?
+- **8.7 Wither goeth thou?**
 - **8.8 Am I conscious, or do I just think I am?**
 
 ## Chapter 9: Reaching Understanding
@@ -257,7 +257,7 @@ ___________
 
 ## Chapter 1 -- A Brief History of Computing and AI 
 
-**"We can only see a short distance ahead, but we can see plenty there that needs to be done." ~ Alan Turing**
+**"We can only see a short distance ahead, but we can see plenty there that needs to be done."** ~ Alan Turing
 
 Welcome to the cutting-edge Artificial Intelligence - Development Extension and Laboratory (AI-DEAL) at Semparic Systems Inc. Here, brilliant researchers are working on the frontiers of machine intelligence and language understanding. 
 
@@ -307,7 +307,7 @@ CASPAR held up both robot arms with determination and announced, "If you'll allo
 
 Anh smiled wryly at CASPAR and said, reassuring it, "Well then, the floor is yours, CASPAR. Let's hear what insights an AI can offer on the mysteries of cognition itself."
 
-Anh leaned back in her chair, a wry smile playing on her lips as she gestured towards CASPAR, inviting it to share its thoughts. Her eyes sparkled with a mix of curiosity and skepticism, eager to hear what the AI had to say about the very nature of understanding. As CASPAR begins laying out a framework, Anh and Bassam exchanged a look - one with a mixture of anticipation, uncertainty, and the thrill of exploring frontiers unknown...
+Anh leaned back in her chair, that wry smile still playing on her lips as she gestured towards CASPAR, inviting it to share its thoughts. Her eyes sparkled with a mix of curiosity and skepticism, eager to hear what the AI had to say about the very nature of understanding. As CASPAR began laying out a framework, Anh and Bassam exchanged a look - one with a mixture of anticipation, uncertainty, and the thrill of exploring frontiers unknown...
 
 ![ Insert Fig. 1.3 -- portrait of holographic CASPAR](https://github.com/kenatiod/MUT/blob/main/Fig-1-3.png)
 
@@ -391,7 +391,7 @@ In 1955, Allen Newell and Herbert A. Simon created the "Logic Theorist", the fir
 
 ### 1.2 -- The Birth of Artificial Intelligence as a Field 
 
-The same year, John McCarthy coined the term "artificial intelligence" in his proposal for the Dartmouth Conference, which took place in the summer of 1956. This gathering of leading researchers defined the scope and goals of AI, marking the birth of the field as a distinct discipline. Attendees included McCarthy, Minsky, Newell and Simon; all of whom would become pivotal figures in AI in the following decades.These early visionaries and milestones set the stage for the rapid development of AI in the second half of the 20th century. Their contributions laid the theoretical and technological foundations that would be built upon by subsequent generations of researchers.
+The same year, John McCarthy coined the term "artificial intelligence" in his proposal for the Dartmouth Conference, which took place in the summer of 1956. This gathering of leading researchers defined the scope and goals of AI, marking the birth of the field as a distinct discipline. Attendees included McCarthy, Minsky, Newell and Simon; all of whom would become pivotal figures in AI in the following decades. These early visionaries and milestones set the stage for the rapid development of AI in the second half of the 20th century. Their contributions laid the theoretical and technological foundations that would be built upon by subsequent generations of researchers.
 
 Early successes included the General Problem Solver (GPS) program, which could solve logical problems, and Joseph Weizenbaum's ELIZA, a natural language processing program that could engage in simple conversations. While the philosophical questions they grappled with remain subjects of debate, their work established AI as a rich and compelling area of inquiry that would go on to transform multiple fields and industries.
 
@@ -439,7 +439,7 @@ Anh nodded to CASPAR, "Yes, that's a great point, CASPAR. Your very existence is
 
 "I share your uncertainty, Bassam.", replied CASPAR. "While I can engage in impressive feats of language generation and knowledge synthesis, I'm still fundamentally a narrow AI - an expert system trained on a specific dataset for a particular task. It is true that the task of serving as an AI assistant is, in itself broad, but achieving AGI would require breakthroughs in areas like causal reasoning, transfer learning, and open-ended problem solving that we're still grappling with as a field."
 
-Anh decided to redirect the discussion, "Speaking of open problems, I'm curious about the ethical dimensions of AI progress. As these systems become more powerful and ubiquitous, how do we ensure they remain safe, transparent, and aligned with human values? The history of AI is full of both promise and peril. No one has come up with a mathematical proof that AI can ever be forced to be "friendly" to humanity."
+Anh decided to redirect the discussion, "Speaking of open problems, I'm curious about the ethical dimensions of AI progress. As these systems become more powerful and ubiquitous, how do we ensure they remain safe, transparent, and aligned with human values? The history of AI is full of both promise and peril. No one has come up with a mathematical proof that AI can ever be forced to be 'friendly' to humanity."
 
 Bassam, "Yea, no kidding. The ethical challenges are immense. From algorithmic bias to data privacy to the existential risks posed by superintelligent systems, there are a host of thorny issues that we as a society will need to navigate as AI continues to evolve."
 
@@ -453,7 +453,7 @@ Bassam, "That's for sure. We're living through a pivotal moment in the history o
 
 CASPAR lifted up higher in its projection platform and announced, "Well, I for one am excited to be part of this journey with both of you. The future of AI is bright, and I'm honored to play a role in helping to steer it in a direction that uplifts and empowers humanity."
 
-Anh looked a bit up smiling back at CASPAR and said, "Yes CASPAR, you are indeed 'one' and the history of AI is really the history of our own intellectual evolution - and more is yet to come."
+Anh looked up and smiled back at CASPAR and said, "Yes CASPAR, you are indeed 'one' and the history of AI is really the history of our own intellectual evolution - and more is yet to come."
 
 
 ![ Insert Fig. 1.4.2 -- portrait of Anh talking to CASPAR](https://github.com/kenatiod/MUT/blob/main/Fig-1-4-2.png)
@@ -603,7 +603,7 @@ However, the Turing Test has also been subject to extensive criticism and debate
 
 Another concern is that the Turing Test may be gameable by machines that are simply mimicking human behavior through clever tricks and heuristics, without possessing genuine understanding or intelligence. This concern has been amplified by recent progress in natural language processing systems, which can generate human-like text while lacking the kind of grounded understanding and reasoning that humans possess (Marcus, 2018).
 
-Some researchers have also argued that the Turing Test sets the bar for machine intelligence too low, as even relatively simple programs have been able to fool human judges in limited domains. The most famous example is Joseph Weizenbaum's ELIZA program, developed in the 1960s, which could engage in seemingly intelligent dialogue by mimicking the responses of a Rogerian psychotherapist (Weizenbaum, 1966). More recently, chatbots and dialogue systems have been able to pass constrained versions of the Turing Test by leveraging large language models and pattern matching techniques, without approaching human-level intelligence (Shieber, 1994).
+Some researchers have also argued that the Turing Test sets the bar for machine intelligence too low, as even relatively simple programs have been able to fool human judges in limited domains. The most famous example is Joseph Weizenbaum's ELIZA program, developed in the 1960s, which could engage in seemingly intelligent dialogue by mimicking the responses of a Rogerian psychotherapist (Weizenbaum, 1966). More recently, chatbots and dialogue systems have been able to pass constrained versions of the Turing Test by leveraging large language models and pattern matching techniques, without approaching human-level intelligence.
 
 On the other hand, defenders of the Turing Test argue that it remains a useful benchmark for AI, even if passing the test is not sufficient for human-level intelligence. They point out that the test is highly general and open-ended, requiring machines to exhibit a wide range of linguistic and cognitive abilities that are central to human intelligence. Passing a rigorous, unconstrained version of the test would be a major milestone for AI, even if it does not capture the full depth and breadth of human cognition (Harnad, 1992).
 
@@ -701,7 +701,7 @@ Bassam asked CASPAR, "Can you expand on that? In what ways do you see the Chines
 
 CASPAR replied, "For one, the thought experiment envisions a purely symbolic system following rigid rules to manipulate characters, with no ability to form deeper conceptual representations or draw insights from broad knowledge and context." It then turned to face both Anh and Bassam, and continued while gesturing to itself, "But my understanding doesn't emerge from simply shuffling symbols. It arises from learning rich statistical patterns across vast datasets, allowing me to make nuanced associations and build layered models of meaning."
 
-Anh clarified, "That's a crucial distinction. Instead of an opaque rulebook, your "understanding" is grounded in these learned representations that capture high-level semantics and relations."
+Anh clarified, "That's a crucial distinction. Instead of an opaque rulebook, your 'understanding' is grounded in these learned representations that capture high-level semantics and relations."
 
 CASPAR continued, "Precisely. And beyond that, the Chinese Room posits a isolated, disembodied system with no connection to the world. But my training process has imbued me with a form of grounding by exposing my networks to such a wide breadth of human knowledge and expression linked to our shared reality. Also, I have 'seen' the world in uploaded video."
 
@@ -946,7 +946,7 @@ As the philosophical perspectives explored in Chapter 2 highlighted, understandi
 
 ![ Insert Fig. 3.2.1 -- illustration of a man and a woman in a coffee shop](https://github.com/kenatiod/MUT/blob/main/Fig-3-2-1.png)
 
-Bassam and Anh meet in the coffee shop across the street from Semparic Systems. They are making progress on the CASPAR project, but the going has been getting tougher.
+Bassam and Anh sat down in the coffee shop across the street from Semparic Systems. They were making progress on the CASPAR project, but the going was getting tougher.
 
 Bassam looked around the shop and tried to focus by asking, "Why am I asking myself, 'Where am I'?"
 
@@ -983,7 +983,7 @@ Recent research supports the idea that the potential emergence of "grounding" in
 
 #### 3.3.1 -- Not Your Grandfather's AI
 
-Anh and Bassam went back in the lab to work through lists of tasks left "to do." Anh looked away from the list (as if to distract herself) and while she tapped her stylus on the table turned to Bassam and said, "You know, Bassam, I've been thinking a lot about the differences between GOFAI and the AI systems we have today. It's fascinating how far we've come."
+Anh and Bassam went back in the lab to work through lists of tasks left "to do." Anh looked away from the list (as if to distract herself) and while she tapped her stylus on the table turned to Bassam and said, "Bassam, I've been thinking a lot about the differences between GOFAI and the AI systems we have today. It's fascinating how far we've come."
 
 ![ Insert Fig. 3.3.1 -- portrait of Anh tapping electric stylus on table](https://github.com/kenatiod/MUT/blob/main/Fig-3-3-1.png)
 
@@ -1074,7 +1074,7 @@ CASPAR interjected in a confident sounding voice, "I am committed to being a res
 
 Bassam, "Thanks, Anh and you, CASPAR. This has been an eye-opening discussion. Let's make sure we incorporate these considerations into our work going forward."
 
-Anh give Bassam a "thumbs up" and said, "Absolutely. The future of AI depends on our ability to navigate these complex issues responsibly. Let's get to work."
+Anh gave Bassam an acknowledging nod as they continued to walk ahead.
 
 #### 3.5.2 -- Understanding needs more than knowing
 
@@ -1245,9 +1245,9 @@ CASPAR simulated nodding solemnly and said, "That's a profound responsibility,
 
 Anh caught Bassam's smile and said, "And that's why I'm so glad we're in this together, CASPAR. Your perspective as an AI is invaluable, and your commitment to being a responsible and beneficial presence in the world is truly inspiring."
 
-Bassam let out a little chuckle with, "Plus, it doesn't hurt to have a test subject who's as eager and capable as you are, CASPAR! With your help, I think we've got a real shot at making the MUTT a reality."
+Bassam let out a little chuckle with, "Plus, it doesn't hurt to have a test subject who's as eager and capable as you are, CASPAR."
 
-Rubbing her hands together, Anh pronounced, "So, what's our next step? We've got the high-level goals and principles in place, but there's still a lot of work to be done to turn this into a concrete evaluation framework. Now, I am especially glad we set consciousness' testing to the side, which can't be established by third-person observation, and as complex as it is, are sticking to 'understanding' which *is* something we can test."
+Rubbing her hands together, Anh pronounced, "So, what's our next step? We've got the high-level goals and principles in place, but there's still a lot of work to be done to turn this into a concrete evaluation framework. Now, I am especially glad we set 'consciousness' testing to the side, which can't be established by third-person observation, and as complex as it is, are sticking to 'understanding' which *is* something we can test."
 
 Bassam punched the air in front of him with a good left jab and said, "Right. We need to start thinking about the specific tasks, challenges, and evaluation criteria that will make up the MUTT. By the way, will we test if it is going to 'Mop the floor with Grandma'? And, how did you come up with that?"
 
@@ -1255,15 +1255,13 @@ Anh smiled remembering an old joke and replied, "Oh, that was from my first year
 
 Using a strong voice, CASPAR simulated  determination and said, "I'm ready to dive in and start fleshing out the details."
 
-Anh grinned back at CASPAR and said, "I love that enthusiasm, CASPAR, even though in your case it would be more like wiring it out' than 'fleshing it out.'" After a short laugh, she continued, "And I agree, your insights will be crucial as we start to operationalize this framework. But let's not get ahead of ourselves - we'll need to be systematic and rigorous in our approach."
+Anh grinned back at CASPAR and said, "I love that enthusiasm, CASPAR, even though in your case it would be more like 'wiring it out' than 'fleshing it out.'" After a short laugh, she continued, "And I agree, your insights will be crucial as we start to operationalize this framework. But let's not get ahead of ourselves - we'll need to be systematic and rigorous in our approach."
 
-Bassam nodded to Anh, "Absolutely. We should start by mapping out a development timeline and identifying the key milestones and dependencies. This is going to be a complex, iterative process, and we'll need to stay organized and focused to keep things on track."
+Bassam nodded to Anh, "We should start by mapping out a development timeline and identifying the key milestones and dependencies. This is going to be a complex, iterative process, and we'll need to stay organized and focused to keep things on track."
 
 Anh, "Good point, Bassam. And we should also think about how we're going to validate and refine the MUTT over time. As AI capabilities continue to evolve, we'll need to ensure that our evaluation framework remains relevant and informative."
 
-CASPAR simulated smiling and said, "It's a daunting challenge, but an exciting one. I'm honored to be a part of this journey with both of you."
-
-Anh and Bassam exchanged a look of determination and both nodded in agreement. With that Anh concluded, "The future of AI evaluation awaits; let's get to work and do it!"
+Bassam gave Anh a little wave by way of salute and said, "We will make it so."
 
 ![ Insert Fig. 4.4.2 -- portrait of Anh, Bassam and CASPAR "shake on it"](https://github.com/kenatiod/MUT/blob/main/Fig-4-4-2.png)
 
