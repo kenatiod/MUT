@@ -155,7 +155,6 @@ _____________
 - **A1.5 Neural Plasticity and Learning**
 - **A1.6 Implications for AI Development**
 - **References for Appendix A1**
-- 
 
 ### Appendix A2: State-of-the-Art in Large Language Models
 - **A2.1 Overview of Large Language Models**
@@ -164,7 +163,7 @@ _____________
 - **A2.4 Emergent Abilities and Behaviors**
 - **A2.5 Ethical Considerations and Bias**
 - **A2.6 Future Directions**
-- **References for Appendix A1\2**
+- **References for Appendix A2**
 
 ### Appendix A3: Existing AI Benchmarks
 - **A3.1 Historical Benchmarks in AI**
