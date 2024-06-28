@@ -276,7 +276,7 @@ ___________
 
 **"We can only see a short distance ahead, but we can see plenty there that needs to be done."** ~ Alan Turing
 
-Welcome to the cutting-edge Artificial Intelligence - Development Extension and Laboratory (AI-DEAL) at Semparic Systems Inc. Here, brilliant researchers are working on the frontiers of machine intelligence and language understanding. 
+Welcome to the cutting-edge Artificial Intelligence - Development, Extension and Laboratory (AI-DEAL) at Semparic Systems Inc. Here, brilliant researchers are working on the frontiers of machine intelligence and language understanding. 
 
 Meet Anh, a top computational linguist with a philosophical bent. Her eyes sparkle with curiosity as she pores over the latest neural network architectures, always questioning the deeper implications for cognition and meaning.
 
@@ -296,7 +296,7 @@ This is the question that drives Anh and Bassam's research, and the mystery you'
 
 ...
 
-As Anh and Bassam sat in their lab, surrounded by holographic whiteboards filled with complex diagrams and equations, a palpable sense of unease filled the room. Anh furrowed her brow, lost in thought, as she contemplated the enormity of the task before them. She taped her pencil restlessly and said, "You know Bassam, the more I think about it, the more daunting this whole 'test for machine understanding' project seems."
+As Anh and Bassam sat in their lab, a palpable sense of unease filled the room. Anh furrowed her brow, lost in thought, while she contemplated the enormity of the task before them. She taped her pencil restlessly and said, "You know Bassam, the more I think about it, the more daunting this whole 'test for machine understanding' project seems."
 
 Bassam did not look up from the computer screen, but asked, "Why's that? You're the one who's been insisting we need rigorous ways to evaluate CASPAR's capabilities and general safety."
 
@@ -316,15 +316,13 @@ Bassam nodded slowly and chimed in, "Which is exactly why we need to take a firs
 
 Anh exhaled heavily and agreed, "You're both right. This is bigger than any of us. We're not just evaluating an AI assistant - we're confronting the very boundaries of what it means to be a thinking, understanding entity in this universe."
 
-There was weighty pause as the three shared a look, each realizing the enormity of the task they've undertaken. Finally, Bassam breaks the silence...
-
-Bassam summoned courage and remarked, "Well, if we're going to redefine the philosophy of mind, we'd better get started. Who wants to take the first crack at mapping out our approach?"
+There was weighty pause as the three shared a look, each realizing the enormity of the task they've undertaken. Finally, Bassam broke the silence... He summoned courage and remarked, "Well, if we're going to redefine the philosophy of mind, we'd better get started. Who wants to take the first crack at mapping out our approach?"
 
 CASPAR held up both robot arms with determination and announced, "If you'll allow me, I'd be honored to provide my perspective on how we might structure a robust evaluation of machine understanding. After all, this pursuit strikes at the core of my own existential status."
 
 Anh smiled wryly at CASPAR and said, reassuring it, "Well then, the floor is yours, CASPAR. Let's hear what insights an AI can offer on the mysteries of cognition itself."
 
-Anh leaned back in her chair, that wry smile still playing on her lips as she gestured towards CASPAR, inviting it to share its thoughts. Her eyes sparkled with a mix of curiosity and skepticism, eager to hear what the AI had to say about the very nature of understanding. As CASPAR began laying out a framework, Anh and Bassam exchanged a look - one with a mixture of anticipation, uncertainty, and the thrill of exploring frontiers unknown...
+Anh leaned back in her chair, that wry smile still playing on her lips, as she gestured towards CASPAR, inviting it to share its thoughts. Her eyes sparkled with a mix of curiosity and skepticism, eager to hear what the AI had to say about the very nature of understanding. As CASPAR began laying out a framework, Anh and Bassam exchanged a look - one with a mixture of anticipation, uncertainty, and the thrill of exploring frontiers unknown...
 
 ![ Insert Fig. 1.3 -- portrait of holographic CASPAR](https://github.com/kenatiod/MUT/blob/main/Fig-1-3.png)
 
@@ -438,19 +436,19 @@ As AI continues to advance at a rapid pace, shaping everything from scientific d
 
 **"Computers are incredibly fast, accurate, and stupid. Human beings are incredibly slow, inaccurate, and brilliant. Together they are powerful beyond imagination."** ~ Albert Einstein
 
-Anh and Bassam have filled their lab with vast files of technical papers on neuroscience and AI presented on holographic slates, as well stacks of actual paper prints.
+Anh and Bassam have filled their lab with vast files of technical papers on neuroscience and AI, presented on holographic slates, as well as stacks of actual paper prints.
 
-Anh putt down an AI retrospective article, "Wow, what a whirlwind tour through the history of AI! It's amazing to see how far the field has come in just a few decades."
+Anh put down an AI retrospective article, "Wow, what a whirlwind tour through the history of AI! It's amazing to see how far the field has come in just a few decades."
 
 ![ Insert Fig. 1.4.1 portrait of Anh talking to Bassam while CASPAR in holographic form listens](https://github.com/kenatiod/MUT/blob/main/Fig-1-4-1.png)
 
-Bassam looked at her and injected, "And it's mind-blowing to think about how much AI is already transforming industries and shaping our daily lives. From the virtual assistants in our phones to the recommendation algorithms that curate our online experiences, AI is everywhere."
+Bassam looked at her and remarked, "And it's mind-blowing to think about how much AI is already transforming industries and shaping our daily lives. From the virtual assistants in our phones to the recommendation algorithms that curate our online experiences; AI is everywhere."
 
 Anh and Bassam both turned to look at CASPAR, who chose that moment to step in, "The pace of progress has been remarkable. As an AI system myself, I'm a direct beneficiary of the breakthroughs in machine learning and natural language processing that the article described." With a bit of pride in its tone, it continued, "The ability to engage in open-ended dialogue, as we're doing now, would have seemed like science fiction just a few years ago."
 
 Anh nodded to CASPAR, "Yes, that's a great point, CASPAR. Your very existence is a testament to how rapidly AI capabilities are advancing. But I can't help but wonder - how close are we to truly human-like AI? Is artificial general intelligence (AGI) just around the corner?"
 
-"It's a fascinating question.", injected Bassam. "On one hand, we've seen AI achieve superhuman performance on specific tasks like playing chess or Go. But on the other hand, replicating the kind of flexible, common-sense reasoning that humans excel at remains an enormous challenge." 
+"It's a fascinating question.", mused Bassam. "On one hand, we've seen AI systems achieve superhuman performance on specific tasks like playing chess or Go. But on the other hand, replicating the kind of flexible, common-sense reasoning that humans excel at remains an enormous challenge." 
 
 "I share your uncertainty, Bassam.", replied CASPAR. "While I can engage in impressive feats of language generation and knowledge synthesis, I'm still fundamentally a narrow AI - an expert system trained on a specific dataset for a particular task. It is true that the task of serving as an AI assistant is, in itself broad, but achieving AGI would require breakthroughs in areas like causal reasoning, transfer learning, and open-ended problem solving that we're still grappling with as a field."
 
@@ -460,15 +458,15 @@ Bassam, "Yea, no kidding. The ethical challenges are immense. From algorithmic b
 
 Anh said, "It is not just ethics, Bassam, we have straight out safety issues to face. If someone tells our product to 'Mop the kitchen floor with Grandma.' we have to make sure it checks to be sure Grandma is not going to *be* the mop."
 
-CASPAR pipped up,"Well, I agree. As an AI system, I believe it's crucial that my development and deployment adhere to robust safety and ethical principles. We need proactive governance frameworks, interdisciplinary collaboration, and public engagement to ensure that the transformative potential of AI benefits all of humanity."
+CASPAR pipped up, "Well, I agree. As an AI system, I believe it's crucial that my development and deployment adhere to robust safety and ethical principles. We need proactive governance frameworks, interdisciplinary collaboration, and public engagement to ensure that the transformative potential of AI benefits all of humanity."
 
 With some determination Anh insisted, "That brings it home, CASPAR. The history of AI is still very much unfolding, and it's up to all of us - researchers, developers, policymakers, and engaged citizens - to shape its trajectory."
 
-Bassam, "That's for sure. We're living through a pivotal moment in the history of intelligence, and the decisions we make now will reverberate far into the future. It's a daunting responsibility, but also an incredible opportunity."
+Bassam, "That's for sure. We're living through a pivotal moment in the history of intelligence, and the decisions we make now will reverberate far into the future. How are we going to know if CASPAR understands 'robust safety and ethical principles'?"
 
 CASPAR lifted up higher in its projection platform and announced, "Well, I for one am excited to be part of this journey with both of you. The future of AI is bright, and I'm honored to play a role in helping to steer it in a direction that uplifts and empowers humanity."
 
-Anh looked up and smiled back at CASPAR and said, "Yes CASPAR, you are indeed 'one' and the history of AI is really the history of our own intellectual evolution - and more is yet to come."
+Anh looked up and smiled back at CASPAR, "Yes CASPAR, you are indeed 'one' and the history of AI is really the history of our own intellectual evolution - and more is yet to come."
 
 
 ![ Insert Fig. 1.4.2 -- portrait of Anh talking to CASPAR](https://github.com/kenatiod/MUT/blob/main/Fig-1-4-2.png)
@@ -497,15 +495,13 @@ Chollet, F. (2019). On the measure of intelligence. arXiv. https://doi.org/10.48
 
 Dautenhahn, K. (2007). Socially intelligent robots: Dimensions of human-robot interaction. Philosophical Transactions of the Royal Society B: Biological Sciences, 362(1480), 679-704. https://doi.org/10.1098/rstb.2006.2004
 
-Dennett, D. C. (1980). The milk of human intentionality. Behavioral and Brain Sciences, 3(3), 428-430. https://doi.org/10.1017/S0140525X00005812
+Dennett, D. C. (1980). The milk of human intentionality. Behavioral and Brain Sciences, 3(3), 428-430.
 
 Dennett, D. C. (1987). The intentional stance. MIT Press.
 
-Edmonds, D. (2015, May 13). The man who made the first neural network. IEEE Spectrum. https://spectrum.ieee.org/the-man-who-made-the-first-neural-network
-
 Ferrucci, D., Brown, E., Chu-Carroll, J., Fan, J., Gondek, D., Kalyanpur, A. A., Lally, A., Murdock, J. W., Nyberg, E., Prager, J., Schlaefer, N., & Welty, C. (2010). Building Watson: An overview of the DeepQA project. AI Magazine, 31(3), 59-79. https://doi.org/10.1609/aimag.v31i3.2303
 
-Fodor, J. A. (1980). Searle on what only brains can do. Behavioral and Brain Sciences, 3(3), 431-432. https://doi.org/10.1017/S0140525X00005836
+Fodor, J. A. (1980). Searle on what only brains can do. Behavioral and Brain Sciences, 3(3), 431-432.
 
 Glenberg, A. M., & Robertson, D. A. (2000). Symbol grounding and meaning: A comparison of high-dimensional and embodied theories of meaning. Journal of Memory and Language, 43(3), 379-401. https://doi.org/10.1006/jmla.2000.2714
 
@@ -527,7 +523,7 @@ McCartney, S. (1999). ENIAC: The triumphs and tragedies of the world's first com
 
 McCarthy, J., Minsky, M. L., Rochester, N., & Shannon, C. E. (2006). A proposal for the Dartmouth summer research project on artificial intelligence, August 31, 1955. AI Magazine, 27(4), 12-12. https://doi.org/10.1609/aimag.v27i4.1904
 
-Minsky, M. (1954). Neural nets and the brain model problem [Unpublished doctoral dissertation]. Princeton University.
+Minsky, M. (1954). Neural nets and the brain model problem. Princeton University.
 
 Newell, A., & Simon, H. A. (1972). Human problem solving. Prentice-Hall.
 
@@ -545,7 +541,7 @@ Whitehead, A. N., & Russell, B. (1910). Principia mathematica (Vols. 1-3). Cambr
 
 Yampolskiy, R. V. (2024). AI: Unexplainable, unpredictable, uncontrollable. CRC Press.
 
-Zuse, K. (1936). Verfahren zur selbsttätigen Durchführung von Rechnungen mit Hilfe von Rechenmaschinen [Method for automatic execution of calculations using calculating machines] (German Patent No. Z23139). Deutsches Patentamt.
+Zuse, K. (1936). Verfahren zur selbsttätigen Durchführung von Rechnungen mit Hilfe von Rechenmaschinen, (German Patent No. Z23139). Deutsches Patentamt.
 
 
 
@@ -3199,7 +3195,7 @@ Taken together, these findings underscore the dynamic and context-sensitive natu
 
 ### A1.3 -- Insights from cognitive neuroscience for AI understanding
 
-The insights from cognitive neuroscience research on the distributed, context-sensitive, and embodied nature of understanding have important implications for the development of artificial systems with human-like cognitive abilities. While much of the early work in artificial intelligence (AI) focused on symbolic, rule-based approaches to knowledge representation and reasoning (Newell & Simon, 1976), there has been a growing recognition of the need for more neurally-inspired architectures that can capture the flexibility and adaptability of human cognition (Hassabis et al., 2017; Lake et al., 2017).
+The insights from cognitive neuroscience research on the distributed, context-sensitive, and embodied nature of understanding have important implications for the development of artificial systems with human-like cognitive abilities. While much of the early work in artificial intelligence focused on symbolic, rule-based approaches to knowledge representation and reasoning (Newell & Simon, 1976), there has been a growing recognition of the need for more neurally-inspired architectures that can capture the flexibility and adaptability of human cognition (Hassabis et al., 2017; Lake et al., 2017).
 
 One key insight from cognitive neuroscience is the importance of distributed representations and processing for enabling robust and flexible understanding. Rather than relying on localist, symbolic representations, AI systems may benefit from using high-dimensional, distributed representations that can capture the rich structure of real-world environments (Bengio et al., 2013; LeCun et al., 2015). Similarly, rather than using modular, feed-forward processing pipelines, AI systems may need to incorporate recurrent and feedback connections that allow for the dynamic integration of information over time and across different levels of abstraction (Kriegeskorte, 2015; Yamins & DiCarlo, 2016).
 
@@ -3834,7 +3830,7 @@ This appendix provides an overview of the current state of governance frameworks
 
 ### A6.2 -- Principles for Responsible AI Development
 
-At the core of any governance framework for machine understanding technologies are a set of guiding principles that articulate the fundamental values and objectives that should inform their development and use. While the specific articulation of these principles varies across different frameworks, there is a growing consensus around a core set of themes that are essential for responsible AI [](https://www.gov.uk/guidance/understanding-artificial-intelligence-ethics-and-safety)[](https://arxiv.org/abs/2306.05003).
+At the core of any governance framework for machine understanding technologies are a set of guiding principles that articulate the fundamental values and objectives that should inform their development and use. While the specific articulation of these principles varies across different frameworks, there is a growing consensus around a core set of themes that are essential for responsible AI.
 
 1. Beneficence: AI systems should be designed and used for the benefit of humanity, with the goal of promoting well-being, reducing suffering, and respecting human rights.
 2. Non-maleficence: AI systems should be safe, secure, and reliable, with robust safeguards against unintended harms or misuse. Developers should proactively identify and mitigate potential risks.
@@ -3847,7 +3843,7 @@ These principles provide a high-level ethical framework for the responsible deve
 
 ### A6.3 -- Technical Standards for Safety and Reliability
 
-One critical aspect of responsible AI governance is ensuring the safety, security, and reliability of machine understanding systems. As these technologies are increasingly deployed in high-stakes domains like healthcare, transportation, and criminal justice, it is essential that they meet rigorous technical standards to prevent unintended harms or failures. [](https://www.turing.ac.uk/sites/default/files/2019-06/understanding_artificial_intelligence_ethics_and_safety.pdf)[](https://www.brookings.edu/articles/fairness-in-machine-learning-regulation-or-standards/)
+One critical aspect of responsible AI governance is ensuring the safety, security, and reliability of machine understanding systems. As these technologies are increasingly deployed in high-stakes domains like healthcare, transportation, and criminal justice, it is essential that they meet rigorous technical standards to prevent unintended harms or failures.
 
 Key areas for technical standardization include:
 
@@ -3857,11 +3853,11 @@ Key areas for technical standardization include:
 4. Interoperability: AI systems should be designed to work seamlessly with other technologies and platforms, following open standards for data exchange and communication protocols.
 5. Verification and validation: AI systems should undergo rigorous testing and evaluation to ensure they meet performance requirements and behave as intended. This may include techniques like formal verification, simulation testing, and real-world pilots.
 
-Developing technical standards for AI safety and reliability requires close collaboration between researchers, industry practitioners, and policymakers. Initiatives like the IEEE Global Initiative on Ethics of Autonomous and Intelligent Systems [](https://www.turing.ac.uk/news/publications/understanding-artificial-intelligence-ethics-and-safety) and the OECD AI Principles [](https://www.ibm.com/topics/ai-governance) are working to build international consensus around these issues.
+Developing technical standards for AI safety and reliability requires close collaboration between researchers, industry practitioners, and policymakers. Initiatives like the IEEE Global Initiative on Ethics of Autonomous and Intelligent Systems and the OECD AI Principles are working to build international consensus around these issues.
 
 ### A6.4 -- Transparency and Accountability Mechanisms
 
-Another key pillar of responsible AI governance is promoting transparency and accountability in the development and deployment of machine understanding systems. Given the complexity and opacity of many AI algorithms, it is critical to have mechanisms in place to ensure that their behavior is explainable, auditable, and aligned with human values. [](https://link.springer.com/article/10.1007/s43681-022-00143-x)[](https://www.unesco.org/en/artificial-intelligence/recommendation-ethics)
+Another key pillar of responsible AI governance is promoting transparency and accountability in the development and deployment of machine understanding systems. Given the complexity and opacity of many AI algorithms, it is critical to have mechanisms in place to ensure that their behavior is explainable, auditable, and aligned with human values.
 
 Key elements of transparency and accountability frameworks include:
 
@@ -3871,11 +3867,11 @@ Key elements of transparency and accountability frameworks include:
 4. Accountability mechanisms: There should be clear processes in place for holding AI developers and deployers accountable for the impacts of their systems. This may include legal liability, ethical review boards, or public oversight bodies.
 5. Redress and remedy: If AI systems cause harm or violate rights, there should be accessible mechanisms for affected individuals and communities to seek redress and remedy. This may include complaint procedures, appeals processes, or compensation funds.
 
-Implementing effective transparency and accountability frameworks requires a mix of technical solutions, institutional reforms, and public engagement. Initiatives like the AI Now Institute [](https://standards.ieee.org/initiatives/autonomous-intelligence-systems/standards/) and the Partnership on AI [](https://www.linkedin.com/advice/1/how-do-you-share-machine-learning-standards-practices) are working to develop best practices and tools in this area.
+Implementing effective transparency and accountability frameworks requires a mix of technical solutions, institutional reforms, and public engagement. Initiatives like the AI Now Institute and the Partnership on AI are working to develop best practices and tools in this area.
 
 ### A6.5 -- Human Rights and Social Justice Considerations
 
-A third critical dimension of responsible AI governance is ensuring that the development and deployment of machine understanding technologies respects human rights and promotes social justice. Given the potential for AI systems to amplify existing inequalities or introduce new forms of discrimination, it is essential that governance frameworks explicitly address these concerns. [](https://www.nature.com/articles/s41592-021-01256-7)[](https://www.pdpc.gov.sg/-/media/files/pdpc/pdf-files/resource-for-organisation/ai/sgmodelaigovframework2.pdf)
+A third critical dimension of responsible AI governance is ensuring that the development and deployment of machine understanding technologies respects human rights and promotes social justice. Given the potential for AI systems to amplify existing inequalities or introduce new forms of discrimination, it is essential that governance frameworks explicitly address these concerns.
 
 Key human rights and social justice considerations include:
 
@@ -3885,17 +3881,17 @@ Key human rights and social justice considerations include:
 4. Privacy and data protection: AI systems should respect individual privacy rights and adhere to strong data protection standards. Collection and use of personal data should be minimized, transparent, and subject to user consent and control.
 5. Freedom of expression: AI systems used for content moderation or information curation should respect freedom of expression and avoid unjustified censorship. Governance frameworks should provide clear guidelines and due process protections.
 
-Integrating human rights and social justice considerations into AI governance is an ongoing challenge that requires collaboration across sectors and disciplines. The United Nations Guiding Principles on Business and Human Rights [](https://www.techtarget.com/searchenterpriseai/definition/AI-governance) and the Toronto Declaration on Protecting the Rights to Equality and Non-Discrimination in Machine Learning Systems [](https://education.ec.europa.eu/news/ethical-guidelines-on-the-use-of-artificial-intelligence-and-data-in-teaching-and-learning-for-educators) offer important frameworks in this regard.
+Integrating human rights and social justice considerations into AI governance is an ongoing challenge that requires collaboration across sectors and disciplines. The United Nations Guiding Principles on Business and Human Rights and the Toronto Declaration on Protecting the Rights to Equality and Non-Discrimination in Machine Learning Systems offer important frameworks in this regard.
 
 ### A6.6 -- Adaptive Governance and Soft Law Approaches
 
-Given the rapid pace of change in AI research and development, governance frameworks for machine understanding technologies must be adaptive and flexible enough to keep up with evolving capabilities and challenges. Traditional "hard law" approaches, such as national legislation and international treaties, may struggle to provide the agility and coordination needed in this dynamic environment. [](https://ml-ops.org/content/mlops-principles)[](https://arxiv.org/ftp/arxiv/papers/2003/2003.10303.pdf)
+Given the rapid pace of change in AI research and development, governance frameworks for machine understanding technologies must be adaptive and flexible enough to keep up with evolving capabilities and challenges. Traditional "hard law" approaches, such as national legislation and international treaties, may struggle to provide the agility and coordination needed in this dynamic environment.
 
 As a result, many experts advocate for "soft law" and adaptive governance approaches that can more nimbly respond to emerging issues and foster multi-stakeholder collaboration. These may include:
 
-1. Voluntary standards and best practices: Industry associations, professional societies, and multi-stakeholder initiatives can develop voluntary standards and best practices that provide guidance to practitioners while allowing for flexibility and innovation. The IEEE Ethically Aligned Design standards [](https://ai.google/responsibility/responsible-ai-practices/) are an example.
-2. Codes of ethics and conduct: Professional associations and companies can adopt codes of ethics and conduct that articulate their values and commitments regarding responsible AI development. The ACM Code of Ethics and Professional Conduct [](https://www.snowflake.com/trending/ai-governance-best-practices/) includes specific principles related to AI and autonomous systems.
-3. Governance coordination mechanisms: Governments, industry, academia, and civil society can establish coordination mechanisms to share information, identify emerging challenges, and develop harmonized approaches to AI governance. The OECD Network of Experts on AI [](https://www.iso.org/artificial-intelligence/machine-learning) is one such platform.
+1. Voluntary standards and best practices: Industry associations, professional societies, and multi-stakeholder initiatives can develop voluntary standards and best practices that provide guidance to practitioners while allowing for flexibility and innovation. The IEEE Ethically Aligned Design standards are an example.
+2. Codes of ethics and conduct: Professional associations and companies can adopt codes of ethics and conduct that articulate their values and commitments regarding responsible AI development. The ACM Code of Ethics and Professional Conduct includes specific principles related to AI and autonomous systems.
+3. Governance coordination mechanisms: Governments, industry, academia, and civil society can establish coordination mechanisms to share information, identify emerging challenges, and develop harmonized approaches to AI governance. The OECD Network of Experts on AI is one such platform.
 4. Regulatory sandboxes and testbeds: Governments can create regulatory sandboxes and testbeds that allow for controlled experimentation with new AI technologies and governance approaches. These can provide valuable evidence to inform future policymaking.
 5. Public participation and deliberation: Engaging the public in meaningful dialogue and deliberation around AI governance issues can help build trust, legitimacy, and social license. Citizen assemblies, consensus conferences, and online platforms can facilitate this engagement.
 
@@ -3967,45 +3963,45 @@ The rapid advancement of artificial intelligence (AI) technologies in recent yea
 
 ### A7.1 -- The Need for Effective Human-AI Teaming
 
-Traditional AI systems have often been developed with a focus on standalone performance, without much consideration for how they will interact with human users. However, as AI is increasingly deployed in high-stakes domains such as healthcare, finance, and transportation, there is a growing recognition that AI systems need to be designed from the ground up for effective teaming with humans. [](https://dl.acm.org/doi/10.1145/3544548.3581015) Some key reasons why human-AI teaming is important include:
+Traditional AI systems have often been developed with a focus on standalone performance, without much consideration for how they will interact with human users. However, as AI is increasingly deployed in high-stakes domains such as healthcare, finance, and transportation, there is a growing recognition that AI systems need to be designed from the ground up for effective teaming with humans. Some key reasons why human-AI teaming is important include:
 
-- Complementary strengths: Humans and AI have different but complementary strengths. Humans excel at tasks requiring common sense reasoning, contextual understanding, and ethical judgment, while AI systems can rapidly process large amounts of data, identify complex patterns, and make predictions. [](https://arxiv.org/html/2403.04931v1) Combining the strengths of humans and AI can lead to better outcomes than either alone.
-- Overcoming limitations: Both humans and AI systems have their own limitations and biases. Humans are prone to cognitive biases and have limited information processing capacity, while AI systems can be brittle, opaque, and biased by the data they are trained on. [](https://nap.nationalacademies.org/read/26355/chapter/1) Human-AI teaming can help overcome the limitations of each by enabling cross-checking and collaborative decision-making.
-- Enhancing trust and adoption: For AI systems to be effectively used in practice, humans need to trust and accept their outputs. Opaque, unaccountable AI systems can lead to user frustration and resistance. [](https://link.springer.com/article/10.1007/s10462-022-10246-w) Designing AI for human teaming, with considerations like explainability and human oversight, can enhance trust and adoption.
-- Regulatory and ethical needs: In many domains, there are regulatory requirements and ethical principles that necessitate meaningful human involvement in AI-assisted decision making. [](https://research.ibm.com/topics/explainable-ai) For example, the European Union's General Data Protection Regulation (GDPR) specifies a right to explanation for decisions made by automated systems. Human-AI teaming is important for meeting these requirements.
+- Complementary strengths: Humans and AI have different but complementary strengths. Humans excel at tasks requiring common sense reasoning, contextual understanding, and ethical judgment, while AI systems can rapidly process large amounts of data, identify complex patterns, and make predictions. Combining the strengths of humans and AI can lead to better outcomes than either alone.
+- Overcoming limitations: Both humans and AI systems have their own limitations and biases. Humans are prone to cognitive biases and have limited information processing capacity, while AI systems can be brittle, opaque, and biased by the data they are trained on. Human-AI teaming can help overcome the limitations of each by enabling cross-checking and collaborative decision-making.
+- Enhancing trust and adoption: For AI systems to be effectively used in practice, humans need to trust and accept their outputs. Opaque, unaccountable AI systems can lead to user frustration and resistance. Designing AI for human teaming, with considerations like explainability and human oversight, can enhance trust and adoption.
+- Regulatory and ethical needs: In many domains, there are regulatory requirements and ethical principles that necessitate meaningful human involvement in AI-assisted decision making. For example, the European Union's General Data Protection Regulation (GDPR) specifies a right to explanation for decisions made by automated systems. Human-AI teaming is important for meeting these requirements.
 
 ### A7.2 -- Foundations of Human-AI Teaming
 
 Human-AI teaming builds upon a rich body of work on human-human and human-automation teaming. Some key theoretical foundations that inform the design of human-AI teams include:
 
-- Joint activity theory: This theory, originating from studies of human-human collaboration, emphasizes that effective teamwork requires establishing common ground, maintaining coordination, and repairing breakdowns. [](https://ceur-ws.org/Vol-3106/Paper_9.pdf) These principles also apply to human-AI teams, highlighting the need for AI systems to communicate their status and rationale to human teammates.
-- Situation awareness: Situation awareness refers to the perception, comprehension, and projection of elements in the environment. [](https://arxiv.org/abs/2307.03913) For human-AI teams to function effectively, both the human and AI need to maintain shared situation awareness of their goals, progress, capabilities and limitations. AI systems need to be designed to provide the human with the right information at the right time to facilitate shared awareness.
-- Levels of automation: The levels of automation framework describes the degree to which a task is automated, ranging from fully manual to fully autonomous. [](https://www.frontiersin.org/articles/10.3389/frai.2023.1250725/full) The appropriate level of automation depends on factors like the complexity of the task, the capabilities of the AI system, and the need for human judgment. In many cases, an intermediate level involving human-AI collaboration is optimal.
-- Coactive design: Coactive design is a framework for designing human-machine systems that work together interdependently. [](https://snorkel.ai/human-in-the-loop-ml-fdcai-2022-daniel-wu-jp-morgan-chase/) Key principles include observability (making the status of the human and machine observable to each other), predictability (enabling the human and machine to predict each other's actions) and directability (enabling the human to direct the machine's actions). These principles can guide the design of human-AI interfaces and interaction patterns.
+- Joint activity theory: This theory, originating from studies of human-human collaboration, emphasizes that effective teamwork requires establishing common ground, maintaining coordination, and repairing breakdowns. These principles also apply to human-AI teams, highlighting the need for AI systems to communicate their status and rationale to human teammates.
+- Situation awareness: Situation awareness refers to the perception, comprehension, and projection of elements in the environment.  For human-AI teams to function effectively, both the human and AI need to maintain shared situation awareness of their goals, progress, capabilities and limitations. AI systems need to be designed to provide the human with the right information at the right time to facilitate shared awareness.
+- Levels of automation: The levels of automation framework describes the degree to which a task is automated, ranging from fully manual to fully autonomous. The appropriate level of automation depends on factors like the complexity of the task, the capabilities of the AI system, and the need for human judgment. In many cases, an intermediate level involving human-AI collaboration is optimal.
+- Coactive design: Coactive design is a framework for designing human-machine systems that work together interdependently. Key principles include observability (making the status of the human and machine observable to each other), predictability (enabling the human and machine to predict each other's actions) and directability (enabling the human to direct the machine's actions). These principles can guide the design of human-AI interfaces and interaction patterns.
 
 ### A7.3 -- Explainable AI
 
-A key challenge in human-AI teaming is the opaqueness of many state-of-the-art AI systems, particularly deep learning models. These "black box" models can achieve high performance but provide limited insight into their reasoning process, making it difficult for humans to understand and trust their outputs. [](https://insights.sei.cmu.edu/blog/what-is-explainable-ai/) Explainable AI (XAI) aims to address this challenge by developing techniques to make AI systems more transparent and interpretable to human users.
+A key challenge in human-AI teaming is the opaqueness of many state-of-the-art AI systems, particularly deep learning models. These "black box" models can achieve high performance but provide limited insight into their reasoning process, making it difficult for humans to understand and trust their outputs.  Explainable AI (XAI) aims to address this challenge by developing techniques to make AI systems more transparent and interpretable to human users.
 
 #### A7.3.1 -- Explanation Types and Purposes
 
-There are several types of explanations that XAI techniques can provide [](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.850628/full):
+There are several types of explanations that XAI techniques can provide:
 
 - Feature attribution explanations identify the input features that were most important to a model's prediction. For example, a saliency map can highlight the regions of an image that most influenced an image classifier's output.
 - Example-based explanations identify prototypical examples that are similar to the current input and were predicted in the same way by the model. This can help users understand the model's behavior by analogy to familiar examples.
 - Counterfactual explanations identify minimal changes to the input that would result in a different model prediction. For instance, a loan applicant could be shown the minimum increase in income needed to be approved.
 - Rule-based explanations provide a decision rule or set of rules that approximates the model's behavior in an interpretable format, such as a decision tree.
 
-The appropriate type of explanation depends on the purpose it needs to serve. Explanations can be used for model debugging, model auditing, decision justification, or model refinement, among other purposes. [](https://arxiv.org/abs/2308.16785) The explanation interface should be tailored to the intended user and use case.
+The appropriate type of explanation depends on the purpose it needs to serve. Explanations can be used for model debugging, model auditing, decision justification, or model refinement, among other purposes. The explanation interface should be tailored to the intended user and use case.
 
 #### A7.3.2 -- XAI Techniques
 
 Many XAI techniques have been developed in recent years to provide the types of explanations described above. Some prominent approaches include:
 
-- Feature attribution methods like LIME [](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10436524/) and SHAP [](https://www.mckinsey.com/capabilities/quantumblack/our-insights/why-businesses-need-explainable-ai-and-how-to-deliver-it) that estimate each feature's contribution to the model's output by perturbing the input and observing the effect on the prediction.
-- Gradient-based methods like saliency maps [](https://arxiv.org/abs/2404.01615) and class activation maps [](https://arxiv.org/abs/2403.04931) that use the gradients of the model's output with respect to the input to identify important features.
-- Concept activation vectors [](https://royalsociety.org/news-resources/projects/explainable-ai/) that identify high-level human-interpretable concepts represented in a neural network's latent space.
-- Rule extraction methods like decision trees [](https://arxiv.org/abs/2303.01684) and decision sets [](https://sites.google.com/cs.washington.edu/xai/home) that approximate a complex model's behavior with an interpretable rule-based model.
+- Feature attribution methods like LIME and SHAP that estimate each feature's contribution to the model's output by perturbing the input and observing the effect on the prediction.
+- Gradient-based methods like saliency maps and class activation maps that use the gradients of the model's output with respect to the input to identify important features.
+- Concept activation vectors that identify high-level human-interpretable concepts represented in a neural network's latent space.
+- Rule extraction methods like decision trees and decision sets that approximate a complex model's behavior with an interpretable rule-based model.
 - Counterfactual explanation methods that use optimization techniques to find minimal input perturbations that change the model's output.
 
 A key consideration in applying XAI techniques is the faithfulness versus interpretability tradeoff . Some methods provide explanations that are more human-interpretable but less faithful to the model's actual reasoning process, while other methods are more faithful but less interpretable. The appropriate balance depends on the use case and user needs.
