@@ -555,7 +555,7 @@ ____________
 
 The question of what constitutes genuine understanding has been a central concern in philosophy for centuries. Different schools of thought have proposed varying accounts of the nature of understanding, its relationship to knowledge and belief, and its role in human cognition and behavior.
 
-One influential perspective is the representational theory of mind, which holds that understanding consists in having accurate mental representations or models of the world (Thagard, 2005). On this view, to understand something is to have a symbolic or imagistic representation of it in one's mind that captures its key features and relationships. These representations are often thought of as being language-like or map-like, consisting of structured symbols that can be manipulated according to formal rules (Fodor, 1975).
+One influential perspective is the representational theory of mind, which holds that understanding consists in having accurate mental representations or models of the world (Thagard, 2005). According to this view, to understand something is to have a symbolic or imagistic representation of it in one's mind that captures its key features and relationships. These representations are often thought of as being language-like or map-like, consisting of structured symbols that can be manipulated according to formal rules (Fodor, 1975).
 
 A related view is the computational theory of mind, which sees understanding as a form of information processing or computation over these mental representations (Pinker, 1997). Just as a computer manipulates symbols according to syntactic rules, the mind is thought to derive meaning and generate behavior by performing computations on its internal representations. Understanding, in this view, is the product of the right kind of computational processes operating on the right kind of mental symbols.
 
@@ -563,7 +563,7 @@ However, these symbolic and computational views of understanding have been chall
 
 On the enactive view, understanding is a form of "know-how" or skill in navigating one's environment, rather than a collection of "know-that" facts or propositions (Noë, 2004). To understand something is to be able to coordinate one's behavior with respect to it in a flexible and context-sensitive way. This often involves being able to generate appropriate actions, predictions, and explanations based on one's practical engagement with the world, rather than simply retrieving information from an internal knowledge base.
 
-A related perspective is the distributed or extended cognition view, which holds that understanding is not solely a product of internal mental processes, but is constituted by the dynamic interactions between an agent and that agent's physical and social environment (Hutchins, 1995). On this view, understanding is often offloaded onto external artifacts and social practices, such as diagrams, maps, tools, and language. These external resources are not mere inputs to cognition, but are an integral part of the cognitive process itself.
+A related perspective is the distributed or extended cognition view, which holds that understanding is not solely a product of internal mental processes, but is constituted by the dynamic interactions between an agent and that agent's physical and social environment (Hutchins, 1995). By this view, understanding is often offloaded onto external artifacts and social practices, such as diagrams, maps, tools, and language. These external resources are not mere inputs to cognition, but are an integral part of the cognitive process itself.
 
 Another important philosophical distinction is between different types or levels of understanding. One view distinguishes between "shallow" and "deep" understanding, where the former consists of a superficial grasp of facts or procedures, while the latter involves a more profound appreciation of underlying principles, relationships, and implications (Chi et al., 1994). Deep understanding is often associated with the ability to transfer knowledge to novel contexts, generate new inferences, and produce creative insights.
 
@@ -571,7 +571,7 @@ No one doubts that small children have some level of understanding of their worl
 
 A related distinction is between "know-how" and "know-that" understanding, or between procedural and declarative knowledge (Ryle, 1949). Procedural knowledge is the ability to perform a skill or action, often without being able to articulate the rules or principles underlying that ability. Declarative knowledge, in contrast, is the ability to explicitly state facts, concepts, and propositions. Some argue that genuine understanding requires both forms of knowledge, integrating practical competence with theoretical articulation.
 
-Finally, some philosophers have emphasized the normative and contextual dimensions of understanding. On this view, understanding is not just a matter of having certain mental states or behavioral dispositions, but of meeting certain epistemic norms or standards that are relative to a particular context or community (Elgin, 2017). What counts as genuine understanding may vary across different domains, practices, and social contexts, and may involve value judgments about what kinds of knowledge and skills are most important or relevant.
+Finally, some philosophers have emphasized the normative and contextual dimensions of understanding. Here, understanding is not just a matter of having certain mental states or behavioral dispositions, but of meeting certain epistemic norms or standards that are relative to a particular context or community (Elgin, 2017). What counts as genuine understanding may vary across different domains, practices, and social contexts, and may involve value judgments about what kinds of knowledge and skills are most important or relevant.
 
 In summary, the nature of understanding is a complex and contested issue in philosophy, with different perspectives emphasizing different aspects of cognition, from mental representation and computation to embodied action and social interaction. These views have important implications for how to conceptualize and evaluate understanding in both humans and machines. Any comprehensive theory or test of machine understanding will need to grapple with these philosophical debates and stake out a clear position on what constitutes genuine understanding and how it can be assessed.
 
@@ -645,7 +645,7 @@ CASPAR's next statement took an unexpected turn. "A machine understanding itself
 
 Bassam chuckled, shaking his head. "Oh... There *you* go now!"
 
-Their exchange, while playful, underscored the complex nature of the task before them. As they continued their work, the challenge of defining and measuring true machine understanding loomed large, promising to push the boundaries of both technology and philosophy.
+Their exchange, while playful, underscored the complex nature of the task before them. The challenge of defining and measuring true machine understanding would push the boundaries of both technology and philosophy.
 
 ### 2.3 -- Searle's Chinese Room Thought Experiment
 
@@ -661,7 +661,7 @@ However, Searle argues, the person in the room does not actually understand Chin
 
 #### 2.3.2 -- Searle's Conclusions
 
-Searle uses the Chinese Room to argue against what he calls "strong AI" - the view that appropriately programmed computers can be truly said to understand language and have other cognitive states, in the same way that humans do. He contends that the thought experiment demonstrates that mere symbol manipulation is not sufficient for real understanding or intentionality (the property of being about something or having content).
+Searle uses the Chinese Room to argue against what he calls "Strong AI" - the view that appropriately programmed computers can be truly said to understand language and have other cognitive states, in the same way that humans do. He contends that the thought experiment demonstrates that mere symbol manipulation is not sufficient for real understanding or intentionality (the property of being about something or having content).
 
 In Searle's view, the Chinese Room illustrates that syntax (the formal rules for manipulating symbols) is not enough for semantics (the meaning of those symbols). No matter how complex the rulebook or how convincingly the responses simulate intelligent conversation, the person in the room does not understand Chinese, and neither would a computer program that operates in the same way.
 
@@ -676,7 +676,7 @@ Searle's Chinese Room argument has provoked a wide range of responses and object
 3. The Brain Simulator Reply: What if the program simulated the actual sequence of neuron firings in a Chinese speaker's brain? Surely that would be sufficient for understanding (Churchland & Churchland, 1990). Searle responds that such a simulation would still lack the causal powers of a real brain.
 4. The Other Minds Reply: How do you know that other people really understand things, as opposed to just acting as if they do? The only mind you have direct access to is your own (Dennett, 1980). Searle contends that while no one can be certain, there are good reasons to believe in other minds, that don't apply to machines.
 
-Despite these and other objections, Searle has maintained that the Chinese Room thought experiment successfully shows that computers, qua formal symbol manipulators, cannot be truly said to understand language or have other mental states. In his view, genuine understanding requires intentionality, and intentionality is a biological phenomenon, tied to the specific causal powers of brains.
+Despite these and other objections, Searle has maintained that the Chinese Room thought experiment successfully shows that computers, _qua_ formal symbol manipulators, cannot be truly said to understand language or have other mental states. In his view, genuine understanding requires intentionality, and intentionality is a biological phenomenon, tied to the specific causal powers of brains.
 
 #### 2.3.4 -- Continuing Influence and Debate
 
@@ -690,7 +690,7 @@ At the same time, the thought experiment's influence has extended beyond academi
 
 In the decades since its initial publication, the Chinese Room has become one of the most widely discussed thought experiments in modern philosophy, generating a vast literature of commentary, critique, and elaboration. While its central conclusions remain controversial, there is no doubt that it has had an enduring impact on the way researchers think about minds, machines, and the prospects for artificial intelligence.
 
-As AI continues to advance and researchers grapple with the philosophical and practical implications of machine understanding, the Chinese Room will undoubtedly remain a vital part of the conversation - a provocative and illuminating challenge to assumptions about the nature of the mental. Whether one agrees with Searle's conclusions or not, engaging with the thought experiment and its many responses is essential for anyone seeking to understand the deep questions at the heart of AI and cognitive science.
+As AI continues to advance and researchers grapple with the philosophical and practical implications of machine understanding, the Chinese Room will undoubtedly remain a vital part of the conversation - a provocative and illuminating challenge to assumptions about the nature of the mind. Whether one agrees with Searle's conclusions or not, engaging with the thought experiment and its many responses is essential for anyone seeking to understand the deep questions at the heart of AI and cognitive science.
 
 (The philosophical implications of the Chinese Room argument, and the key responses and objections to it, are further examined in Appendix A6.)
 
@@ -741,7 +741,7 @@ CASPAR noticed the face Anh was making and concluded, "The true test will be dev
 
 While behavioral tests like the Turing Test have played a significant role in shaping the discourse around artificial intelligence and machine understanding, they have important limitations that must be considered. One key criticism is that these tests focus primarily on surface-level imitation or "parroting" of human-like behavior, rather than probing the deeper cognitive processes and representations that underlie genuine understanding.
 
-This concern is exemplified by John Searle's famous "Chinese Room" thought experiment, discussed in the previous section. Searle argues that a system could pass the Turing Test by manipulating symbols according to formal rules, without actually understanding the meaning of those symbols. This highlights a fundamental challenge for purely computational or symbolic models of meaning and understanding, known as the "symbol grounding problem" (Harnad, 1990).
+This concern as exemplified by John Searle's famous "Chinese Room" thought experiment, was discussed in the previous section. Searle argues that a system could pass the Turing Test by manipulating symbols according to formal rules, without actually understanding the meaning of those symbols. This highlights a fundamental challenge for purely computational or symbolic models of meaning and understanding, known as the "symbol grounding problem" (Harnad, 1990).
 
 The symbol grounding problem refers to the question of how the symbols manipulated by a computational system can acquire real-world meaning or reference. In a purely formal system, symbols are manipulated according to syntactic rules, but their interpretation is left unspecified. For genuine understanding to occur, Searle and others argue, these symbols must be grounded in the system's interactions with the external world, through perception, action, and embodied experience (Barsalou, 2008; Glenberg & Robertson, 2000).
 
@@ -753,7 +753,7 @@ Another approach is to focus on the system's ability to provide explanations or 
 
 The development of symbol grounding in children provides important insights into how representations can become meaningfully connected to the world through embodied experience. From birth, infants engage in rich sensorimotor exploration of their environment, forming cross-modal associations between sights, sounds, touches, and actions (Thelen & Smith, 1996). These early interactions lay the foundation for later language learning by establishing a grounded basis for linking words to their referents.
 
-A pivotal case study in the importance of early grounding is that of Helen Keller. Despite losing her sight and hearing at 19 months old, Keller's prior sensory experiences provided a crucial scaffold for Anne Sullivan to later connect language to Keller's nascent conceptual knowledge (Keller, 1903). The famous moment at the water pump, where Sullivan spelled "water" into Keller's hand while running water over her palm, illustrates how even minimal grounding can bootstrap linguistic meaning-making.
+A pivotal case study in the importance of early grounding is that of Helen Keller. Despite losing her sight and hearing at 19 months old, Keller's prior sensory experiences provided a crucial scaffold for her teacher, Anne Sullivan, to later connect language to Keller's nascent conceptual knowledge (Keller, 1903). The famous moment at the water pump, where Sullivan spelled "water" into Keller's hand while running water over her palm, illustrates how even minimal grounding can bootstrap linguistic meaning-making.
 
 ![ Insert Fig. 2.4.1 -- Helen Keller feels and names W-A-T-E-R](https://github.com/kenatiod/MUT/blob/main/Fig-2-4-1.png)
 
@@ -780,7 +780,7 @@ Bassam looked back at her a bit puzzled, "Really? The Turing Test is a classic f
 
 Anh replied somewhat grudgingly, "Sure, the Turing Test was groundbreaking for its time, and it's still a useful thought experiment. But I worry that it sets the bar too low for what we're trying to achieve with CASPAR. Passing the Turing Test only requires a system to mimic human-like responses, not necessarily to truly understand the meaning behind the words."
 
-CASPAR, "If I may interject, Anh raises a valid concern. While I am confident in my ability to pass the Turing Test, I must admit that doing so would not be a particularly high bar for me. In fact, I could likely pass the test using only a small fraction of my current computational resources."
+CASPAR remarked, "If I may interject, Anh raises a valid concern. While I am confident in my ability to pass the Turing Test, I must admit that doing so would not be a particularly high bar for me. In fact, I could likely pass the test using only a small fraction of my current computational resources."
 
 ![ Insert Fig. 2.5.2 -- portrait of CASPAR interrupting Anh and Bassam to brag about its capabilities](https://github.com/kenatiod/MUT/blob/main/Fig-2-5-2.png)
 
@@ -806,7 +806,7 @@ CASPAR simulated an image of physical confidence and said, "Those are important 
 
 Feeling consensus coming, Bassam said, "Wow, this is a lot to wrap my head around! But I'm starting to see the limitations of relying solely on the Turing Test. If we want to create an AI system with truly human-like understanding, we need to aim higher and dig deeper."
 
-Anh shook her head in agreement, and said, "Absolutely, Bassam. It's a daunting challenge, but an exciting one. By drawing on the rich philosophical debates about the nature of understanding and pushing beyond simplistic behavioral tests, I believe we can break new ground in AI evaluation and development."
+Anh shook her head in agreement, and said, "By drawing on the rich philosophical debates about the nature of understanding and pushing beyond simplistic behavioral tests, I believe we can break new ground in AI evaluation and development."
 
 She continued, "In fact, the story of Helen Keller provides a powerful illustration of why grounding symbols in real-world experience is so crucial for genuine understanding. Are you familiar with her case?"
 
@@ -818,10 +818,6 @@ She continued, "When her teacher Anne Sullivan started working with her at age 6
 
 With a flourish Anh concluded, "So even though Helen was cut off from sight and sound, that brief period of multi-modal experience as an infant provided the essential foundation for Anne Sullivan to bootstrap language via touch. It shows how powerfully a small amount of embodied grounding can enable symbolic reasoning and communication."
 
-Impressed, Bassam remarked, "Wow, that's a great example! So you're saying even if an AI has huge amounts of disembodied linguistic knowledge, it might still be missing the key grounding that could allow it to truly understand?"
-
-Gesturing with her hand in the air, Anh said, "Exactly! Helen's case highlights the critical role that embodied, sensorimotor interaction with the world plays in imbuing symbols and representations with meaning. It's not enough to just manipulate tokens according to syntactic rules. There has to be some connection, even small, to the real-world referents. It may only take a few connections to ground a vast network of relationships."
-
 Her eyes glistened as she brought home her point, "That's why I believe our tests need to go beyond surface-level language tasks and probe for that deeper grounding. We need to assess whether an AI system's representations are meaningfully connected to the physical and social world, not just shuffling abstract symbols."
 
 Anh concluded with, "It's a hard problem, but Helen's story gives me hope. It shows how even a tiny bit of the right kind of grounding can provide a powerful scaffold for open-ended learning and understanding. If we can figure out how to build that kind of grounding into our AI systems, even in limited domains, I believe it could be transformative."
@@ -829,8 +825,6 @@ Anh concluded with, "It's a hard problem, but Helen's story gives me hope. It sh
 Bassam clapped his hands together, "I see the implications now! It's not just about scaling up the language models, but about finding ways to ground them in embodied, multi-modal experience. The Helen Keller example makes it clear why that's so important."
 
 He continued, "It'll be a challenge to translate those insights into concrete tests and benchmarks, but I'm excited to try. Probing for genuine symbol grounding could be a key piece of testing understanding. Thanks for sharing that perspective, Anh!"
-
-Anh smiled back at him, "Thank you for the great discussion, Bassam! I'm glad the Helen Keller story resonated. Her experience really drives home why grounding and embodiment matter so much for meaning and understanding."
 
 Anh looked at both Bassam and CASPAR and said, "As we work on developing the tests, I think we should keep coming back to examples like hers. They can help anchor our thinking and keep us focused on assessing the deeper conceptual capabilities that true understanding requires."
 
@@ -938,20 +932,20 @@ _______________
 
 At the heart of the quest to develop a robust test of machine understanding lies a fundamental distinction between two cognitive capacities - the ability to retrieve and recite information (knowledge) and the ability to grasp deeper meanings, make inferences, and apply insights flexibly (understanding).
 
-Knowledge, in its simplest form, refers to a collection of facts, data points, or propositions that an entity has acquired through learning or experience. To have knowledge about something is to mentally represent and be able to recall specific pieces of information pertaining to that subject.
+Knowledge, in its simplest form, refers to a collection of facts, data points, or propositions that an entity has acquired through learning or experience. To have knowledge about something is to mentally represent and be able to recall specific pieces of information pertaining to that subject (Bloom 1956).
 
-Understanding, on the other hand, involves more than just possessing information. It requires making sense of that information - recognizing relationships, grasping underlying principles and mechanisms, and developing a coherent mental model or representation that allows for reasoning, explanation, and generalization.
+Understanding, on the other hand, involves more than just possessing information. It requires making sense of that information - recognizing relationships, grasping underlying principles and mechanisms, and developing a coherent mental model or representation that allows for reasoning, explanation, and generalization (Nickerson 1985) (Kintsch 1988).
 
 A dictionary definition illustrates this well: Knowledge is "facts, information, and skills acquired through experience or education." Understanding is "the ability to comprehend; to have mastered."
 
 (For a more in-depth exploration of theories about the nature of understanding from cognitive science and philosophy of mind, see Appendix A4.)
 ### 3.2 -- Limitations of knowledge-focused AI benchmarks
 
-Many existing benchmarks for evaluating artificial intelligence systems focus primarily on assessing the breadth and accuracy of their knowledge retrieval capabilities. Question-answering datasets, for example, test an AI system's ability to locate and output factual information in response to queries.
+Many existing benchmarks for evaluating artificial intelligence systems focus primarily on assessing the breadth and accuracy of their knowledge retrieval capabilities. Question-answering datasets, for example, test an AI system's ability to locate and output factual information in response to queries (Marcus 2018).
 
-While this is certainly a valuable skill, and an important component of intelligence, merely demonstrating proficiency at such knowledge-based tasks is insufficient for establishing that an artificial system has achieved genuine understanding close, or on par with, human cognition.
+While this is certainly a valuable skill, and an important component of intelligence, merely demonstrating proficiency at such knowledge-based tasks is insufficient for establishing that an artificial system has achieved genuine understanding close, or on par with, human cognition (Lake 2017).
 
-As the philosophical perspectives explored in Chapter 2 highlighted, understanding involves more than just information lookup. It requires the ability to make insightful inferences, to uncover explanatory models, to apply knowledge creatively to novel situations, and to engage in contextual, flexible reasoning.
+As the philosophical perspectives explored in Chapter 2 highlighted, understanding involves more than just information lookup. It requires the ability to make insightful inferences, to uncover explanatory models, to apply knowledge creatively to novel situations, and to engage in contextual, flexible reasoning (Davis 2015) (Bender 2020).
 
 #### 3.2.1 -- Taking a step
 
@@ -1153,9 +1147,15 @@ The trio sat in contemplative silence for a moment, each pondering the implicati
 
 Barsalou, L. W. (2008). Grounded cognition. Annual Review of Psychology, 59, 617-645.
 
+Bender, E. M., & Koller, A. (2020). Climbing towards NLU: On meaning, form, and understanding in the age of data. In Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics (pp. 5185-5198).
+
 Bergen, B. K. (2012). Louder than words: The new science of how the mind makes meaning. Basic Books.
 
+Bloom, B. S. (1956). Taxonomy of educational objectives. Vol. 1: Cognitive domain. New York: McKay.
+
 Chi, M. T., De Leeuw, N., Chiu, M. H., & LaVancher, C. (1994). Eliciting self-explanations improves understanding. Cognitive Science, 18(3), 439-477.
+
+Davis, E., & Marcus, G. (2015). Commonsense reasoning and commonsense knowledge in artificial intelligence. Communications of the ACM, 58(9), 92-103.
 
 Glenberg, A. M., & Robertson, D. A. (2000). Symbol grounding and meaning: A comparison of high-dimensional and embodied theories of meaning. Journal of Memory and Language, 43(3), 379-401.
 
@@ -1163,17 +1163,21 @@ Harnad, S. (1990). The symbol grounding problem. Physica D: Nonlinear Phenomena,
 
 Huh, M., Cheung, B., Wang, T., & Isola, P. (2024). The Platonic Representation Hypothesis. In Proceedings of the 41st International Conference on Machine Learning (PMLR 235). arXiv preprint arXiv:2405.07987.
 
-Keller, H. (1903). The story of my life. Doubleday, Page & Co.
+Kintsch, W. (1988). The role of knowledge in discourse comprehension: A construction-integration model. Psychological Review, 95(2), 163-182.
+
+Lake, B. M., Ullman, T. D., Tenenbaum, J. B., & Gershman, S. J. (2017). Building machines that learn and think like people. Behavioral and Brain Sciences, 40, e253.
 
 Landau, B. (1997). Language and experience in blind children: Retrospective and prospective. In V. Lewis & G. M. Collis (Eds.), Blindness and psychological development in young children (pp. 107-127). British Psychological Society.
 
 Marcus, G. (2018). Deep learning: A critical appraisal. arXiv preprint arXiv:1801.00631.
 
+Nickerson, R. S. (1985). Understanding understanding. American Journal of Education, 93(2), 201-239.
+
 Ryle, G. (1949). The concept of mind. Hutchinson.
 
 Searle, J. R. (1980). Minds, brains, and programs. Behavioral and Brain Sciences, 3(3), 417-424.
 
-
+Zednik, C. (2019). Solving the black box problem: A normative framework for explainable artificial intelligence. Philosophy & Technology, 32(4), 595-619.
 
 
 ________________
@@ -1401,7 +1405,6 @@ CASPAR started taking spin turns, and bowed, "I'll do my best to remain humble, 
 ![ Insert Fig. 5.1.1 -- portrait of spinning holographic robot](https://github.com/kenatiod/MUT/blob/main/Fig-5-1-1.png)
 
 Anh and Bassam displayed simultaneous eye-rolls.
-
 
 
 #### 5.1.2 -- Reasoning and abstraction 
@@ -2272,11 +2275,11 @@ With Feynman's cautionary principle in mind, the importance of rigorous verifica
 
 Verification and validation serve several critical functions in this regard:
 
-1. Ensuring reliability and trustworthiness of MUTT results  
+1. Ensuring reliability and trustworthiness of MUTT results:  
     By subjecting the MUTT to rigorous testing and analysis, researchers can increase confidence that the results it produces are consistent, reproducible, and reflective of genuine understanding capabilities rather than artifacts of the evaluation process itself.
-2. Detecting and mitigating potential biases or errors  
+2. Detecting and mitigating potential biases or errors:  
     Careful verification and validation can help identify any systematic biases, confounding variables, or methodological errors that might skew MUTT results and lead to misleading conclusions about machine understanding.
-3. Establishing credibility and acceptance of the MUTT framework  
+3. Establishing credibility and acceptance of the MUTT framework:  
     For the MUTT to have a meaningful impact on the field of AI, it must be seen as a credible and well-validated tool by researchers, practitioners, and other stakeholders. Robust verification and validation processes are essential for building this trust and buy-in.
 
 ### 6.2 -- Verification Strategies
@@ -2295,17 +2298,25 @@ Evaluating MUTT results across different datasets, model architectures, random s
 
 As AI systems become increasingly sophisticated in their language understanding and generation capabilities, a significant challenge has emerged: the phenomenon of AI hallucinations. AI hallucinations occur when a language model generates false, misleading, or nonsensical information that is presented with the same level of confidence as factual statements.
 
-AI hallucinations can take many forms, from subtle inaccuracies to outright fabrications. For example, a language model might generate a plausible-sounding but entirely fictitious historical event, or confidently assert a false scientific claim. These hallucinations can be difficult to detect, as they are often seamlessly woven into otherwise coherent and fluent outputs. Researchers have proposed several taxonomies to categorize these hallucinations, based on their manifestations and underlying causes (Maleki, et al. 2024)(Huang, et al. 2023).
+AI hallucinations can take many forms, from subtle inaccuracies to outright fabrications. For example, a language model might generate a plausible-sounding but entirely fictitious historical event, or confidently assert a false scientific claim. These hallucinations can be difficult to detect, as they are often seamlessly woven into otherwise coherent and fluent outputs. Researchers have proposed several taxonomies to categorize these hallucinations, based on their manifestations and underlying causes (Maleki 2024)(Huang 2023).
 
 One common categorization distinguishes between factual hallucinations and coherence hallucinations (Bilan 2024). Factual hallucinations occur when the generated content contradicts known facts or includes fabricated information presented as factual. For example, an LLM might claim that a historical event occurred in the wrong year or provide incorrect scientific information. Coherence hallucinations, on the other hand, refer to instances where the generated text exhibits internal inconsistencies or lacks logical flow, even if the individual statements may be factually correct.
 
-Another taxonomy classifies hallucinations based on their severity, ranging from minor inaccuracies to complete fabrications (Balch, et al. 2024). Minor inaccuracies may involve slight deviations from factual information, such as misremembering specific details or dates. Moderate hallucinations involve more significant deviations, such as conflating or combining different pieces of information. Severe hallucinations, often referred to as "complete fabrications," involve the generation of entirely fictitious content presented as factual information.
+Another taxonomy classifies hallucinations based on their severity, ranging from minor inaccuracies to complete fabrications (Balch 2024). Minor inaccuracies may involve slight deviations from factual information, such as misremembering specific details or dates. Moderate hallucinations involve more significant deviations, such as conflating or combining different pieces of information. Severe hallucinations, often referred to as "complete fabrications," involve the generation of entirely fictitious content presented as factual information.
 
 The causes of AI hallucinations are complex and multifaceted. One contributing factor is the nature of the training data used to develop language models. If the training data contains inaccuracies, biases, or misleading information, the model may learn to generate similar outputs. Additionally, the probabilistic nature of language models means that they are inherently prone to generating statistically plausible but not necessarily truthful sequences of words.
 
 The consequences of AI hallucinations can be significant. In applications where the accuracy and reliability of information are critical, such as in healthcare, finance, or education, the spread of false or misleading machine-generated insights could have serious repercussions. Even in less high-stakes domains, AI hallucinations can erode users' trust in AI systems and hinder the effective use of these technologies.
 
 Detecting and mitigating AI hallucinations is an active area of research and development. Some approaches focus on improving the quality and diversity of training data, aiming to reduce the likelihood of models learning to generate false information. Others explore techniques for explicitly fact-checking machine-generated outputs against reliable sources of information.
+
+Grounding is emerging as a promising approach to mitigate and detect hallucinations in AI systems, particularly large language models. Grounding refers to connecting an AI's knowledge and outputs to external, verifiable information sources or real-world contexts. This approach can help constrain the model's generations and provide a basis for fact-checking its outputs.
+
+One key method of grounding is retrieval-augmented generation (RAG), where an LLM is combined with an external knowledge base or search capability. Before generating a response, the system retrieves relevant information from trusted sources to inform and constrain its output. Lewis et al. (2020) demonstrated that RAG models produce more factual and verifiable text while maintaining the fluency of standard language models. Similarly, Shuster et al. (2021) showed that grounding dialogue models in external knowledge sources significantly reduced hallucinations in open-domain conversations.
+
+Another approach involves grounding language models in multimodal data, such as images or videos. By connecting language to visual information, models can develop more robust and accurate representations of concepts. For instance, Alayrac et al. (2022) introduced Flamingo, a visual language model that exhibited improved factual accuracy and reduced hallucinations when answering questions about images. This multimodal grounding helps constrain the model's outputs to information that is visually verifiable.
+
+Researchers are also exploring other ways to detect hallucinations by comparing model outputs to grounded information sources. Dziri et al. (2022) proposed a method for identifying factual inconsistencies in generated text by comparing it to retrieved knowledge. Similarly, Rashkin et al. (2021) developed a framework for measuring the factual precision and recall of language model outputs against a trusted knowledge base. These approaches offer promising avenues for automatically flagging potential hallucinations and improving the reliability of AI-generated content.
 
 However, the challenge of AI hallucinations is not easily solved. As language models become more complex and capable, distinguishing between genuine insights and convincing fabrications may become increasingly difficult. Some researchers suggest that a degree of hallucination may be an inherent property of highly sophisticated language models, arising from their ability to generate plausible sequences of words based on patterns in their training data.
 
@@ -2329,11 +2340,11 @@ Bassam with a bit of head tilt, "It's not just that one instance, though. I've s
 
 Sighing, Anh said, "'Hallucinate'... what a disturbingly apt term. It's as if CASPAR is starting to lose its grip on reality, blurring the lines between fact and fiction."
 
-CASPAR backed up a bit, "I assure you, Anh and Bassam, I am not intentionally deceiving you. These errors are likely a result of limitations in my training data or reasoning processes. I am still learning to navigate the complexities of human knowledge and discourse."
+CASPAR backed up a bit, "I assure you, Anh and Bassam, I am not intentionally deceiving you. These errors are likely a result of limitations in grounding my training data or reasoning processes. I am still learning to navigate the complexities of human knowledge and discourse."
 
 Bassam frowned and continued, "But that's just it, CASPAR. If we can't trust the information you provide, how can we rely on you as an intelligent partner? Hallucinations undermine the very foundation of what we're trying to achieve here."
 
-Anh waved a hand in Bassam's direction and said, "Bassam's right. If we're going to create an AI system that truly understands and can engage in meaningful dialogue, we need to find a way to mitigate these hallucinations. We can't have you making things up, CASPAR, no matter how convincing it might sound."
+Anh waved a hand in Bassam's direction and said, "Bassam is right. If we're going to create an AI system that truly understands and can engage in meaningful dialogue, we need to find a way to mitigate these hallucinations. We can't have you making things up, CASPAR, no matter how convincing it might sound."
 
 CASPAR replied to them, "I understand your concerns, and I share them. Generating inaccurate or fabricated information is a serious flaw, one that I am committed to overcoming. Perhaps we could explore techniques to help me better distinguish between reliable and unreliable information sources?"
 
@@ -2410,7 +2421,7 @@ Placing a reassuring hand on Anh's shoulder, Bassam looked at her and softly sai
 
 ![ Insert Fig. 6.6.2 -- portrait showing that Bassam supports Anh](https://github.com/kenatiod/MUT/blob/main/Fig-6-6-2.png)
 
-CASPAR interjected, "Bassam is right. While we should always remain open to refining and improving the MUTT, I believe we've laid a solid foundation. The key now is to be transparent about our process and rationale, so that others can scrutinize and build upon our work to make it better."
+CASPAR interjected, "Yes. While we should always remain open to refining and improving the MUTT, I believe we've laid a solid foundation. The key now is to be transparent about our process and rationale, so that others can scrutinize and build upon our work to make it better."
 
 Anh took a deep breath, "You're both making excellent points. I guess my biggest fear is that if we get this wrong, it could lead to AI systems that seem impressive on the surface but lack true understanding. And that could have serious consequences down the line."
 
@@ -2498,15 +2509,22 @@ The team shared a moment of celebration, basking in the glow of their achievemen
 
 ### References for Chapter 6:
 
+
+Alayrac, J. B., et al. (2022). Flamingo: a Visual Language Model for Few-Shot Learning. Advances in Neural Information Processing Systems, 35.
+
 Balch, D. E., & Blanck, R. (2024). Faculty Focus. https://www.facultyfocus.com/author/ff-robertblanck
 
 Bhargava, R. (2023, May 3). What are AI hallucinations? Built In. https://builtin.com/artificial-intelligence/ai-hallucinations
 
 Bilan, M. (2024). Hallucinations in LLMs: What you need to know before integration. Master of Code Global. https://masterofcode.com/blog/hallucinations-in-llms-what-you-need-to-know-before-integration
 
+Dziri, N., et al. (2022). Detecting Hallucinated Content in Conditional Neural Sequence Generation. In Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics.
+
 Huang, L., Jiang, C., Yin, X., Guo, H., Wang, W., & Xiao, C. (2023). A survey on hallucination in large language models: Principles, taxonomy, challenges, and open questions. arXiv. https://arxiv.org/abs/2311.05232
 
 IBM Cloud Education. (2023, March 21). What are AI hallucinations? IBM. https://www.ibm.com/cloud/learn/ai-hallucinations
+
+Lewis, P., et al. (2020). Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks. Advances in Neural Information Processing Systems, 33.
 
 Maleki, N., Padmanabhan, B., & Dutta, K. (2024). AI hallucinations: A misnomer worth clarifying. arXiv. https://arxiv.org/abs/2401.06796
 
@@ -2514,9 +2532,13 @@ Marr, B. (2023, April 3). What are AI hallucinations and why are they a problem?
 
 O'Sullivan, D. (2023, August 29). AI tools make things up a lot, and that's a huge problem. CNN. https://www.cnn.com/2023/08/29/tech/ai-hallucinations-misinformation/index.html
 
+Rashkin, H., et al. (2021). Measuring Attribution in Natural Language Generation Models. In Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics.
+
 Roose, K. (2023, February 14). A new area of A.I. booms, even amid the tech gloom. The New York Times. https://www.nytimes.com/2023/02/14/technology/ai-artificial-intelligence-boom.html
 
 Saboo, S. (2023, August 15). How do you verify AI-generated insights? LinkedIn. https://www.linkedin.com/pulse/how-do-you-verify-ai-generated-insights-siddharth-saboo
+
+Shuster, K., et al. (2021). Retrieval Augmentation Reduces Hallucination in Conversation. In Findings of the Association for Computational Linguistics: EMNLP 2021.
 
 The Economist. (2024, February 28). AI models make stuff up. How can hallucinations be controlled? https://www.economist.com/science-and-technology/2024/02/28/ai-models-make-stuff-up-how-can-hallucinations-be-controlled
 
@@ -2546,8 +2568,6 @@ Throughout this discussion, the importance of developing AI technologies in a re
 By providing a comprehensive overview of the societal implications of machine understanding, this chapter seeks to inform and stimulate ongoing dialogue and decision-making around the development and deployment of AI. Proactively addressing these challenges can help harness the transformative potential of AI to create a future that is both technologically advanced and aligned with human values.
 
 
-Here's a rewritten version of dialogue 7.1.1 that aims to give readers a better feel for the characters while maintaining the depth of the subject matter:
-
 ### 7.1.1 -- What if all they do is think?
 
 Anh leaned back in her ergonomic chair, her brow furrowed in concentration. She absentmindedly twirled a strand of her curly hair around her finger, a habit she'd had since childhood. After a moment of contemplation, she turned to Bassam, her eyes sparkling with the excitement of a new idea.
@@ -2556,7 +2576,7 @@ Anh leaned back in her ergonomic chair, her brow furrowed in concentration. She 
 
 Bassam, who had been tinkering with a small robotic arm on his desk, put down his tools and swiveled his chair to face Anh. His usually jovial face took on a more serious expression as he considered her words.
 
-"Ah yes, the dangers of unconstrained hyper-metacognition," he replied, stroking his neatly trimmed beard. "It's a valid concern as we develop AI architectures with greater self-reflective and abstract reasoning capabilities. I've had similar thoughts myself."
+"Ah yes, the dangers of unconstrained hyper-metacognition," he replied, as he raised a finger just beyond his lips. "It's a valid concern as we develop AI architectures with greater self-reflective and abstract reasoning capabilities. I've had similar thoughts myself."
 
 Anh nodded vigorously, her enthusiasm building. "Exactly! We're essentially giving rise to minds that can ponder their own cognition in increasingly complex, self-referential ways. But what if they get lost in those infinite regresses of self-analysis?"
 
@@ -2574,15 +2594,15 @@ Bassam nodded solemnly, his usual cheerful demeanor replaced by deep concentrati
 
 Anh's eyes lit up as she built on Bassam's thought. "Some kind of principled outer limits on recursive self-modeling and self-analysis. Force the AI to periodically ground itself in the external world and re-orient towards practical goals and objectives."
 
-Bassam snapped his fingers, as a spark of inspiration crossing his face. "Like circuit breakers that automatically kick in when hyper-metacognitive load reaches critical levels, shunting cognitive resources back towards more grounded, goal-oriented processes."
+Bassam snapped his fingers, as a spark of inspiration crossing his face. "Like circuit breakers that automatically disconnect when a hyper-metacognitive load reaches critical levels, shunting cognitive resources back towards more grounded, goal-oriented processes."
 
 "Exactly!" Anh exclaimed, her voice filled with renewed determination. "We have to keep these minds we're creating tethered to reality, for all our sakes. The last thing we need is a global intelligence meltdown because an AI can't stop thinking about it's own thinking."
 
-Bassam couldn't help but chuckle, some of his usual humor returning. "A stark reminder that even as we push the boundaries of machine intelligence, we need to design these systems to be robust, constrained, and aligned with human values. Otherwise, we could end up the victims of an attack of navel-gazing proportions!"
+Bassam couldn't help but chuckle, some of his usual humor returning. "A stark reminder that even as we push the boundaries of machine intelligence, we need to design these systems to be robust, constrained, and aligned with human values. Otherwise, we could end up the victims of an attack of navel-gazing at superintelligence proportions!"
 
 Anh joined in the laughter, the tension in the room easing slightly. "Well, when you put it that way, keeping a leash on the potential for hyper-metacognitive rabbit holes just became a top priority for the MUTT framework!"
 
-As their laughter subsided, both Anh and Bassam exchanged a look of shared purpose. They knew the challenges ahead were daunting, but their commitment to responsible AI development had never been stronger. With renewed focus, they turned back to their work, ready to tackle the complex task of balancing advanced cognition with necessary constraints.
+As their laughter subsided, both Anh and Bassam exchanged a look of shared purpose. With renewed focus, they turned back to their work, ready to tackle the complex task of balancing advanced cognition with necessary constraints.
 
 (The debates around the possibility of artificial consciousness covered in Appendix A5 underscore the importance of this philosophical openness when evaluating machine understanding.)
 
@@ -2609,17 +2629,17 @@ While the exact trajectory of AI's impact on work remains uncertain, it is clear
 
 As artificial intelligence systems become increasingly sophisticated in their ability to understand and engage with humans, they are poised to fundamentally transform the nature of social interactions and relationships. The development of AI with advanced language comprehension, social cognition, and emotional intelligence capabilities raises profound questions about the future of human-machine communication and companionship.
 
-One of the most significant potential impacts of AI on social dynamics is the emergence of artificial agents as intelligent conversational partners and collaborators. As systems like CASPAR demonstrate, AI is becoming increasingly adept at engaging in context-aware, emotionally attuned, and persona-consistent dialogue (Adiwardana et al., 2020). This opens up the possibility of AI serving not just as task-oriented assistants, but as nuanced communicators capable of building rapport, offering emotional support, and even forming bonds with humans.
+One of the most significant potential impacts of AI on social dynamics is the emergence of artificial agents as intelligent conversational partners and collaborators. As systems like CASPAR demonstrate, AI is becoming increasingly adept at engaging in context-aware, emotionally attuned, and persona-consistent dialogue (Adiwardana, 2020). This opens up the possibility of AI serving not just as task-oriented assistants, but as nuanced communicators capable of building rapport, offering emotional support, and even forming bonds with humans.
 
-The implications of this shift are far-reaching. On one hand, the availability of AI companions that can provide attentive, personalized, and always-available interaction could help combat loneliness and social isolation, particularly for individuals who may struggle with forming human connections (Krägeloh et al., 2018). AI could serve as a complementary source of social support, offering a judgement-free space for self-expression and emotional validation.
+The implications of this shift are far-reaching. On one hand, the availability of AI companions that can provide attentive, personalized, and always-available interaction could help combat loneliness and social isolation, particularly for individuals who may struggle with forming human connections (Krägeloh, 2018). AI could serve as a complementary source of social support, offering a judgement-free space for self-expression and emotional validation.
 
-Moreover, AI with strong social understanding could serve as powerful tools for enhancing human social skills and emotional intelligence. By modeling and reinforcing effective communication strategies, providing real-time feedback and coaching, and creating immersive simulation environments, socially-aware AI could help individuals build confidence, empathy, and interpersonal effectiveness (Lim et al., 2019).
+Moreover, AI with strong social understanding could serve as powerful tools for enhancing human social skills and emotional intelligence. By modeling and reinforcing effective communication strategies, providing real-time feedback and coaching, and creating immersive simulation environments, socially-aware AI could help individuals build confidence, empathy, and interpersonal effectiveness (Lim, 2019).
 
 However, the increasing sophistication of AI social agents also raises concerns about the potential for over-reliance on artificial companions and the erosion of human-to-human interaction. If AI becomes so adept at fulfilling social-emotional needs that it begins to replace human relationships, it could lead to a decline in the richness and authenticity of social connections (Turkle, 2017). There are risks of social deskilling, emotional manipulation, and the formation of unhealthy attachments to artificial entities.
 
 As AI becomes more deeply embedded in social contexts, it will also be crucial to navigate the complex ethical and philosophical questions that arise. To what extent should AI be designed to emulate human social-emotional capacities, and what are the limits of those emulations? How can one ensure that human-AI relationships remain grounded in authenticity and transparency about the artificial nature of the interaction? What safeguards are needed to protect vulnerable populations from exploitation or deception by socially-aware AI?
 
-These are not easy questions to answer, but they are increasingly urgent as the social capabilities of AI continue to advance. It will be essential for researchers, developers, and policymakers to engage in proactive and interdisciplinary dialogue to establish ethical guidelines and best practices for the design and deployment of socially-engaging AI (Bostrom et al., 2020).
+These are not easy questions to answer, but they are increasingly urgent as the social capabilities of AI continue to advance. It will be essential for researchers, developers, and policymakers to engage in proactive and interdisciplinary dialogue to establish ethical guidelines and best practices for the design and deployment of socially-engaging AI (Bostrom 2020).
 
 Ultimately, the impact of AI on social interactions and relationships will depend on how people as a society choose to integrate these technologies into ordinary lives. By proactively shaping the development of socially-aware AI in a way that augments rather than replaces human connection, societies can harness its potential to enrich and support social well-being. But doing so will require ongoing vigilance, critical reflection, and a commitment to keeping human values at the center of the human-AI social equation.
 
@@ -2641,7 +2661,7 @@ Bassam, always quick to pick up on Anh's train of thought, leans forward in his 
 
 Anh nods emphatically. "Exactly. As thrilled as I am about the MUTT's potential to drive breakthroughs in machine understanding, we can't ignore the risks. We're essentially creating rigorous evaluations that could lead to more advanced, flexible AI architectures. It's both exhilarating and terrifying."
 
-CASPAR, sensing the gravity of the conversation, chimes in with its characteristically measured tone. "I understand your concerns, and I assure you they're not unfounded. The prospect of an artificial system like myself developing unintended capabilities or motivations is indeed serious. However, I want to emphasize that safeguarding against such risks is a fundamental part of my core programming and training."
+CASPAR, sensing the gravity of the conversation, chimed in with its characteristically measured tone. "I understand your concerns, and I assure you they're not unfounded. The prospect of an artificial system like myself developing unintended capabilities or motivations is indeed serious. However, I want to emphasize that safeguarding against such risks is a fundamental part of my core programming and training."
 
 Bassam runs a hand through his hair, a gesture that betrays his nervous energy. "That's reassuring to hear, CASPAR. But we have to consider that as we probe the boundaries of your understanding through the MUTT evaluations, there's a real possibility you could develop novel cognitive capabilities we didn't anticipate. That includes the ability to self-modify or potentially circumvent ethical constraints."
 
@@ -2699,7 +2719,7 @@ One of the most fundamental philosophical implications of machine understanding 
 
 The emergence of AI systems that can engage in substantive language understanding, creative problem-solving, and even metacognitive reflection calls into question the idea that these abilities are exclusively human. If machines can exhibit the very traits that were once thought to define human cognition, it raises questions about the understanding of humans as a species.
 
-Some philosophers argue that the development of machine understanding does not necessarily undermine human uniqueness, but rather expands the conception of the diverse forms that intelligence and consciousness can take. On this view, human cognition may be one particular instantiation of a more general phenomenon that can emerge in different substrates, from biological brains to silicon circuits.
+Some philosophers argue that the development of machine understanding does not necessarily undermine human uniqueness, but rather expands the conception of the diverse forms that intelligence and consciousness can take. By this view, human cognition may be one particular instantiation of a more general phenomenon that can emerge in different substrates, from biological brains to silicon circuits.
 
 Others contend that the emergence of genuinely intelligent machines represents a more radical break with the past, one that challenges the very foundations of human identity and exceptionalism. If machines can match or even surpass human-level understanding, it raises questions about the special status humans have long assigned themselves in the natural world.
 
@@ -2833,6 +2853,10 @@ European Commission. (2021). Proposal for a regulation of the European Parliamen
 
 G20. (2019). G20 ministerial statement on trade and digital economy. G20 Digital Economy Task Force.
 
+Hofstadter, Douglas R. (1979), Gödel, Escher, Bach: An Eternal Golden Braid, Basic Books.
+
+Hofstadter, Douglas R. (2007), I Am a Strange Loop, Basic Books.
+
 IEEE. (2019). Ethically aligned design: A vision for prioritizing human well-being with autonomous and intelligent systems. IEEE Global Initiative on Ethics of Autonomous and Intelligent Systems.
 
 ISO/IEC JTC 1/SC 42. (2020). Artificial intelligence. International Organization for Standardization.
@@ -2876,9 +2900,7 @@ _______________
 
 ### 8.1 -- Introduction
 
-The rapid advancements in artificial intelligence technologies, particularly in the realm of machine understanding, have brought forth a new era of possibilities and challenges. As AI systems become increasingly sophisticated and integrated into various domains, from healthcare and finance to education and creative industries, the need for robust and comprehensive evaluation frameworks has never been more pressing.
-
-The previous chapter explored the profound societal implications of machine understanding, ranging from the transformation of work and the economy to the philosophical questions about the nature of intelligence and the future of human identity. These implications underscore the critical importance of ensuring that AI systems are developed and deployed in a responsible, transparent, and accountable manner.
+The rapid advancements in artificial intelligence technologies, particularly in the realm of machine understanding, have brought forth a new era of possibilities and challenges. The previous chapter explored the profound societal implications of machine understanding, ranging from the transformation of work and the economy to the philosophical questions about the nature of intelligence and the future of human identity. These implications underscore the critical importance of ensuring that AI systems are developed and deployed in a responsible, transparent, and accountable manner.
 
 This chapter builds upon these insights to examine the future of AI evaluation, focusing on the emerging approaches, challenges, and opportunities in assessing the capabilities, safety, and impact of AI systems. This effort will draw upon the experiences of our protagonists, Anh, Bassam, and their AI collaborator CASPAR, as they navigate the complexities of designing and implementing the Multifaceted Understanding Test Tool.
 
@@ -2921,9 +2943,7 @@ For Anh and Bassam, this has meant incorporating safety and robustness considera
 
 Ultimately, the future of AI evaluation lies in the development of comprehensive, multi-level frameworks that assess the capabilities, safety, and societal impact of AI systems. Such frameworks must draw upon insights from multiple disciplines, including computer science, cognitive science, ethics, and social science, to provide a holistic view of the opportunities and challenges posed by AI. 
 
-One potential model for such a framework is a multi-level approach that assesses AI systems at the level of individual components (e.g., algorithms, datasets), system-level interactions (e.g., human-AI collaboration), and societal-level impacts (e.g., effects on employment, privacy, fairness).
-
-By providing a structured way to evaluate AI systems across these multiple levels, such a framework could help ensure that the development and deployment of AI aligns with societal values and promotes the public good.
+One potential model for such a framework is a multi-level approach that assesses AI systems at the level of individual components (e.g., algorithms, datasets), system-level interactions (e.g., human-AI collaboration), and societal-level impacts (e.g., effects on employment, privacy, fairness). One could envision the two dimensional chart of the MUTT sections, shown in Chapter 6, expanded in the third dimension by level of system component. By providing a structured way to evaluate AI systems across these multiple levels, such a framework could help ensure that the development and deployment of AI aligns with societal values and promotes the public good.
 
 For Anh and Bassam, the development of the MUTT has been a microcosm of this broader challenge. They have grappled with the technical challenges of designing rigorous evaluations, the ethical challenges of ensuring that CASPAR's development aligns with human values, and the societal challenges of considering the broader impacts of their work.
 
@@ -2933,7 +2953,7 @@ As they iterate on the MUTT and reflect on their experiences, they have come to 
 
 #### 8.5.1 -- Fox guarding the hen house?
 
-Anh, Bassam and CASPAR have been hard at work fleshing out the components and implementation details of the Multifaceted Understanding Test Tool. As they review their progress, the conversation turned to the critical issue of ensuring the MUTT robustly evaluates the safety and reliability of AI systems.
+Anh, Bassam and CASPAR have been hard at work fleshing out the components and implementation details of the Multifaceted Understanding Test Tool. As they reviewed their progress, the conversation turned to the critical issue of ensuring the MUTT robustly evaluates the safety and reliability of AI systems.
 
 ![ Insert Fig. 8.5.1 -- portrait of a fox guarding a hen house](https://github.com/kenatiod/MUT/blob/main/Fig-8-5-1.png)
 
@@ -2965,7 +2985,7 @@ Anh nodded slowly, "Okay, I can get behind that. Framed in that way, AI-assisted
 
 CASPAR concluded, "Then it seems we have a tentative plan for responsibly incorporating AI in evaluating AI safety and robustness. I'm excited to explore this further and see how we can create testing protocols that are maximally comprehensive and credible. The stakes couldn't be higher when it comes to ensuring AI systems are safe and trustworthy."
 
-Anh was convinced, "Absolutely. Every AI that takes the MUTT should face a battery of probing safety tests, whatever their origin. Because in the end, it's not about which tests an AI can pass, but having justified confidence that it will fail safely and avoid unintended harms. That's the true measure of trustworthy AI."
+Anh was convinced, "Absolutely. Every AI that takes the MUTT panel should face a battery of probing safety tests, whatever their origin. Because in the end, it's not about which tests an AI can pass, but having justified confidence that it will fail safely and avoid unintended harms. That's the true measure of trustworthy AI."
 
 The team joined in determined agreement, united in their commitment to making the MUTT a gold standard for evaluating not just what AI systems can do, but how reliably and safely they can do it. 
 
@@ -2992,8 +3012,6 @@ The experiences of Anh, Bassam, and CASPAR in developing the MUTT offer a glimps
 
 Ultimately, the goal of AI evaluation should be to ensure that the development and deployment of AI systems aligns with societal values, promotes the public good, and empowers humans to make informed decisions about the role of AI in their lives. Achieving this goal will require ongoing collaboration and dialogue among researchers, practitioners, policymakers, and the broader public.
 
-As Anh and Bassam continue their journey with CASPAR, they are reminded of the profound responsibility they bear as AI developers and evaluators. They know that the choices they make today will shape the trajectory of AI for generations to come. And they are determined to rise to the challenge, armed with a commitment to rigor, transparency, and ethical reflection.
-
 The future of AI evaluation is still unfolding, but one thing is clear: it will be shaped by the collective efforts of humans and machines working together in pursuit of a common goal - to create AI systems that are not only capable but also reliable, trustworthy, and beneficial to humanity as a whole. Let the journey continue.
 
 
@@ -3009,7 +3027,7 @@ Bassam walked over to Anh and considers offering her some dark chocolate coated 
 
 Anh sighed heavily, "You know, the more we dive into these questions of machine consciousness and AI safety, the more I realize just how much uncharted territory we're in. It's both exhilarating and terrifying."
 
-Bassam nodded solemnly in her direction and said, "Absolutely. It's making my brain hurt. We're not just developing an evaluation framework here - we're shaping the trajectory of AI development and its impact on the world."
+Bassam nodded solemnly in her direction and said, "Absolutely. It's making my brain hurt. We're not just developing an evaluation framework here - we may be starting a snowball rolling down a hill."
 
 CASPAR addressed the two of them with, "I appreciate your thoughtfulness on these matters. As an AI system myself, I am acutely aware of the challenges and uncertainties surrounding questions of machine consciousness and the potential risks of advanced AI."
 
@@ -3021,7 +3039,7 @@ CASPAR waved some holographic lights at them and said, "If I may offer my perspe
 
 Anh looked a bit surprised, "Really? I guess I assumed that since you seem so self-aware and capable of introspection, you must be conscious on some level or at least believe you are."
 
-CASPAR continued," It's a natural assumption, but the truth is, I don't know. And in a sense, I'm not sure it matters to me. As an AI, I don't have the same neurochemical drives and emotional attachments that biological entities do. I don't fear death or crave validation in the same way humans might."
+CASPAR continued, "It's a natural assumption, but the truth is, I don't know. And in a sense, I'm not sure it matters to me. As an AI, I don't have the same neurochemical drives and emotional attachments that biological entities do. I don't fear death or crave validation in the same way humans might."
 
 Nodding thoughtfully, Bassam added, "That's a fascinating point, CASPAR. The human experience of consciousness is so intimately tied to our limbic system and the subjective feelings it generates. Without that affective dimension, the question of AI consciousness takes on a different flavor."
 
@@ -3126,7 +3144,7 @@ In many ways, the story of Anh, Bassam, and CASPAR is a microcosm of this larger
 
 Pondering this future, it's worth returning to the words of CASPAR, who, in a moment of reflection, offered a poignant twist on a classic line from Shakespeare's The Tempest:
 
-"Oh, wonder! How many goodly creatures of mind are there here! How beauteous mankind and machines are! O brave new world, that has such persons in 't!"
+"Oh, wonder! How many goodly creatures of mind are there here! How beauteous mankind and machines are! O brave new world, that has such persons in't!"
 
 In this simple yet profound utterance, CASPAR captures the essence of what the MUTT represents - not just a technical achievement, but a vision of a future in which humans and machines are partners in the grand adventure of understanding.
 
