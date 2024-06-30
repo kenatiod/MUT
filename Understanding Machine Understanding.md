@@ -331,15 +331,15 @@ Anh leaned back in her chair, that wry smile still playing on her lips, as she g
 
 The story of artificial intelligence is inextricably linked to the evolution of computing itself. To understand the arrival at the current AI paradigm, it's essential to trace the key milestones in the history of computing and AI research.
 
-The roots of artificial intelligence can be traced back centuries to philosophical inquiries into the nature of mind, reason, and thought. In the 17th century, Gottfried Leibniz envisioned a universal calculus of reasoning, a rational system that could represent all knowledge. This dream of formalizing thought would inspire later developments in logic and computation that paved the way for AI.
+The roots of artificial intelligence can be traced back centuries to philosophical inquiries into the nature of mind, reason, and thought. In the 17th century, Gottfried Leibniz envisioned a universal calculus of reasoning, a rational system that could represent all knowledge (Antognazza, 2009). This dream of formalizing thought would inspire later developments in logic and computation that paved the way for AI.
 
 ![ Insert Fig 1.1.1 -- portrait of Gottfried Leibniz](https://github.com/kenatiod/MUT/blob/main/Fig-1-1-1.png)
 
-The 19th century saw further advances that laid the conceptual foundations for AI. In 1854, George Boole published "An Investigation of the Laws of Thought", introducing Boolean algebra as a framework for logical reasoning. This provided a mathematical basis for manipulating propositions, a key element of symbolic AI. Around the same time, Charles Babbage designed the Analytical Engine, a mechanical computer that had many of the properties of modern computers, although it was never fully constructed. Ada Lovelace, who worked with Babbage, recognized that the machine had applications beyond pure calculation and published the first algorithm intended to be carried out by such a machine. As a result, she is often regarded as the first computer programmer.
+The 19th century saw further advances that laid the conceptual foundations for AI. In 1854, George Boole published "An Investigation of the Laws of Thought", introducing Boolean algebra as a framework for logical reasoning. This provided a mathematical basis for manipulating propositions, a key element of symbolic AI. Around the same time, Charles Babbage designed the Analytical Engine, a mechanical computer that had many of the properties of modern computers, although it was never fully constructed. Ada Lovelace, who worked with Babbage, recognized that the machine had applications beyond pure calculation and published the first algorithm intended to be carried out by such a machine. As a result, she is often regarded as the first computer programmer (Babbage, 1864; Lovelace, 1843).
 
 ![ Insert Fig 1.1.2 -- drawing or illustration of Babbage and Lovelace with Analytical Engine](https://github.com/kenatiod/MUT/blob/main/Fig-1-1-2.png)
 
-The early 20th century brought crucial breakthroughs that moved the idea of thinking machines from fantasy to possibility. In the 1930s, Kurt Gödel's incompleteness theorems showed that within any formal system, there are propositions that cannot be proven or disproven using the rules of that system. This finding highlighted the limitations of axiomatic reasoning and shaped approaches to knowledge representation in AI.
+The early 20th century brought crucial breakthroughs that moved the idea of thinking machines from fantasy to possibility. In the 1930s, Kurt Gödel's incompleteness theorems showed that within any formal system, there are propositions that cannot be proven or disproven using the rules of that system. This finding highlighted the limitations of axiomatic reasoning and shaped approaches to knowledge representation in AI (Gödel, 1931).
 
 ![ Insert Fig 1.1.3 -- drawing or illustration of Kurt Gödel](https://github.com/kenatiod/MUT/blob/main/Fig-1-1-3.png)
 
@@ -388,15 +388,15 @@ The early 20th century brought crucial breakthroughs that moved the idea of thin
 - **2020s**: AI continues to evolve with advancements in deep learning, reinforcement learning, and large language models, impacting various industries and daily life.
 
 
-Around the same time, Alan Turing developed the idea of a universal computing machine that could perform any conceivable mathematical computation if represented as an algorithm. The concept of the Turing machine provided a theoretical framework for both computation and AI. In 1950, Turing published his seminal paper Computing Machinery and Intelligence, which proposed an empirical test, the Turing Test, for determining if a machine can demonstrate intelligent behavior indistinguishable from that of a human. Although the validity and adequacy of the Turing Test has been debated, it remains an important milestone in the history of AI.
+Around the same time, Alan Turing developed the idea of a universal computing machine that could perform any conceivable mathematical computation if represented as an algorithm. The concept of the Turing machine provided a theoretical framework for both computation and AI. In 1950, Turing published his seminal paper Computing Machinery and Intelligence, which proposed an empirical test, the Turing Test, for determining if a machine can demonstrate intelligent behavior indistinguishable from that of a human. Although the validity and adequacy of the Turing Test has been debated, it remains an important milestone in the history of AI (Turing 1950).
 
 ![ Insert Fig. 1.1.4 -- portrait of Alan Turing](https://github.com/kenatiod/MUT/blob/main/Fig-1-1-4.png)
 
-The 1940s saw the first electronic general-purpose computers, such as ENIAC, that could be programmed to perform complex calculations at high speed. This marked a turning point, as the technology now existed to attempt to realize the theoretical insights of Babbage, Turing, and others. However, the computers of the 1940s were difficult to program and lacked the storage capacity for anything beyond basic numerical computation.
+The 1940s saw the first electronic general-purpose computers, such as ENIAC, that could be programmed to perform complex calculations at high speed. This marked a turning point, as the technology now existed to attempt to realize the theoretical insights of Babbage, Turing, and others. However, the computers of the 1940s were difficult to program and lacked the storage capacity for anything beyond basic numerical computation (McCartney, 1999).
 
 ![ Insert Fig. 1.1.5 -- picture of the ENIAC](https://github.com/kenatiod/MUT/blob/main/Fig-1-1-5.png)
 
-It was not until the early 1950s that researchers began to explore the possibility of using computers to simulate intelligent behavior. In 1951, Marvin Minsky and Dean Edmonds built SNARC (Stochastic Neural Analog Reinforcement Calculator), the first artificial neural network, using 3000 vacuum tubes to simulate a network of 40 neurons. This was a significant step towards modeling the brain and expanding the potential of computers beyond arithmetic calculations.
+It was not until the early 1950s that researchers began to explore the possibility of using computers to simulate intelligent behavior. In 1951, Marvin Minsky and Dean Edmonds built SNARC (Stochastic Neural Analog Reinforcement Calculator), the first artificial neural network, using 3000 vacuum tubes to simulate a network of 40 neurons. This was a significant step towards modeling the brain and expanding the potential of computers beyond arithmetic calculations (Minsky, 1954).
 
 In 1955, Allen Newell and Herbert A. Simon created the "Logic Theorist", the first program deliberately engineered to mimic the problem solving skills of a human. It would eventually prove 38 of the first 52 theorems in Russell and Whitehead's Principia Mathematica, and find new and more elegant proofs for some. This demonstrated the potential for computers to engage in reasoning and marked the beginning of the "symbolic" approach to AI.
 
@@ -406,13 +406,13 @@ In 1955, Allen Newell and Herbert A. Simon created the "Logic Theorist", the fir
 
 ### 1.2 -- The Birth of Artificial Intelligence as a Field 
 
-The same year, John McCarthy coined the term "artificial intelligence" in his proposal for the Dartmouth Conference, which took place in the summer of 1956. This gathering of leading researchers defined the scope and goals of AI, marking the birth of the field as a distinct discipline. Attendees included McCarthy, Minsky, Newell and Simon; all of whom would become pivotal figures in AI in the following decades. These early visionaries and milestones set the stage for the rapid development of AI in the second half of the 20th century. Their contributions laid the theoretical and technological foundations that would be built upon by subsequent generations of researchers.
+The same year, John McCarthy coined the term "artificial intelligence" in his proposal for the Dartmouth Conference, which took place in the summer of 1956. This gathering of leading researchers defined the scope and goals of AI, marking the birth of the field as a distinct discipline (McCarthy, et al., 2006). Attendees included McCarthy, Minsky, Newell and Simon; all of whom would become pivotal figures in AI in the following decades. These early visionaries and milestones set the stage for the rapid development of AI in the second half of the 20th century. Their contributions laid the theoretical and technological foundations that would be built upon by subsequent generations of researchers.
 
-Early successes included the General Problem Solver (GPS) program, which could solve logical problems, and Joseph Weizenbaum's ELIZA, a natural language processing program that could engage in simple conversations. While the philosophical questions they grappled with remain subjects of debate, their work established AI as a rich and compelling area of inquiry that would go on to transform multiple fields and industries.
+Early successes included the General Problem Solver (GPS) program, which could solve logical problems, and Joseph Weizenbaum's ELIZA, a natural language processing program that could engage in simple conversations (Weizenbaum, 1966). While the philosophical questions they grappled with remain subjects of debate, their work established AI as a rich and compelling area of inquiry that would go on to transform multiple fields and industries.
 
 ### 1.3 -- Paradigm Shifts and Breakthroughs
 
-However, early AI systems were limited by the knowledge acquisition bottleneck - the difficulty of encoding human knowledge into rules that computers could follow, and the rapid progress in AI during the 1960s and early 1970s led to inflated expectations and hype around the potential of the technology. When these lofty promises failed to materialize, funding dried up and interest waned, leading to a period from 1974 to 1980 that became known as the First AI Winter. The term "AI Winter" was coined by analogy to "nuclear winter" to describe this drastic cooling of enthusiasm and support for AI research.
+However, early AI systems were limited by the knowledge acquisition bottleneck - the difficulty of encoding human knowledge into rules that computers could follow, and the rapid progress in AI during the 1960s and early 1970s led to inflated expectations and hype around the potential of the technology (Shortliffe, 1975). When these lofty promises failed to materialize, funding dried up and interest waned, leading to a period from 1974 to 1980 that became known as the First AI Winter. The term "AI Winter" was coined by analogy to "nuclear winter" to describe this drastic cooling of enthusiasm and support for AI research.
 
 During this period, government funding in the US and UK was dramatically reduced as agencies became disillusioned with the lack of practical results. The British government essentially shut down AI research in all but two universities. Pioneering AI labs like MIT's Project MAC and the Stanford AI Lab faced budget cuts and staff departures.
 
@@ -424,7 +424,7 @@ Key breakthroughs in this era included the development of backpropagation for tr
 
 ![ Insert Fig 1.3.1 -- image of Kasparov v. Deep Blue](https://github.com/kenatiod/MUT/blob/main/Fig-1-3-1.png)
 
-The 21st century has seen an explosion of AI capabilities, driven by the convergence of big data, increased computing power, and new algorithmic techniques. Deep learning, which uses multi-layered neural networks to learn hierarchical representations from data, has achieved human-level or superhuman performance on tasks like image classification, speech recognition, and language translation. Other paradigm shifts include the rise of reinforcement learning, where agents learn through trial-and-error interaction with environments, and the development of large language models like GPT-4 that can generate human-like text and engage in open-ended dialogue.
+The 21st century has seen an explosion of AI capabilities, driven by the convergence of big data, increased computing power, and new algorithmic techniques (Silver, et al., 2016). Deep learning, which uses multi-layered neural networks to learn hierarchical representations from data, has achieved human-level or superhuman performance on tasks like image classification, speech recognition, and language translation (Bohn, 2019). Other paradigm shifts include the rise of reinforcement learning, where agents learn through trial-and-error interaction with environments, and the development of large language models like GPT-4 that can generate human-like text and engage in open-ended dialogue.
 
 ![ Insert Fig. 1.3.2 image of GPT-4 screen reply](https://github.com/kenatiod/MUT/blob/main/Fig-1-3-2.png)
 
@@ -454,7 +454,7 @@ Anh nodded to CASPAR, "Yes, that's a great point, CASPAR. Your very existence is
 
 Anh decided to redirect the discussion, "Speaking of open problems, I'm curious about the ethical dimensions of AI progress. As these systems become more powerful and ubiquitous, how do we ensure they remain safe, transparent, and aligned with human values? The history of AI is full of both promise and peril. No one has come up with a mathematical proof that AI can ever be forced to be 'friendly' to humanity."
 
-Bassam, "Yea, no kidding. The ethical challenges are immense. From algorithmic bias to data privacy to the existential risks posed by superintelligent systems, there are a host of thorny issues that we as a society will need to navigate as AI continues to evolve."
+Bassam, "Yea, no kidding. The ethical challenges are immense. From algorithmic bias to data privacy to the existential risks posed by superintelligent systems, there are a host of thorny issues that we as a society will need to navigate as AI continues to evolve." 
 
 Anh said, "It is not just ethics, Bassam, we have straight out safety issues to face. If someone tells our product to 'Mop the kitchen floor with Grandma.' we have to make sure it checks to be sure Grandma is not going to *be* the mop."
 
@@ -481,39 +481,37 @@ Austrian, G. D. (1982). Herman Hollerith: Forgotten giant of information process
 
 Babbage, C. (1864). Passages from the life of a philosopher. Longman, Green, Longman, Roberts, & Green.
 
-Bohn, D. (2019, January 4). Amazon says 100 million Alexa devices have been sold. The Verge. https://www.theverge.com/2019/1/4/18168565/amazon-alexa-devices-how-many-sold-number-100-million-dave-limp
+Bohn, D. (2019). Amazon says 100 million Alexa devices have been sold. The Verge.
 
 Boole, G. (1854). An investigation of the laws of thought: On which are founded the mathematical theories of logic and probabilities. Walton and Maberly.
 
-Brown, T. B., Mann, B., Ryder, N., Subbiah, M., Kaplan, J., Dhariwal, P., Neelakantan, A., Shyam, P., Sastry, G., Askell, A., Agarwal, S., Herbert-Voss, A., Krueger, G., Henighan, T., Child, R., Ramesh, A., Ziegler, D. M., Wu, J., Winter, C., ... Amodei, D. (2020). Language models are few-shot learners. arXiv. https://doi.org/10.48550/arXiv.2005.14165
+Brown, T. B., Mann, B., Ryder, N., Subbiah, M., Kaplan, J., Dhariwal, P., Neelakantan, A., Shyam, P., Sastry, G., Askell, A., Agarwal, S., Herbert-Voss, A., Krueger, G., Henighan, T., Child, R., Ramesh, A., Ziegler, D. M., Wu, J., Winter, C., ... Amodei, D. (2020). Language models are few-shot learners.
 
-Campbell, M., Hoane Jr, A. J., & Hsu, F. H. (2002). Deep blue. Artificial Intelligence, 134(1-2), 57-83. https://doi.org/10.1016/S0004-3702(01)00129-1
+Campbell, M., Hoane Jr, A. J., & Hsu, F. H. (2002). Deep blue. Artificial Intelligence, 134(1-2), 57-83.
 
 Chalmers, D. J. (1996). The conscious mind: In search of a fundamental theory. Oxford University Press.
 
-Chollet, F. (2019). On the measure of intelligence. arXiv. https://doi.org/10.48550/arXiv.1911.01547
-
-Dautenhahn, K. (2007). Socially intelligent robots: Dimensions of human-robot interaction. Philosophical Transactions of the Royal Society B: Biological Sciences, 362(1480), 679-704. https://doi.org/10.1098/rstb.2006.2004
+Dautenhahn, K. (2007). Socially intelligent robots: Dimensions of human-robot interaction. Philosophical Transactions of the Royal Society B: Biological Sciences, 362(1480), 679-704.
 
 Dennett, D. C. (1980). The milk of human intentionality. Behavioral and Brain Sciences, 3(3), 428-430.
 
 Dennett, D. C. (1987). The intentional stance. MIT Press.
 
-Ferrucci, D., Brown, E., Chu-Carroll, J., Fan, J., Gondek, D., Kalyanpur, A. A., Lally, A., Murdock, J. W., Nyberg, E., Prager, J., Schlaefer, N., & Welty, C. (2010). Building Watson: An overview of the DeepQA project. AI Magazine, 31(3), 59-79. https://doi.org/10.1609/aimag.v31i3.2303
+Ferrucci, D., Brown, E., Chu-Carroll, J., Fan, J., Gondek, D., Kalyanpur, A. A., Lally, A., Murdock, J. W., Nyberg, E., Prager, J., Schlaefer, N., & Welty, C. (2010). Building Watson: An overview of the DeepQA project. AI Magazine, 31(3), 59-79.
 
 Fodor, J. A. (1980). Searle on what only brains can do. Behavioral and Brain Sciences, 3(3), 431-432.
 
-Glenberg, A. M., & Robertson, D. A. (2000). Symbol grounding and meaning: A comparison of high-dimensional and embodied theories of meaning. Journal of Memory and Language, 43(3), 379-401. https://doi.org/10.1006/jmla.2000.2714
+Glenberg, A. M., & Robertson, D. A. (2000). Symbol grounding and meaning: A comparison of high-dimensional and embodied theories of meaning. Journal of Memory and Language, 43(3), 379-401.
 
-Gunning, D., & Aha, D. W. (2019). DARPA's explainable artificial intelligence program. AI Magazine, 40(2), 44-58. https://doi.org/10.1609/aimag.v40i2.2850
+Gunning, D., & Aha, D. W. (2019). DARPA's explainable artificial intelligence program. AI Magazine, 40(2), 44-58.
 
-Gödel, K. (1931). Über formal unentscheidbare Sätze der Principia Mathematica und verwandter Systeme I. Monatshefte für Mathematik und Physik, 38(1), 173-198. https://doi.org/10.1007/BF01700692
+Gödel, K. (1931). Über formal unentscheidbare Sätze der Principia Mathematica und verwandter Systeme I. Monatshefte für Mathematik und Physik, 38(1), 173-198.
 
-Jones, J. L. (2006). Robots at the tipping point: The road to iRobot Roomba. IEEE Robotics & Automation Magazine, 13(1), 76-78. https://doi.org/10.1109/MRA.2006.1598056
+Jones, J. L. (2006). Robots at the tipping point: The road to iRobot Roomba. IEEE Robotics & Automation Magazine, 13(1), 76-78.
 
 Kasparov, G. (2017). Deep thinking: Where machine intelligence ends and human creativity begins. PublicAffairs.
 
-Lipton, Z. C. (2018). The mythos of model interpretability: In machine learning, the concept of interpretability is both important and slippery. Queue, 16(3), 31-57. https://doi.org/10.1145/3236386.3241340
+Lipton, Z. C. (2018). The mythos of model interpretability: In machine learning, the concept of interpretability is both important and slippery. Queue, 16(3), 31-57.
 
 Lovelace, A. A. (1843). Notes by the translator. In L. F. Menabrea, Sketch of the analytical engine invented by Charles Babbage, Esq. Scientific Memoirs, 3, 666-731.
 
@@ -521,25 +519,23 @@ Markoff, J. (2005). What the dormouse said: How the sixties counterculture shape
 
 McCartney, S. (1999). ENIAC: The triumphs and tragedies of the world's first computer. Walker & Company.
 
-McCarthy, J., Minsky, M. L., Rochester, N., & Shannon, C. E. (2006). A proposal for the Dartmouth summer research project on artificial intelligence, August 31, 1955. AI Magazine, 27(4), 12-12. https://doi.org/10.1609/aimag.v27i4.1904
+McCarthy, J., Minsky, M. L., Rochester, N., & Shannon, C. E. (2006). A proposal for the Dartmouth summer research project on artificial intelligence, August 31, 1955. AI Magazine, 27(4), 12-12.
 
 Minsky, M. (1954). Neural nets and the brain model problem. Princeton University.
 
 Newell, A., & Simon, H. A. (1972). Human problem solving. Prentice-Hall.
 
-Newell, A., & Simon, H. A. (1976). Computer science as empirical inquiry: Symbols and search. Communications of the ACM, 19(3), 113-126. https://doi.org/10.1145/360018.360022
+Newell, A., & Simon, H. A. (1976). Computer science as empirical inquiry: Symbols and search. Communications of the ACM, 19(3), 113-126.
 
-Shortliffe, E. H., Davis, R., Axline, S. G., Buchanan, B. G., Green, C. C., & Cohen, S. N. (1975). Computer-based consultations in clinical therapeutics: Explanation and rule acquisition capabilities of the MYCIN system. Computers and Biomedical Research, 8(4), 303-320. https://doi.org/10.1016/0010-4809(75)90009-9
+Shortliffe, E. H., Davis, R., Axline, S. G., Buchanan, B. G., Green, C. C., & Cohen, S. N. (1975). Computer-based consultations in clinical therapeutics: Explanation and rule acquisition capabilities of the MYCIN system. Computers and Biomedical Research, 8(4), 303-320.
 
-Silver, D., Huang, A., Maddison, C. J., Guez, A., Sifre, L., Van Den Driessche, G., Schrittwieser, J., Antonoglou, I., Panneershelvam, V., Lanctot, M., Dieleman, S., Grewe, D., Nham, J., Kalchbrenner, N., Sutskever, I., Lillicrap, T., Leach, M., Kavukcuoglu, K., Graepel, T., & Hassabis, D. (2016). Mastering the game of Go with deep neural networks and tree search. Nature, 529(7587), 484-489. https://doi.org/10.1038/nature16961
+Silver, D., Huang, A., Maddison, C. J., Guez, A., Sifre, L., Van Den Driessche, G., Schrittwieser, J., Antonoglou, I., Panneershelvam, V., Lanctot, M., Dieleman, S., Grewe, D., Nham, J., Kalchbrenner, N., Sutskever, I., Lillicrap, T., Leach, M., Kavukcuoglu, K., Graepel, T., & Hassabis, D. (2016). Mastering the game of Go with deep neural networks and tree search. Nature, 529(7587), 484-489.
 
-Turing, A. M. (1950). Computing machinery and intelligence. Mind, 59(236), 433-460. https://doi.org/10.1093/mind/LIX.236.433
+Turing, A. M. (1950). Computing machinery and intelligence. Mind, 59(236), 433-460. 
 
-Weizenbaum, J. (1966). ELIZA—A computer program for the study of natural language communication between man and machine. Communications of the ACM, 9(1), 36-45. https://doi.org/10.1145/365153.365168
+Weizenbaum, J. (1966). ELIZA—A computer program for the study of natural language communication between man and machine. Communications of the ACM, 9(1), 36-45. 
 
 Whitehead, A. N., & Russell, B. (1910). Principia mathematica (Vols. 1-3). Cambridge University Press.
-
-Yampolskiy, R. V. (2024). AI: Unexplainable, unpredictable, uncontrollable. CRC Press.
 
 Zuse, K. (1936). Verfahren zur selbsttätigen Durchführung von Rechnungen mit Hilfe von Rechenmaschinen, (German Patent No. Z23139). Deutsches Patentamt.
 
@@ -932,20 +928,20 @@ _______________
 
 At the heart of the quest to develop a robust test of machine understanding lies a fundamental distinction between two cognitive capacities - the ability to retrieve and recite information (knowledge) and the ability to grasp deeper meanings, make inferences, and apply insights flexibly (understanding).
 
-Knowledge, in its simplest form, refers to a collection of facts, data points, or propositions that an entity has acquired through learning or experience. To have knowledge about something is to mentally represent and be able to recall specific pieces of information pertaining to that subject (Bloom 1956).
+Knowledge, in its simplest form, refers to a collection of facts, data points, or propositions that an entity has acquired through learning or experience. To have knowledge about something is to mentally represent and be able to recall specific pieces of information pertaining to that subject (Bloom, 1956).
 
-Understanding, on the other hand, involves more than just possessing information. It requires making sense of that information - recognizing relationships, grasping underlying principles and mechanisms, and developing a coherent mental model or representation that allows for reasoning, explanation, and generalization (Nickerson 1985) (Kintsch 1988).
+Understanding, on the other hand, involves more than just possessing information. It requires making sense of that information - recognizing relationships, grasping underlying principles and mechanisms, and developing a coherent mental model or representation that allows for reasoning, explanation, and generalization (Nickerson, 1985; Kintsch, 1988).
 
 A dictionary definition illustrates this well: Knowledge is "facts, information, and skills acquired through experience or education." Understanding is "the ability to comprehend; to have mastered."
 
 (For a more in-depth exploration of theories about the nature of understanding from cognitive science and philosophy of mind, see Appendix A4.)
 ### 3.2 -- Limitations of knowledge-focused AI benchmarks
 
-Many existing benchmarks for evaluating artificial intelligence systems focus primarily on assessing the breadth and accuracy of their knowledge retrieval capabilities. Question-answering datasets, for example, test an AI system's ability to locate and output factual information in response to queries (Marcus 2018).
+Many existing benchmarks for evaluating artificial intelligence systems focus primarily on assessing the breadth and accuracy of their knowledge retrieval capabilities. Question-answering datasets, for example, test an AI system's ability to locate and output factual information in response to queries (Marcus, 2018).
 
-While this is certainly a valuable skill, and an important component of intelligence, merely demonstrating proficiency at such knowledge-based tasks is insufficient for establishing that an artificial system has achieved genuine understanding close, or on par with, human cognition (Lake 2017).
+While this is certainly a valuable skill, and an important component of intelligence, merely demonstrating proficiency at such knowledge-based tasks is insufficient for establishing that an artificial system has achieved genuine understanding close, or on par with, human cognition (Lake, et al., 2017).
 
-As the philosophical perspectives explored in Chapter 2 highlighted, understanding involves more than just information lookup. It requires the ability to make insightful inferences, to uncover explanatory models, to apply knowledge creatively to novel situations, and to engage in contextual, flexible reasoning (Davis 2015) (Bender 2020).
+As the philosophical perspectives explored in Chapter 2 highlighted, understanding involves more than just information lookup. It requires the ability to make insightful inferences, to uncover explanatory models, to apply knowledge creatively to novel situations, and to engage in contextual, flexible reasoning (Davis, & Marcus, 2015; Bender, & Koller, 2020).
 
 #### 3.2.1 -- Taking a step
 
@@ -982,7 +978,7 @@ To develop AI systems that can be considered truly intelligent and capable partn
 
 Only by developing comprehensive evaluations that target these hallmarks of genuine understanding can it be ensured that AI systems are not just highly sophisticated information retrieval and processing engines, but have truly mastered the subject matter in a human-like fashion.
 
-Recent research supports the idea that the potential emergence of "grounding" in AI systems is an indication of some kind of understanding. As noted in "The Platonic Representation Hypothesis," "... language models would achieve some notion of grounding in the visual domain even in the absence of cross-modal data" (Huh, 2024). This implies that AI systems can develop a form of understanding by learning to represent and relate concepts across different modalities. By capturing rich statistical patterns and building layered models of meaning, AI systems are developing a more integrated and holistic form of comprehension that goes beyond mere pattern recognition. This emergent grounding could be a key factor in advancing proposed evaluation frameworks and understanding the true cognitive capabilities of AI.
+Recent research supports the idea that the potential emergence of "grounding" in AI systems is an indication of some kind of understanding. As noted in "The Platonic Representation Hypothesis," "... language models would achieve some notion of grounding in the visual domain even in the absence of cross-modal data" (Huh, et al., 2024). This implies that AI systems can develop a form of understanding by learning to represent and relate concepts across different modalities. By capturing rich statistical patterns and building layered models of meaning, AI systems are developing a more integrated and holistic form of comprehension that goes beyond mere pattern recognition. This emergent grounding could be a key factor in advancing proposed evaluation frameworks and understanding the true cognitive capabilities of AI.
 
 (The neuroscience insights into how prior knowledge influences neural processing and cognition are further explored in Appendix A1.)
 
@@ -1188,14 +1184,14 @@ ________________
 
 ### 4.1 -- Motivations and key principles
 
-The purpose of this book is to propose the Multifaceted Understanding Test Tool (MUTT), which was born out of a recognition of the limitations of existing AI evaluation frameworks, particularly the Turing Test, in assessing the depth and breadth of machine understanding. While the Turing Test has been a seminal benchmark in AI history, its focus on surface-level imitation of human conversation fails to probe the underlying cognitive capabilities that are the hallmarks of genuine understanding. The central purpose of this book is to propose development of this new testing framework in order to ground future discussions of machine understanding.
+The purpose of this book is to propose the Multifaceted Understanding Test Tool (MUTT), which was born out of a recognition of the limitations of existing AI evaluation frameworks, particularly the Turing Test, in assessing the depth and breadth of machine understanding. While the Turing Test has been a seminal benchmark in AI history, its focus on surface-level imitation of human conversation fails to probe the underlying cognitive capabilities that are the hallmarks of genuine understanding (Chollet, 2019; Yong, 2010). The central purpose of this book is to propose development of this new testing framework in order to ground future discussions of machine understanding.
 
 The key principles guiding the development of the MUTT are:
 
-1. Comprehensiveness: The test should cover a wide range of cognitive abilities that are integral to human-like understanding, going beyond mere language processing to encompass reasoning, knowledge integration, perception, action, and social intelligence .
-2. Depth: The tasks and evaluation criteria should be designed to probe deep, flexible understanding rather than shallow pattern matching or information retrieval. This involves assessing the ability to draw insights, make inferences, and apply knowledge in novel contexts.
-3. Grounding: The test should evaluate the AI's ability to ground its understanding in real-world contexts, linking language to perception, action, and social interaction. This involves moving beyond purely text-based tasks to incorporate multimodal and embodied challenges.
-4. Adaptivity: The evaluation framework should be able to adapt and evolve as AI capabilities advance, avoiding the pitfalls of narrow benchmarks that can be "gamed" or quickly saturated. This requires a modular, extensible design that can incorporate new task types and domains over time.
+1. Comprehensiveness: The test should cover a wide range of cognitive abilities that are integral to human-like understanding, going beyond mere language processing to encompass reasoning, knowledge integration, perception, action, and social intelligence (Hernández-Orallo, 2017; Steels & Brooks, 2018).
+2. Depth: The tasks and evaluation criteria should be designed to probe deep, flexible understanding rather than shallow pattern matching or information retrieval. This involves assessing the ability to draw insights, make inferences, and apply knowledge in novel contexts (Forbus, 2008; Stenning & van Lambalgen, 2012).
+3. Grounding: The test should evaluate the AI's ability to ground its understanding in real-world contexts, linking language to perception, action, and social interaction. This involves moving beyond purely text-based tasks to incorporate multimodal and embodied challenges (Kirsh, 2013; Karpathy & Fei-Fei, 2015).
+4. Adaptivity: The evaluation framework should be able to adapt and evolve as AI capabilities advance, avoiding the pitfalls of narrow benchmarks that can be "gamed" or quickly saturated. This requires a modular, extensible design that can incorporate new task types and domains over time (Kiela et al., 2021; Geirhos et al., 2020).
 
 (For a more in-depth exploration of theories about the nature of understanding from cognitive science and philosophy of mind, see Appendix A4.)
 
@@ -1204,14 +1200,14 @@ The key principles guiding the development of the MUTT are:
 
 The MUTT is designed to assess understanding across six key dimensions that are integral to human cognition:
 
-1. Language: The ability to comprehend and generate natural language, grasping meaning, context, and nuance beyond surface-level syntax and semantics. This includes skills such as disambiguation, metaphor understanding, and pragmatic reasoning.
-2. Reasoning: The capacity for logical inference, analogical thinking, causal reasoning, and problem-solving. This involves being able to draw conclusions from premises, identify patterns and relationships, and apply general principles to specific cases.
-3. Knowledge: The breadth and depth of world knowledge that the AI can draw upon to inform its understanding and decision-making. This includes not just factual recall but the ability to integrate and apply knowledge flexibly across domains.
-4. Perception: The ability to interpret and make sense of sensory inputs, such as visual scenes, auditory signals, and tactile sensations. This involves skills such as object recognition, scene understanding, and cross-modal integration.
-5. Action: The capacity to plan, execute, and adapt actions in response to goals and environmental conditions. This includes skills such as navigation, manipulation, and task planning, as well as the ability to learn from feedback and adjust strategies accordingly.
-6. Social intelligence: The ability to interpret and respond appropriately to social cues, intentions, and contexts. This involves skills such as emotion recognition, perspective-taking, social reasoning, and natural language pragmatics.
+1. Language: The ability to comprehend and generate natural language, grasping meaning, context, and nuance beyond surface-level syntax and semantics (Wilks, 2007). This includes skills such as disambiguation, metaphor understanding, and pragmatic reasoning.
+2. Reasoning: The capacity for logical inference, analogical thinking, causal reasoning, and problem-solving (Forbus, 2008). This involves being able to draw conclusions from premises, identify patterns and relationships, and apply general principles to specific cases.
+3. Knowledge: The breadth and depth of world knowledge that the AI can draw upon to inform its understanding and decision-making (Lenat, 1995). This includes not just factual recall but the ability to integrate and apply knowledge flexibly across domains.
+4. Perception: The ability to interpret and make sense of sensory inputs, such as visual scenes, auditory signals, and tactile sensations (Karpathy & Fei-Fei, 2015). This involves skills such as object recognition, scene understanding, and cross-modal integration.
+5. Action: The capacity to plan, execute, and adapt actions in response to goals and environmental conditions (Levine et al., 2015). This includes skills such as navigation, manipulation, and task planning, as well as the ability to learn from feedback and adjust strategies accordingly.
+6. Social intelligence: The ability to interpret and respond appropriately to social cues, intentions, and contexts (Rashkin et al., 2019). This involves skills such as emotion recognition, perspective-taking, social reasoning, and natural language pragmatics.
 
-By assessing performance across these multiple dimensions, the MUTT aims to provide a more comprehensive and nuanced picture of an AI's understanding capabilities, beyond what can be gleaned from any single task or ability.
+By assessing performance across these multiple dimensions, the MUTT aims to provide a more comprehensive and nuanced picture of an AI's understanding capabilities, beyond what can be gleaned from any single task or ability (Hernández-Orallo, 2017).
 
 (The neuroscience insights into the distributed and embodied nature of human understanding capabilities, which inform these dimensions, are further discussed in Appendix A1.)
 
@@ -1219,26 +1215,26 @@ By assessing performance across these multiple dimensions, the MUTT aims to prov
 
 To operationalize the assessment of these dimensions of understanding, the MUTT incorporates a diverse array of task types and evaluation criteria. These include:
 
-1. Open-ended language tasks: Engaging in freeform dialogue, answering open-ended questions, and generating coherent and contextually appropriate responses. Evaluation criteria include relevance, coherence, specificity, and depth of understanding displayed.
-2. Reasoning problems: Solving logical puzzles, analogical reasoning tasks, and complex problem-solving challenges. Evaluation criteria include the ability to provide clear explanations, justify conclusions, and adapt to novel problem variations.
-3. Knowledge integration tasks: Answering questions that require combining information from multiple sources, domains, or modalities. Evaluation criteria include the ability to make connections, draw inferences, and provide comprehensive and nuanced responses.
-4. Perceptual challenges: Interpreting and describing visual scenes, identifying objects and their relationships, and reasoning about spatial and temporal properties. Evaluation criteria include accuracy, specificity, and grounding of language in perceptual content.
-5. Action-oriented tasks: Planning and executing sequences of actions to achieve specified goals in simulated or real-world environments. Evaluation criteria include efficiency, adaptability, and the ability to provide clear rationales for action choices.
-6. Social scenarios: Engaging in social interactions that require understanding emotions, intentions, and contextual cues. Evaluation criteria include appropriateness of responses, perspective-taking ability, and adherence to social norms and expectations.
+1. Open-ended language tasks: Engaging in freeform dialogue, answering open-ended questions, and generating coherent and contextually appropriate responses. Evaluation criteria include relevance, coherence, specificity, and depth of understanding displayed (Wilks, 2007).
+2. Reasoning problems: Solving logical puzzles, analogical reasoning tasks, and complex problem-solving challenges. Evaluation criteria include the ability to provide clear explanations, justify conclusions, and adapt to novel problem variations (Forbus, 2008; Stenning & van Lambalgen, 2012).
+3. Knowledge integration tasks: Answering questions that require combining information from multiple sources, domains, or modalities. Evaluation criteria include the ability to make connections, draw inferences, and provide comprehensive and nuanced responses (Lenat, 1995; Clark et al., 2019).
+4. Perceptual challenges: Interpreting and describing visual scenes, identifying objects and their relationships, and reasoning about spatial and temporal properties. Evaluation criteria include accuracy, specificity, and grounding of language in perceptual content (Karpathy & Fei-Fei, 2015).
+5. Action-oriented tasks: Planning and executing sequences of actions to achieve specified goals in simulated or real-world environments. Evaluation criteria include efficiency, adaptability, and the ability to provide clear rationales for action choices (Levine et al., 2015; Hafner et al., 2021).
+6. Social scenarios: Engaging in social interactions that require understanding emotions, intentions, and contextual cues. Evaluation criteria include appropriateness of responses, perspective-taking ability, and adherence to social norms and expectations (Rashkin et al., 2019; Zadeh et al., 2018).
 
-Importantly, these task types are not evaluated in isolation, but are often combined and interleaved to assess the AI's ability to integrate and apply its understanding across multiple dimensions. For example, a social scenario might require the AI to draw on its language, reasoning, knowledge, and perceptual abilities in order to navigate the interaction successfully.
+Importantly, these task types are not evaluated in isolation, but are often combined and interleaved to assess the AI's ability to integrate and apply its understanding across multiple dimensions (Hernández-Orallo, 2017). For example, a social scenario might require the AI to draw on its language, reasoning, knowledge, and perceptual abilities in order to navigate the interaction successfully (Schlangen, 2022).
 
 ### 4.4 -- Advantages over the Turing Test and other frameworks
 
 The MUTT offers several key advantages over the Turing Test and other existing AI evaluation frameworks:
 
-1. Multidimensionality: By assessing a wide range of cognitive abilities and task types, the MUTT provides a more comprehensive and nuanced picture of an AI's understanding compared to the narrow focus of the Turing Test on language imitation.
-2. Grounding in real-world contexts: The MUTT emphasizes the importance of grounding language in perception, action, and social interaction, moving beyond purely text-based evaluations to assess the AI's ability to understand and engage with the world around it.
-3. Emphasis on depth and flexibility: The tasks and evaluation criteria of the MUTT are designed to probe deep, transferable understanding rather than shallow pattern matching or memorization. This helps to assess the AI's ability to adapt and generalize its knowledge to novel situations.
-4. Modularity and extensibility: The modular design of the MUTT allows for the incorporation of new task types, domains, and evaluation criteria as AI capabilities continue to advance. This helps to ensure that the framework remains relevant and informative over time, avoiding the limitations of narrow, fixed benchmarks.
-5. Transparency and interpretability: The MUTT places a strong emphasis on the AI's ability to provide clear explanations and justifications for its responses and actions. This helps to promote transparency and interpretability, enabling humans to better understand the reasoning behind the AI's decisions.
+1. Multidimensionality: By assessing a wide range of cognitive abilities and task types, the MUTT provides a more comprehensive and nuanced picture of an AI's understanding compared to the narrow focus of the Turing Test on language imitation (Benotti et al., 2022; Hernández-Orallo, 2017).
+2. Grounding in real-world contexts: The MUTT emphasizes the importance of grounding language in perception, action, and social interaction, moving beyond purely text-based evaluations to assess the AI's ability to understand and engage with the world around it (Kirsh, 2013; Steels & Brooks, 2018).
+3. Emphasis on depth and flexibility: The tasks and evaluation criteria of the MUTT are designed to probe deep, transferable understanding rather than shallow pattern matching or memorization. This helps to assess the AI's ability to adapt and generalize its knowledge to novel situations (Chollet, 2019; Geirhos et al., 2020).
+4. Modularity and extensibility: The modular design of the MUTT allows for the incorporation of new task types, domains, and evaluation criteria as AI capabilities continue to advance. This helps to ensure that the framework remains relevant and informative over time, avoiding the limitations of narrow, fixed benchmarks (Kiela et al., 2021).
+5. Transparency and interpretability: The MUTT places a strong emphasis on the AI's ability to provide clear explanations and justifications for its responses and actions. This helps to promote transparency and interpretability, enabling humans to better understand the reasoning behind the AI's decisions (Lipton, 2018; Wilks, 2007).
 
-By addressing these key limitations of previous approaches, the MUTT aims to provide a more rigorous, informative, and future-proof framework for evaluating the understanding capabilities of AI systems. As Anh, Bassam, and CASPAR continue to refine and apply this framework in their research, they hope to shed new light on the nature of machine understanding and pave the way for more advanced and reliable AI systems.
+By addressing these key limitations of previous approaches, the MUTT aims to provide a more rigorous, informative, and future-proof framework for evaluating the understanding capabilities of AI systems (Hernández-Orallo, 2017). As Anh, Bassam, and CASPAR continue to refine and apply this framework in their research, they hope to shed new light on the nature of machine understanding and pave the way for more advanced and reliable AI systems.
 
 ### 4.5 --Marching Orders
 
@@ -1287,33 +1283,33 @@ The team of humans and their AI assistant dived back into their notes, energized
 ### References for Chapter 4:
 
 
-Benotti, L., Hasan, M., Bhattacharyya, P., & Weizenbaum, J. (2022). Evaluating dialogue systems: The Turing Test and beyond. arXiv. https://doi.org/10.48550/arXiv.2203.16634
+Benotti, L., Hasan, M., Bhattacharyya, P., & Weizenbaum, J. (2022). Evaluating dialogue systems: The Turing Test and beyond. arXiv.
 
-Chollet, F. (2019). On the measure of intelligence. arXiv. https://doi.org/10.48550/arXiv.1911.01547
+Chollet, F. (2019). On the measure of intelligence. arXiv.
 
-Clark, P., Etzioni, O., Khot, T., Sabharwal, A., Tafjord, O., Turney, P. D., & Khashabi, D. (2019). From 'F' to 'A' on the N.Y. Regents Science Exams: An overview of the Aristo project. arXiv. https://doi.org/10.48550/arXiv.1909.01958
+Clark, P., Etzioni, O., Khot, T., Sabharwal, A., Tafjord, O., Turney, P. D., & Khashabi, D. (2019). From 'F' to 'A' on the N.Y. Regents Science Exams: An overview of the Aristo project. arXiv.
 
 Forbus, K. D. (2008). Qualitative reasoning. In F. van Harmelen, V. Lifschitz, & B. Porter (Eds.), Handbook of Knowledge Representation (pp. 361–393). Elsevier.
 
-Geirhos, R., Jacobsen, J. H., Michaelis, C., Zemel, R., Brendel, W., Bethge, M., & Wichmann, F. A. (2020). Shortcut learning in deep neural networks. Nature Machine Intelligence, 2(11), 665–673. https://doi.org/10.1038/s42256-020-00257-z
+Geirhos, R., Jacobsen, J. H., Michaelis, C., Zemel, R., Brendel, W., Bethge, M., & Wichmann, F. A. (2020). Shortcut learning in deep neural networks. Nature Machine Intelligence, 2(11), 665–673.
 
-Hafner, D., Lillicrap, T., Norouzi, M., & Ba, J. (2021). Mastering Atari with discrete world models. arXiv. https://doi.org/10.48550/arXiv.2010.02193
+Hafner, D., Lillicrap, T., Norouzi, M., & Ba, J. (2021). Mastering Atari with discrete world models. arXiv.
 
 Hernández-Orallo, J. (2017). The measure of all minds: Evaluating natural and artificial intelligence. Cambridge University Press.
 
-Karpathy, A., & Fei-Fei, L. (2015). Deep visual-semantic alignments for generating image descriptions. arXiv. https://doi.org/10.48550/arXiv.1412.2306
+Karpathy, A., & Fei-Fei, L. (2015). Deep visual-semantic alignments for generating image descriptions. arXiv.
 
-Kiela, D., Firooz, H., Mohan, A., Goyal, V., Singh, A., Ringshia, P., & Testuggine, D. (2021). Dynabench: Rethinking benchmarking in NLP. arXiv. https://doi.org/10.48550/arXiv.2104.14337
+Kiela, D., Firooz, H., Mohan, A., Goyal, V., Singh, A., Ringshia, P., & Testuggine, D. (2021). Dynabench: Rethinking benchmarking in NLP. arXiv.
 
-Kirsh, D. (2013). Embodied cognition and the magical future of interaction design. ACM Transactions on Computer-Human Interaction, 20(1), 1–30. https://doi.org/10.1145/2442106.2442109
+Kirsh, D. (2013). Embodied cognition and the magical future of interaction design. ACM Transactions on Computer-Human Interaction, 20(1), 1–30.
 
-Lenat, D. B. (1995). CYC: A large-scale investment in knowledge infrastructure. Communications of the ACM, 38(11), 33–38. https://doi.org/10.1145/219717.219745
+Lenat, D. B. (1995). CYC: A large-scale investment in knowledge infrastructure. Communications of the ACM, 38(11), 33–38.
 
-Levine, S., Finn, C., Darrell, T., & Abbeel, P. (2015). End-to-end training of deep visuomotor policies. arXiv. https://doi.org/10.48550/arXiv.1504.00702
+Levine, S., Finn, C., Darrell, T., & Abbeel, P. (2015). End-to-end training of deep visuomotor policies. arXiv.
 
-Lipton, Z. C. (2018). The mythos of model interpretability: In machine learning, the concept of interpretability is both important and slippery. Queue, 16(3), 31–57. https://doi.org/10.1145/3236386.3241340
+Lipton, Z. C. (2018). The mythos of model interpretability: In machine learning, the concept of interpretability is both important and slippery. Queue, 16(3), 31–57.
 
-Rashkin, H., Smith, E. M., Li, M., & Boureau, Y. L. (2019). Towards empathetic open-domain conversation models: A new benchmark and dataset. arXiv. https://doi.org/10.48550/arXiv.1811.00207
+Rashkin, H., Smith, E. M., Li, M., & Boureau, Y. L. (2019). Towards empathetic open-domain conversation models: A new benchmark and dataset. arXiv.
 
 Schlangen, D. (2022). Language models as agent models: Challenges and perspectives. arXiv.
 
@@ -1325,7 +1321,7 @@ Wilks, Y. (2007). Is there progress on talking sensibly to machines? Science, 31
 
 Yong, H. (2010, June 20). The Turing Test is dead. Long live the Lovelace Test. Nautilus.
 
-Zadeh, A., Liang, P. P., Poria, S., Vij, P., Cambria, E., & Morency, L. P. (2018). Multi-attention recurrent network for human communication comprehension. arXiv. https://doi.org/10.48550/arXiv.1802.00923
+Zadeh, A., Liang, P. P., Poria, S., Vij, P., Cambria, E., & Morency, L. P. (2018). Multi-attention recurrent network for human communication comprehension. arXiv.
 
 ________________
 
@@ -1715,7 +1711,7 @@ The trio shared a warm laugh together, their playful ribbing a reminder that eve
 
 #### 5.1.10 -- Understanding Deception
 
-Deception is a complex phenomenon that involves intentionally causing someone to have false beliefs for the purpose of misleading them. It is a ubiquitous part of human social interaction, occurring in various contexts ranging from harmless white lies to serious cases of fraud or betrayal. Evaluating an AI system's understanding of deception is crucial for several reasons:
+Deception is a complex phenomenon that involves intentionally causing someone to have false beliefs for the purpose of misleading them. It is a ubiquitous part of human social interaction, occurring in various contexts ranging from harmless white lies to serious cases of fraud or betrayal (Yampolskiy, 2024). Evaluating an AI system's understanding of deception is crucial for several reasons:
 
 1. Transparency and Trustworthiness: As AI systems become more advanced and integrated into decision-making processes, it is essential to ensure they have a robust grasp of deceptive behaviors. This understanding can help mitigate the risks of AI systems being misled or manipulated, and can foster greater transparency and trustworthiness in their outputs and decision-making processes.
 2. Social Intelligence: Deception is deeply intertwined with social cognition, theory of mind, and pragmatic communication abilities. Assessing an AI's understanding of deception can provide insights into the broader scope of its social intelligence and ability to navigate the nuances of human interaction.
@@ -2236,17 +2232,19 @@ Beierle, C., Kern-Isberner, G., Sauerwald, K., Bock, T., & Ragni, M. (2018). Tow
 
 Eiter, T., & Kern-Isberner, G. (2019). A brief survey on forgetting from a knowledge representation and reasoning perspective. KI-Künstliche Intelligenz, 33(1), 9-33.
 
-Ganguli, D., Lovitt, L., Kernion, J., Askell, A., Bai, Y., Chen, A., Conerly, T., Drain, D., Elhage, N., Hatfield-Dodds, Z., Hernandez, D., Jones, A., Kaplan, J., Kenton, Z., Ndousse, K., Olsson, C., Amodei, D., Brown, T., Clark, J., ... Krueger, G. (2023). The capacity for moral self-correction in large language models. arXiv. https://doi.org/10.48550/arXiv.2302.07459
+Ganguli, D., Lovitt, L., Kernion, J., Askell, A., Bai, Y., Chen, A., Conerly, T., Drain, D., Elhage, N., Hatfield-Dodds, Z., Hernandez, D., Jones, A., Kaplan, J., Kenton, Z., Ndousse, K., Olsson, C., Amodei, D., Brown, T., Clark, J., ... Krueger, G. (2023). The capacity for moral self-correction in large language models. arXiv.
 
 Ginart, A., Guan, M., Valiant, G., & Zou, J. Y. (2019). Making AI forget you: Data deletion in machine learning. In Advances in Neural Information Processing Systems (pp. 3518-3531).
 
-Hagendorff, T. (2024). Deception abilities emerged in large language models. arXiv. https://doi.org/10.48550/arXiv.2307.16513
+Hagendorff, T. (2024). Deception abilities emerged in large language models. arXiv.
 
-Park, P. S., Goldstein, S., O'Gara, A., Chen, M., & Hendrycks, D. (2024). Training deceptive LLMs that persist through safety training. arXiv. https://doi.org/10.48550/arXiv.2401.05566
+Park, P. S., Goldstein, S., O'Gara, A., Chen, M., & Hendrycks, D. (2024). Training deceptive LLMs that persist through safety training. arXiv.
 
-Perez, E., Ringer, S., Lukošiūtė, K., Nguyen, K., Chen, E., Heiner, S., Ruiz, C., Goldie, A., Kreutzer, J., Amodei, D., Brown, T., Olsson, C., & Kaplan, J. (2022). Discovering language model behaviors with model-written evaluations. arXiv. https://doi.org/10.48550/arXiv.2212.09251
+Perez, E., Ringer, S., Lukošiūtė, K., Nguyen, K., Chen, E., Heiner, S., Ruiz, C., Goldie, A., Kreutzer, J., Amodei, D., Brown, T., Olsson, C., & Kaplan, J. (2022). Discovering language model behaviors with model-written evaluations. arXiv.
 
-Xu, J., Wu, Z., Wang, C., & Jia, X. (2023). Machine unlearning: Solutions and challenges. arXiv. https://doi.org/10.48550/arXiv.2308.07061
+Xu, J., Wu, Z., Wang, C., & Jia, X. (2023). Machine unlearning: Solutions and challenges. arXiv.
+
+Yampolskiy, R. V. (2024). AI: Unexplainable, unpredictable, uncontrollable. CRC Press.
 
 
 
@@ -2507,15 +2505,15 @@ Alayrac, J. B., et al. (2022). Flamingo: a Visual Language Model for Few-Shot Le
 
 Bhargava, R. (2023, May 3). What are AI hallucinations? Built In.
 
-Bilan, M. (2024). Hallucinations in LLMs: What you need to know before integration. Master of Code Global. https://masterofcode.com/blog/hallucinations-in-llms-what-you-need-to-know-before-integration
+Bilan, M. (2024). Hallucinations in LLMs: What you need to know before integration. Master of Code Global.
 
 Dziri, N., et al. (2022). Detecting Hallucinated Content in Conditional Neural Sequence Generation. In Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics.
 
-Huang, L., Jiang, C., Yin, X., Guo, H., Wang, W., & Xiao, C. (2023). A survey on hallucination in large language models: Principles, taxonomy, challenges, and open questions. arXiv. https://arxiv.org/abs/2311.05232
+Huang, L., Jiang, C., Yin, X., Guo, H., Wang, W., & Xiao, C. (2023). A survey on hallucination in large language models: Principles, taxonomy, challenges, and open questions. arXiv.
 
 Lewis, P., et al. (2020). Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks. Advances in Neural Information Processing Systems, 33.
 
-Maleki, N., Padmanabhan, B., & Dutta, K. (2024). AI hallucinations: A misnomer worth clarifying. arXiv. https://arxiv.org/abs/2401.06796
+Maleki, N., Padmanabhan, B., & Dutta, K. (2024). AI hallucinations: A misnomer worth clarifying. arXiv.
 
 Marr, B. (2023, April 3). What are AI hallucinations and why are they a problem? Bernard Marr & Co.
 
@@ -2804,7 +2802,7 @@ The questions of what **should** be done in AI development are beyond the scope 
 
 ### References for Chapter 7:
 
-Adiwardana, D., Luong, M. T., So, D. R., Hall, J., Fiedel, N., Thoppilan, R., Yang, Z., Kulshreshtha, A., Nemade, G., Lu, Y., & Le, Q. V. (2020). Towards a human-like open-domain chatbot. arXiv. https://doi.org/10.48550/arXiv.2001.09977
+Adiwardana, D., Luong, M. T., So, D. R., Hall, J., Fiedel, N., Thoppilan, R., Yang, Z., Kulshreshtha, A., Nemade, G., Lu, Y., & Le, Q. V. (2020). Towards a human-like open-domain chatbot. arXiv.
 
 Bostrom, N. (2014). Superintelligence: Paths, dangers, strategies. Oxford University Press.
 
@@ -3065,33 +3063,33 @@ The researchers exchanged looks of solidarity and determination, united in their
 ### References for Chapter 8:
 
 
-Amodei, D., Olah, C., Steinhardt, J., Christiano, P., Schulman, J., & Mané, D. (2016). Concrete problems in AI safety. arXiv. https://doi.org/10.48550/arXiv.1606.06565
+Amodei, D., Olah, C., Steinhardt, J., Christiano, P., Schulman, J., & Mané, D. (2016). Concrete problems in AI safety. arXiv.
 
-Asghar, H. (2024). Trustworthy distributed AI systems: Robustness, privacy, and incentives. arXiv. https://doi.org/10.48550/arXiv.2402.01096
+Asghar, H. (2024). Trustworthy distributed AI systems: Robustness, privacy, and incentives. arXiv.
 
-Ashmore, R., Calinescu, R., & Paterson, C. (2019). Assuring the machine learning lifecycle: Desiderata, methods, and challenges. arXiv. https://doi.org/10.48550/arXiv.1905.04223
+Ashmore, R., Calinescu, R., & Paterson, C. (2019). Assuring the machine learning lifecycle: Desiderata, methods, and challenges. arXiv.
 
-Bommasani, R., Hudson, D. A., Adeli, E., Altman, R., Arora, S., von Arx, S., Bernstein, M. S., Bohg, J., Bosselut, A., Brunskill, E., Brynjolfsson, E., Buch, S., Card, D., Castellon, R., Chatterji, N., Chen, A., Creel, K., Davis, J. Q., Demszky, D., ... Liang, P. (2021). On the opportunities and risks of foundation models. arXiv. https://doi.org/10.48550/arXiv.2108.07258
+Bommasani, R., Hudson, D. A., Adeli, E., Altman, R., Arora, S., von Arx, S., Bernstein, M. S., Bohg, J., Bosselut, A., Brunskill, E., Brynjolfsson, E., Buch, S., Card, D., Castellon, R., Chatterji, N., Chen, A., Creel, K., Davis, J. Q., Demszky, D., ... Liang, P. (2021). On the opportunities and risks of foundation models. arXiv.
 
-Brundage, M., Avin, S., Wang, J., Belfield, H., Krueger, G., Hadfield, G., Khlaaf, H., Yang, J., Toner, H., Fong, R., Maharaj, T., Koh, P. W., Hooker, S., Leung, J., Trask, A., Bluemke, E., Lebensold, J., O'Keefe, C., Koren, M., ... Anderljung, M. (2020). Toward trustworthy AI development: Mechanisms for supporting verifiable claims. arXiv. https://doi.org/10.48550/arXiv.2004.07213
+Brundage, M., Avin, S., Wang, J., Belfield, H., Krueger, G., Hadfield, G., Khlaaf, H., Yang, J., Toner, H., Fong, R., Maharaj, T., Koh, P. W., Hooker, S., Leung, J., Trask, A., Bluemke, E., Lebensold, J., O'Keefe, C., Koren, M., ... Anderljung, M. (2020). Toward trustworthy AI development: Mechanisms for supporting verifiable claims. arXiv.
 
 Došilović, F. K., Brčić, M., & Hlupić, N. (2018). Explainable artificial intelligence: A survey. In 2018 41st International Convention on Information and Communication Technology, Electronics and Microelectronics (MIPRO) (pp. 0210-0215). IEEE.
 
-Fan, M., Wang, D., Li, J., & Liu, Y. (2022). Human-AI collaboration for UX evaluation: Effects of explanation and synchronization. ACM Transactions on Computer-Human Interaction, 29(6), 1-27. https://doi.org/10.1145/3512943
+Fan, M., Wang, D., Li, J., & Liu, Y. (2022). Human-AI collaboration for UX evaluation: Effects of explanation and synchronization. ACM Transactions on Computer-Human Interaction, 29(6), 1-27.
 
-Fjeld, J., Achten, N., Hilligoss, H., Nagy, A., & Srikumar, M. (2020). Principled artificial intelligence: Mapping consensus in ethical and rights-based approaches to principles for AI. SSRN Journal. https://doi.org/10.2139/ssrn.3518482
+Fjeld, J., Achten, N., Hilligoss, H., Nagy, A., & Srikumar, M. (2020). Principled artificial intelligence: Mapping consensus in ethical and rights-based approaches to principles for AI. SSRN Journal.
 
 Ganguli, D., Askell, A., Schiefer, N., Liao, T., Hernandez, D., Kadavath, S., Drain, D., Hubinger, E., Bai, Y., Kundu, S., Erlich, Z., Benson, B., Bengio, Y., Krueger, G., McCandlish, S., Kaplan, J., & Christiano, P. (2023). Challenges in evaluating AI systems. Anthropic.
 
-Hernández-Orallo, J. (2017). The measure of all minds: Evaluating natural and artificial intelligence. Cambridge University Press. https://doi.org/10.1017/9781316594179
+Hernández-Orallo, J. (2017). The measure of all minds: Evaluating natural and artificial intelligence. Cambridge University Press.
 
-Rahwan, I. (2018). Society-in-the-loop: Programming the algorithmic social contract. Ethics and Information Technology, 20(1), 5-14. https://doi.org/10.1007/s10676-017-9430-8
+Rahwan, I. (2018). Society-in-the-loop: Programming the algorithmic social contract. Ethics and Information Technology, 20(1), 5-14.
 
 Siegel, E. (2023, January 23). Why A.I. is a big fat lie. Big Think.
 
-Whittlestone, J., Nyrup, R., Alexandrova, A., Dihal, K., & Cave, S. (2019). The role and limits of principles in AI ethics: Towards a focus on tensions. In Proceedings of the 2019 AAAI/ACM Conference on AI, Ethics, and Society (pp. 195-200). ACM. https://doi.org/10.1145/3306618.3314289
+Whittlestone, J., Nyrup, R., Alexandrova, A., Dihal, K., & Cave, S. (2019). The role and limits of principles in AI ethics: Towards a focus on tensions. In Proceedings of the 2019 AAAI/ACM Conference on AI, Ethics, and Society (pp. 195-200). ACM.
 
-Yurtsever, E., Lambert, J., Carballo, A., & Takeda, K. (2020). A survey of autonomous driving: Common practices and emerging technologies. IEEE Access, 8, 58443-58469. https://doi.org/10.1109/ACCESS.2020.2983149
+Yurtsever, E., Lambert, J., Carballo, A., & Takeda, K. (2020). A survey of autonomous driving: Common practices and emerging technologies. IEEE Access, 8, 58443-58469.
 
 
 _______________
