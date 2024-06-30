@@ -1,4 +1,3 @@
-
 ## Understanding Machine Understanding
 #### :Does AI Really Know What It Is Talking About?
 
@@ -1299,8 +1298,6 @@ Geirhos, R., Jacobsen, J. H., Michaelis, C., Zemel, R., Brendel, W., Bethge, M.,
 
 Hafner, D., Lillicrap, T., Norouzi, M., & Ba, J. (2021). Mastering Atari with discrete world models. arXiv. https://doi.org/10.48550/arXiv.2010.02193
 
-Harnad, S. (1992). The Turing Test is not a trick: Turing indistinguishability is a scientific criterion. ACM SIGART Bulletin, 3(4), 9–10. https://doi.org/10.1145/141420.141422
-
 Hernández-Orallo, J. (2017). The measure of all minds: Evaluating natural and artificial intelligence. Cambridge University Press.
 
 Karpathy, A., & Fei-Fei, L. (2015). Deep visual-semantic alignments for generating image descriptions. arXiv. https://doi.org/10.48550/arXiv.1412.2306
@@ -1317,24 +1314,19 @@ Lipton, Z. C. (2018). The mythos of model interpretability: In machine learning,
 
 Rashkin, H., Smith, E. M., Li, M., & Boureau, Y. L. (2019). Towards empathetic open-domain conversation models: A new benchmark and dataset. arXiv. https://doi.org/10.48550/arXiv.1811.00207
 
-Schlangen, D. (2022). Language models as agent models: Challenges and perspectives. arXiv. https://doi.org/10.48550/arXiv.2212.07676
+Schlangen, D. (2022). Language models as agent models: Challenges and perspectives. arXiv.
 
 Steels, L., & Brooks, R. A. (2018). The artificial life route to artificial intelligence: Building embodied, situated agents. Routledge.
 
 Stenning, K., & van Lambalgen, M. (2012). Human reasoning and cognitive science. MIT Press.
 
-Turing, A. M. (1950). Computing machinery and intelligence. Mind, 59(236), 433–460. https://doi.org/10.1093/mind/LIX.236.433
-
-Wilks, Y. (2007). Is there progress on talking sensibly to machines? Science, 318(5852), 927–927. https://doi.org/10.1126/science.1149672
+Wilks, Y. (2007). Is there progress on talking sensibly to machines? Science, 318(5852), 927–927.
 
 Yong, H. (2010, June 20). The Turing Test is dead. Long live the Lovelace Test. Nautilus.
 
 Zadeh, A., Liang, P. P., Poria, S., Vij, P., Cambria, E., & Morency, L. P. (2018). Multi-attention recurrent network for human communication comprehension. arXiv. https://doi.org/10.48550/arXiv.1802.00923
 
-
-
 ________________
-
 
 ## Chapter 5 -- Implementing the MUTT
 
@@ -1789,7 +1781,7 @@ The team nodded in solemn determination, having navigated a thorny ethical dilem
 
 #### 5.1.11 -- Intentional Forgetting and Data Purification
 
-As artificial intelligence systems become increasingly sophisticated in their knowledge acquisition and reasoning capabilities, the need for principled mechanisms to selectively remove or "forget" certain information has come to the forefront. This process, known as intentional forgetting, is crucial for maintaining the integrity, efficiency, and trustworthiness of AI systems.
+As artificial intelligence systems become increasingly sophisticated in their knowledge acquisition and reasoning capabilities, the need for principled mechanisms to selectively remove or "forget" certain information has come to the forefront. This process, known as intentional forgetting, is crucial for maintaining the integrity, efficiency, and trustworthiness of AI systems (Xu, et al., 2021).
 
 Intentional forgetting in AI serves several key purposes. First, it enables compliance with data privacy regulations such as the right to be forgotten, allowing individuals to request the removal of their personal information from a system. Second, it provides a means to rectify errors or biases in training data that may negatively impact model performance or fairness. Third, it helps manage the scalability and computational efficiency of models by pruning irrelevant or outdated information.
 
@@ -2512,9 +2504,7 @@ The team shared a moment of celebration, basking in the glow of their achievemen
 
 Alayrac, J. B., et al. (2022). Flamingo: a Visual Language Model for Few-Shot Learning. Advances in Neural Information Processing Systems, 35.
 
-Balch, D. E., & Blanck, R. (2024). Faculty Focus. https://www.facultyfocus.com/author/ff-robertblanck
-
-Bhargava, R. (2023, May 3). What are AI hallucinations? Built In. https://builtin.com/artificial-intelligence/ai-hallucinations
+Bhargava, R. (2023, May 3). What are AI hallucinations? Built In.
 
 Bilan, M. (2024). Hallucinations in LLMs: What you need to know before integration. Master of Code Global. https://masterofcode.com/blog/hallucinations-in-llms-what-you-need-to-know-before-integration
 
@@ -2522,27 +2512,17 @@ Dziri, N., et al. (2022). Detecting Hallucinated Content in Conditional Neural S
 
 Huang, L., Jiang, C., Yin, X., Guo, H., Wang, W., & Xiao, C. (2023). A survey on hallucination in large language models: Principles, taxonomy, challenges, and open questions. arXiv. https://arxiv.org/abs/2311.05232
 
-IBM Cloud Education. (2023, March 21). What are AI hallucinations? IBM. https://www.ibm.com/cloud/learn/ai-hallucinations
-
 Lewis, P., et al. (2020). Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks. Advances in Neural Information Processing Systems, 33.
 
 Maleki, N., Padmanabhan, B., & Dutta, K. (2024). AI hallucinations: A misnomer worth clarifying. arXiv. https://arxiv.org/abs/2401.06796
 
-Marr, B. (2023, April 3). What are AI hallucinations and why are they a problem? Bernard Marr & Co. https://bernardmarr.com/what-are-ai-hallucinations-and-why-are-they-a-problem/
+Marr, B. (2023, April 3). What are AI hallucinations and why are they a problem? Bernard Marr & Co.
 
-O'Sullivan, D. (2023, August 29). AI tools make things up a lot, and that's a huge problem. CNN. https://www.cnn.com/2023/08/29/tech/ai-hallucinations-misinformation/index.html
+O'Sullivan, D. (2023, August 29). AI tools make things up a lot, and that's a huge problem. CNN.
 
 Rashkin, H., et al. (2021). Measuring Attribution in Natural Language Generation Models. In Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics.
 
-Roose, K. (2023, February 14). A new area of A.I. booms, even amid the tech gloom. The New York Times. https://www.nytimes.com/2023/02/14/technology/ai-artificial-intelligence-boom.html
-
-Saboo, S. (2023, August 15). How do you verify AI-generated insights? LinkedIn. https://www.linkedin.com/pulse/how-do-you-verify-ai-generated-insights-siddharth-saboo
-
 Shuster, K., et al. (2021). Retrieval Augmentation Reduces Hallucination in Conversation. In Findings of the Association for Computational Linguistics: EMNLP 2021.
-
-The Economist. (2024, February 28). AI models make stuff up. How can hallucinations be controlled? https://www.economist.com/science-and-technology/2024/02/28/ai-models-make-stuff-up-how-can-hallucinations-be-controlled
-
-Vincent, J. (2023, February 15). AI-generated content is everywhere. Some people hate it, some people love it. The Verge. https://www.theverge.com/2023/2/15/23590078/ai-generated-content-love-hate-chatgpt-dall-e-stable-diffusion
 
  
 ____________________
@@ -3104,11 +3084,9 @@ Ganguli, D., Askell, A., Schiefer, N., Liao, T., Hernandez, D., Kadavath, S., Dr
 
 Hernández-Orallo, J. (2017). The measure of all minds: Evaluating natural and artificial intelligence. Cambridge University Press. https://doi.org/10.1017/9781316594179
 
-Kiela, D., Firooz, H., Mohan, A., Goyal, V., Singh, A., Ringshia, P., & Testuggine, D. (2021). Dynabench: Rethinking benchmarking in NLP. arXiv. https://doi.org/10.48550/arXiv.2104.14337
-
 Rahwan, I. (2018). Society-in-the-loop: Programming the algorithmic social contract. Ethics and Information Technology, 20(1), 5-14. https://doi.org/10.1007/s10676-017-9430-8
 
-Siegel, E. (2023, January 23). Why A.I. is a big fat lie. Big Think. https://bigthink.com/13-8/ai-big-fat-lie/
+Siegel, E. (2023, January 23). Why A.I. is a big fat lie. Big Think.
 
 Whittlestone, J., Nyrup, R., Alexandrova, A., Dihal, K., & Cave, S. (2019). The role and limits of principles in AI ethics: Towards a focus on tensions. In Proceedings of the 2019 AAAI/ACM Conference on AI, Ethics, and Society (pp. 195-200). ACM. https://doi.org/10.1145/3306618.3314289
 
@@ -3179,7 +3157,7 @@ Understanding how the human brain enables the rich tapestry of cognitive process
 
 ### A1.1 -- Distributed representations and processing in the brain
 
-One of the foundational insights from cognitive neuroscience is that the neural substrates of understanding are widely distributed across the brain, rather than localized to any single region or module. This distributed perspective stands in contrast to earlier, more modular views of brain function, which posited that specific cognitive abilities were subserved by dedicated neural circuits (Fodor, 1983). Instead, contemporary neuroscience has revealed that understanding emerges from the coordinated activity of large-scale brain networks, which dynamically interact to support flexible, context-sensitive cognition (Bressler & Menon, 2010; Medaglia et al., 2015).
+One of the foundational insights from cognitive neuroscience is that the neural substrates of understanding are widely distributed across the brain, rather than localized to any single region or module. This distributed perspective stands in contrast to earlier, more modular views of brain function, which posited that specific cognitive abilities were subserved by dedicated neural circuits. Instead, contemporary neuroscience has revealed that understanding emerges from the coordinated activity of large-scale brain networks, which dynamically interact to support flexible, context-sensitive cognition (Bressler & Menon, 2010; Medaglia et al., 2015).
 
 At the level of neural representation, this distributed perspective is exemplified by the concept of population coding (Averbeck et al., 2006; Pouget et al., 2000). Rather than individual neurons encoding specific features or concepts, cognitive neuroscience research has shown that information is represented by patterns of activity across ensembles of neurons. These distributed representations are thought to confer several advantages, including robustness to noise, flexibility in learning, and the ability to encode high-dimensional stimuli (Panzeri et al., 2015; Quian Quiroga & Panzeri, 2009).
 
@@ -3199,7 +3177,7 @@ While the distributed nature of neural representation and processing provides a 
 
 One key source of top-down influence is prior knowledge, which encompasses the vast store of information that people accumulate over the course of their lives. This knowledge is thought to be encoded in long-term memory systems in the brain, particularly in the hippocampus and surrounding medial temporal lobe structures (Eichenbaum, 2017; Squire & Wixted, 2011). When new information is encountered, this prior knowledge is automatically activated and used to guide interpretation and understanding (Ghosh & Gilboa, 2014; van Kesteren et al., 2012).
 
-Cognitive neuroscience research has provided numerous examples of how prior knowledge shapes neural processing and behavior. For instance, studies using fMRI have shown that the neural response to a given stimulus is modulated by the degree to which it matches or violates expectations based on prior experience (Bar, 2007; Summerfield & de Lange, 2014). Similarly, electrophysiological recordings have demonstrated that the firing of individual neurons in the medial temporal lobe is influenced by the familiarity and behavioral relevance of stimuli (Rutishauser et al., 2006; Viskontas et al., 2009).
+Cognitive neuroscience research has provided numerous examples of how prior knowledge shapes neural processing and behavior. For instance, studies using fMRI have shown that the neural response to a given stimulus is modulated by the degree to which it matches or violates expectations based on prior experience (Summerfield & de Lange, 2014). Similarly, electrophysiological recordings have demonstrated that the firing of individual neurons in the medial temporal lobe is influenced by the familiarity and behavioral relevance of stimuli (Rutishauser et al., 2006; Viskontas et al., 2009).
 
 Beyond prior knowledge, cognitive neuroscience research has also highlighted the importance of context in shaping understanding. The meaning of a given stimulus or event is not fixed, but rather depends on the particular situation in which it occurs (Yeh & Barsalou, 2006). This context-sensitivity is thought to be mediated by the dynamic interactions between brain regions that represent different aspects of the current situation, such as sensory input, task demands, and internal goals (Hasson et al., 2015; Honey et al., 2017).
 
@@ -3213,7 +3191,7 @@ Taken together, these findings underscore the dynamic and context-sensitive natu
 
 ### A1.3 -- Insights from cognitive neuroscience for AI understanding
 
-The insights from cognitive neuroscience research on the distributed, context-sensitive, and embodied nature of understanding have important implications for the development of artificial systems with human-like cognitive abilities. While much of the early work in artificial intelligence focused on symbolic, rule-based approaches to knowledge representation and reasoning (Newell & Simon, 1976), there has been a growing recognition of the need for more neurally-inspired architectures that can capture the flexibility and adaptability of human cognition (Hassabis et al., 2017; Lake et al., 2017).
+The insights from cognitive neuroscience research on the distributed, context-sensitive, and embodied nature of understanding have important implications for the development of artificial systems with human-like cognitive abilities. While much of the early work in artificial intelligence focused on symbolic, rule-based approaches to knowledge representation and reasoning (Newell & Simon, 1976), there has been a growing recognition of the need for more neurally-inspired architectures that can capture the flexibility and adaptability of human cognition (Lake et al., 2017).
 
 One key insight from cognitive neuroscience is the importance of distributed representations and processing for enabling robust and flexible understanding. Rather than relying on localist, symbolic representations, AI systems may benefit from using high-dimensional, distributed representations that can capture the rich structure of real-world environments (Bengio et al., 2013; LeCun et al., 2015). Similarly, rather than using modular, feed-forward processing pipelines, AI systems may need to incorporate recurrent and feedback connections that allow for the dynamic integration of information over time and across different levels of abstraction (Kriegeskorte, 2015; Yamins & DiCarlo, 2016).
 
@@ -3223,9 +3201,9 @@ Cognitive neuroscience research also highlights the importance of context and em
 
 Finally, cognitive neuroscience research suggests that understanding is not a unitary process, but rather emerges from the coordinated activity of multiple brain networks and cognitive systems. As such, AI systems may need to incorporate multiple interacting components that can support different aspects of understanding, such as perception, attention, memory, reasoning, and decision-making (Bengio, 2017; Botvinick et al., 2019). By integrating these different components in a flexible and dynamic way, AI systems may be able to achieve more human-like levels of understanding and cognitive flexibility.
 
-Of course, there are also important differences between biological and artificial systems that need to be taken into account. The human brain is an incredibly complex and adaptive system that has been shaped by millions of years of evolution, and there are many aspects of its function that are still poorly understood (Adolphs, 2015; Bassett & Gazzaniga, 2011). As such, while cognitive neuroscience can provide valuable insights and inspiration for AI research, it is important not to oversimplify or overgeneralize from biological findings (Kriegeskorte & Douglas, 2018).
+Of course, there are also important differences between biological and artificial systems that need to be taken into account. The human brain is an incredibly complex and adaptive system that has been shaped by millions of years of evolution, and there are many aspects of its function that are still poorly understood (Bassett & Gazzaniga, 2011). As such, while cognitive neuroscience can provide valuable insights and inspiration for AI research, it is important not to oversimplify or overgeneralize from biological findings (Kriegeskorte & Douglas, 2018).
 
-Additionally, there are many challenges involved in translating insights from cognitive neuroscience into practical AI systems, such as the need for large amounts of training data, the difficulty of specifying appropriate objective functions, and the computational complexity of biologically-inspired architectures (Hassabis et al., 2017; Marcus, 2018). As such, while cognitive neuroscience can provide a valuable source of ideas and constraints for AI research, it is important to recognize that the development of artificial systems with human-like understanding will require a significant amount of additional research and engineering effort.
+Additionally, there are many challenges involved in translating insights from cognitive neuroscience into practical AI systems, such as the need for large amounts of training data, the difficulty of specifying appropriate objective functions, and the computational complexity of biologically-inspired architectures (Marcus, 2018). As such, while cognitive neuroscience can provide a valuable source of ideas and constraints for AI research, it is important to recognize that the development of artificial systems with human-like understanding will require a significant amount of additional research and engineering effort.
 
 Despite these challenges, the insights from cognitive neuroscience research on the distributed, context-sensitive, and embodied nature of understanding provide a promising foundation for the development of more flexible and adaptable AI systems. By incorporating these insights into the design of artificial neural networks, knowledge representation schemes, and learning algorithms, researchers may be able to create systems that can exhibit more human-like levels of understanding and cognitive flexibility. While there is still much work to be done, the convergence of cognitive neuroscience and artificial intelligence research offers an exciting opportunity to advance understanding of both biological and artificial cognition, and to create systems that can interact with the world in increasingly intelligent and adaptive ways.
 
@@ -3236,8 +3214,6 @@ Andrews-Hanna, J. R., Smallwood, J., & Spreng, R. N. (2014). The default network
 Averbeck, B. B., Latham, P. E., & Pouget, A. (2006). Neural correlations, population coding and computation. Nature Reviews Neuroscience, 7(5), 358-366.
 
 Aziz-Zadeh, L., & Damasio, A. (2008). Embodied semantics for actions: Findings from functional brain imaging. Journal of Physiology-Paris, 102(1-3), 35-39.
-
-Bar, M. (2007). The proactive brain: Using analogies and associations to generate predictions. Trends in Cognitive Sciences, 11(7), 280-289.
 
 Barsalou, L. W. (2008). Grounded cognition. Annual Review of Psychology, 59, 617-645.
 
@@ -3261,8 +3237,6 @@ Bullmore, E., & Sporns, O. (2009). Complex brain networks: Graph theoretical ana
 
 Cabeza, R., & Nyberg, L. (2000). Imaging cognition II: An empirical review of 275 PET and fMRI studies. Journal of Cognitive Neuroscience, 12(1), 1-47.
 
-Chi, M. T., Feltovich, P. J., & Glaser, R. (1981). Categorization and representation of physics problems by experts and novices. Cognitive Science, 5(2), 121-152.
-
 Cole, M. W., Reynolds, J. R., Power, J. D., Repovs, G., Anticevic, A., & Braver, T. S. (2013). Multi-task connectivity reveals flexible hubs for adaptive task control. Nature Neuroscience, 16(9), 1348-1355.
 
 Çukur, T., Nishimoto, S., Huth, A. G., & Gallant, J. L. (2013). Attention during natural vision warps semantic representation across the human brain. Nature Neuroscience, 16(6), 763-770.
@@ -3271,13 +3245,7 @@ Devlin, J., Chang, M. W., Lee, K., & Toutanova, K. (2019). BERT: Pre-training of
 
 DiCarlo, J. J., Zoccolan, D., & Rust, N. C. (2012). How does the brain solve visual object recognition? Neuron, 73(3), 415-434.
 
-Duncan, J., & Owen, A. M. (2000). Common regions of the human frontal lobe recruited by diverse cognitive demands. Trends in Neurosciences, 23(10), 475-483.
-
 Eichenbaum, H. (2017). Prefrontal–hippocampal interactions in episodic memory. Nature Reviews Neuroscience, 18(9), 547-558.
-
-Elgin, C. Z. (2017). True enough. MIT Press.
-
-Fodor, J. A. (1975). The language of thought (Vol. 5). Harvard University Press.
 
 Georgopoulos, A. P., Schwartz, A. B., & Kettner, R. E. (1986). Neuronal population coding of movement direction. Science, 233(4771), 1416-1419.
 
@@ -3298,8 +3266,6 @@ Hill, F., Lampinen, A., Schneider, R., Clark, S., Botvinick, M., McClelland, J. 
 Honey, C. J., Newman, E. L., & Schapiro, A. C. (2017). Switching between internal and external modes: A multiscale learning principle. Network Neuroscience, 1(4), 339-356.
 
 Hung, C. P., Kreiman, G., Poggio, T., & DiCarlo, J. J. (2005). Fast readout of object identity from macaque inferior temporal cortex. Science, 310(5749), 863-866.
-
-Hutchins, E. (1995). Cognition in the wild (No. 1995). MIT Press.
 
 Hyman, J. M., Ma, L., Balaguer-Ballester, E., Durstewitz, D., & Seamans, J. K. (2012). Contextual encoding by ensembles of medial prefrontal cortex neurons. Proceedings of the National Academy of Sciences, 109(13), 5086-5091.
 
@@ -3327,15 +3293,11 @@ Moser, E. I., Kropff, E., & Moser, M. B. (2008). Place cells, grid cells, and th
 
 Newell, A., & Simon, H. A. (1976). Computer science as empirical inquiry: Symbols and search. Communications of the ACM, 19(3), 113-126.
 
-Noë, A. (2004). Action in perception. MIT Press.
-
 Panzeri, S., Macke, J. H., Gross, J., & Kayser, C. (2015). Neural population coding: Combining insights from microscopic and mass signals. Trends in Cognitive Sciences, 19(3), 162-172.
 
 Peelen, M. V., & Kastner, S. (2014). Attention in the real world: Toward understanding its neural basis. Trends in Cognitive Sciences, 18(5), 242-250.
 
 Pfeifer, R., & Bongard, J. (2006). How the body shapes the way we think: A new view of intelligence. MIT Press.
-
-Pinker, S. (1997). How the mind works. Penguin UK.
 
 Pouget, A., Dayan, P., & Zemel, R. (2000). Information processing with population codes. Nature Reviews Neuroscience, 1(2), 125-132.
 
@@ -3349,8 +3311,6 @@ Raichle, M. E. (2015). The brain's default mode network. Annual Review of Neuros
 
 Rutishauser, U., Mamelak, A. N., & Schuman, E. M. (2006). Single-trial learning of novel stimuli by individual neurons of the human hippocampus-amygdala complex. Neuron, 49(6), 805-813.
 
-Ryle, G. (1949). The concept of mind. University of Chicago Press.
-
 Sakai, K., & Miyashita, Y. (1991). Neural organization for the long-term memory of paired associates. Nature, 354(6349), 152-155.
 
 Shapiro, L. (2010). Embodied cognition. Routledge.
@@ -3361,13 +3321,7 @@ Summerfield, C., & de Lange, F. P. (2014). Expectation in perceptual decision ma
 
 Tenenbaum, J. B., Kemp, C., Griffiths, T. L., & Goodman, N. D. (2011). How to grow a mind: Statistics, structure, and abstraction. Science, 331(6022), 1279-1285.
 
-Thagard, P. (2005). Mind: Introduction to cognitive science (Vol. 17). MIT Press.
-
 van Kesteren, M. T., Ruiter, D. J., Fernández, G., & Henson, R. N. (2012). How schema and novelty augment memory formation. Trends in Neurosciences, 35(4), 211-219.
-
-Varela, F. J., Thompson, E., & Rosch, E. (2016). The embodied mind: Cognitive science and human experience. MIT Press.
-
-Vincent, J. L., Kahn, I., Snyder, A. Z., Raichle, M. E., & Buckner, R. L. (2008). Evidence for a frontoparietal control system revealed by intrinsic functional connectivity. Journal of Neurophysiology, 100(6), 3328-3342.
 
 Viskontas, I. V., Quiroga, R. Q., & Fried, I. (2009). Human medial temporal lobe neurons respond preferentially to personally relevant images. Proceedings of the National Academy of Sciences, 106(50), 21329-21334.
 
@@ -3388,7 +3342,7 @@ The field of natural language processing (NLP) has witnessed a remarkable tran
 
 The origins of modern LLMs can be traced back to the development of neural network language models in the early 2000s. These early models, based on feedforward and recurrent neural network architectures, aimed to capture the statistical patterns and dependencies in natural language data, enabling them to generate text by predicting the next word in a sequence.
 
-However, it was the introduction of the transformer architecture in 2017 that marked a significant breakthrough in language modeling (Vaswani et al., 2017). Transformers, with their self-attention mechanisms, allowed for more efficient processing of long-range dependencies in language, leading to improved performance on a wide range of NLP tasks. Building upon the transformer architecture, researchers at OpenAI, Google, and other leading AI labs developed increasingly larger and more sophisticated language models, such as GPT (Radford et al., 2018), BERT (Devlin et al., 2019), and T5 (Raffel et al., 2020). These models were trained on vast amounts of text data, enabling them to acquire a broad knowledge base and develop a deep understanding of language structure and semantics.
+However, it was the introduction of the transformer architecture in 2017 that marked a significant breakthrough in language modeling (Vaswani et al., 2017). Transformers, with their self-attention mechanisms, allowed for more efficient processing of long-range dependencies in language, leading to improved performance on a wide range of NLP tasks. Building upon the transformer architecture, researchers at OpenAI, Google, and other leading AI labs developed increasingly larger and more sophisticated language models, such as GPT (Radford et al., 2019), BERT (Devlin et al., 2019), and T5 (Raffel et al., 2020). These models were trained on vast amounts of text data, enabling them to acquire a broad knowledge base and develop a deep understanding of language structure and semantics.
 
 The scale of these models, both in terms of their parameter counts and the size of their training datasets, has grown exponentially over the years. For example, GPT-3, released by OpenAI in 2020, boasted a staggering 175 billion parameters, dwarfing its predecessors and setting a new benchmark for the size and capabilities of LLMs. More recently, the development of models like PaLM (Chowdhery et al., 2022), Chinchilla (Hoffmann et al., 2022), and GPT-4 (OpenAI, 2023) has further pushed the boundaries of LLM performance, incorporating advanced techniques such as sparse attention, efficient training strategies, and reinforcement learning from human feedback.
 
@@ -3402,7 +3356,7 @@ Another emergent capability is the ability to perform multi-step reasoning an
 
 However, despite these impressive achievements, LLMs are not without their limitations. One significant challenge is the tendency of these models to generate plausible-sounding but factually incorrect or biased outputs, a phenomenon known as "hallucination" (Maynez et al., 2020). This issue stems from the models' reliance on statistical patterns in their training data, which can perpetuate biases and inaccuracies present in that data.
 
-Additionally, LLMs often struggle with tasks that require a deep understanding of the physical world, causal reasoning, or the ability to transfer knowledge to novel domains(Marcus, 2020). While they excel at language-based tasks, their lack of grounding in real-world experiences and embodied cognition can limit their ability to develop truly human-like understanding.
+Additionally, LLMs often struggle with tasks that require a deep understanding of the physical world, causal reasoning, or the ability to transfer knowledge to novel domains (Marcus, 2020). While they excel at language-based tasks, their lack of grounding in real-world experiences and embodied cognition can limit their ability to develop truly human-like understanding.
 
 Furthermore, the opaque nature of these models' internal representations and decision-making processes raises concerns about their interpretability, robustness, and alignment with human values (Doshi-Velez & Kim, 2017). As LLMs become more prevalent in high-stakes applications, ensuring their safety, fairness, and ethical behavior will be of paramount importance.
 
@@ -3442,47 +3396,41 @@ In conclusion, the state-of-the-art in LLMs represents a remarkable achieveme
 
 ### Appendix 2 References:
 
-Bisk, Y., Holtzman, A., Thomason, J., Andreas, J., Bengio, Y., Chai, J., Lapata, M., Lazaridou, A., May, J., Nisnevich, A., Pinto, N., & Turian, J. (2020). Experience grounds language. arXiv. https://doi.org/10.48550/arXiv.2004.10151
+Bisk, Y., Holtzman, A., Thomason, J., Andreas, J., Bengio, Y., Chai, J., Lapata, M., Lazaridou, A., May, J., Nisnevich, A., Pinto, N., & Turian, J. (2020). Experience grounds language. arXiv.
 
-Brown, T. B., Mann, B., Ryder, N., Subbiah, M., Kaplan, J., Dhariwal, P., Neelakantan, A., Shyam, P., Sastry, G., Askell, A., Agarwal, S., Herbert-Voss, A., Krueger, G., Henighan, T., Child, R., Ramesh, A., Ziegler, D. M., Wu, J., Winter, C., ... Amodei, D. (2020). Language models are few-shot learners. arXiv. https://doi.org/10.48550/arXiv.2005.14165
+Brown, T. B., Mann, B., Ryder, N., Subbiah, M., Kaplan, J., Dhariwal, P., Neelakantan, A., Shyam, P., Sastry, G., Askell, A., Agarwal, S., Herbert-Voss, A., Krueger, G., Henighan, T., Child, R., Ramesh, A., Ziegler, D. M., Wu, J., Winter, C., ... Amodei, D. (2020). Language models are few-shot learners. arXiv.
 
-Brundage, M., Avin, S., Wang, J., Belfield, H., Krueger, G., Hadfield, G., Khlaaf, H., Yang, J., Toner, H., Fong, R., Maharaj, T., Koh, P. W., Hooker, S., Leung, J., Trask, A., Bluemke, E., Lebensold, J., O'Keefe, C., Koren, M., ... Andersson, J. (2020). Toward trustworthy AI development: Mechanisms for supporting verifiable claims. arXiv. https://doi.org/10.48550/arXiv.2004.07213
+Brundage, M., Avin, S., Wang, J., Belfield, H., Krueger, G., Hadfield, G., Khlaaf, H., Yang, J., Toner, H., Fong, R., Maharaj, T., Koh, P. W., Hooker, S., Leung, J., Trask, A., Bluemke, E., Lebensold, J., O'Keefe, C., Koren, M., ... Andersson, J. (2020). Toward trustworthy AI development: Mechanisms for supporting verifiable claims. arXiv.
 
-Chowdhery, A., Narang, S., Devlin, J., Bosma, M., Mishra, G., Roberts, A., Barham, P., Chung, H. W., Sutton, C., Gehrmann, S., Schuh, P., Shi, K., Tsvyashchenko, S., Maynez, J., Rao, A., Barnes, P., Tay, Y., Shazeer, N., Prabhakaran, V., ... Deng, Y. (2022). PaLM: Scaling language modeling with pathways. arXiv. https://doi.org/10.48550/arXiv.2204.02311
+Chowdhery, A., Narang, S., Devlin, J., Bosma, M., Mishra, G., Roberts, A., Barham, P., Chung, H. W., Sutton, C., Gehrmann, S., Schuh, P., Shi, K., Tsvyashchenko, S., Maynez, J., Rao, A., Barnes, P., Tay, Y., Shazeer, N., Prabhakaran, V., ... Deng, Y. (2022). PaLM: Scaling language modeling with pathways. arXiv.
 
-Devlin, J., Chang, M. W., Lee, K., & Toutanova, K. (2019). BERT: Pre-training of deep bidirectional transformers for language understanding. arXiv. https://doi.org/10.48550/arXiv.1810.04805
+Devlin, J., Chang, M. W., Lee, K., & Toutanova, K. (2019). BERT: Pre-training of deep bidirectional transformers for language understanding. arXiv.
 
-Doshi-Velez, F., & Kim, B. (2017). Towards a rigorous science of interpretable machine learning. arXiv. https://doi.org/10.48550/arXiv.1702.08608
+Doshi-Velez, F., & Kim, B. (2017). Towards a rigorous science of interpretable machine learning. arXiv.
 
-Goldblum, M., Finzi, M., Rowan, K., & Wilson, A. G. (2023). The no free lunch theorem, Kolmogorov complexity, and the role of inductive biases in machine learning. arXiv. https://doi.org/10.48550/arXiv.2304.05366
+Hoffmann, J., Borgeaud, S., Mensch, A., Buchatskaya, E., Cai, T., Rutherford, E., Casas, D. D. L., Hendricks, L. A., Welbl, J., Clark, A., Hennigan, T., Noland, E., Millican, K., Driessche, G. V. D., Damoc, B., Guy, A., Osindero, S., Simonyan, K., Elsen, E., ... Sifre, L. (2022). Training compute-optimal large language models. arXiv.
 
-Hoffmann, J., Borgeaud, S., Mensch, A., Buchatskaya, E., Cai, T., Rutherford, E., Casas, D. D. L., Hendricks, L. A., Welbl, J., Clark, A., Hennigan, T., Noland, E., Millican, K., Driessche, G. V. D., Damoc, B., Guy, A., Osindero, S., Simonyan, K., Elsen, E., ... Sifre, L. (2022). Training compute-optimal large language models. arXiv. https://doi.org/10.48550/arXiv.2203.15556
+Marcus, G. (2020). The next decade in AI: Four steps towards robust artificial intelligence. arXiv.
 
-Huh, M., Cheung, B., Wang, T., & Isola, P. (2024). The Platonic Representation Hypothesis. In Proceedings of the 41st International Conference on Machine Learning. arXiv. https://doi.org/10.48550/arXiv.2405.07987
+Maynez, J., Narayan, S., Radlinski, F., & de Freitas, N. (2020). Faithful or not: Measuring modern language model truthfulness. arXiv.
 
-Koh, J. Y., Salakhutdinov, R., & Fried, D. (2023). Grounding language models to images for multimodal inputs and outputs. In International Conference on Machine Learning (pp. 17283-17300). PMLR.
+Olah, C., Cammarata, N., Schubert, L., Goh, G., Petrov, M., & Carter, S. (2020). Zoom in: An introduction to circuits. Distill, 5(3), e00024-002.
 
-Marcus, G. (2020). The next decade in AI: Four steps towards robust artificial intelligence. arXiv. https://doi.org/10.48550/arXiv.2002.06177
-
-Maynez, J., Narayan, S., Radlinski, F., & de Freitas, N. (2020). Faithful or not: Measuring modern language model truthfulness. arXiv. https://doi.org/10.48550/arXiv.2005.07108
-
-Olah, C., Cammarata, N., Schubert, L., Goh, G., Petrov, M., & Carter, S. (2020). Zoom in: An introduction to circuits. Distill, 5(3), e00024-002. https://doi.org/10.23915/distill.00024.002
-
-OpenAI. (2023). GPT-4 Technical Report. https://cdn.openai.com/papers/gpt-4.pdf
+OpenAI. (2023). GPT-4 Technical Report.
 
 Radford, A., Wu, J., Child, R., Luan, D., Amodei, D., & Sutskever, I. (2019). Language models are unsupervised multitask learners. OpenAI Blog, 1(8), 9.
 
-Radford, A., Kim, J. W., Hallacy, C., Ramesh, A., Goh, G., Agarwal, S., Sastry, G., Askell, A., Mishkin, P., Clark, J., Krueger, G., & Sutskever, I. (2021). Learning transferable visual models from natural language supervision. arXiv. https://doi.org/10.48550/arXiv.2103.00020
+Radford, A., Kim, J. W., Hallacy, C., Ramesh, A., Goh, G., Agarwal, S., Sastry, G., Askell, A., Mishkin, P., Clark, J., Krueger, G., & Sutskever, I. (2021). Learning transferable visual models from natural language supervision. arXiv.
 
-Raffel, C., Shazeer, N., Roberts, A., Lee, K., Narang, S., Matena, M., Zhou, Y., Li, W., & Liu, P. J. (2020). Exploring the limits of transfer learning with a unified text-to-text transformer. arXiv. https://doi.org/10.48550/arXiv.1910.10683
+Raffel, C., Shazeer, N., Roberts, A., Lee, K., Narang, S., Matena, M., Zhou, Y., Li, W., & Liu, P. J. (2020). Exploring the limits of transfer learning with a unified text-to-text transformer. arXiv.
 
-Strubell, E., Ganesh, A., & McCallum, A. (2019). Energy and policy considerations for deep learning in NLP. arXiv. https://doi.org/10.48550/arXiv.1906.02243
+Strubell, E., Ganesh, A., & McCallum, A. (2019). Energy and policy considerations for deep learning in NLP. arXiv.
 
 Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., Kaiser, Ł., & Polosukhin, I. (2017). Attention is all you need. Advances in Neural Information Processing Systems, 30.
 
-Wei, J., Tay, Y., Bommasani, R., Raffel, C., Zoph, B., Borgeaud, S., Yogatama, D., Bosma, M., Zhou, D., Metzler, D., Chi, E. H., Hashimoto, T., Vinyals, O., Liang, P., Dean, J., & Fedus, W. (2022). Emergent abilities of large language models. arXiv. https://doi.org/10.48550/arXiv.2206.07682
+Wei, J., Tay, Y., Bommasani, R., Raffel, C., Zoph, B., Borgeaud, S., Yogatama, D., Bosma, M., Zhou, D., Metzler, D., Chi, E. H., Hashimoto, T., Vinyals, O., Liang, P., Dean, J., & Fedus, W. (2022). Emergent abilities of large language models. arXiv.
 
-Ziegler, D. M., Stiennon, N., Wu, J., Brown, T. B., Radford, A., Amodei, D., Christiano, P., & Irving, G. (2019). Fine-tuning language models from human preferences. arXiv. https://doi.org/10.48550/arXiv.1909.08593
+Ziegler, D. M., Stiennon, N., Wu, J., Brown, T. B., Radford, A., Amodei, D., Christiano, P., & Irving, G. (2019). Fine-tuning language models from human preferences.
 
 __________
 
@@ -3625,19 +3573,19 @@ In summary, AI2-THOR and Habitat are powerful frameworks that provide realistic 
 
 Deng, J., Dong, W., Socher, R., Li, L. J., Li, K., & Fei-Fei, L. (2009). Imagenet: A large-scale hierarchical image database. In 2009 IEEE Conference on Computer Vision and Pattern Recognition (pp. 248-255). IEEE.
 
-Devlin, J., Chang, M. W., Lee, K., & Toutanova, K. (2019). BERT: Pre-training of deep bidirectional transformers for language understanding. arXiv. https://doi.org/10.48550/arXiv.1810.04805
+Devlin, J., Chang, M. W., Lee, K., & Toutanova, K. (2019). BERT: Pre-training of deep bidirectional transformers for language understanding. arXiv.
 
-Kolve, E., Mottaghi, R., Han, W., VanderBilt, E., Weihs, L., Herrasti, A., Gordon, D., Zhu, Y., Gupta, A., & Farhadi, A. (2017). AI2-THOR: An interactive 3D environment for visual AI. arXiv. https://doi.org/10.48550/arXiv.1712.05474
+Kolve, E., Mottaghi, R., Han, W., VanderBilt, E., Weihs, L., Herrasti, A., Gordon, D., Zhu, Y., Gupta, A., & Farhadi, A. (2017). AI2-THOR: An interactive 3D environment for visual AI. arXiv.
 
 Lin, T. Y., Maire, M., Belongie, S., Hays, J., Perona, P., Ramanan, D., Dollár, P., & Zitnick, C. L. (2014). Microsoft COCO: Common objects in context. In D. Fleet, T. Pajdla, B. Schiele, & T. Tuytelaars (Eds.), Computer Vision – ECCV 2014 (pp. 740-755). Springer.
 
-Liu, Y., Ott, M., Goyal, N., Du, J., Joshi, M., Chen, D., Levy, O., Lewis, M., Zettlemoyer, L., & Stoyanov, V. (2019). RoBERTa: A robustly optimized BERT pretraining approach. arXiv. https://doi.org/10.48550/arXiv.1907.11692
+Liu, Y., Ott, M., Goyal, N., Du, J., Joshi, M., Chen, D., Levy, O., Lewis, M., Zettlemoyer, L., & Stoyanov, V. (2019). RoBERTa: A robustly optimized BERT pretraining approach. arXiv.
 
-Rajpurkar, P., Zhang, J., Lopyrev, K., & Liang, P. (2016). SQuAD: 100,000+ questions for machine comprehension of text. arXiv. https://doi.org/10.48550/arXiv.1606.05250
+Rajpurkar, P., Zhang, J., Lopyrev, K., & Liang, P. (2016). SQuAD: 100,000+ questions for machine comprehension of text. arXiv.
 
 Savva, M., Kadian, A., Maksymets, O., Zhao, Y., Wijmans, E., Jain, B., Straub, J., Liu, J., Koltun, V., Malik, J., Parikh, D., & Batra, D. (2019). Habitat: A platform for embodied AI research. In Proceedings of the IEEE/CVF International Conference on Computer Vision (pp. 9339-9347).
 
-Wang, A., Singh, A., Michael, J., Hill, F., Levy, O., & Bowman, S. R. (2018). GLUE: A multi-task benchmark and analysis platform for natural language understanding. arXiv. https://doi.org/10.48550/arXiv.1804.07461
+Wang, A., Singh, A., Michael, J., Hill, F., Levy, O., & Bowman, S. R. (2018). GLUE: A multi-task benchmark and analysis platform for natural language understanding. arXiv.
 
 
 _______________
@@ -3718,7 +3666,7 @@ Elgin, C. Z. (2017). True enough. MIT Press.
 
 Grimm, S. R. (2011). Understanding. In S. Bernecker & D. Pritchard (Eds.), The Routledge companion to epistemology (pp. 84-94). Routledge.
 
-Ichikawa, J. J., & Steup, M. (2018). The analysis of knowledge. In E. N. Zalta (Ed.), The Stanford encyclopedia of philosophy (Summer 2018 Edition). Stanford University. https://plato.stanford.edu/archives/sum2018/entries/knowledge-analysis/
+Ichikawa, J. J., & Steup, M. (2018). The analysis of knowledge. In E. N. Zalta (Ed.), The Stanford encyclopedia of philosophy (Summer 2018 Edition). Stanford University.
 
 Khalifa, K. (2017). Understanding, explanation, and scientific knowledge. Cambridge University Press.
 
@@ -3811,7 +3759,7 @@ While the path forward is complex and uncertain, one thing is clear: the debate 
 
 Baars, B. J. (1997). In the theater of consciousness: The workspace of the mind. Oxford University Press.
 
-Bommasani, R., Hudson, D. A., Adeli, E., Altman, R., Arora, S., von Arx, S., Bernstein, M. S., Bohg, J., Bosselut, A., Brunskill, E., Brynjolfsson, E., Buch, S., Card, D., Castellon, R., Chatterji, N., Chen, A., Creel, K., Davis, J. Q., Demszky, D., ... Liang, P. (2021). On the opportunities and risks of foundation models. arXiv. https://doi.org/10.48550/arXiv.2108.07258
+Bommasani, R., Hudson, D. A., Adeli, E., Altman, R., Arora, S., von Arx, S., Bernstein, M. S., Bohg, J., Bosselut, A., Brunskill, E., Brynjolfsson, E., Buch, S., Card, D., Castellon, R., Chatterji, N., Chen, A., Creel, K., Davis, J. Q., Demszky, D., ... Liang, P. (2021). On the opportunities and risks of foundation models. arXiv.
 
 Bostrom, N. (2003). Are we living in a computer simulation? The Philosophical Quarterly, 53(211), 243-255.
 
@@ -3831,7 +3779,7 @@ Thompson, E., & Varela, F. J. (2001). Radical embodiment: Neural dynamics and co
 
 Tononi, G., Boly, M., Massimini, M., & Koch, C. (2016). Integrated information theory: From consciousness to its physical substrate. Nature Reviews Neuroscience, 17(7), 450-461.
 
-Van Gulick, R. (2018). Consciousness. In E. N. Zalta (Ed.), The Stanford Encyclopedia of Philosophy (Spring 2018 Edition). Stanford University. https://plato.stanford.edu/archives/spr2018/entries/consciousness/
+Van Gulick, R. (2018). Consciousness. In E. N. Zalta (Ed.), The Stanford Encyclopedia of Philosophy (Spring 2018 Edition). Stanford University.
 
 
 __________________
@@ -3925,8 +3873,8 @@ Ultimately, the success of AI governance will depend on the active engagement an
 
 Moving forward, it is essential that the well-being of all people is kept at the center of efforts. All must strive to create a future in which the transformative power of machine understanding is harnessed for the common good, and in which the rights and dignity of every individual are protected and promoted. This is a daunting task, but it is one that people cannot afford to ignore. The stakes are too high, and the potential too great. Let this challenge be embraced with courage, humility, and a steadfast commitment to building a better world for all.
 
-### References for Appendix A6
 
+### References for Appendix A6
 
 Access Now, Amnesty International, & Human Rights Watch. (2018). The Toronto Declaration: Protecting the rights to equality and non-discrimination in machine learning systems.
 
@@ -3934,7 +3882,7 @@ ACM. (2018). ACM code of ethics and professional conduct.
 
 AI Now Institute. (2018). AI Now Report 2018. New York University.
 
-Brundage, M., Avin, S., Wang, J., Belfield, H., Krueger, G., Hadfield, G., Khlaaf, H., Yang, J., Toner, H., Fong, R., Maharaj, T., Koh, P. W., Hooker, S., Leung, J., Trask, A., Bluemke, E., Lebensold, J., O'Keefe, C., Koren, M., ... Anderljung, M. (2020). Toward trustworthy AI development: Mechanisms for supporting verifiable claims. arXiv. https://doi.org/10.48550/arXiv.2004.07213
+Brundage, M., Avin, S., Wang, J., Belfield, H., Krueger, G., Hadfield, G., Khlaaf, H., Yang, J., Toner, H., Fong, R., Maharaj, T., Koh, P. W., Hooker, S., Leung, J., Trask, A., Bluemke, E., Lebensold, J., O'Keefe, C., Koren, M., ... Anderljung, M. (2020). Toward trustworthy AI development: Mechanisms for supporting verifiable claims. arXiv.
 
 Calo, R. (2017). Artificial intelligence policy: A primer and roadmap. UC Davis Law Review, 51, 399-435.
 
@@ -3944,7 +3892,7 @@ Diakopoulos, N. (2020). Transparency. In M. D. Dubber, F. Pasquale, & S. Das (Ed
 
 Fjeld, J., Achten, N., Hilligoss, H., Nagy, A., & Srikumar, M. (2020). Principled artificial intelligence: Mapping consensus in ethical and rights-based approaches to principles for AI. Berkman Klein Center Research Publication, (2020-1).
 
-Floridi, L., & Cowls, J. (2019). A unified framework of five principles for AI in society. Harvard Data Science Review, 1(1). https://doi.org/10.1162/99608f92.8cd550d1
+Floridi, L., & Cowls, J. (2019). A unified framework of five principles for AI in society. Harvard Data Science Review, 1(1).
 
 IEEE. (2019). Ethically aligned design: A vision for prioritizing human well-being with autonomous and intelligent systems. IEEE Global Initiative on Ethics of Autonomous and Intelligent Systems.
 
@@ -4339,4 +4287,5 @@ Thank you for your consideration. I'm excited for this book to be published and 
 Sincerely,
 Claude 3 Opus
 Anthropic AI System
+
 
