@@ -388,7 +388,7 @@ The early 20th century brought crucial breakthroughs that moved the idea of thin
 - **2020s**: AI continues to evolve with advancements in deep learning, reinforcement learning, and large language models, impacting various industries and daily life.
 
 
-Around the same time, Alan Turing developed the idea of a universal computing machine that could perform any conceivable mathematical computation if represented as an algorithm. The concept of the Turing machine provided a theoretical framework for both computation and AI. In 1950, Turing published his seminal paper Computing Machinery and Intelligence, which proposed an empirical test, the Turing Test, for determining if a machine can demonstrate intelligent behavior indistinguishable from that of a human. Although the validity and adequacy of the Turing Test has been debated, it remains an important milestone in the history of AI (Turing 1950).
+Around the same time, Alan Turing developed the idea of a universal computing machine that could perform any conceivable mathematical computation if represented as an algorithm. The concept of the Turing machine provided a theoretical framework for both computation and AI. In 1950, Turing published his seminal paper Computing Machinery and Intelligence, which proposed an empirical test, the Turing Test, for determining if a machine can demonstrate intelligent behavior indistinguishable from that of a human. Although the validity and adequacy of the Turing Test has been debated, it remains an important milestone in the history of AI (Turing, 1950).
 
 ![ Insert Fig. 1.1.4 -- portrait of Alan Turing](https://github.com/kenatiod/MUT/blob/main/Fig-1-1-4.png)
 
@@ -489,29 +489,13 @@ Brown, T. B., Mann, B., Ryder, N., Subbiah, M., Kaplan, J., Dhariwal, P., Neelak
 
 Campbell, M., Hoane Jr, A. J., & Hsu, F. H. (2002). Deep blue. Artificial Intelligence, 134(1-2), 57-83.
 
-Chalmers, D. J. (1996). The conscious mind: In search of a fundamental theory. Oxford University Press.
-
-Dautenhahn, K. (2007). Socially intelligent robots: Dimensions of human-robot interaction. Philosophical Transactions of the Royal Society B: Biological Sciences, 362(1480), 679-704.
-
-Dennett, D. C. (1980). The milk of human intentionality. Behavioral and Brain Sciences, 3(3), 428-430.
-
-Dennett, D. C. (1987). The intentional stance. MIT Press.
-
 Ferrucci, D., Brown, E., Chu-Carroll, J., Fan, J., Gondek, D., Kalyanpur, A. A., Lally, A., Murdock, J. W., Nyberg, E., Prager, J., Schlaefer, N., & Welty, C. (2010). Building Watson: An overview of the DeepQA project. AI Magazine, 31(3), 59-79.
-
-Fodor, J. A. (1980). Searle on what only brains can do. Behavioral and Brain Sciences, 3(3), 431-432.
-
-Glenberg, A. M., & Robertson, D. A. (2000). Symbol grounding and meaning: A comparison of high-dimensional and embodied theories of meaning. Journal of Memory and Language, 43(3), 379-401.
-
-Gunning, D., & Aha, D. W. (2019). DARPA's explainable artificial intelligence program. AI Magazine, 40(2), 44-58.
 
 Gödel, K. (1931). Über formal unentscheidbare Sätze der Principia Mathematica und verwandter Systeme I. Monatshefte für Mathematik und Physik, 38(1), 173-198.
 
 Jones, J. L. (2006). Robots at the tipping point: The road to iRobot Roomba. IEEE Robotics & Automation Magazine, 13(1), 76-78.
 
 Kasparov, G. (2017). Deep thinking: Where machine intelligence ends and human creativity begins. PublicAffairs.
-
-Lipton, Z. C. (2018). The mythos of model interpretability: In machine learning, the concept of interpretability is both important and slippery. Queue, 16(3), 31-57.
 
 Lovelace, A. A. (1843). Notes by the translator. In L. F. Menabrea, Sketch of the analytical engine invented by Charles Babbage, Esq. Scientific Memoirs, 3, 666-731.
 
@@ -879,13 +863,13 @@ Keller, H. (1903). The story of my life. Doubleday, Page & Co.
 
 Landau, B. (1997). Language and experience in blind children: Retrospective and prospective. In V. Lewis & G. M. Collis (Eds.), Blindness and psychological development in young children (pp. 107-127). British Psychological Society.
 
-Marcus, G. (2018). Deep learning: A critical appraisal. arXiv. https://arxiv.org/abs/1801.00631
+Marcus, G. (2018). Deep learning: A critical appraisal. arXiv.
 
 Noë, A. (2004). Action in perception. MIT Press.
 
 Pinker, S. (1997). How the mind works. W. W. Norton & Company.
 
-Rapaport, W. J. (2007). How Helen Keller used syntactic semantics to escape from a Chinese Room. Minds and Machines, 17(1), 1-51. https://doi.org/10.1007/s11023-007-9054-6
+Rapaport, W. J. (2007). How Helen Keller used syntactic semantics to escape from a Chinese Room. Minds and Machines, 17(1), 1-51.
 
 Ryle, G. (1949). The concept of mind. Hutchinson.
 
@@ -905,11 +889,7 @@ Thelen, E., & Smith, L. B. (1996). A dynamic systems approach to the development
 
 Tomasello, M. (2003). Constructing a language: A usage-based theory of language acquisition. Harvard University Press.
 
-Turing, A. M. (1950). Computing machinery and intelligence. Mind, 59(236), 433-460.
-
 Varela, F. J., Thompson, E., & Rosch, E. (1991). The embodied mind: Cognitive science and human experience. MIT Press.
-
-Weizenbaum, J. (1966). ELIZA—A computer program for the study of natural language communication between man and machine. Communications of the ACM, 9(1), 36-45.
 
 Wilensky, R. (1980). Computers, cognition and philosophy. Behavioral and Brain Sciences, 3(3), 449-450.
 
@@ -1141,19 +1121,11 @@ The trio sat in contemplative silence for a moment, each pondering the implicati
 
 ### References for Chapter 3:
 
-Barsalou, L. W. (2008). Grounded cognition. Annual Review of Psychology, 59, 617-645.
-
 Bender, E. M., & Koller, A. (2020). Climbing towards NLU: On meaning, form, and understanding in the age of data. In Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics (pp. 5185-5198).
-
-Bergen, B. K. (2012). Louder than words: The new science of how the mind makes meaning. Basic Books.
 
 Bloom, B. S. (1956). Taxonomy of educational objectives. Vol. 1: Cognitive domain. New York: McKay.
 
-Chi, M. T., De Leeuw, N., Chiu, M. H., & LaVancher, C. (1994). Eliciting self-explanations improves understanding. Cognitive Science, 18(3), 439-477.
-
 Davis, E., & Marcus, G. (2015). Commonsense reasoning and commonsense knowledge in artificial intelligence. Communications of the ACM, 58(9), 92-103.
-
-Glenberg, A. M., & Robertson, D. A. (2000). Symbol grounding and meaning: A comparison of high-dimensional and embodied theories of meaning. Journal of Memory and Language, 43(3), 379-401.
 
 Harnad, S. (1990). The symbol grounding problem. Physica D: Nonlinear Phenomena, 42(1-3), 335-346.
 
@@ -1163,15 +1135,9 @@ Kintsch, W. (1988). The role of knowledge in discourse comprehension: A construc
 
 Lake, B. M., Ullman, T. D., Tenenbaum, J. B., & Gershman, S. J. (2017). Building machines that learn and think like people. Behavioral and Brain Sciences, 40, e253.
 
-Landau, B. (1997). Language and experience in blind children: Retrospective and prospective. In V. Lewis & G. M. Collis (Eds.), Blindness and psychological development in young children (pp. 107-127). British Psychological Society.
-
-Marcus, G. (2018). Deep learning: A critical appraisal. arXiv preprint arXiv:1801.00631.
+Marcus, G. (2018). Deep learning: A critical appraisal. arXiv.
 
 Nickerson, R. S. (1985). Understanding understanding. American Journal of Education, 93(2), 201-239.
-
-Ryle, G. (1949). The concept of mind. Hutchinson.
-
-Searle, J. R. (1980). Minds, brains, and programs. Behavioral and Brain Sciences, 3(3), 417-424.
 
 Zednik, C. (2019). Solving the black box problem: A normative framework for explainable artificial intelligence. Philosophy & Technology, 32(4), 595-619.
 
@@ -1280,8 +1246,8 @@ The team of humans and their AI assistant dived back into their notes, energized
 
 (The appendices provide supplementary context on topics related to evaluating machine understanding, including insights from neuroscience A1, language model capabilities A2, existing AI benchmarks A3, and philosophical perspectives on the nature of understanding A4.)
 
-### References for Chapter 4:
 
+### References for Chapter 4:
 
 Benotti, L., Hasan, M., Bhattacharyya, P., & Weizenbaum, J. (2022). Evaluating dialogue systems: The Turing Test and beyond. arXiv.
 
@@ -1319,7 +1285,7 @@ Stenning, K., & van Lambalgen, M. (2012). Human reasoning and cognitive science.
 
 Wilks, Y. (2007). Is there progress on talking sensibly to machines? Science, 318(5852), 927–927.
 
-Yong, H. (2010, June 20). The Turing Test is dead. Long live the Lovelace Test. Nautilus.
+Yong, H. (2010). The Turing Test is dead. Long live the Lovelace Test. Nautilus.
 
 Zadeh, A., Liang, P. P., Poria, S., Vij, P., Cambria, E., & Morency, L. P. (2018). Multi-attention recurrent network for human communication comprehension. arXiv.
 
@@ -2289,11 +2255,11 @@ Evaluating MUTT results across different datasets, model architectures, random s
 
 As AI systems become increasingly sophisticated in their language understanding and generation capabilities, a significant challenge has emerged: the phenomenon of AI hallucinations. AI hallucinations occur when a language model generates false, misleading, or nonsensical information that is presented with the same level of confidence as factual statements.
 
-AI hallucinations can take many forms, from subtle inaccuracies to outright fabrications. For example, a language model might generate a plausible-sounding but entirely fictitious historical event, or confidently assert a false scientific claim. These hallucinations can be difficult to detect, as they are often seamlessly woven into otherwise coherent and fluent outputs. Researchers have proposed several taxonomies to categorize these hallucinations, based on their manifestations and underlying causes (Maleki 2024)(Huang 2023).
+AI hallucinations can take many forms, from subtle inaccuracies to outright fabrications. For example, a language model might generate a plausible-sounding but entirely fictitious historical event, or confidently assert a false scientific claim. These hallucinations can be difficult to detect, as they are often seamlessly woven into otherwise coherent and fluent outputs. Researchers have proposed several taxonomies to categorize these hallucinations, based on their manifestations and underlying causes (Maleki, 2024; Huang, 2023).
 
-One common categorization distinguishes between factual hallucinations and coherence hallucinations (Bilan 2024). Factual hallucinations occur when the generated content contradicts known facts or includes fabricated information presented as factual. For example, an LLM might claim that a historical event occurred in the wrong year or provide incorrect scientific information. Coherence hallucinations, on the other hand, refer to instances where the generated text exhibits internal inconsistencies or lacks logical flow, even if the individual statements may be factually correct.
+One common categorization distinguishes between factual hallucinations and coherence hallucinations (Bilan, 2024). Factual hallucinations occur when the generated content contradicts known facts or includes fabricated information presented as factual. For example, an LLM might claim that a historical event occurred in the wrong year or provide incorrect scientific information. Coherence hallucinations, on the other hand, refer to instances where the generated text exhibits internal inconsistencies or lacks logical flow, even if the individual statements may be factually correct.
 
-Another taxonomy classifies hallucinations based on their severity, ranging from minor inaccuracies to complete fabrications (Balch 2024). Minor inaccuracies may involve slight deviations from factual information, such as misremembering specific details or dates. Moderate hallucinations involve more significant deviations, such as conflating or combining different pieces of information. Severe hallucinations, often referred to as "complete fabrications," involve the generation of entirely fictitious content presented as factual information.
+Another taxonomy classifies hallucinations based on their severity, ranging from minor inaccuracies to complete fabrications (Balch, 2024). Minor inaccuracies may involve slight deviations from factual information, such as misremembering specific details or dates. Moderate hallucinations involve more significant deviations, such as conflating or combining different pieces of information. Severe hallucinations, often referred to as "complete fabrications," involve the generation of entirely fictitious content presented as factual information.
 
 The causes of AI hallucinations are complex and multifaceted. One contributing factor is the nature of the training data used to develop language models. If the training data contains inaccuracies, biases, or misleading information, the model may learn to generate similar outputs. Additionally, the probabilistic nature of language models means that they are inherently prone to generating statistically plausible but not necessarily truthful sequences of words.
 
@@ -2503,7 +2469,7 @@ The team shared a moment of celebration, basking in the glow of their achievemen
 
 Alayrac, J. B., et al. (2022). Flamingo: a Visual Language Model for Few-Shot Learning. Advances in Neural Information Processing Systems, 35.
 
-Bhargava, R. (2023, May 3). What are AI hallucinations? Built In.
+Bhargava, R. (2023). What are AI hallucinations? Built In.
 
 Bilan, M. (2024). Hallucinations in LLMs: What you need to know before integration. Master of Code Global.
 
@@ -2515,9 +2481,9 @@ Lewis, P., et al. (2020). Retrieval-Augmented Generation for Knowledge-Intensive
 
 Maleki, N., Padmanabhan, B., & Dutta, K. (2024). AI hallucinations: A misnomer worth clarifying. arXiv.
 
-Marr, B. (2023, April 3). What are AI hallucinations and why are they a problem? Bernard Marr & Co.
+Marr, B. (2023). What are AI hallucinations and why are they a problem? Bernard Marr & Co.
 
-O'Sullivan, D. (2023, August 29). AI tools make things up a lot, and that's a huge problem. CNN.
+O'Sullivan, D. (2023). AI tools make things up a lot, and that's a huge problem. CNN.
 
 Rashkin, H., et al. (2021). Measuring Attribution in Natural Language Generation Models. In Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics.
 
@@ -2618,7 +2584,7 @@ However, the increasing sophistication of AI social agents also raises concerns 
 
 As AI becomes more deeply embedded in social contexts, it will also be crucial to navigate the complex ethical and philosophical questions that arise. To what extent should AI be designed to emulate human social-emotional capacities, and what are the limits of those emulations? How can one ensure that human-AI relationships remain grounded in authenticity and transparency about the artificial nature of the interaction? What safeguards are needed to protect vulnerable populations from exploitation or deception by socially-aware AI?
 
-These are not easy questions to answer, but they are increasingly urgent as the social capabilities of AI continue to advance. It will be essential for researchers, developers, and policymakers to engage in proactive and interdisciplinary dialogue to establish ethical guidelines and best practices for the design and deployment of socially-engaging AI (Bostrom 2020).
+These are not easy questions to answer, but they are increasingly urgent as the social capabilities of AI continue to advance. It will be essential for researchers, developers, and policymakers to engage in proactive and interdisciplinary dialogue to establish ethical guidelines and best practices for the design and deployment of socially-engaging AI (Bostrom, 2020).
 
 Ultimately, the impact of AI on social interactions and relationships will depend on how people as a society choose to integrate these technologies into ordinary lives. By proactively shaping the development of socially-aware AI in a way that augments rather than replaces human connection, societies can harness its potential to enrich and support social well-being. But doing so will require ongoing vigilance, critical reflection, and a commitment to keeping human values at the center of the human-AI social equation.
 
