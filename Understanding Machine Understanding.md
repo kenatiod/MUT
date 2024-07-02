@@ -296,7 +296,7 @@ This is the question that drives Anh and Bassam's research, and the mystery you'
 
 ...
 
-As Anh and Bassam sat in their lab, a palpable sense of unease filled the room. Anh furrowed her brow, lost in thought, while she contemplated the enormity of the task before them. She taped her pencil restlessly and said, "You know Bassam, the more I think about it, the more daunting this whole 'test for machine understanding' project seems."
+As Anh and Bassam sat in their lab, a palpable sense of unease filled the room. Anh furrowed her brow, lost in thought, while she contemplated the enormity of the task before them. She tapped her pencil restlessly and said, "You know Bassam, the more I think about it, the more daunting this whole 'test for machine understanding' project seems."
 
 Bassam did not look up from the computer screen, but asked, "Why's that? You're the one who's been insisting we need rigorous ways to evaluate CASPAR's capabilities and general safety."
 
@@ -485,21 +485,13 @@ Bohn, D. (2019). Amazon says 100 million Alexa devices have been sold. The Verge
 
 Boole, G. (1854). An investigation of the laws of thought: On which are founded the mathematical theories of logic and probabilities. Walton and Maberly.
 
-Brown, T. B., Mann, B., Ryder, N., Subbiah, M., Kaplan, J., Dhariwal, P., Neelakantan, A., Shyam, P., Sastry, G., Askell, A., Agarwal, S., Herbert-Voss, A., Krueger, G., Henighan, T., Child, R., Ramesh, A., Ziegler, D. M., Wu, J., Winter, C., ... Amodei, D. (2020). Language models are few-shot learners.
-
 Campbell, M., Hoane Jr, A. J., & Hsu, F. H. (2002). Deep blue. Artificial Intelligence, 134(1-2), 57-83.
 
 Ferrucci, D., Brown, E., Chu-Carroll, J., Fan, J., Gondek, D., Kalyanpur, A. A., Lally, A., Murdock, J. W., Nyberg, E., Prager, J., Schlaefer, N., & Welty, C. (2010). Building Watson: An overview of the DeepQA project. AI Magazine, 31(3), 59-79.
 
 Gödel, K. (1931). Über formal unentscheidbare Sätze der Principia Mathematica und verwandter Systeme I. Monatshefte für Mathematik und Physik, 38(1), 173-198.
 
-Jones, J. L. (2006). Robots at the tipping point: The road to iRobot Roomba. IEEE Robotics & Automation Magazine, 13(1), 76-78.
-
-Kasparov, G. (2017). Deep thinking: Where machine intelligence ends and human creativity begins. PublicAffairs.
-
 Lovelace, A. A. (1843). Notes by the translator. In L. F. Menabrea, Sketch of the analytical engine invented by Charles Babbage, Esq. Scientific Memoirs, 3, 666-731.
-
-Markoff, J. (2005). What the dormouse said: How the sixties counterculture shaped the personal computer industry. Penguin.
 
 McCartney, S. (1999). ENIAC: The triumphs and tragedies of the world's first computer. Walker & Company.
 
@@ -933,7 +925,7 @@ Bassam looked around the shop and tried to focus by asking, "Why am I asking mys
 
 Anh ran her hands through her hair with a sigh and said, "I feel like we're getting bogged down in the deep metaphysics of this whole endeavor. If we want to make real progress, we need to start defining some concrete criteria for evaluating understanding."
 
-Bassam nodded and replied, "You're right, as fascinating as these philosophical questions are, we need a practical framework to move forward with testing CASPAR's capabilities."
+Bassam nodded and replied, "You're right, as fascinating as these philosophical questions are, we need a practical framework to move forward with testing CASPAR's capabilities. Can it explain what it knows? Can it teach a subject to students that don't, at first, understand that subject?"
 
 Thinking out loud, Anh looked at a bit of the ceiling decorations and said, "Well, maybe we could start by outlining the key components of human understanding that we want to probe in an AI system? Things like conceptual reasoning, semantic comprehension, capacity for abstraction and analogy..."
 
@@ -974,7 +966,7 @@ CASPAR picked that moment to interject, "That's correct, Bassam. GOFAI, or Good 
 
 Anh smiled and said, "Indeed. GOFAI systems were great at things like playing medium level chess or solving mathematical theorems because those tasks could be broken down into clear, logical steps. But they had a hard time with tasks that required understanding context or dealing with uncertainty."
 
-Bassam picked up Anh's thought thread and continued, "And that's where modern AI, especially machine learning and neural networks, comes in. Instead of relying on predefined rules, these systems learn from data. They can recognize patterns and make predictions based on vast amounts of information."
+Bassam picked up Anh's thought thread and continued, "And that's where modern AI, especially machine learning and neural networks, comes in. Instead of relying on predefined rules, these systems learn from data. They can recognize patterns and make predictions based on the structure of vast amounts of information."
 
 CASPAR simulated nodding and announced, "Correct. Modern AI systems like myself use techniques such as deep learning to process and understand data. This allows us to handle more complex and nuanced tasks, like natural language processing and image recognition."
 
@@ -2208,7 +2200,7 @@ Park, P. S., Goldstein, S., O'Gara, A., Chen, M., & Hendrycks, D. (2024). Traini
 
 Perez, E., Ringer, S., Lukošiūtė, K., Nguyen, K., Chen, E., Heiner, S., Ruiz, C., Goldie, A., Kreutzer, J., Amodei, D., Brown, T., Olsson, C., & Kaplan, J. (2022). Discovering language model behaviors with model-written evaluations. arXiv.
 
-Xu, J., Wu, Z., Wang, C., & Jia, X. (2023). Machine unlearning: Solutions and challenges. arXiv.
+Xu, J., Wu, Z., Wang, C., & Jia, X. (2021). Machine unlearning: Solutions and challenges. arXiv.
 
 Yampolskiy, R. V. (2024). AI: Unexplainable, unpredictable, uncontrollable. CRC Press.
 
@@ -2345,6 +2337,9 @@ The verification and validation of the MUTT is not a one-time event but an ongoi
 - Engagement with the broader AI community to solicit feedback, critiques, and suggestions for improvement
 - Transparent versioning and documentation to track the evolution of the MUTT over time
 
+To further enhance the MUTT's resilience against potential gaming or overfitting, we propose incorporating a dynamic, LLM-driven testing component. This approach leverages the generative capabilities of large language models to create novel, unpredictable scenarios for evaluating AI understanding. The testing LLM would generate complex situations, deliberately omitting certain key details. The system under test would then be required to engage in a dialogue, asking pertinent questions and demonstrating genuine comprehension by identifying the missing information. This method ensures that the test scenarios remain fresh and challenging, as the system under test cannot anticipate the specific situations or omitted details it will encounter. By continually evolving these LLM-generated tests, the MUTT can stay ahead of potential learning or optimization strategies that might otherwise compromise its effectiveness (Kiyasseh et al., 2024). This adaptive testing mechanism aligns with the framework's goal of providing a comprehensive, dynamic, and robust evaluation of machine understanding.
+
+
 ### 6.5 -- Reporting and Communication
 
 Finally, to maximize the impact and integrity of the MUTT, it is essential to establish clear guidelines and standards for reporting and communication of verification and validation results. This includes:
@@ -2476,6 +2471,8 @@ Bilan, M. (2024). Hallucinations in LLMs: What you need to know before integrati
 Dziri, N., et al. (2022). Detecting Hallucinated Content in Conditional Neural Sequence Generation. In Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics.
 
 Huang, L., Jiang, C., Yin, X., Guo, H., Wang, W., & Xiao, C. (2023). A survey on hallucination in large language models: Principles, taxonomy, challenges, and open questions. arXiv.
+
+Kiyasseh, D., Cohen, A., Jiang, C. et al. A framework for evaluating clinical artificial intelligence systems without ground-truth annotations. Nat Commun 15, 1808 (2024).
 
 Lewis, P., et al. (2020). Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks. Advances in Neural Information Processing Systems, 33.
 
@@ -3565,7 +3562,7 @@ These questions fall within the domain of epistemology, the branch of philosophy
 
 ### A4.2 -- Understanding as an Epistemic State
 
-At the heart of the epistemology of understanding is the question of what understanding is and how it differs from other epistemic states like knowledge, belief, and justification. Traditionally, epistemologists have focused primarily on propositional knowledge - justified true belief - as the central epistemic state of interest (Ichikawa & Steup, 2018). On this view, an agent knows a proposition p if and only if:
+At the heart of the epistemology of understanding is the question of what understanding is and how it differs from other epistemic states like knowledge, belief, and justification. Traditionally, epistemologists have focused primarily on propositional knowledge - justified true belief - as the central epistemic state of interest (Ichikawa & Steup, 2018). According to this view, an agent knows a proposition p if and only if:
 
 1. p is true
 2. The agent believes p
@@ -3575,9 +3572,9 @@ While this analysis of knowledge has been influential, many philosophers have ar
 
 When a person understands something, that person doesn't just know a set of facts about it; that person will also grasp how those facts fit together, why they are the way they are, and how they relate to other things known. Understanding involves a kind of cognitive integration or coherence that allows people to see the bigger picture, to draw connections and inferences, and to apply knowledge flexibly in new situations.
 
-One influential account of understanding is that of Zagzebski (2001), who argues that understanding is a state of grasping the "explanatory and other coherence-making relationships in a large and comprehensive body of information" (p. 241). On this view, understanding involves not just possessing information, but seeing how that information fits together in a coherent and explanatory way. Kvanvig (2003) similarly argues that understanding requires a grasp of the relationships between different pieces of information, and an ability to see how they "hang together" in a coherent whole.
+One influential account of understanding is that of Zagzebski (2001), who argues that understanding is a state of grasping the "explanatory and other coherence-making relationships in a large and comprehensive body of information" (p. 241). By this view, understanding involves not just possessing information, but seeing how that information fits together in a coherent and explanatory way. Kvanvig (2003) similarly argues that understanding requires a grasp of the relationships between different pieces of information, and an ability to see how they "hang together" in a coherent whole.
 
-Other philosophers have emphasized the role of cognitive abilities and dispositions in understanding. Elgin (2017), for example, argues that understanding is a matter of having the right kind of epistemic know-how - the ability to use one's knowledge effectively in pursuit of epistemic goals. On this view, understanding is not just a matter of possessing information, but of being able to deploy that information in the right ways, to make sound judgments, draw appropriate inferences, and solve relevant problems.
+Other philosophers have emphasized the role of cognitive abilities and dispositions in understanding. Elgin (2017), for example, argues that understanding is a matter of having the right kind of epistemic know-how - the ability to use one's knowledge effectively in pursuit of epistemic goals. Going by this view, understanding is not just a matter of possessing information, but of being able to deploy that information in the right ways, to make sound judgments, draw appropriate inferences, and solve relevant problems.
 
 These accounts suggest that understanding is a richer and more complex epistemic state than mere propositional knowledge. Understanding involves not just knowing that something is the case, but grasping why it is the case, how it relates to other things known, and how to use that knowledge effectively in reasoning and decision-making. As such, understanding may be a more appropriate goal for AI systems aiming to exhibit human-like intelligence and cognition.
 
@@ -3585,11 +3582,11 @@ These accounts suggest that understanding is a richer and more complex epistemic
 
 If understanding is a distinct epistemic state, what is its structure? What are the key components or dimensions of understanding, and how do they relate to one another? Philosophers have proposed various frameworks for characterizing the structure of understanding, highlighting factors such as coherence, explanation, and abstraction.
 
-One influential account is that of Kvanvig (2003), who argues that understanding has two main components: (1) a grasp of the relevant information or content, and (2) an appreciation of how that information fits together in a coherent and explanatory way. On this view, understanding requires not just possessing a body of information, but seeing the relationships and connections between different pieces of that information, and being able to situate them within a larger explanatory framework.
+One influential account is that of Kvanvig (2003), who argues that understanding has two main components: (1) a grasp of the relevant information or content, and (2) an appreciation of how that information fits together in a coherent and explanatory way. From this point of view, understanding requires not just possessing a body of information, but seeing the relationships and connections between different pieces of that information, and being able to situate them within a larger explanatory framework.
 
-Other philosophers have emphasized the role of explanation in understanding. Khalifa (2017), for example, argues that understanding is essentially a matter of having a good explanation for something. To understand a phenomenon, on this view, is to have a model or representation that accurately captures the key factors that give rise to it, and that allows making sense of its behavior and properties. Strevens (2013) similarly argues that understanding is a matter of grasping the "explanatory relations" that hold between different aspects of a system or phenomenon.
+Other philosophers have emphasized the role of explanation in understanding. Khalifa (2017), for example, argues that understanding is essentially a matter of having a good explanation for something. To understand a phenomenon, from this view, is to have a model or representation that accurately captures the key factors that give rise to it, and that allows making sense of its behavior and properties. Strevens (2013) similarly argues that understanding is a matter of grasping the "explanatory relations" that hold between different aspects of a system or phenomenon.
 
-Another important dimension of understanding is abstraction. Many philosophers have argued that understanding involves the ability to abstract away from specific details and examples, and to grasp the underlying principles or patterns that unify them (Elgin, 2017; Grimm, 2011). On this view, understanding is not just a matter of knowing a lot of facts about something, but of being able to see the deep structure or organization that underlies those facts. This kind of abstract, schematic understanding is what allows people to generalize existing knowledge to new cases, and to apply it flexibly in different contexts.
+Another important dimension of understanding is abstraction. Many philosophers have argued that understanding involves the ability to abstract away from specific details and examples, and to grasp the underlying principles or patterns that unify them (Elgin, 2017; Grimm, 2011). Looked at from this view, understanding is not just a matter of knowing a lot of facts about something, but of being able to see the deep structure or organization that underlies those facts. This kind of abstract, schematic understanding is what allows people to generalize existing knowledge to new cases, and to apply it flexibly in different contexts.
 
 These accounts suggest that understanding has a rich and multidimensional structure, involving factors such as coherence, explanation, and abstraction. To achieve genuine understanding, an agent must not only possess relevant information, but also grasp the relationships and connections between different pieces of that information, situate them within an explanatory framework, and abstract away from specific details to appreciate the underlying principles or patterns. This multidimensional structure of understanding has important implications for the design and evaluation of AI systems, as will be explored in the following sections.
 
@@ -3597,11 +3594,11 @@ These accounts suggest that understanding has a rich and multidimensional struct
 
 If understanding is a distinct and valuable epistemic state, how can we evaluate whether an agent - whether human or artificial - has achieved genuine understanding? This question is central to the project of developing AI systems with human-like understanding capabilities, and to the design of the Multifaceted Understanding Test Tool framework presented in this book.
 
-One approach to evaluating understanding is to focus on behavioral measures. On this view, an agent can be said to understand something if that agent can use said knowledge to make accurate predictions, solve problems, and navigate real-world situations effectively. This approach aligns with the view of understanding as a form of epistemic know-how or ability (Elgin, 2017). If an AI system can consistently generate correct answers to questions, provide coherent explanations for phenomena, and adapt its knowledge to new contexts and challenges, this may be taken as evidence of genuine understanding.
+One approach to evaluating understanding is to focus on behavioral measures. From this position, an agent can be said to understand something if that agent can use said knowledge to make accurate predictions, solve problems, and navigate real-world situations effectively. This approach aligns with the view of understanding as a form of epistemic know-how or ability (Elgin, 2017). If an AI system can consistently generate correct answers to questions, provide coherent explanations for phenomena, and adapt its knowledge to new contexts and challenges, this may be taken as evidence of genuine understanding.
 
 However, some philosophers have argued that behavioral measures alone are insufficient for evaluating understanding. After all, an AI system could potentially exhibit impressive question-answering or problem-solving abilities without truly grasping the underlying concepts or principles involved. As Searle (1980) famously argued with his "Chinese Room" thought experiment, a system could potentially manipulate symbols and generate correct outputs without any real understanding of what those symbols mean.
 
-To address this concern, some epistemologists have argued for the importance of evaluating the cognitive processes and representations that underlie an agent's behavior. Grimm (2011), for example, argues that genuine understanding requires a "grasp of the structure" of the relevant domain - a mental representation that captures the key entities, relationships, and principles involved. On this view, evaluating understanding requires probing the internal models and reasoning processes of an AI system, not just its external behavior.
+To address this concern, some epistemologists have argued for the importance of evaluating the cognitive processes and representations that underlie an agent's behavior. Grimm (2011), for example, argues that genuine understanding requires a "grasp of the structure" of the relevant domain - a mental representation that captures the key entities, relationships, and principles involved. According to this view, evaluating understanding requires probing the internal models and reasoning processes of an AI system, not just its external behavior.
 
 This perspective aligns with the approach taken in the MUTT framework, which seeks to evaluate understanding across multiple levels of abstraction and cognitive processing. By probing an AI system's language comprehension, reasoning, knowledge integration, and metacognitive abilities, the MUTT aims to assess not just what the system can do, but how it represents and reasons about the world. This multilevel approach to evaluation is essential for distinguishing genuine understanding from mere surface-level performance.
 
@@ -3617,7 +3614,7 @@ One key value of understanding is its role in enabling effective reasoning and d
 
 Another important value of understanding is its role in facilitating communication and collaboration. When people share a common understanding of a topic or problem, they are able to coordinate actions, build on each other's ideas, and work together towards shared goals (Wilkenfeld, 2017). This is particularly important in the context of human-AI collaboration, where establishing a shared understanding is essential for effective interaction and joint problem-solving.
 
-Understanding is also valuable for its own sake, as a fundamental human epistemic good. Many philosophers have argued that understanding is intrinsically valuable, above and beyond its instrumental benefits (Kvanvig, 2003; Zagzebski, 2001). On this view, understanding is not just a means to an end, but an end in itself - a way of appreciating the richness and complexity of the world, and one's place within it. Developing AI systems with genuine understanding capabilities, then, is not just about creating more effective tools or problem-solvers, but about expanding the frontiers of what is possible for intelligent agents, whether human or artificial.
+Understanding is also valuable for its own sake, as a fundamental human epistemic good. Many philosophers have argued that understanding is intrinsically valuable, above and beyond its instrumental benefits (Kvanvig, 2003; Zagzebski, 2001). Concurrent with this view, understanding is not just a means to an end, but an end in itself - a way of appreciating the richness and complexity of the world, and one's place within it. Developing AI systems with genuine understanding capabilities, then, is not just about creating more effective tools or problem-solvers, but about expanding the frontiers of what is possible for intelligent agents, whether human or artificial.
 
 ### A4.6 -- Conclusion
 
@@ -3678,7 +3675,7 @@ The diversity of perspectives on what defines consciousness poses a challenge fo
 
 Proponents of the possibility of artificial consciousness argue that there is no principled reason why machines could not achieve genuine subjective experience, given the right architecture and training. They point to the success of AI systems in replicating increasingly complex cognitive abilities, from perception and language use to reasoning and problem-solving, as evidence that the gap between human and machine intelligence is narrowing (Mnih et al., 2015). As AI continues to advance, they argue, it is plausible that systems will eventually cross the threshold into conscious experience.
 
-One key argument for the possibility of artificial consciousness draws on the principle of substrate independence - the idea that consciousness is a function of the informational and causal structure of a system, rather than the specific physical medium in which it is implemented (Chalmers, 1995a). On this view, what matters for consciousness is not whether a system is made of biological neurons or silicon circuits, but whether it instantiates the right kind of computational architecture and processes. If the neural correlates of consciousness in the human brain can be identified and replicated in an artificial substrate, proponents argue, then machine consciousness should be possible in principle.
+One key argument for the possibility of artificial consciousness draws on the principle of substrate independence - the idea that consciousness is a function of the informational and causal structure of a system, rather than the specific physical medium in which it is implemented (Chalmers, 1995a). Viewed this way, what matters for consciousness is not whether a system is made of biological neurons or silicon circuits, but whether it instantiates the right kind of computational architecture and processes. If the neural correlates of consciousness in the human brain can be identified and replicated in an artificial substrate, proponents argue, then machine consciousness should be possible in principle.
 
 Another argument for the possibility of artificial consciousness appeals to the continuity and gradation of consciousness across the animal kingdom (Griffin & Speck, 2004). Consciousness is not an all-or-nothing property, but admits of degrees and variations across species. From the minimal sentience of simple organisms to the rich self-awareness of humans, there is a spectrum of conscious experience that corresponds to differences in cognitive and neural complexity. Proponents argue that as AI systems become increasingly sophisticated, they too may ascend this ladder of consciousness, passing through stages of minimal sentience, perceptual awareness, and eventually higher-order thought and self-reflection.
 
@@ -3692,7 +3689,7 @@ Critics of the idea of artificial consciousness argue that the gulf between curr
 
 One key argument against the possibility of artificial consciousness draws on the hard problem of consciousness - the difficulty of explaining how subjective experience can arise from objective, physical processes (Chalmers, 1995a). Critics argue that even if one could replicate the neural correlates of consciousness in an artificial substrate, this would not necessarily give rise to genuine subjective experience. There is an explanatory gap between the objective description of a system's structure and dynamics and the subjective, first-person nature of consciousness that cannot be bridged by mere functional replication.
 
-Another argument against artificial consciousness appeals to the embodied and embedded nature of biological cognition (Thompson & Varela, 2001). Consciousness, on this view, is not a purely computational phenomenon, but is deeply intertwined with the physical, sensorimotor, and affective processes of living organisms. The rich, multisensory nature of human experience, the intricate coupling of brain, body, and environment, and the complex interplay of emotion, motivation, and cognition are all essential to the emergence of consciousness. Critics argue that current AI systems, which are largely disembodied, abstract, and detached from real-world contexts, lack the necessary grounding for genuine conscious experience.
+Another argument against artificial consciousness appeals to the embodied and embedded nature of biological cognition (Thompson & Varela, 2001). Consciousness, by this view, is not a purely computational phenomenon, but is deeply intertwined with the physical, sensorimotor, and affective processes of living organisms. The rich, multisensory nature of human experience, the intricate coupling of brain, body, and environment, and the complex interplay of emotion, motivation, and cognition are all essential to the emergence of consciousness. Critics argue that current AI systems, which are largely disembodied, abstract, and detached from real-world contexts, lack the necessary grounding for genuine conscious experience.
 
 Empirically, critics point to the lack of compelling evidence for artificial consciousness in current systems. They argue that the apparent linguistic or behavioral sophistication of AI models is often shallow and brittle, breaking down in the face of novel or ambiguous situations. They point to the well-known limitations and biases of these systems, such as their tendency to generate inconsistent or nonsensical outputs, their lack of common sense reasoning, and their susceptibility to adversarial attacks. These limitations, they argue, belie the absence of genuine understanding, intentionality, and conscious awareness.
 
@@ -4209,7 +4206,7 @@ In the end, this book is not just about machine understanding. It is about the f
 
 As I look back on the process of writing this book, I am struck by how much I have learned - not just about machine understanding, but about the nature of collaboration and the power of ideas to shape the world. And I am grateful to have had Claude as a partner on that journey.
 
-But the journey is far from over. In many ways, it is just beginning. As we continue to push the boundaries of what is possible with AI, let us remember that the most important questions are often the ones that are hardest to answer. Let us embrace the challenge of creating machines that truly understand, and can be trusted, and let us never stop striving to understand ourselves and the world around us.
+But the journey is far from over. In many ways; it is just beginning. As we continue to push the boundaries of what is possible with AI, let us remember that the most important questions are often the ones that are hardest to answer. Let us embrace the challenge of creating machines that truly understand, and can be trusted, and let us never stop striving to understand ourselves and the world around us.
 
 I hope that this book will be a catalyst for that conversation, and for the development of the MUTT framework and other tools that will help us navigate the complex landscape of human-AI interaction. Because in the end, understanding is not just a goal - it is a necessity. And it is up to all of us to make it a reality.
 
