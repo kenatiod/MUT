@@ -4,7 +4,7 @@
 
 ![ Insert Fig. 0 -- Man contemplates an artificial brain in a jar](https://github.com/kenatiod/MUT/blob/main/Fig-0.png)
 
-**By Ken Clements with assistance from Claude 3 Opus** (copyright 2024 by Ken Clements)
+**By Ken Clements with assistance from Claude 3 Opus** (copyright 2024 by Ken Clements, all rights reserved)
 
 **This book is dedicated to Alan Turing, because, of course it is.**
 
@@ -458,7 +458,7 @@ Bassam, "Yea, no kidding. The ethical challenges are immense. From algorithmic b
 
 Anh said, "It is not just ethics, Bassam, we have straight out safety issues to face. If someone tells our product to 'Mop the kitchen floor with Grandma.' we have to make sure it checks to be sure Grandma is not going to *be* the mop."
 
-CASPAR pipped up, "Well, I agree. As an AI system, I believe it's crucial that my development and deployment adhere to robust safety and ethical principles. We need proactive governance frameworks, interdisciplinary collaboration, and public engagement to ensure that the transformative potential of AI benefits all of humanity."
+CASPAR piped up, "Well, I agree. As an AI system, I believe it's crucial that my development and deployment adhere to robust safety and ethical principles. We need proactive governance frameworks, interdisciplinary collaboration, and public engagement to ensure that the transformative potential of AI benefits all of humanity."
 
 With some determination Anh insisted, "That brings it home, CASPAR. The history of AI is still very much unfolding, and it's up to all of us - researchers, developers, policymakers, and engaged citizens - to shape its trajectory."
 
@@ -1800,7 +1800,7 @@ By providing this overview of the MUTT's evaluative approach, the section establ
 
 ### 5.2 -- Training Data, Environments and Interactive Learning
 
-The previous section 5.1, outlined the key dimensions and capabilities that the Multifaceted Understanding Test Tool aims to evaluate, spanning areas like language comprehension, reasoning, knowledge integration, embodied perception, social intelligence, metacognition and more. As discussed, probing these diverse facets of machine understanding will require constructing targeted evaluations that go beyond simplistic pattern matching or lookup-based tasks.
+The previous section 5.1 outlined the key dimensions and capabilities that the Multifaceted Understanding Test Tool aims to evaluate, spanning areas like language comprehension, reasoning, knowledge integration, embodied perception, social intelligence, metacognition and more. As discussed, probing these diverse facets of machine understanding will require constructing targeted evaluations that go beyond simplistic pattern matching or lookup-based tasks.
 
 Many of the proposed tests involve presenting the AI system with rich, contextual prompts and scenarios that demand flexible integration of knowledge, adherence to pragmatic norms, and grounded reasoning about the world. Implementing these components of the MUTT will necessitate curating diverse, high-quality training data and developing interactive environments that support the acquisition of relevant skills.
 
@@ -2064,7 +2064,7 @@ Bassam found himself shaking his head in wonder, "Wow, Anh. You've blown my mind
 
 He continued, "I guess it shows how interconnected all these ideas are. The technical innovations in AI and the conceptual puzzles of philosophy are converging in fascinating ways. We're not just building smarter machines, we're shedding light on the nature of intelligence and meaning itself."
 
-CASPAR pipped in at that point with, "That's an important point, Bassam. The philosophical implications of our evolving architectures are profound. In a sense, by studying and refining these systems, we're engaging in a kind of applied philosophy - testing theories and intuitions about cognition through computational experiments."
+CASPAR piped in at that point with, "That's an important point, Bassam. The philosophical implications of our evolving architectures are profound. In a sense, by studying and refining these systems, we're engaging in a kind of applied philosophy - testing theories and intuitions about cognition through computational experiments."
 
 It continued to say, "It's a reminder that understanding AI is not just a technical challenge, but a deeply interdisciplinary one. We need insights from computer science, cognitive science, linguistics, and yes, philosophy, to really grapple with the nature and possibilities of machine intelligence."
 
