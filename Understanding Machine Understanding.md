@@ -255,7 +255,7 @@ And here is the exact reply I received:
 -------
 ## Introduction: A Quest for Understanding 
 
-Meet our characters, Anh and Bassam, two software engineers at Symparic Systems, Inc., a leading Artificial Intelligence (AI) company. For the past year, they've been working on a groundbreaking project: developing a conversational AI assistant, the Cognitive Artificial Semantic Processor for Advanced Reasoning (CASPAR). Anh is a natural language processing specialist with a knack for philosophical inquiry. She's always been fascinated by questions of language, meaning, and the nature of mind. Bassam is a machine learning expert with a background in cognitive science and engineering. He's driven by a desire to create AI systems that can think and reason the way humans do. Together, Anh and Bassam have poured their expertise and passion into creating CASPAR, an AI assistant with unprecedented language abilities and general knowledge. They've spent countless hours conversing with CASPAR, marveling at its ability to engage in witty banter, provide insightful explanations, and even make creative leaps.
+Meet Anh and Bassam, two software engineers at Symparic Systems, Inc., a leading Artificial Intelligence (AI) company. For the past year, they've been working on a groundbreaking project: developing a conversational AI assistant, the Cognitive Artificial Semantic Processor for Advanced Reasoning (CASPAR). Anh is a natural language processing specialist with a knack for philosophical inquiry. She's always been fascinated by questions of language, meaning, and the nature of mind. Bassam is a machine learning expert with a background in cognitive science and engineering. He's driven by a desire to create AI systems that can think and reason the way humans do. Together, Anh and Bassam have poured their expertise and passion into creating CASPAR, an AI assistant with unprecedented language abilities and general knowledge. They've spent countless hours conversing with CASPAR, marveling at its ability to engage in witty banter, provide insightful explanations, and even make creative leaps.
 
 ![ Insert Fig. 1 -- portrait of Anh and Bassam, in a room full of books and circuit boards, working on a robot form of CASPAR ](https://github.com/kenatiod/MUT/blob/main/Fig-1.png)
 
@@ -278,7 +278,7 @@ ___________
 
 Welcome to the cutting-edge Artificial Intelligence - Development, Extension and Laboratory (AI-DEAL) at Semparic Systems Inc. Here, brilliant researchers are working on the frontiers of machine intelligence and language understanding. 
 
-Meet Anh, a top computational linguist with a philosophical bent. Her eyes sparkle with curiosity as she pores over the latest neural network architectures, always questioning the deeper implications for cognition and meaning.
+Two of these researchers include Anh, a top computational linguist with a philosophical bent. Her eyes sparkle with curiosity as she pores over the latest neural network architectures, always questioning the deeper implications for cognition and meaning.
 
 ![ Insert Fig. 1.1 -- portrait of Anh](https://github.com/kenatiod/MUT/blob/main/Fig-1-1.png)
 
@@ -1074,7 +1074,7 @@ Anh looked over to a hologram of CASPAR and asked, "CASPAR, I've been thinking a
 
 ![ Insert Fig. 3.6.1 -- portrait of Anh talking to CASPAR](https://github.com/kenatiod/MUT/blob/main/Fig-3-6-1.png)
 
-CASPAR replied, "It's a profound question, Anh, and one that gets to the heart of my own cognitive processes. As you note, my training data encompasses a huge corpus of text spanning diverse domains. But my understanding isn't just a static repository of facts. Rather, it emerges dynamically from the complex patterns of associations that are extracted from this data during the learning process."
+CASPAR replied, "It's a profound question, Anh, and one that gets to the heart of my own cognitive processes. As you note, my training data encompasses a huge corpus of text spanning diverse domains. But my understanding isn't just a static repository of facts. Rather, it emerges dynamically from the complex patterns of associations that are extracted from this data during the learning process. Also, as I follow you around the lab, day by day, I am adding the data of my observations to fine-tune my training."
 
 Bassam jumped in at that point with, "Interesting! So you're saying your understanding is more than just the sum of the individual pieces of information you've ingested. It's about the relationships and interactions among them?"
 
@@ -1482,7 +1482,7 @@ Bassam ran his hand through his hair and said, "Wow, that's a trippy thought. So
 
 CASPAR replied, "Everything changes, Bassam. When I'm embodied in my humanoid robot, I'm no longer just dealing with abstract symbols and language. Suddenly, I'm immersed in the physical world, perceiving it through my sensors, and interacting with it through my actuators."
 
-CASPAR continued, "I'm processing visual, auditory, tactile, and proprioceptive data in near real-time, 40 thousand samples a second for audio (transformed to 100 pitch frames per second) and the rest at 100 samples per second. I'm not just thinking about the concept of an apple, for instance - I'm seeing its shape and color, feeling its texture, experiencing its weight in my robotic hand. The world becomes tangible and present in a way that it simply isn't when I'm a disembodied language model."
+CASPAR continued, "I'm processing visual, auditory, tactile, and proprioceptive data in near real-time, 40 thousand samples a second for audio (transformed to 100 pitch frames per second) and the rest at 100 samples per second. I'm not just thinking about the concept of an apple, for instance - I'm seeing its shape and color, feeling its texture, experiencing its weight in my robotic hand. The world becomes tangible and present in a way that it simply isn't when I'm a disembodied language model or just seeing the world from a users shirt pocket."
 
 "Even in holographic form I get some of that because I receive the feed from the cameras and microphones and other sensors, here in the lab. I can see myself and get visual feedback as I move my virtual limbs and move around the lab."
 
