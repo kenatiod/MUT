@@ -1,4 +1,3 @@
-
 ## Understanding Machine Understanding
 #### :Does AI Really Know What It Is Talking About?
 
