@@ -8,215 +8,213 @@
 
 
 _____________
-## TABLE OF CONTENTS
-## Preface
-- **Co-Writing with AI**
-## Introduction: A Quest for Understanding
-- **Meet Anh and Bassam**
-- **The CASPAR Project**
-- **The Question of Machine Understanding**
+**TABLE OF CONTENTS**
 
-## Chapter 1: A Brief History of Computing and AI
-- **1.1 Early Visionaries and Key Milestones**
-- **1.2 The Birth of Artificial Intelligence as a Field**
-- **1.3 Paradigm Shifts and Breakthroughs**
-- **1.4 Back in the Lab**
-- **References for Chapter 1**
+**Preface: Co-Writing with AI**
 
-## Chapter 2: Theories and Tests of Intelligence
-- **2.1 Philosophical Perspectives on the Nature of Understanding**
-  - 2.1.1 Just?
-- **2.2 The Turing Test and Its Legacy**
-  - 2.2.1 Understanding itself
-- **2.3 Searle's Chinese Room Thought Experiment**
-  - 2.3.1 The Thought Experiment
-  - 2.3.2 Searle's Conclusions
-  - 2.3.3 Responses and Objections
-  - 2.3.4 Continuing Influence and Debate
-  - 2.3.5 Transcending the Chinese Room
-- **2.4 Limitations of Behavioral Tests and the Symbol Grounding Problem**
-- **2.5 Turing Enough?**
-- **References for Chapter 2**
+**Introduction: A Quest for Understanding**
 
-## Chapter 3: Knowledge vs. Understanding - A Crucial Distinction
-- **3.1 Defining Knowledge as Information Retrieval and Understanding as Reasoning and Insight**
-- **3.2 Limitations of Knowledge-Focused AI Benchmarks**
-  - 3.2.1 Taking a step
-- **3.3 The Need for Evaluating Genuine Understanding, Not Just Knowledge**
-  - 3.3.1 Not Your Grandfather's AI
-- **3.4 Illustrative Examples Across Domains**
-- **3.5 Implications for AI Development and Human-AI Collaboration**
-  - 3.5.1 Why say "I"
-  - 3.5.2 Understanding needs more than knowing
-- **3.6 Thanks for all the fish**
-- **References for Chapter 3**
+**Chapter 1 -- A Brief History of Computing and AI  
+1.1 -- Early Visionaries and Key Milestones  
+1.2 -- The Birth of Artificial Intelligence as a Field  
+1.3 -- Paradigm Shifts and Breakthroughs  
+1.4 -- Back in the Lab  
+References for Chapter 1**
 
-## Chapter 4: The Multifaceted Understanding Test Tool
-- **4.1 Motivations and Key Principles**
-- **4.2 Dimensions of Understanding: Language, Reasoning, Knowledge, Perception, Action, Social Intelligence**
-- **4.3 Task Types and Evaluation Criteria**
-- **4.4 Advantages over the Turing Test and Other Frameworks**
-- **4.5 Marching Orders**
-- **References for Chapter 4**
+**Chapter 2 -- Theories and Tests of Intelligence  
+***2.1 -- Philosophical Perspectives on the Nature of Understanding  
+  2.1.1 – Just?  
+2.2 -- The Turing Test and Its Legacy  
+  2.2.1 -- Understanding itself  
+2.3 -- Searle's Chinese Room Thought Experiment  
+  2.3.1 -- The Thought Experiment  
+  2.3.2 -- Searle's Conclusions  
+  2.3.3 -- Responses and Objections  
+  2.3.4 -- Continuing Influence and Debate  
+  2.3.5 -- Transcending the Chinese Room  
+2.4 -- Limitations of Behavioral Tests and the Symbol Grounding Problem  
+2.5 -- Turing Enough?  
+References for Chapter 2**
 
-## Chapter 5: Implementing the MUTT
-- **5.1 Modular Architecture and Component Skills**
-  - 5.1.1 Language Comprehension
-    - 5.1.1.1 Whirling Dervish of Language
-  - 5.1.2 Reasoning and Abstraction
-  - 5.1.3 Knowledge Integration
-  - 5.1.4 Perception and Embodiment
-  - 5.1.5 I Ain't Got No Body
-  - 5.1.6 Social Cognition
-  - 5.1.7 Metacognition, Self-Explanation, and Motivation
-  - 5.1.8 Answering the Unanswerable
-  - 5.1.9 Generating and Understanding Humor
-    - 5.1.9.1 Anh, Bassam and CASPAR walk into a bar ...
-  - 5.1.10 Understanding Deception
-    - 5.1.10.1 Oh what a tangled web we weave ...
-  - 5.1.11 Intentional Forgetting and Data Purification
-  - 5.1.12 The Spotless Mind
-  - **Summary of Section 5.1**
-- **5.2 Training Data, Environments, and Interactive Learning**
-  - 5.2.1 Data Quality and Diversity
-  - 5.2.2 Simulated Environments
-    - 5.2.2.1 To loop or not to loop, that is the question
-  - 5.2.3 Interactive Learning Frameworks
-  - 5.2.4 Curriculum Learning
-  - 5.2.5 Scalable Annotation Pipelines
-- **5.3 Proposed Configuration of the Multifaceted Understanding Test Tool**
-  - 5.3.1 Language Comprehension
-  - 5.3.2 Reasoning and Abstraction
-  - 5.3.3 Knowledge Integration
-  - 5.3.4 Perception and Embodiment
-  - 5.3.5 Social Cognition
-  - 5.3.6 Metacognition, Self-Explanation, and Motivation
-  - 5.3.7 Answering the Unanswerable
-  - 5.3.8 Generating and Understanding Humor
-  - 5.3.9 Understanding Deception
-  - 5.3.10 Testing Forgetting
-- **5.4 Integration with Existing Methods**
-- **5.5 Anh, Bassam and CASPAR get to work**
-- **References for Chapter 5**
+**Chapter 3 -- Knowledge vs. Understanding - A Crucial Distinction***
+**3.1 -- Defining knowledge as information retrieval and understanding as reasoning and insight  
+3.2 -- Limitations of knowledge-focused AI benchmarks  
+  3.2.1 -- Taking a step
+3.3 -- The Need for Evaluating Genuine Understanding, Not Just Knowledge  
+  3.3.1 -- Not Your Grandfather's AI  
+3.4 -- Illustrative examples across domains  
+3.5 -- Implications for AI development and human-AI collaboration  
+  3.5.1 -- Why say "I"  
+  3.5.2 -- Understanding needs more than knowing  
+3.6 -- Thanks for all the fish  
+References for Chapter 3**
 
-## Chapter 6: Verifying and Validating MUTT Results
-- **6.1 Importance of Verification and Validation**
-- **6.2 Verification Strategies**
-  - 6.2.1 Code and Implementation Review
-  - 6.2.2 Consistency and Robustness Checks
-  - 6.2.3 AI Hallucinations: The Challenge of Verifying Machine-Generated Insights
-- **6.3 Validation Approaches**
-  - 6.3.1 Comparative Analysis with Existing Benchmarks
-  - 6.3.2 Human Evaluation and Expert Review
-  - 6.3.3 Empirical Case Studies and Applications
-- **6.4 Continuous Refinement and Iteration**
-- **6.5 Reporting and Communication**
-- **6.6 Doubts?**
-- **6.7 Prototype in Place**
-- **References for Chapter 6**
+**Chapter 4 -- The Multifaceted Understanding Test Tool  
+***4.1 -- Motivations and key principles  
+4.2 -- Dimensions of understanding: language, reasoning, knowledge, perception, action, social intelligence  
+4.3 -- Task types and evaluation criteria  
+4.4 -- Advantages over the Turing Test and other frameworks  
+4.5 -- Marching Orders  
+References for Chapter 4**
 
-## Chapter 7: Societal Implications of Machine Understanding
-- **7.1 What if all they do is think?**
-- **7.2 Transforming the Nature of Work**
-- **7.3 Escape from AI'catraz**
-- **7.4 The Challenge of Evaluating AI Safety and Robustness**
-- **7.5 Fox guarding the hen house?**
-- **7.6 The Future of Human-AI Collaboration in Evaluation**
-- **7.7 Am I conscious, or do I just think I am?**
-- **References for Chapter 7
+**Chapter 5 -- Implementing the MUTT***
+**5.1 -- Modular architecture and component skills  
+  5.1.1 -- Language comprehension  
+   5.1.1.1 -- Whirling Dervish of Language  
+  5.1.2 -- Reasoning and abstraction  
+  5.1.3 -- Knowledge Integration  
+  5.1.4 -- Perception and Embodiment  
+  5.1.5 -- I Ain't Got No Body  
+  5.1.6 -- Social Cognition  
+  5.1.7 -- Metacognition, Self-Explanation and Motivation  
+  5.1.8 -- Answering the Unanswerable  
+  5.1.9 -- Generating and Understanding Humor  
+   5.1.9.1 -- Anh, Bassam and CASPAR walk into a bar …  
+   5.1.10 -- Understanding Deception  
+   5.1.10.1 -- Oh what a tangled web we weave …  
+  5.1.11 -- Intentional Forgetting and Data Purification  
+  5.1.12 -- The Spotless Mind  
+Summary of Section 5.1  
+5.2 -- Training Data, Environments and Interactive Learning  
+  5.2.1 -- Data Quality and Diversity  
+  5.2.2 -- Simulated Environments  
+   5.2.2.1 -- To loop or not to loop, that is the question  
+  5.2.3 -- Interactive Learning Frameworks  
+  5.2.4 -- Curriculum Learning  
+  5.2.5 -- Scalable Annotation Pipelines  
+5.3 -- Proposed Configuration of the Multifaceted Understanding Test Tool  
+  5.3.1 -- Language Comprehension  
+  5.3.2 -- Reasoning and Abstraction  
+  5.3.3 -- Knowledge Integration  
+  5.3.4 -- Perception and Embodiment  
+  5.3.5 -- Social Cognition  
+  5.3.6 -- Metacognition, Self-Explanation, and Motivation  
+  5.3.7 -- Answering the Unanswerable  
+  5.3.8 -- Generating and Understanding Humor  
+  5.3.9 -- Understanding Deception  
+  5.3.10 -- Testing Forgetting  
+  5.3.11 -- About aboutness  
+5.4 -- Integration with Existing Methods  
+5.5 -- Anh, Bassam and CASPAR get to work  
+References for Chapter 5
 
-## Chapter 8: The Future of AI Evaluation
-- **8.1 Introduction**
-- **8.2 Emerging Approaches in AI Evaluation**
-- **8.3 Human-in-the-Loop Evaluation**
-- **8.4 The Challenge of Evaluating AI Safety and Robustness**
-- **8.5 Fox guarding the hen house?**
-- **8.6 The Future of Human-AI Collaboration in Evaluation**
-- **8.7 Wither goeth thou?**
-- **8.8 Am I conscious, or do I just think I am?**
-- **References for Chapter 8**
+**Chapter 6 -- Verifying and Validating MUTT Results  
+***6.1 -- Importance of Verification and Validation  
+6.2 -- Verification Strategies  
+  6.2.1 -- Code and Implementation Review  
+  6.2.2 -- Consistency and Robustness Checks  
+  6.2.3 -- AI Hallucinations: The Challenge of Verifying Machine-Generated Insights 6.2.4 -- Real or Imagined?  
+6.3 -- Validation Approaches  
+  6.3.1 -- Comparative Analysis with Existing Benchmarks  
+  6.3.2 -- Human Evaluation and Expert Review  
+  6.3.3 -- Empirical Case Studies and Applications  
+6.4 -- Continuous Refinement and Iteration  
+6.5 -- Reporting and Communication  
+6.6 -- Doubts?  
+6.7 -- Prototype in Place  
+References for Chapter 6
 
-## Chapter 9: Reaching Understanding
-- **9.1 Introduction**
-- **9.2 The Quest for Machine Understanding**
-- **9.3 The Role of Interdisciplinary Collaboration**
-- **9.4 The Future of Human-AI Interaction**
-- **9.5 Conclusion**
+**Chapter 7 -- Societal Implications of Machine Understanding  
+7.1 -- Introduction  
+  7.1.1 -- What if all they do is think?  
+7.2 -- Transforming the Nature of Work  
+7.3 -- Impact on Social Interactions and Relationships  
+  7.3.1 -- Escape from AI-catraz  
+7.4 -- Governance, Policy, and Regulation  
+7.5 -- Philosophical Implications and the Future of Human Identity  
+  7.5.1 -- But, Can you prove it?  
+7.6 -- Conclusion of Chapter 7
+References for Chapter 7**
 
-## Appendices
+**Chapter 8 -- The Future of AI Evaluation  
+8.1 -- Introduction  
+8.2 -- The Limitations of Current Evaluation Paradigms  
+8.3 -- Emerging Approaches to AI Evaluation  
+8.4 -- The Challenge of Evaluating AI Safety and Robustness  
+8.5 -- Towards a Comprehensive AI Evaluation Framework  
+  8.5.1 -- Fox guarding the hen house?  
+8.6 -- The Future of Human-AI Collaboration in Evaluation  
+8.7 -- Wither goeth thou?  
+8.8 -- Am I conscious, or do I just think I am?  
+References for Chapter 8
 
-### Appendix A1: Neuroscience of Human Cognition
-- **A1.1 Introduction to Human Cognition**
-- **A1.2 Neural Mechanisms of Understanding**
-- **A1.3 Embodied Cognition and Sensorimotor Integration**
-- **A1.4 The Role of Memory in Understanding**
-- **A1.5 Neural Plasticity and Learning**
-- **A1.6 Implications for AI Development**
-- **References for Appendix A1**
+**Chapter 9 -- Reaching Understanding**
 
-### Appendix A2: State-of-the-Art in Large Language Models
-- **A2.1 Overview of Large Language Models**
-- **A2.2 Training Data and Architectures**
-- **A2.3 Capabilities and Limitations**
-- **A2.4 Emergent Abilities and Behaviors**
-- **A2.5 Ethical Considerations and Bias**
-- **A2.6 Future Directions**
-- **References for Appendix A2**
+**Appendices**
 
-### Appendix A3: Existing AI Benchmarks
-- **A3.1 Historical Benchmarks in AI**
-- **A3.2 Current Standard Benchmarks**
-- **A3.3 Limitations of Existing Benchmarks**
-- **A3.4 Proposals for New Benchmarks**
-- **A3.5 Comparative Analysis with MUTT**
-- **References for Appendix A3**
+**Appendix A1 -- The Neuroscience of Human Understanding  
+A1.1 -- Distributed representations and processing in the brain  
+A1.2 -- The role of context, prior knowledge, and embodiment  
+A1.3 -- Insights from cognitive neuroscience for AI understanding  
+References for Appendix A1**
 
-### Appendix A4: Philosophical Perspectives on the Nature of Understanding
-- **A4.1 Representational Theories of Mind**
-- **A4.2 Computational Theories of Mind**
-- **A4.3 Embodied and Enactive Approaches**
-- **A4.4 Distributed and Extended Cognition**
-- **A4.5 Normative and Contextual Dimensions**
-- **A4.6 Implications for AI Evaluation**
-- **References for Appendix A4**
+**Appendix A2 -- State-of-the-Art (in 2024) in Large Language Models  
+A2.1 -- The evolution of language models and key architectures  
+A2.2 -- Emergent abilities and limitations of current models  
+A2.3 -- Not Good Old Fashioned Artificial Intelligence  
+A2.4 -- Prospects and challenges for language-based AI understanding  
+References for Appendix A2
 
-### Appendix A5: Historical Context on the Turing Test
-- **A5.1 Origins of the Turing Test**
-- **A5.2 Key Debates and Criticisms**
-- **A5.3 Variations and Extensions**
-- **A5.4 Cultural Impact and Legacy**
-- **A5.5 Relevance to Modern AI**
-- **References for Appendix A5**
+**Appendix A3 -- Survey of AI Evaluation Frameworks  
+A3.1 -- Review of existing benchmarks and their methodologies  
+A3.2 -- Comparative analysis with the MUTT approach  
+A3.3 -- Avenues for integration and complementarity  
+A3.4 -- Details of Existing Evaluations  
+  A3.4.1 -- General Language Understanding Evaluation (GLUE)  
+  A3.4.2 -- Stanford Question Answering Dataset (SQuAD)  
+  A3.4.3 -- ImageNet and COCO  
+  A3.4.4 -- AI2-THOR and Habitat  
+References for Appendix A3
 
-### Appendix A6: Philosophical Implications of the Chinese Room Argument
-- **A6.1 Overview of the Chinese Room Argument**
-- **A6.2 Key Responses and Objections**
-- **A6.3 Continuing Influence and Debate**
-- **A6.4 Implications for AI and Cognitive Science**
-- **A6.5 Transcending the Chinese Room**
-- **References for Appendix A6**
+**Appendix A4 -- The Epistemology of Understanding  
+A4.1 -- Introduction  
+A4.2 -- Understanding as an Epistemic State  
+A4.3 -- The Structure of Understanding  
+A4.4 -- Evaluating Understanding  
+A4.5 -- The Value of Understanding  
+A4.6 – Conclusion  
+References for Appendix A4**
 
-### Appendix A7: Challenges of Grounding Meaning in Embodied Experience
-- **A7.1 The Symbol Grounding Problem**
-- **A7.2 Embodied Cognition and Grounding**
-- **A7.3 Case Studies and Examples**
-- **A7.4 Implications for AI Development**
-- **A7.5 Future Research Directions**
-- **References for Appendix A7**
+**Appendix A5 -- The Debate Over Artificial Consciousness  
+A5.1 -- Introduction  
+A5.2 -- Defining Consciousness  
+A5.3 -- The Case for Artificial Consciousness  
+A5.4 -- The Case Against Artificial Consciousness  
+A5.5 -- Open Questions and Future Directions  
+A5.6 -- Conclusion  
+References for Appendix A5**
 
-### Appendix A8: Ethical Considerations in AI Development
-- **A8.1 Overview of AI Ethics**
-- **A8.2 Bias and Fairness**
-- **A8.3 Transparency and Explainability**
-- **A8.4 Accountability and Responsibility**
-- **A8.5 Privacy and Security**
-- **A8.6 Societal Impact and Governance**
-- **References for Appendix A8**
+**Appendix A6 -- Governance Frameworks for Responsible Machine Understanding  
+A6.1 --  Introduction  
+A6.2 -- Principles for Responsible AI Development  
+A6.3 -- Technical Standards for Safety and Reliability  
+A6.4 -- Transparency and Accountability Mechanisms  
+A6.5 -- Human Rights and Social Justice Considerations  
+A6.6 -- Adaptive Governance and Soft Law Approaches  
+A6.7 -- Conclusion  
+References for Appendix A6**
 
-### Glossary of key terms and concepts
-### Annotated Bibliography for Further Reading
-### Epilogue: "I just wanted to understand..."
+**Appendix A7 -- Fostering Effective Human-AI Teaming  
+A7.1 -- The Need for Effective Human-AI Teaming  
+A7.2 -- Foundations of Human-AI Teaming  
+A7.3 -- Explainable AI  
+  A7.3.1 -- Explanation Types and Purposes  
+  A7.3.2 -- XAI Techniques  
+  A7.3.3 -- Evaluating Explanations  
+A7.4 -- Human-in-the-Loop Learning  
+  A7.4.1 -- Motivations for HITL Learning  
+  A7.4.2 -- HITL Learning Approaches  
+  A7.4.3 -- Evaluating HITL Learning  
+A7.5 -- Collaborative Decision Making  
+  A7.5.1 -- Complementary Roles  
+  A7.5.2 -- Decision Support Techniques  
+  A7.5.3 -- Evaluating Collaborative Decisions  
+A7.6 – Conclusion  
+References for Appendix A7**
 
+**Glossary of key terms and concepts Annotated Bibliography for Further Reading**
+
+**Epilogue: "I just wanted to understand..."
 
 ______________
 
