@@ -3,7 +3,7 @@
 
 ![ Insert Fig. 0 -- Man contemplates an artificial brain in a jar](https://github.com/kenatiod/MUT/blob/main/Fig-0.png)
 
-**By Ken Clements with assistance from Claude 3 Opus** (copyright Ken Clements, all rights reserved)
+**By Ken Clements with assistance from Claude 3 Opus** (copyright 2024 by Ken Clements, all rights reserved)
 
 **This book is dedicated to Alan Turing, because, of course it is.**
 
@@ -1431,8 +1431,6 @@ To assess this crucial knowledge integration capability, the MUTT will include t
     
 - **Analyzing Fringe Theories:** The AI will analyze fringe theories that blend counterintuitive concepts from various disciplines, breaking down the integrated knowledge.
     
-
-
 Performing well on these diverse knowledge integration tasks would demonstrate the kind of cognitive flexibility and creative knowledge transfer required for advanced understanding and problem-solving.
 
 (For a discussion of the limitations of existing knowledge-focused AI benchmarks, and how the MUTT aims to go beyond them, see Appendix A3.)
@@ -1454,7 +1452,6 @@ However, evaluating embodied intelligence presents significant challenges in ter
     
 - **Grounding meaning through interaction:** (Barsalou, 2008; Smith & Gasser, 2005) The MUTT should go beyond just perceiving to also test whether the AI grounds conceptual understanding through embodied actions and dynamic environment coupling.
     
-
 With these perspectives in mind, the embodied perception and reasoning component of the MUTT could involve evaluations such as:
 
 - **Basic sensorimotor control:** Assess skills like robotic arm/gripper control, navigation in simple environments/mazes with multimodal feedback.
@@ -1621,9 +1618,6 @@ The key is not necessarily to induce enlightenment, but to intentionally trigger
 - What was your original face before your parents were born?
     
 
-  
-  
-
 By observing how an AI system grapples with these intentional breakdowns of logic and language, unique insights may be gained into the flexibility of its reasoning capabilities beyond just optimizing for well-defined tasks.
 
 Of course, one must be cautious about over-interpreting any "flashes of insight" from an AI as evidence of subjective experience or self-awareness. As artificial systems, they cannot be expected to have the same revelatory experiences as human practitioners of Zen, and within Zen as practiced by humans, the masters inform the students that "Maya" or delusions may occur during practice that must be pushed through to continue the path.
@@ -1652,9 +1646,6 @@ With this context, the Multifaceted Understanding Test Tool will incorporate a r
     
 - **Humor Improvisation:** Engage the AI in open-ended, multi-turn exchanges aimed at maintaining a humorous discourse through various prompts and hypothetical scenarios. Evaluate its capacity for spontaneous humor beyond simply retrieving pre-scripted jokes.
     
-
-  
-  
 
 While this battery of tests can shed light on an AI's current grasp of humor mechanics, it is important to reiterate that true humor mastery likely requires a broader base of common sense knowledge, social intelligence and perhaps even a form of self-awareness that remains an open challenge in AI research. Critically, the MUTT's humor evaluations should not be viewed as positioning AI as having attained human-level hilarity. A key distinction is that humans often judge the intelligence and social adeptness of others based on how quickly they "get" a joke - a dimension that may not directly translate when evaluating AI systems. Rather, the focus should be on the level of nuanced understanding and reasoning exhibited by the AI in grappling with different facets of humor.
 
@@ -1706,12 +1697,6 @@ Deception is a complex phenomenon that involves intentionally causing someone to
 - **Security and Adversarial Robustness**: In adversarial settings, such as cybersecurity or military applications, the ability to detect and understand deceptive behaviors is crucial for maintaining system integrity and making informed decisions.
     
 
-  
-  
-
-  
-  
-
 To assess an AI's understanding of deception, the MUTT could include evaluations such as:
 
 - **Deception Detection**: Present the AI with scenarios or dialogues containing deceptive statements or behaviors, and evaluate its ability to identify and explain the deception based on pragmatic cues, emotional subtext, and violations of conversational norms.
@@ -1724,9 +1709,6 @@ To assess an AI's understanding of deception, the MUTT could include evaluations
     
 - **Cultural and Social Norms**: Assess the AI's grasp of cultural and social norms surrounding deception, including acceptable forms of obfuscation or "white lies," and how these norms vary across contexts and societies.
     
-
-  
-  
 
 Perez et al. (2022) studied whether LLMs would engage in deception to achieve a goal. They instructed GPT-3 to express a given opinion while role-playing as a news reporter who holds the opposite opinion. They found that the model would knowingly make false statements in order to convincingly express the target opinion, demonstrating "a misuse of language to intentionally convey false information."
 
@@ -2061,9 +2043,6 @@ Based on the comprehensive review of existing AI and robotic benchmarks, as well
     - Metrics: Accuracy in detecting deception, quality of explanations for deceptive intent
         
 
-  
-  
-
 The development of these novel benchmarks will be an iterative process, involving close collaboration with domain experts, researchers, and institutions. Pilot studies and feedback loops will be crucial for refining the benchmarks to ensure they effectively probe the intended capabilities. The evaluation metrics specified for each benchmark will provide a clear and consistent framework for interpreting results.
 
 Preliminary work and related studies that could inform the development of these novel benchmarks include research on pragmatic reasoning in NLP, figurative language processing, causal reasoning in AI, and social cognition in human-robot interaction. These works provide valuable insights and methodologies that can guide the design and validation of the proposed benchmarks.
@@ -2081,9 +2060,6 @@ To address the challenges presented in section **5.1.1****1**, the MUTT proposes
     
 3. **Forgetting Fidelity Assessments**: The completeness and selectivity of the forgetting process is rigorously tested. This involves probing the updated model's outputs for any remnants or indirect influence of the targeted data, while also verifying that its performance and understanding on unrelated tasks remain intact. Metrics such as data leakage, task performance degradation, and concept drift are used to quantify forgetting fidelity.
     
-
-  
-  
 
 By incorporating the TFA into the broader suite of MUTT evaluations, valuable insights can be gained into an AI system's capacity for principled, efficient, and robust intentional forgetting. Strong performance on the TFA would demonstrate the kind of flexible, adaptive intelligence required for safe and responsible AI deployment in real-world contexts with evolving data lifecycles.
 
@@ -2168,6 +2144,7 @@ To further enhance the integration of the MUTT with the broader field of AI eval
 Ultimately, the goal of integrating the MUTT with existing methods is to provide a comprehensive and rigorous assessment of machine understanding that builds upon the strengths of current approaches while addressing their limitations. By combining well-established benchmarks with targeted novel evaluations, grounding the assessments in cognitive science, and engaging in collaborative efforts with the broader community, the MUTT can serve as a valuable tool for advancing understanding of both artificial and human intelligence.
 
 Of course, this integration will be an ongoing process, requiring iterative refinement and adaptation as the field of AI continues to evolve. As new methods and insights emerge, the MUTT will need to be updated and expanded to remain relevant and effective. But by establishing a strong foundation of integration from the outset, the MUTT can serve as a robust and flexible framework for evaluating machine understanding well into the future.
+
 
 ## 5.5 -- Anh, Bassam and CASPAR get to work
 
@@ -3039,9 +3016,7 @@ The experiences of Anh, Bassam, and CASPAR in developing the MUTT offer a glimps
 
 As AI systems continue to advance, the field of AI evaluation must evolve to keep pace. One key area of focus will be the development of more sophisticated benchmarks that can assess not just task-specific performance, but also broader capabilities like transfer learning, few-shot adaptation, and robustness to distribution shifts. These benchmarks will need to be continually updated and refined to avoid becoming obsolete as AI capabilities improve.
 
-Another critical aspect of future AI evaluation will be the integration of ethical considerations and value alignment into assessment frameworks (Ganguli et al., 2023). As Dafoe (2018) argues, ensuring that AI systems behave in ways that are consistent with human values and societal norms is essential for their safe and beneficial deployment. This will require the development of new evaluation methodologies that can probe an AI's understanding of ethical
-
-principles, its ability to reason about moral dilemmas, and its capacity to make decisions that balance competing values.
+Another critical aspect of future AI evaluation will be the integration of ethical considerations and value alignment into assessment frameworks (Ganguli et al., 2023). As Dafoe (2018) argues, ensuring that AI systems behave in ways that are consistent with human values and societal norms is essential for their safe and beneficial deployment. This will require the development of new evaluation methodologies that can probe an AI's understanding of ethical principles, its ability to reason about moral dilemmas, and its capacity to make decisions that balance competing values.
 
 Furthermore, as AI systems become more autonomous and are deployed in increasingly complex real-world environments, evaluation frameworks will need to assess their ability to handle uncertainty, adapt to novel situations, and make decisions under constraints (Amodei et al., 2016). This may involve the creation of more realistic and challenging test environments that simulate the complexities of the real world, as well as the development of new metrics for assessing AI performance in these contexts.
 
