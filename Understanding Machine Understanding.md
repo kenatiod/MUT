@@ -2464,7 +2464,8 @@ Anh shuddered, "Can you imagine? AI systems that excel at our carefully curated 
 
 Bassam sighed heavily and added, "And that's not even considering the risks of bad actors exploiting any weaknesses or blind spots in the MUTT. If malicious entities figure out how to game the system, they could create AI systems that pass our tests but are actually designed for harmful purposes."
 
-![ Insert Fig. 6.6.2 -- portrait showing that Bassam supports Anh](https://github.com/kenatiod/MUT/blob/main/Fig-6-6-2.png)
+![ Insert Fig. 6.6.3 -- portrait showing Bob and Alice both worry](https://github.com/kenatiod/MUT/blob/main/Fig-6-6-3.png)
+
 
 CASPAR affected a determined, but simulated, expression and said, "All the more reason for us to be exceptionally diligent and thoughtful in our work. We need to anticipate potential failure modes and unintended consequences, and design the MUTT to be as robust and comprehensive as possible."
 
