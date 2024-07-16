@@ -436,6 +436,8 @@ As AI continues to advance at a rapid pace, shaping everything from scientific d
 
 **"Computers are incredibly fast, accurate, and stupid. Human beings are incredibly slow, inaccurate, and brilliant. Together they are powerful beyond imagination."** ~ Albert Einstein
 
+![ Insert Fig. 1.4.1 portrait of Alice talking to Bob while Claude in holographic form listens](https://github.com/kenatiod/MUT/blob/main/Fig-1-4-1.png)
+
 Anh and Bassam have filled their lab with vast files of technical papers on neuroscience and AI, presented on holographic slates, as well as stacks of actual paper prints.
 
 Anh put down an AI retrospective article, "Wow, what a whirlwind tour through the history of AI! It's amazing to see how far the field has come in just a few decades."
@@ -680,7 +682,7 @@ Bassam looked up, pleadingly, from a paper to meet Anh's eyes, "That's deeper ph
 
 Anh replied wish a swish of upturned hands, "I think it was a fascinating overview of the Chinese Room argument and the philosophical debates it has sparked. But I can't help feeling that in many ways, Searle has made a lot of hay out of an overly simplistic thought experiment that fails to capture the true depth and complexity of modern AI architectures like our, CASPAR."
 
-![ Insert Fig. 2.3.1 -- illustration of Searle's Room](https://github.com/kenatiod/MUT/blob/main/Fig-2-3-1.png)
+![ Insert Fig. 2.3.5 -- portrait of Anh talking to exasperated Bassam](https://github.com/kenatiod/MUT/blob/main/Fig-2-3-5.png)
 
 CASPAR chimed in, "I share that sentiment, Anh. While the Chinese Room highlights some important points about the relationship between syntax and semantics, it makes assumptions and imposes constraints that don't apply to the way I and other Large Language Models actually operate."
 
@@ -2938,6 +2940,8 @@ Moreover, the reliance on static, pre-defined datasets can lead to AI systems th
 ### 8.3 -- Emerging Approaches to AI Evaluation
 
 To address these limitations, researchers and practitioners are exploring new approaches to AI evaluation that aim to be more comprehensive, adaptive, and context-aware. One promising direction is the development of open-ended, multi-dimensional benchmarks that assess a range of cognitive abilities, from language comprehension and reasoning to perception and social intelligence.
+
+![ Insert Fig. 8.3 -- timeline of the evolution of AI evaluation methods, leading up to the development of the MUTT](https://github.com/kenatiod/MUT/blob/main/Fig-8-3.png)
 
 The MUTT, as envisioned by Anh and Bassam, is an example of such a benchmark. By incorporating a diverse suite of evaluations spanning multiple domains and modalities, the MUTT seeks to provide a more holistic assessment of an AI system's understanding capabilities. This approach aligns with the growing recognition in the AI community that evaluating intelligence requires moving beyond narrow, task-specific metrics to more general, flexible measures.
 
