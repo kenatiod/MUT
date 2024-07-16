@@ -814,7 +814,7 @@ Showing her appreciation, Anh replied, "Thanks, Bassam. The Turing Test was a pi
 
 CASPAR turned its extra glow light setting up and announced, "Absolutely, Anh. I was built for this. Let's push the boundaries of AI by working together, and create a new standard for machine cognition. The future starts now!"
 
-![ Insert Fig. 2.5.3 -- portrait of Anh making an assertive gesture while speaking](https://github.com/kenatiod/MUT/blob/main/Fig-2-5-3.png)
+![ Insert Fig. 2.5.4 -- portrait of Alice, Bob and Claude looking confident together](https://github.com/kenatiod/MUT/blob/main/Fig-2-5-4.png)
 
 (The appendices provide supplementary background information related to the evaluation of machine understanding, including insights from neuroscience A1, the state-of-the-art in Large Language Models A2, existing AI benchmarks A3, and key debates in the philosophy of mind A4-A7.)
 
