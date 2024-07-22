@@ -271,7 +271,7 @@ ___________
 
 **"We can only see a short distance ahead, but we can see plenty there that needs to be done."** ~ Alan Turing
 
-Welcome to the cutting-edge Artificial Intelligence - Development, Extension and Laboratory (AI-DEAL) at Semparic Systems Inc. Here, brilliant researchers are working on the frontiers of machine intelligence and language understanding.
+Welcome to the cutting-edge Artificial Intelligence - Development, Evaluation and Laboratory (AI-DEAL) at Semparic Systems Inc. Here, brilliant researchers are working on the frontiers of machine intelligence and language understanding.
 
 Two of these researchers include Anh, a top computational linguist with a philosophical bent. Her eyes sparkle with curiosity as she pores over the latest neural network architectures, always questioning the deeper implications for cognition and meaning.
 
