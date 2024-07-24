@@ -156,7 +156,8 @@ A3.4 -- Details of Existing Evaluations
 A3.4.1 -- General Language Understanding Evaluation (GLUE)  
 A3.4.2 -- Stanford Question Answering Dataset (SQuAD)  
 A3.4.3 -- ImageNet and COCO  
-A3.4.4 -- AI2-THOR and Habitat  
+A3.4.4 -- AI2-THOR and Habitat 
+A3.4.5 -- Multimodal Benchmarks
 References for Appendix A3
 
 Appendix A4 -- The Epistemology of Understanding  
@@ -3517,16 +3518,40 @@ Habitat enables benchmarking of AI agents on standard datasets like Matterport3D
 
 In summary, AI2-THOR and Habitat are powerful frameworks that provide realistic and efficient 3D simulation environments, configurable embodied agents, and standard evaluation protocols. They enable development of AI systems that can learn transferable skills for real-world applications through interactions in near-photorealistic virtual worlds. Both platforms are playing an important role in advancing research on embodied AI.
 
+#### 3.4.5 -- Multimodal Benchmarks
+
+In addition to the AI evaluation frameworks discussed above that focus on specific capability areas, there are also some notable multimodal benchmarks that assess a broader range of skills. Two prominent examples are the Massive Multitask Language Understanding (MMLU) benchmark and the AI2 Reasoning Challenge (ARC).
+
+The MMLU, introduced by Hendrycks et al. (2021), is a suite of 57 tasks spanning a wide range of domains including humanities, social sciences, STEM fields, and more. The primary focus is on evaluating language models' performance on multiple-choice questions sourced from exams and assessments originally designed for humans. The MMLU aims to provide a comprehensive evaluation of a model's general knowledge and reasoning abilities across diverse subject areas.
+
+The ARC, developed by Clark et al. (2018), specifically focuses on assessing a system's scientific reasoning and inference capabilities. It consists of multiple-choice questions from science exams across different grade levels. These questions test skills like logical reasoning, causal inference, and understanding of scientific concepts and processes.
+
+While both the MMLU and ARC cover a broad range of knowledge domains and reasoning tasks, they differ from the proposed Multifaceted Understanding Test Tool (MUTT) in several key ways:
+
+- **Modality and Interactivity**: The MMLU and ARC are primarily text-based, using multiple-choice questions as the core evaluation format. In contrast, the MUTT aims to incorporate multimodal challenges spanning language, vision, robotics, and social interaction. It emphasizes the importance of grounding understanding in embodied experience and real-world contexts.
+    
+- **Depth and Flexibility**: Although the MMLU and ARC cover a diverse set of topics, the multiple-choice format can limit the depth and open-endedness of the evaluations. The MUTT, on the other hand, includes tasks designed to probe more flexible, generative understanding, such as open-ended reasoning, creative problem-solving, and adapting knowledge to novel situations.
+    
+- **Developmental Trajectory**: The MMLU and ARC are largely static benchmarks with fixed sets of questions. The MUTT proposes a more dynamic, evolving framework that can incorporate new task types and domains over time. This adaptability is crucial for keeping pace with the rapid advancements in AI capabilities.
+    
+- **Cognitive Foundations**: While the MMLU and ARC are valuable for assessing broad knowledge and reasoning skills, the MUTT is more explicitly grounded in cognitive science principles. It aims to comprehensively evaluate the core competencies that underlie human-like understanding, such as language pragmatics, social cognition, metacognition, and abstraction.
+    
+
+Despite these differences, the MMLU and ARC remain highly relevant and informative benchmarks. They have played a significant role in advancing the field's understanding of the knowledge and reasoning capabilities of language models. The MUTT can be seen as building upon and extending these approaches, providing a more multifaceted and cognitively-grounded evaluation framework.
+
+Ultimately, the MMLU, ARC, and MUTT can be viewed as complementary tools in the broader ecosystem of AI evaluation. Each offers unique insights and challenges that contribute to a more comprehensive understanding of machine intelligence. As AI systems continue to evolve, integrating diverse benchmarks will be essential for mapping the landscape of capabilities and limitations.
 
 ### Appendix 3 References
+
+Clark, P., Cowhey, I., Etzioni, O., Khot, T., Sabharwal, A., Schoenick, C., & Tafjord, O. (2018). Think you have solved question answering? Try ARC, the AI2 reasoning challenge. arXiv preprint arXiv:1803.05457.
 
 Deng, J., Dong, W., Socher, R., Li, L. J., Li, K., & Fei-Fei, L. (2009). Imagenet: A large-scale hierarchical image database. In 2009 IEEE Conference on Computer Vision and Pattern Recognition (pp. 248-255). IEEE.
 
 Devlin, J., Chang, M. W., Lee, K., & Toutanova, K. (2019). BERT: Pre-training of deep bidirectional transformers for language understanding. arXiv.
 
-Kolve, E., Mottaghi, R., Han, W., VanderBilt, E., Weihs, L., Herrasti, A., Gordon, D., Zhu, Y., Gupta, A., & Farhadi, A. (2017). AI2-THOR: An interactive 3D environment
+Hendrycks, D., Burns, C., Basart, S., Zou, A., Mazeika, M., Song, D., & Steinhardt, J. (2021). Measuring massive multitask language understanding. In International Conference on Learning Representations.
 
-for visual AI. arXiv.
+Kolve, E., Mottaghi, R., Han, W., VanderBilt, E., Weihs, L., Herrasti, A., Gordon, D., Zhu, Y., Gupta, A., & Farhadi, A. (2017). AI2-THOR: An interactive 3D environment for visual AI. arXiv.
 
 Lin, T. Y., Maire, M., Belongie, S., Hays, J., Perona, P., Ramanan, D., Dollár, P., & Zitnick, C. L. (2014). Microsoft COCO: Common objects in context. In D. Fleet, T. Pajdla, B. Schiele, & T. Tuytelaars (Eds.), Computer Vision – ECCV 2014 (pp. 740-755). Springer.
 
