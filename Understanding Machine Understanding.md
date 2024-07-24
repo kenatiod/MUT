@@ -11,6 +11,13 @@
 **This book is dedicated to Alan Turing, because, of course it is.**
 
 
+
+
+
+
+
+
+*CLAUDE and CLAUDE 3 OPUS are trademarks of Anthropic, PBC, with registrations in the U.S. and other countries and regions. All other trademarks are the property of their respective owners. The use of Anthropic trademarks in this material does not imply endorsement or sponsorship by Anthropic of the content herein.*
 _____________
 **TABLE OF CONTENTS**
 
@@ -278,9 +285,7 @@ The MUTT is thus both a practical tool and a conceptual catalyst - a way to eval
 - How can evaluations be designed that meaningfully distinguish understanding from shallow imitation?
 - What are the ethical implications of machines that can not only process information, but truly understand it?
 
-Tackling these questions is not just an intellectual exercise, but an imperative for shaping the future of AI as it becomes ever more entwined with human life. Only by developing robust ways to assess machine understanding can we create AI systems that are trustworthy, interpretable, and aligned with human values.
-
-This book will take readers on a journey into the heart of that endeavor. Through a combination of philosophical analysis, technical exposition, and narrative thought experiments, readers will explore the frontiers of machine understanding and propose a concrete path forward in the form of the MUTT.
+This book will take readers on a journey into the heart of that endeavor. Through a combination of philosophical analysis, technical exposition, and narrative thought experiments, readers will explore the frontiers of machine understanding and foresee a path forward in the form of the MUTT.
 
 Along the way, readers will meet a cast of characters, both human and artificial, who embody different perspectives on the nature and measurement of understanding. Their debates and collaborations will bring the abstract ideas to life and showcase the real-world stakes of the machine understanding challenge.
 
