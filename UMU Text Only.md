@@ -303,7 +303,7 @@ Two of these researchers include Anh, a top computational linguist with a philos
 
 And Bassam, the young cognitive scientist and engineer - his mind a careful balance of technical rigor and creative vision as he architects the next breakthrough in artificial general intelligence.
 
-Together, this dynamic duo has been tasked with leading a team on an ambitious endeavor: developing CASPAR, a conversational AI assistant that can engage in natural dialogue with a level of understanding and reasoning that approaches human-level cognition.
+Together, this dynamic duo has been tasked with leading a team on an ambitious endeavor: developing the Cognitive Artificial Semantic Processor for Advanced Reasoning (CASPAR), a conversational AI assistant that can engage in natural dialogue with a level of understanding and reasoning that approaches human-level cognition.
 
 As you enter the lab, the air hums with the whir of servers and the back-and-forth banter of Anh and Bassam fiercely debating the nature of machine comprehension. Holographic "dry-erase" boards are covered with equations, network diagrams, and philosophical queries. Prototype robots in various states of disassembly line the shelves.
 
@@ -440,9 +440,9 @@ Anh and Bassam both turned to look at CASPAR, who chose that moment to appear in
 
 Anh nodded to CASPAR, "Yes, that's a great point, CASPAR. Your very existence is a testament to how rapidly AI capabilities are advancing. But I can't help but wonder - how close are we to truly human-like AI? Is artificial general intelligence (AGI) just around the corner?"
 
-"It's a fascinating question.", mused Bassam. "On one hand, we've seen AI systems achieve superhuman performance on specific tasks like playing chess or Go. But on the other hand, replicating the kind of flexible, common-sense reasoning that humans excel at remains an enormous challenge."
+"It's a fascinating question," mused Bassam. "On one hand, we've seen AI systems achieve superhuman performance on specific tasks like playing chess or Go. But on the other hand, replicating the kind of flexible, common-sense reasoning that humans excel at remains an enormous challenge."
 
-"I share your uncertainty, Bassam.", replied CASPAR. "While I can engage in impressive feats of language generation and knowledge synthesis, I'm still fundamentally a narrow AI - an expert system trained on a specific dataset for a particular task. It is true that the task of serving as an AI assistant is, in itself broad, but achieving AGI would require breakthroughs in areas like causal reasoning, transfer learning, and open-ended problem solving that we're still grappling with as a field."
+"I share your uncertainty, Bassam," replied CASPAR. "While I can engage in impressive feats of language generation and knowledge synthesis, I'm still fundamentally a narrow AI - an expert system trained on a specific dataset for a particular task. It is true that the task of serving as an AI assistant is, in itself broad, but achieving AGI would require breakthroughs in areas like causal reasoning, transfer learning, and open-ended problem solving that we're still grappling with as a field."
 
 Anh decided to redirect the discussion, "Speaking of open problems, I'm curious about the ethical dimensions of AI progress. As these systems become more powerful and ubiquitous, how do we ensure they remain safe, transparent, and aligned with human values? The history of AI is full of both promise and peril. No one has come up with a mathematical proof that AI can ever be forced to be 'friendly' to humanity."
 
