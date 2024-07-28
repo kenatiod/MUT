@@ -533,7 +533,7 @@ A related distinction is between "know-how" and "know-that" understanding, or be
 
 Finally, some philosophers have emphasized the normative and contextual dimensions of understanding. Here, understanding is not just a matter of having certain mental states or behavioral dispositions, but of meeting certain epistemic norms or standards that are relative to a particular context or community (Elgin, 2017). What counts as genuine understanding may vary across different domains, practices, and social contexts, and may involve value judgments about what kinds of knowledge and skills are most important or relevant.
 
-In summary, the nature of understanding is a complex and contested issue in philosophy, with different perspectives emphasizing different aspects of cognition, from mental representation and computation to embodied action and social interaction. These views have important implications for how to conceptualize and evaluate understanding in both humans and machines. Any comprehensive theory or test of machine understanding will need to grapple with these philosophical debates and stake out a clear position on what constitutes genuine understanding and how it can be assessed.
+In summary, the nature of understanding is a complex and contested issue in philosophy, with different perspectives emphasizing different aspects of cognition, from mental representation and computation to embodied action and social interaction. These views have important implications for how to conceptualize and evaluate understanding in both humans and machines (Mitchell & Krakauer, 2023). Any comprehensive theory or test of machine understanding will need to grapple with these philosophical debates and stake out a clear position on what constitutes genuine understanding and how it can be assessed.
 
 #### 2.1.1 -- Just?
 
@@ -830,6 +830,8 @@ Landau, B. (1997). Language and experience in blind children: Retrospective and 
 
 Marcus, G. (2018). Deep learning: A critical appraisal. arXiv.
 
+Mitchell, M. & Krakauer, D. C. (2023). The debate over understanding in AI’s large language models. Proceedings of the National Academy of Sciences, 120(13):e2215907120.
+
 Noë, A. (2004). Action in perception. MIT Press.
 
 Pinker, S. (1997). How the mind works. W. W. Norton & Company.
@@ -890,7 +892,7 @@ Many existing benchmarks for evaluating AI systems focus primarily on assessing 
 
 While this is certainly a valuable skill, and an important component of intelligence, merely demonstrating proficiency at such knowledge-based tasks is insufficient for establishing that an artificial system has achieved genuine understanding close, or on par with, human cognition (Lake, et al., 2017).
 
-As the philosophical perspectives explored in Chapter 2 highlighted, understanding involves more than just information lookup. It requires the ability to make insightful inferences, to uncover explanatory models, to apply knowledge creatively to novel situations, and to engage in contextual, flexible reasoning (Davis, & Marcus, 2015; Bender, & Koller, 2020).
+As the philosophical perspectives explored in Chapter 2 highlighted, understanding involves more than just information lookup. It requires the ability to make insightful inferences, to uncover explanatory models, to apply knowledge creatively to novel situations, and to engage in contextual, flexible reasoning (Davis, & Marcus, 2015; Bender, & Koller, 2020; Mitchell & Krakauer, 2023).
 
 #### 3.2.1 -- Taking a step
 
@@ -1124,6 +1126,8 @@ Kintsch, W. (1988). The role of knowledge in discourse comprehension: A construc
 Lake, B. M., Ullman, T. D., Tenenbaum, J. B., & Gershman, S. J. (2017). Building machines that learn and think like people. Behavioral and Brain Sciences, 40, e253.
 
 Marcus, G. (2018). Deep learning: A critical appraisal. arXiv.
+
+Mitchell, M. & Krakauer, D. C. (2023). The debate over understanding in AI’s large language models. Proceedings of the National Academy of Sciences, 120(13):e2215907120.
 
 Nickerson, R. S. (1985). Understanding understanding. American Journal of Education, 93(2), 201-239.
 
@@ -3620,7 +3624,7 @@ If understanding is a distinct and valuable epistemic state, how can we evaluate
 
 One approach to evaluating understanding is to focus on behavioral measures. From this position, an agent can be said to understand something if that agent can use said knowledge to make accurate predictions, solve problems, and navigate real-world situations effectively. This approach aligns with the view of understanding as a form of epistemic know-how or ability (Elgin, 2017). If an AI system can consistently generate correct answers to questions, provide coherent explanations for phenomena, and adapt its knowledge to new contexts and challenges, this may be taken as evidence of genuine understanding.
 
-However, some philosophers have argued that behavioral measures alone are insufficient for evaluating understanding. After all, an AI system could potentially exhibit impressive question-answering or problem-solving abilities without truly grasping the underlying concepts or principles involved. As Searle (1980) famously argued with his "Chinese Room" thought experiment, a system could potentially manipulate symbols and generate correct outputs without any real understanding of what those symbols mean.
+However, some philosophers have argued that behavioral measures alone are insufficient for evaluating understanding (Mitchell & Krakauer, 2023). After all, an AI system could potentially exhibit impressive question-answering or problem-solving abilities without truly grasping the underlying concepts or principles involved. As Searle (1980) famously argued with his "Chinese Room" thought experiment, a system could potentially manipulate symbols and generate correct outputs without any real understanding of what those symbols mean.
 
 To address this concern, some epistemologists have argued for the importance of evaluating the cognitive processes and representations that underlie an agent's behavior. Grimm (2011), for example, argues that genuine understanding requires a "grasp of the structure" of the relevant domain - a mental representation that captures the key entities, relationships, and principles involved. According to this view, evaluating understanding requires probing the internal models and reasoning processes of an AI system, not just its external behavior.
 
@@ -3663,6 +3667,8 @@ Khalifa, K. (2017). Understanding, explanation, and scientific knowledge. Cambri
 
 Kvanvig, J. L. (2003). The value of knowledge and the pursuit of understanding. Cambridge University Press.
 
+Mitchell, M. & Krakauer, D. C. (2023). The debate over understanding in AI’s large language models. Proceedings of the National Academy of Sciences, 120(13):e2215907120.
+
 Searle, J. R. (1980). Minds, brains, and programs. Behavioral and Brain Sciences, 3(3), 417-424.
 
 Strevens, M. (2013). No understanding without explanation. Studies in History and Philosophy of Science Part A, 44(3), 510-515.
@@ -3680,7 +3686,7 @@ __________
 
 One of the most profound and contentious questions in the field of Artificial Intelligence is whether machines can achieve genuine consciousness - subjective experiences, feelings, and self-awareness akin to humans and animals. As AI systems become increasingly sophisticated in their ability to perceive, reason, communicate, and interact with the world, this question has taken on new urgency and complexity.
 
-The debate over artificial consciousness is not merely academic, but has significant implications for the future of AI development, ethics, and humanity's relationship with technology. If machines can indeed achieve consciousness, it would represent a milestone in the history of intelligence, challenging fundamental assumptions about the nature of mind and raising pressing ethical questions about the moral status and rights of artificial beings (Van Gulick, 2018). Even the prospect of AI systems that merely appear conscious, without necessarily having genuine subjective experience, poses challenges for how humans interact with and govern these technologies.
+The debate over artificial consciousness is not merely academic, but has significant implications for the future of AI development, ethics, and humanity's relationship with technology. If machines can indeed achieve consciousness, it would represent a milestone in the history of intelligence, challenging fundamental assumptions about the nature of mind and raising pressing ethical questions about the moral status and rights of artificial beings (Van Gulick, 2018). Even the prospect of AI systems that merely appear conscious, without necessarily having genuine subjective experience, poses challenges for how humans interact with and govern these technologies (Mitchell & Krakauer, 2023).
 
 This appendix provides an overview of the current state of the debate over artificial consciousness, drawing on perspectives from philosophy, cognitive science, neuroscience, and AI research. It examines the arguments for and against the possibility of machine consciousness, the empirical evidence and theoretical frameworks that inform these arguments, and the open questions and challenges that remain. The aim is not to definitively resolve the debate, but to map the contours of the discussion and highlight the stakes involved as AI continues to advance.
 
@@ -3767,6 +3773,8 @@ Chalmers, D. J. (1995a). Facing up to the problem of consciousness. Journal of C
 Chalmers, D. J. (1995b). The puzzle of conscious experience. Scientific American, 273(6), 80-86.
 
 Griffin, D. R., & Speck, G. B. (2004). New evidence of animal consciousness. Animal Cognition, 7(1), 5-18.
+
+Mitchell, M. & Krakauer, D. C. (2023). The debate over understanding in AI’s large language models. Proceedings of the National Academy of Sciences, 120(13):e2215907120.
 
 Mnih, V., Kavukcuoglu, K., Silver, D., Rusu, A. A., Veness, J., Bellemare, M. G., Graves, A., Riedmiller, M., Fidjeland, A. K., Ostrovski, G., Petersen, S., Beattie, C., Sadik, A., Antonoglou, I., King, H., Kumaran, D., Wierstra, D., Legg, S., & Hassabis, D. (2015). Human-level control through deep reinforcement learning. Nature, 518(7540), 529-533.
 
